@@ -1,6 +1,12 @@
-from pydantic import BaseModel
+from pydantic import BaseModel, Field, ValidationError
+from typing import Dict, Optional, Any
 
+
+class Prompt(BaseModel):
+    query: str = Field(description="Message to pass to the agent")
+    tags: Optional[Dict[str, Any]] = Field(description="Additional parameters for the prompt")
 
 class Action(BaseModel):
-    def __init__(self, tools):
-        self.tools = tools
+    """Structural tools class"""
+    name: str = Field(description="Tool's name")
+    prompt: Optional[Prompt] = Field(description="The necessary message pass to agent")

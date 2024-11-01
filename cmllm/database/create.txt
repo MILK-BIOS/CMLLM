@@ -1,0 +1,12 @@
+LOAD CSV WITH HEADERS FROM 'file:///SMHB.CSV' AS row
+CREATE (:Herb {Chinese_name: row.Chinese_name, Pinyin_name: row.Pinyin_name, English_name: row.English_name, Properties_Chinese: row.Properties_Chinese, Properties_English: row.Properties_English, Meridians_Chinese: row.Meridians_Chinese, Meridians_English: row.Meridians_English, Function_Chinese: row.Function_Chinese, Function_English: row.Function_English, UsePart: row.UsePart});
+
+LOAD CSV WITH HEADERS FROM 'file:///SMSY.CSV' AS row
+CREATE (:Syndrome {Syndrome_id: row.Syndrome_id, Syndrome_name: row.Syndrome_name, Syndrome_English: row.Syndrome_English, Syndrome_PinYin: row.Syndrome_PinYin, Syndrome_definition: row.Syndrome_definition});
+
+LOAD CSV WITH HEADERS FROM 'file:///SMTS.CSV' AS row
+CREATE (:Symptom {TCM_symptom_id: row.TCM_symptom_id, TCM_symptom_name: row.TCM_symptom_name, Symptom_pinYin: row.Symptom_pinYin, Symptom_definition: row.Symptom_definition, Symptom_locus: row.Symptom_locus, Symptom_property: row.Symptom_property});
+
+MATCH (symptom:Symptom), (syndrome:Syndrome)
+WHERE syndrome.Syndrome_definition CONTAINS symptom.Symptom_property
+CREATE (symptom)-[:belong_to]->(syndrome)
