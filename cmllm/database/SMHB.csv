@@ -1,0 +1,713 @@
+﻿Herb_id,Chinese_name,Pinyin_name,Latin_name,English_name,Properties_Chinese,Properties_English,Meridians_Chinese,Meridians_English,Function_Chinese,Function_English,UsePart,TCMID_id,TCM-ID_id,TCMSP_id,Link_herb_id,Alias,HERBDB_ID,Suppress
+1,矮地茶,Aidicha,"Ardisiae Japonicae Herba,Ardisiae Japonicae",Japanese Ardisia Herb,"辛,微苦,平","Pungent,Slightly Bitter,Calm","肺,肝","Lung,Liver",止咳平喘药,Antitussive Antiasthmetics,,5072,2,1,,,HERB000036,0
+2,艾叶,Aiye,"Folium Artemisiae Argyi,Artemisiae Argyi Folium",leaf of Argy Wormwood,"辛,苦,温,有小毒","Pungent,Bitter,Warm,Slightly Toxic","肝,脾,肾","Liver,Spleen,Kidney",温经止血药,Channel-Warming Hemostatic,leaf,6336,3,2,,,HERB000066,0
+3,安息香,Anxixiang,Benzoinum,Benzoin,"辛,苦,平","Pungent,Bitter,Calm","心,脾","Heart,Spleen",开窍药,Resuscitative Stimulant; Resuscitative Medicinal,balsam,8019,6,3,,,HERB000090,0
+4,八角茴香,Bajiaohuixiang,"Fructus Anisi Stellati,Anisi Stellati Fructus",Chinese Star Anise,"辛,温","Pungent,Warm","肝,肾,脾,胃","Liver,Kidney,Spleen,Stomach",温里药,Warming Interior Drugs,,6861,10,4,,,HERB000137,0
+5,八角莲,Bajiaolian,,Dysosmae Verspiellis Rhixoma Et Radix,"苦,辛,温,有毒","Bitter,Pungent,Warm,Toxic","肺,肝","Lung,Liver",清热解毒药,Antipyretic Detoxicate Drugs,,,,5,,,HERB000139,0
+6,巴豆,Badou,"Crotonis Fructus,Fructus Crotonis",Croton Fruit,"辛,热,有大毒","Pungent,Hot,Extremely Poisonous","胃,大肠","Stomach,Large Intestine",攻下药,Offensive Purgative Medicinal,dried seed,6980,7,6,,,HERB000129|HERB000709,0
+7,巴戟天,Bajitian,Morindae Officinalis Radix,Morindae Officilis Radix,"甘,辛,微温","Sweet,Pungent,Slightly Warm","肾,肝","Kidney,Liver",补阳药,Yang Reinforcing Drugs,root,5210,,7,,,HERB000134,0
+8,菝葜,Baqia,Smilacis Chinae Rhizoma,Smilax Chi,"甘,微苦,涩,平","Sweet,Slightly Bitter,Astringent,Calm","肝,肾","Liver,Kidney",祛风湿散寒药,Wind-Dampnessdispelling And Colddispersing Medicinal,,,,8,,,HERB000143,0
+9,白扁豆,Baibiandou,"Semen Lablab Album,Lablab Semen Album",White Hyacinth Bean,"甘,微温","Sweet,Slightly Warm","脾,胃","Spleen,Stomach",补气药,Qi Reinforcing Drugs,,4133,13,9,,,HERB000161,0
+10,白附子,Baifuzi,"Typhonii Rhizoma,Rhizoma Typhonii",rhizome of Giant Typhonium,"辛,温,有毒","Pungent,Warm,Toxic","胃,肝","Stomach,Liver",化痰药,Phlegresolving Medicine,,3152,19,10,,,HERB000182,0
+11,白果,Baiguo,"Ginkgo Semen,Semen Ginkgo",Ginkgo seed,"甘,苦,涩,平,有毒","Sweet,Bitter,Astringent,Calm,Toxic","肺,肾","Lung,Kidney",止咳平喘药,Antitussive Antiasthmetics,nut,6286,20,11,,,HERB000186,0
+12,白花菜子,Baihuacaizi,,Semen Cleomis,"苦,辛,微毒","Bitter,Pungent,Slightly Toxic",,,祛风湿散寒药,Wind-Dampnessdispelling And Colddispersing Medicinal,,,,12,,,HERB000197,0
+13,白花蛇舌草,Baihuasheshecao,Herba Hedyotis Diffusae,all - grass of Spreading Hedyotis,"苦,甘,寒","Bitter,Sweet,Cold","心,肺,肝,大肠","Heart,Lung,Liver,Large Intestine",清热解毒药,Antipyretic Detoxicate Drugs,whole herb with root,5104,22,13,,,HERB000208,0
+14,白及,Baiji,Bletillae Rhizoma,Bletilla Striata (Thunb.Ex A.Murray)Rchb.F.,"苦,甘,涩,微寒","Bitter,Sweet,Astringent,Slightly Cold","肺,肝,胃","Lung,Liver,Stomach",收敛止血药,Astringent Hemostatic Medicinal,,,,14,,,HERB000216,0
+15,白蔹,Bailian,"Radix Ampelopsis,Ampelopsis Radix",root of Japanese Ampelopsis ,"苦,微寒","Bitter,Slightly Cold","心,胃","Heart,Stomach",清热解毒药,Antipyretic Detoxicate Drugs,tuberoid,2235,31,15,,,HERB000237,0
+16,白毛藤,Baimaoteng,,Herba Solani Lyrati,"甘,苦,寒,小毒","Sweet,Bitter,Cold,Slightly Toxic","肝,胆,肾","Liver,Gallbladder,Kidney",清热解毒药,Antipyretic Detoxicate Drugs,,,,16,,,HERB000246,0
+17,白毛夏枯草,Baimaoxiakucao,Herha Ajugae Ciliatae,all - grass of Decumbent Bugle,,,,,清热解毒药,Antipyretic Detoxicate Drugs,whole herb,7836,903,17,426,,HERB000247,1
+18,白茅根,Baimaogen,"Rhizoma Imperatae,Imperatae Rhizoma",Lalang Grass Rhizome,"甘,寒","Sweet,Cold","肺,胃,膀胱","Lung,Stomach,Bladder",凉血止血药,Blood-Cooling Hemostatic Medicinal,,5468,902,18,,,HERB000242|HERB000243|HERB000244|HERB000245,0
+19,白前,Baiqian,"Cynanchi Stauntonii Rhizoma Et Radix,Rhizoma Cynchi Stauntonii",Cynchum root,"辛,苦,微温","Pungent,Bitter,Slightly Warm",肺,Lung,化痰药,Phlegresolving Medicine,,5829,34,19,,,HERB000257,0
+20,白屈菜,Baiqucai,Chelidonii Herba,Chelidonii Herba,"苦,凉,有毒","Bitter,Cool,Toxic","肺,胃","Lung,Stomach",止咳平喘药,Antitussive Antiasthmetics,whole herb,3337,,20,,,HERB000259,0
+21,白芍,Baishao,"Radix Paeoniae Alba,Paeoniae Radix Alba",White peony root,"苦,酸,微寒","Bitter,Sour,Slightly Cold","肝,脾","Liver,Spleen",补血药,Blood-Tonifying Medicinal,root,8148,35,21,,,HERB000267,0
+22,白术,Baizhu,"Atractylodis Macrocephalae Rhizoma,Rhizoma Atractylodis Macrocephalae",rhizome of Largehead Atractylodes,"苦,甘,温","Bitter,Sweet,Warm","脾,胃","Spleen,Stomach",补气药,Qi Reinforcing Drugs,root,5448,40,22,,,HERB000309,0
+23,白头翁,Baitouweng,"Pulsatillae Radix,Radix Pulsatillae",Root of Chinese Pulsatilla,"苦,寒","Bitter,Cold","胃,大肠","Stomach,Large Intestine",清热解毒药,Antipyretic Detoxicate Drugs,root,5986,36,23,,,HERB000281,0
+24,白薇,Baiwei,"Cynanchi Atrati Radix Et Rhizoma,Radix Cynchi Atrati",Blackend Swallowwort Root,"苦,咸,寒","Bitter,Salty,Cold","胃,肝,肾","Stomach,Liver,Kidney",清虚热药,Asthenic Heat Dispelling Drugs,root,2928,37,24,,,HERB000285,0
+25,白鲜皮,Baixianpi,Dictamni Cortex,Dictamni Cortex,"苦,寒","Bitter,Cold","脾,胃,膀胱","Spleen,Stomach,Bladder",清热燥湿药,Heat-Clearing And Dampnessdrying Medicinal,,,,25,,,HERB000132|HERB000286,0
+26,白药子,Baiyaozi,,Radix Stephaniae Cepharanthae.,"苦,辛,凉,小毒","Bitter,Pungent,Cool,Slightly Toxic","肺,胃","Lung,Stomach",清热解毒药,Antipyretic Detoxicate Drugs,tuberoid,3067,,26,,,HERB000293,0
+27,白芷,Baizhi,"Radix Angelicae Dahuricae,Angelicae Dahuricae Radix",Dahurian Angelica Root,"辛,温","Pungent,Warm","胃,大肠,肺","Stomach,Large Intestine,Lung",辛温解表药,Pungent-Warm Exterior-Releasing Medicinal,root,5365,39,27,,,HERB000305,0
+28,百部,Baibu,"Radix Stemoe,Stemonae Radix",Root of Japanese Stemo,"甘,苦,微温","Sweet,Bitter,Slightly Warm",肺,Lung,止咳平喘药,Antitussive Antiasthmetics,root,4286,14,28,,,HERB000162,0
+29,百合,Baihe,"Bulbus Lilii ,Lilii Bulbus",Bulb of Greenish Lily,"甘,寒","Sweet,Cold","心,肺","Heart,Lung",补阴药,Yin-Tonifying Medicinal,bulb,4587,21,29,,,HERB000192,0
+30,柏子仁,Baiziren,"Platycladi Semen,Semen Biotae",seed of Chinese Arborvitae,"甘,平","Sweet,Calm","心,肾,大肠","Heart,Kidney,Large Intestine",安神药,Tranguilizing Medicinal,kernel,1148,41,30,,,HERB000311,0
+31,败酱草,Baijiangcao,Herba Patriniae,All - grass of Dahurian Patrinia,"苦,辛,凉","Bitter,Pungent,Cool","大肠,胃,肝","Large Intestine,Stomach,Liver",清热解毒药,Antipyretic Detoxicate Drugs,,7921,25,31,,,HERB000221,0
+32,斑蝥,Banmao,Mylabris,Mylabris,"辛,热,有大毒","Pungent,Hot,Extremely Poisonous","肝,胃,肾","Liver,Stomach,Kidney",活血祛瘀药,Blood Activating Stasis Removing Drugs,,,,32,,,HERB000325,0
+33,板蓝根,Banlangen,"Isatidis Radix,Radix Isatidis Seu Baphicacanthi",Root of Dyers Woad.,"苦,寒","Bitter,Cold","心,胃","Heart,Stomach",清热解毒药,Antipyretic Detoxicate Drugs,root,3849,42,33,,南板蓝根,HERB000323,0
+34,半边莲,Banbianlian,"Lobeliae Chinensis Herba,Herba Lobeliae Chinensis",Chinese Lobelia Herb,"辛,平","Pungent,Calm","心,小肠,肺","Heart,Small Intestine,Lung",清热解毒药,Antipyretic Detoxicate Drugs,whole herb,4956,904,34,,,HERB000312,0
+35,半夏,Banxia,"Rhizoma Pinelliae,Pinelliae Rhizoma",tuber of Pinellia,"辛,温,有毒","Pungent,Warm,Toxic","脾,胃,肺","Spleen,Stomach,Lung",化痰药,Phlegresolving Medicine,tuber,1680,43,35,,"姜半夏,清半夏",HERB000330,0
+36,半枝莲,Banzhilian,"Herba Scutellariae Barbatae,Scutellariae Barbatae Herba",all - grass of Barbed Skullcap,"辛,苦,寒","Pungent,Bitter,Cold","肺,肝,肾","Lung,Liver,Kidney",清热解毒药,Antipyretic Detoxicate Drugs,whole herb,6957,45,36,,,HERB000338,0
+37,薄荷,Bohe,"Menthae Haplocalycis Herba,Herba Menthae","Mentha, Peppermint","辛,凉","Pungent,Cool","肺,肝","Lung,Liver",辛凉解表药,Pungent Cool Diaphoretics,dried aerial parts,6950,65,37,,,HERB000508,0
+38,北豆根,Beidougen,"Rhizoma Menispermi,Menispermi Rhizoma",Chinese Cinquefoil,"苦,寒,有小毒","Bitter,Cold,Slightly Toxic","肺,胃,大肠","Lung,Stomach,Large Intestine",清热解毒药,Antipyretic Detoxicate Drugs,,3169,906,38,,,HERB000373,0
+39,北刘寄奴,Beiliujinu,Siphonostegiae Herba,Siphonostegiae Herba,"苦,寒","Bitter,Cold","脾,胃,肝,胆","Spleen,Stomach,Liver,Gallbladder",活血祛瘀药,Blood Activating Stasis Removing Drugs,,2469,,39,,,HERB000387,0
+40,北沙参,Beishashen,"Radix Glehniae,Glehniae Radix",root of Coastal Glehnia,"甘,微苦,微寒","Sweet,Slightly Bitter,Slightly Cold","肺,胃","Lung,Stomach",补阴药,Yin-Tonifying Medicinal,root,1243,50,40,,,HERB000403,0
+41,五味子,Wuweizi,Schisandrae Chinensis Fructus,Schisandrae Chinensis Fructus,"酸,甘,温","Sour,Sweet,Warm","肺,心,肾","Lung,Heart,Kidney",收涩药,Astringent Medicinal,,,,41,,,HERB005762,0
+42,荜茇,Bibo,Piperis Longi Fructus,Piperis Longi Fructus,"辛,热","Pungent,Hot","胃,大肠","Stomach,Large Intestine",温里药,Warming Interior Drugs,,,,42,,,HERB000415,0
+43,荜澄茄,Bichengqie,Litseae Fructus,Litseae Fructus,"辛,温","Pungent,Warm","脾,胃,肾,膀胱","Spleen,Stomach,Kidney,Bladder",温里药,Warming Interior Drugs,,,,43,,,HERB000418|HERB000483,0
+44,蓖麻子,Bimazi,"Semen Ricini,Ricini Semen",Castor Seed,"甘,辛,平,有毒","Sweet,Pungent,Calm,Toxic","大肠,肺","Large Intestine,Lung",拔毒化腐生肌药,"External Medicinal (Draw Out Toxin, Resolve Putridity)",ripe seed,1524,54,44,,,HERB000432,0
+45,萹蓄,Bianxu,Polygoni Avicularis Herba,all-grass of common knotgrass,"微寒,苦","Minor cold,Bitter",膀胱,Bladder,利水渗湿药,Diuretic Dampness Excreting Drugs,dried aerial parts,5931,60,45,,,HERB000472,0
+46,扁豆花,Biandouhua,Flos Dolichoris,flower of Hyacinth Dolichos,"甘,平","Sweet,Calm",,,化湿药,Dampness Removing Drugs,,1305,58,46,,,HERB000453,0
+47,槟榔,Binglang,"Arecae Semen,Semen Arecae",areca seed,"苦,辛,温","Bitter,Pungent,Warm","胃,大肠","Stomach,Large Intestine",驱虫药,Antiparasitic Drugs,seed,3803,62,47,,,HERB000497,0
+48,冰片,Bingpian,Borneolum Syntheticum,Borneol,"微寒,辛,苦","Minor cold,Pungent,Bitter","肺,脾,心","Lung,Spleen,Heart",开窍药,Resuscitative Stimulant; Resuscitative Medicinal,resin,3633,63,48,,冰片（合成龙脑）,HERB000498,0
+49,布渣叶,Buzhaye,Microctis Folium,Microctis Folium,"微酸,凉","Slightly Sour,Cool","脾,胃","Spleen,Stomach",拔毒化腐生肌药,"External Medicinal (Draw Out Toxin, Resolve Putridity)",,,,49,,,HERB000553,0
+50,蚕沙,Cansha,,Bombyx Mori L.,"甘,辛,温","Sweet,Pungent,Warm","肝,脾,胃","Liver,Spleen,Stomach",祛风湿散寒药,Wind-Dampnessdispelling And Colddispersing Medicinal,,,,50,,,HERB000570,0
+51,苍耳子,Cang'erzi,"Fructus Xanthii Sibirici,Xanthii Fructus",fruit of Siberian Cockleblur,"辛,苦,温,有毒","Pungent,Bitter,Warm,Toxic",肺,Lung,辛温解表药,Pungent-Warm Exterior-Releasing Medicinal,,6130,70,51,,,HERB000580,0
+52,苍术,Cangzhu,"Atractylodis Rhizoma,Rhizoma Atractylodis",Rhizome of Swordlike Atractylodes,"辛,苦,温","Pungent,Bitter,Warm","脾,胃,肝","Spleen,Stomach,Liver",化湿药,Dampness Removing Drugs,rhizome,7584,71,52,,,HERB000584,0
+53,草苁蓉,Caocongrong,,Boschniakia Rossica Herba,"甘,咸,温","Sweet,Salty,Warm",,,补阳药,Yang Reinforcing Drugs,,,,53,,,HERB000588,0
+54,草果,Caoguo,"Tsaoko Fructus,Fructus Tsaoko",Tsaoko,"辛,温","Pungent,Warm","脾,胃","Spleen,Stomach",化湿药,Dampness Removing Drugs,,2416,74,54,,,HERB000594,0
+55,草乌,Caowu,"Radix Aconiti Kusnezoffii,Aconiti Kusnezoffii Radix",Kusnezoff Monkshood Root,"辛,苦,热,有大毒","Pungent,Bitter,Hot,Extremely Poisonous","心,肝,肾,脾","Heart,Liver,Kidney,Spleen",祛风湿散寒药,Wind-Dampnessdispelling And Colddispersing Medicinal,,2582,77,55,,,HERB000604,0
+56,草乌叶,Caowuye,"Aconiti Kusnezoffii Folium,Folium Aconiti Kusnezoffii",Kusnezoff Monkshood Leaf,"辛,涩,平,有小毒","Pungent,Astringent,Calm,Slightly Toxic",,,清热解毒药,Antipyretic Detoxicate Drugs,,4090,909,56,,,HERB000607,0
+57,侧柏叶,Cebaiye,"Platycladi Cacumen,Cacumen Et Folium Biotae",leafy twigs of Oriental Arborvitae,"苦,涩,寒","Bitter,Astringent,Cold","肺,肝,脾","Lung,Liver,Spleen",凉血止血药,Blood-Cooling Hemostatic Medicinal,leaf,7441,78,57,,,HERB000614,0
+58,柴胡,Chaihu,"Radix Bupleuri,Bupleuri Radix",root of Chinese Thorowax,"辛,苦,微寒","Pungent,Bitter,Slightly Cold","肝,胆,肺","Liver,Gallbladder,Lung",辛凉解表药,Pungent Cool Diaphoretics,root,4062,80,58,,,HERB000638,0
+59,蝉蜕,Chantui,"Periostracum Cicadae,Cicadae Periostracum",Cicada Slough,"甘,寒","Sweet,Cold","肺,肝","Lung,Liver",辛凉解表药,Pungent Cool Diaphoretics,,4463,82,59,,,HERB000571|HERB000651,0
+60,常山,Changshan,"Radix Dichroae,Dichroae Radix",root of antifebrile Dichroa,"苦,辛,寒,有毒","Bitter,Pungent,Cold,Toxic","肺,肝,心","Lung,Liver,Heart",涌吐药,Emetic Medicinal,root,5572,84,60,,,HERB000706,0
+61,车前草,Cheqiancao,"Plantaginis Herba,Herba Plantaginis",all-grass of Rippleseed plantain,"甘,寒","Sweet,Cold","肝,肾,肺,小肠","Liver,Kidney,Lung,Small Intestine",利水渗湿药,Diuretic Dampness Excreting Drugs,,6063,93,61,,,HERB000767,0
+62,车前子,Cheqianzi,"Semen Plantaginis,Plantaginis Semen",seed of Asiatic pantain,"甘,寒","Sweet,Cold","肝,肾,肺,小肠","Liver,Kidney,Lung,Small Intestine",利水渗湿药,Diuretic Dampness Excreting Drugs,,3529,94,62,,,HERB000770,0
+63,沉香,Chenxiang,"Lignum Aquilariae Resitum,Aquilariae Lignum Resinatum",Oily wood of Agalloch Eaglewood,"辛,苦,微温","Pungent,Bitter,Slightly Warm","脾,胃,肾","Spleen,Stomach,Kidney",理气药,Qi Regulating Drugs,resinous wood,4805,98,63,,,HERB000777,0
+64,陈皮,Chenpi,"Citri Reticulatae Pericarpium,Pericarpium Citri Reticulatae",Dried Tangerine Peel,"苦,辛,温","Bitter,Pungent,Warm","肺,脾","Lung,Spleen",理气药,Qi Regulating Drugs,,2663,96,64,,,HERB000775,0
+65,赤芍,Chishao,"Radix Paeoniae Rubra,Paeoniae Radix Rubra",Red Peony root,"苦,微寒","Bitter,Slightly Cold",肝,Liver,清热凉血药,Heat Clearing Blood Cooling Drugs,,3745,100,65,,,HERB000800|HERB003416,0
+66,赤小豆,Chixiaodou,"Semen Phaseoli,Vignae Semen",Rice Bean,"甘,酸,平","Sweet,Sour,Calm","心,小肠","Heart,Small Intestine",利水渗湿药,Diuretic Dampness Excreting Drugs,,6914,103,66,,,HERB000806,0
+67,茺蔚子,Chongweizi,"Leonuri Fructus,Fructus Leonuri",Motherwort Fruit,"辛,苦,微寒","Pungent,Bitter,Slightly Cold","心包,肝","Pericardium,Liver",活血祛瘀药,Blood Activating Stasis Removing Drugs,,2658,104,67,,,HERB000822,0
+68,臭梧桐,Chouwutong,Folium Clerodentri Trichotomi,"Glorybower leaf, Clerodendron leaf","苦,微辛,平","Bitter,Slightly Pungent,Calm",,,祛风湿清热药,Wind-Dampnessdispelling And Heatclearing Medicinal,leaf,7770,915,68,,,HERB000835,0
+69,楮实子,Chushizi,Broussonetiae Fructus,Broussonetiae Fructus,"甘,寒","Sweet,Cold","肝,肾","Liver,Kidney",补阴药,Yin-Tonifying Medicinal,,,,69,,,HERB000842,0
+70,川贝母,Chuanbeimu,"Bulbus Fritillariae Cirrhosae,Fritillariae Cirrhosae Bulbus",Bulb of Tendrilleaf Fritillary,"苦,甘,微寒","Bitter,Sweet,Slightly Cold","肺,心","Lung,Heart",化痰药,Phlegresolving Medicine,bulb,5197,107,70,,,HERB000849,0
+71,川槿皮,Chuanjinpi,,Cortex Hibisci,"甘,苦,微寒","Sweet,Bitter,Slightly Cold","大肠,肝,脾","Large Intestine,Liver,Spleen",清热解毒药,Antipyretic Detoxicate Drugs,,,,71,,,HERB000864,0
+72,川楝子,Chuanlianzi,"Toosendan Fructus,Fructus Meliae Toosendan",Szechwan Chiberry Fruit,"苦,寒,有小毒","Bitter,Cold,Slightly Toxic","肝,小肠,膀胱","Liver,Small Intestine,Bladder",理气药,Qi Regulating Drugs,fruit,4116,110,72,,,HERB000868,0
+73,川木通,Chuanmutong,"Caulis Clematidis Armandii,Clematidis Armandii Caulis",Armand Clematis Stem,"苦,寒","Bitter,Cold","心,小肠,膀胱","Heart,Small Intestine,Bladder",利水渗湿药,Diuretic Dampness Excreting Drugs,,2145,916,73,,,HERB000870,0
+74,川牛膝,Chuanniuxi,"Cyathulae Radix,Radix Cyathulae",root of Medicil cyathula,"甘,微苦,平","Sweet,Slightly Bitter,Calm","肝,肾","Liver,Kidney",活血祛瘀药,Blood Activating Stasis Removing Drugs,root,4402,111,74,,,HERB000872,0
+75,川射干,Chuanshegan,Iridis Tectori Rhizoma,Iridis Tectori Rhizoma,"苦,寒","Bitter,Cold",肺,Lung,清热解毒药,Antipyretic Detoxicate Drugs,,,,75,,,HERB000879,0
+76,川乌,Chuanwu,"Aconiti Radix,Radix Aconiti",root of Common Monkshood,"辛,苦,热,有大毒","Pungent,Bitter,Hot,Extremely Poisonous","心,肝,肾,脾","Heart,Liver,Kidney,Spleen",祛风湿散寒药,Wind-Dampnessdispelling And Colddispersing Medicinal,,3130,115,76,,,HERB000881,0
+77,川芎,Chuanxiong,"Chuanxiong Rhizoma,Radix Chuanxiong；Rhizoma Chuanxiong","Chuanxiong rhizome, Szechuan lovage root","辛,温","Pungent,Warm","肝,胆,心包","Liver,Gallbladder,Pericardium",活血祛瘀药,Blood Activating Stasis Removing Drugs,rhizome,1803,119,77,,,HERB000887|HERB004596,0
+78,穿山龙,Chuanshanlong,"Rhizoma Dioscoreae Nipponicae,Dioscoreae Nipponicae Rhizoma",Ningpo Yam Rhizome ,"甘,苦,温","Sweet,Bitter,Warm","肝,肾,肺","Liver,Kidney,Lung",祛风湿清热药,Wind-Dampnessdispelling And Heatclearing Medicinal,,2992,114,78,,,HERB000877,0
+79,穿心莲,Chuanxinlian,"Andrographis Herba,Herba Andrographitis",all-grass of Common Androgrphis,"苦,寒","Bitter,Cold","心,肺,大肠,膀胱","Heart,Lung,Large Intestine,Bladder",清热解毒药,Antipyretic Detoxicate Drugs,dried aerial parts,1528,116,79,,,HERB000884|HERB004993,0
+80,垂盆草,Chuipencao,"Sedi Herba,Herba Sedi Sarmentosi",all - grass of Stringy stonecrop,"甘,淡,凉","Sweet,Tasteless,Cool","肝,胆,小肠","Liver,Gallbladder,Small Intestine",清热解毒药,Antipyretic Detoxicate Drugs,,3624,121,80,,,HERB000892,0
+81,椿皮,Chunpi,"Cortex Tooe Sinensis,Ailanthi Cortex","Ailanthus bark, Tree of heaven bark","苦,涩,寒","Bitter,Astringent,Cold","大肠,胃,肝","Large Intestine,Stomach,Liver",清热燥湿药,Heat-Clearing And Dampnessdrying Medicinal,,3293,123,81,,,HERB000903,0
+82,葱白,Congbai,Bulbus Allii Fistulosi,"Allium bulb, Wild scallion, Chinese green onion","辛,温","Pungent,Warm","肺,胃","Lung,Stomach",辛温解表药,Pungent-Warm Exterior-Releasing Medicinal,fresh bulb,1343,129,82,,,HERB000949,0
+83,大风子,Dafengzi,,Hydnocarpi Anthelminticae Semen,"辛,热,有毒","Pungent,Hot,Toxic","肝,脾","Liver,Spleen",解毒杀虫燥湿止痒药,Medicinal For Detoxification、Parasiticide、Drying Dampness And Relieving Itching,,,,83,,,HERB001032,0
+84,大腹皮,Dafupi,Arecae Pericarpium,Areca Catechu L.,"辛,微温","Pungent,Slightly Warm","脾,胃,大肠,小肠","Spleen,Stomach,Large Intestine,Small Intestine",理气药,Qi Regulating Drugs,,,,84,,,HERB001034,0
+85,大黄,Dahuang,"Radix Et Rhizoma Rhei,Rhei Radix Et Rhizoma",root and rhziome of Sorrel Rhubarb,"苦,寒","Bitter,Cold","脾,胃,大肠,肝,心包","Spleen,Stomach,Large Intestine,Liver,Pericardium",攻下药,Offensive Purgative Medicinal,root and rhizome,6192,138,85,,,HERB001069,0
+86,大蓟,Daji,"Cirsii Japonici Herba,Herba Cirsii Japonici;Radix Cirsii Japonici;Herba Seu Radix Cirsii Japonici",all-grass of Thistle,"甘,苦,凉","Sweet,Bitter,Cool","心,肝","Heart,Liver",凉血止血药,Blood-Cooling Hemostatic Medicinal,,4343,142,86,,大蓟炭,HERB001074|HERB001075|HERB001076|HERB001077|HERB001078|HERB001079|HERB001080,0
+87,大青叶,Daqingye,"Folium Isatidis,Isatidis Folium",Isatis leaf,"苦,寒","Bitter,Cold","心,胃","Heart,Stomach",清热解毒药,Antipyretic Detoxicate Drugs,leaf,1947,147,87,,,HERB001101,0
+88,大蒜,Dasuan,"Allii Sativi Bulbus,Bulbus Allii",Garlic,"辛,温","Pungent,Warm","脾,胃,肺","Spleen,Stomach,Lung",解毒杀虫燥湿止痒药,Medicinal For Detoxification、Parasiticide、Drying Dampness And Relieving Itching,bulb,2581,148,88,,,HERB001104,0
+89,大血藤,Daxueteng,"Caulis Sargentodoxae,Sargentodoxae Caulis",Stem of Sargentgloryvine,"苦,平","Bitter,Calm","大肠,肝","Large Intestine,Liver",清热解毒药,Antipyretic Detoxicate Drugs,stem,4827,192,89,,,HERB001117,0
+90,大枣,Dazao,"Fructus Zizyphi Jujubae,Jujubae Fructus",Jujube Chinese date,"甘,温","Sweet,Warm","脾,胃,心","Spleen,Stomach,Heart",补气药,Qi Reinforcing Drugs,ripe fruit,362,193,90,,,HERB001164,0
+91,大皂角,Dazaojiao,Gleditsiae Sinensis Fructus,Gleditsiae Fructus,"辛,咸,温,有小毒","Pungent,Salty,Warm,Slightly Toxic","肺,大肠","Lung,Large Intestine",化痰药,Phlegresolving Medicine,,,,91,,,,0
+92,玳玳花,Daidaihua,,Citrus Aurantium,"辛,甘,微苦,平","Pungent,Sweet,Slightly Bitter,Calm",,,理气药,Qi Regulating Drugs,,,,92,,,HERB001171,0
+93,丹参,Danshen,"Radix Salviae Liguliobae,Salviae Miltiorrhizae
+Radix Et Rhizoma",root of Ligulilobe sage,"苦,微寒","Bitter,Slightly Cold","心,肝","Heart,Liver",活血祛瘀药,Blood Activating Stasis Removing Drugs,root,5367,199,93,,,HERB001193,0
+94,淡豆豉,Dandouchi,"Semen Sojae Praeparata,Sojae Semen Praeparatum",Fermented Soybean,"苦,辛,凉","Bitter,Pungent,Cool","肺,胃","Lung,Stomach",辛凉解表药,Pungent Cool Diaphoretics,,4341,196,94,,,HERB001175,0
+95,当归,Danggui,"Radix Angelicae Sinensis,Angelicae Sinensis Radix",root of Chinese Angelica,"甘,辛,温","Sweet,Pungent,Warm","肝,心,脾","Liver,Heart,Spleen",补血药,Blood-Tonifying Medicinal,root,4247,202,95,,,HERB000742|HERB001210|HERB004572|HERB005088,0
+96,党参,Dangshen,"Codonopsis Radix,Radix Codonopsis Pilosulae",root Pilose Asiabell,"甘,平","Sweet,Calm","脾,肺","Spleen,Lung",补气药,Qi Reinforcing Drugs,root,1260,203,96,,,HERB001211,0
+97,刀豆,Daodou,"Semen Cavaliae,Canaⅴ Aliae Semen",Jack Bean,"甘,温","Sweet,Warm","胃,肾","Stomach,Kidney",理气药,Qi Regulating Drugs,seed,2286,919,97,,,HERB001215,0
+98,倒扣草,Daokoucao,,Achyranthis Asperae Herba,"苦,酸,微寒","Bitter,Sour,Slightly Cold","肝,肺,膀胱","Liver,Lung,Bladder",活血祛瘀药,Blood Activating Stasis Removing Drugs,,,,98,,,HERB001217,0
+99,灯心草,Dengxincao,"Junci Medulla,Medulla Junci",pith of Common Rush,"甘,淡,微寒","Sweet,Tasteless,Slightly Cold","心,肺,小肠","Heart,Lung,Small Intestine",利水渗湿药,Diuretic Dampness Excreting Drugs,whole herb,6964,206,99,,,HERB001235,0
+100,地耳草,Diercao,Herba Hyperici Japonici,all - grass of Japanese St. Johnswort,"甘,微苦,凉","Sweet,Slightly Bitter,Cool",,,利水渗湿药,Diuretic Dampness Excreting Drugs,whole herb,7601,920,100,,,HERB001244,0
+101,地枫皮,Difengpi,"Illicii Cortex,Cortex Illicii",Difengpi Bark,"微辛,涩,温,有小毒","Slightly Pungent,Astringent,Warm,Slightly Toxic","膀胱,肾","Bladder,Kidney",祛风湿散寒药,Wind-Dampnessdispelling And Colddispersing Medicinal,bark,6041,210,101,,,HERB001246,0
+102,地肤子,Difuzi,"Fructus Kochiae,Kochiae Fructus",fruit of Belvedere,"辛,苦,寒","Pungent,Bitter,Cold","肾,膀胱","Kidney,Bladder",利水渗湿药,Diuretic Dampness Excreting Drugs,,2526,211,102,,,HERB001247,0
+103,地骨皮,Digupi,"Cortex Lycii Radicis,Lycii Cortex",root - bark of Chinese Wolfberry,"甘,寒","Sweet,Cold","肺,肝,肾","Lung,Liver,Kidney",清虚热药,Asthenic Heat Dispelling Drugs,,6938,212,103,,,HERB001249,0
+104,地锦草,Dijincao,"Euphorbiae Humifusae Herba,Herba Euphorbiae Humifusae",all - grass of Humifuse Euphorbia,"辛,平","Pungent,Calm","肝,大肠","Liver,Large Intestine",清热解毒药,Antipyretic Detoxicate Drugs,whole herb,1958,213,104,,,HERB001254,0
+105,地榆,Diyu,"Sanguisorbae Radix,Radix Sanguisorbae",Root of Garden Burnet,"苦,酸,涩,微寒","Bitter,Sour,Astringent,Slightly Cold","肝,大肠","Liver,Large Intestine",凉血止血药,Blood-Cooling Hemostatic Medicinal,root,5121,216,105,,,HERB001271,0
+106,丁公藤,Dinggongteng,"Caulis Erycibes,Erycibes Caulis",Stem of Taiwan Erycibe,"辛,温,有小毒","Pungent,Warm,Slightly Toxic","肝,脾,胃","Liver,Spleen,Stomach",祛风湿散寒药,Wind-Dampnessdispelling And Colddispersing Medicinal,rattan,3352,219,106,,,HERB001305,0
+107,丁香,Dingxiang,"Flos Caryophylli,Caryophylli Flos",Clove,"辛,温","Pungent,Warm","脾,胃,肺,肾","Spleen,Stomach,Lung,Kidney",温里药,Warming Interior Drugs,flower bud,8046,220,107,,,HERB001309,0
+108,冬虫夏草,Dongchongxiacao,Cordyceps,Chinese Caterpillar Fungus,"甘,平","Sweet,Calm","肺,肾","Lung,Kidney",补阳药,Yang Reinforcing Drugs,a drug consisting of dried fungal stroma growing on larva of a caterpillar,4777,223,108,,,HERB001333,0
+109,冬瓜皮,Dongguapi,"Exocarpium Benincasae,Benincasae Exocarpium",Chinese Waxgourd Peel,"甘,凉","Sweet,Cool","脾,小肠","Spleen,Small Intestine",利水渗湿药,Diuretic Dampness Excreting Drugs,exocarp,5149,922,109,,,HERB001355,0
+110,冬瓜子,Dongguazi,,Benincasae Semen,"甘,微寒","Sweet,Slightly Cold","肺,大肠","Lung,Large Intestine",化痰药,Phlegresolving Medicine,,,,110,,,HERB001357,0
+111,冬葵果,Dongkuiguo,"Fructus Malvae,Malvae Fructus",Cluster Mallow Fruit,"甘,涩,凉","Sweet,Astringent,Cool",,,拔毒化腐生肌药,"External Medicinal (Draw Out Toxin, Resolve Putridity)",,7561,923,111,,,HERB001360,0
+112,豆蔻,Doukou,"Fructus Amomi Rotundus,Amomi Fructus Rotundus",Round Cardamon Fruit,"辛,温","Pungent,Warm","肺,脾,胃","Lung,Spleen,Stomach",化湿药,Dampness Removing Drugs,,5178,925,112,,,HERB001378,0
+113,独活,Duhuo,"Radix Angelicae Pubescentis,Angelicae Pubescentis Radix",Doubleteeth Pubescent Angelica Root,"辛,苦,微温","Pungent,Bitter,Slightly Warm","肾,膀胱","Kidney,Bladder",祛风湿散寒药,Wind-Dampnessdispelling And Colddispersing Medicinal,root,8180,151,113,,,HERB001394,0
+114,杜仲,Duzhong,"Cortex Eucommiae,Eucommiae Cortex",Eucommia bark,"甘,温","Sweet,Warm","肝,肾","Liver,Kidney",补阳药,Yang Reinforcing Drugs,bark,5411,153,114,,,HERB001409,0
+115,杜仲叶,Duzhongye,Eucommiae Folium,Eucommiae Folium,"微辛,温","Slightly Pungent,Warm","肝,肾","Liver,Kidney",拔毒化腐生肌药,"External Medicinal (Draw Out Toxin, Resolve Putridity)",leaf,1852,,115,,,HERB001410,0
+116,断血流,Duanxueliu,"Herba Clinopodii,Clinopodii Herba",Clinopodium Herb,"微苦,涩,凉","Slightly Bitter,Astringent,Cool",肝,Liver,凉血止血药,Blood-Cooling Hemostatic Medicinal,,3378,927,116,,,HERB001448,0
+117,莪术,Ezhu,"Curcumae Rhizoma,Rhizoma Curcumae",Zedoray Rhizome,"辛,苦,温","Pungent,Bitter,Warm","肝,脾","Liver,Spleen",活血祛瘀药,Blood Activating Stasis Removing Drugs,,1749,234,117,,,HERB001579,0
+118,鹅不食草,Ebushicao,"Herba Centipedae,Centipedae Herba",Small Centipeda Herb,"辛,温","Pungent,Warm",肺,Lung,辛温解表药,Pungent-Warm Exterior-Releasing Medicinal,herb with flower,1133,928,118,,,HERB001556,0
+119,儿茶,Ercha,Catechu,"Cutch, Black Catechu","苦,涩,微寒","Bitter,Astringent,Slightly Cold","肺,心","Lung,Heart",活血祛瘀药,Blood Activating Stasis Removing Drugs,,4068,237,119,,,HERB001583,0
+120,番泻叶,Fanxieye,"Sennae Folium,Folium Sene",Sen leaf,"甘,苦,寒","Sweet,Bitter,Cold",大肠,Large Intestine,攻下药,Offensive Purgative Medicinal,leaf,5236,930,120,,,HERB001621,0
+121,翻白草,Fanbaicao,"Herba Potentillae Discoloris,Potentillae Discoloris Herba",all-grass of discolor cinquefoil,"甘,微苦,平","Sweet,Slightly Bitter,Calm","肝,胃,大肠","Liver,Stomach,Large Intestine",清热解毒药,Antipyretic Detoxicate Drugs,whole herb with root,5573,929,121,,,HERB001610,0
+122,防风,Fangfeng,"Radix Saposhnikoviae Divaricatae,Saposhnikoviae Radix",root of Divaricate Saposhnikovia,"辛,甘,微温","Pungent,Sweet,Slightly Warm","膀胱,肝,脾","Bladder,Liver,Spleen",辛温解表药,Pungent-Warm Exterior-Releasing Medicinal,root,2393,239,122,,,HERB001622,0
+123,防己,Fangji,"Stephaniae Tetrandrae Radix,Radix Stephaniae Tetrandrae",Root of Fourstamen Stephania,"苦,寒","Bitter,Cold","膀胱,肺","Bladder,Lung",祛风湿清热药,Wind-Dampnessdispelling And Heatclearing Medicinal,root,7240,241,123,,,HERB001626,0
+124,粉萆薢,Fenbixie,Dioscoreae Hypoglaucae Rhizoma,Dioscoreae Hypoglaucae Rhizoma,,"Bitter,Calm","肾,胃","Kidney,Stomach",利水渗湿药,Diuretic Dampness Excreting Drugs,,7438,,124,,萆解,HERB001679,0
+125,凤尾草,Fengweicao,Herba Pteridis Multifidae,all - grass of Chinese Brake,"甘,微苦,微温","Sweet,Slightly Bitter,Slightly Warm","大肠,胃,肝,肾","Large Intestine,Stomach,Liver,Kidney",清热解毒药,Antipyretic Detoxicate Drugs,whole herb or rhizome,1904,245,125,,,HERB001713,0
+126,凤仙透骨草,Fengxiantougucao,Herba Speranskiae Tuberculatae,all-grass of Tubercultae speranskia,"苦,辛,温,有小毒","Bitter,Pungent,Warm,Slightly Toxic",,,祛风湿散寒药,Wind-Dampnessdispelling And Colddispersing Medicinal,,2500,246,126,,,HERB001719,0
+127,凤眼草,Fengyancao,,Ailanthi Altissimae Fructus,"苦,涩,凉","Bitter,Astringent,Cool",,,清热解毒药,Antipyretic Detoxicate Drugs,,,,127,,,HERB001729,0
+128,佛手,Foshou,"Fructus Citri Sarcodactylis,Citri Sarcodactylis Fructus",Finger Citron,"辛,苦,酸,温","Pungent,Bitter,Sour,Warm","肝,脾,胃,肺","Liver,Spleen,Stomach,Lung",理气药,Qi Regulating Drugs,fruit,7001,249,128,,,HERB001734,0
+129,茯苓,Fuling,Poria,Indian Bread,"甘,淡,平","Sweet,Tasteless,Calm","心,肺,脾,肾","Heart,Lung,Spleen,Kidney",利水渗湿药,Diuretic Dampness Excreting Drugs,sclerotium,1948,250,129,,,HERB001749,0
+130,浮萍,Fuping,"Spirodelae Herba,Herba Spirodelae",all-grass of Common Ducksmeat,"辛,寒","Pungent,Cold",肺,Lung,辛凉解表药,Pungent Cool Diaphoretics,whole herb,5369,254,130,,,HERB001758,0
+131,附子,Fuzi,"Aconiti Lateralis Radix Praeparata,Radix Aconiti Lateralis",Common Monkshood Daughter Root,"辛,甘,大热,有毒","Pungent,Sweet,Big Hot,Toxic","心,肾,脾","Heart,Kidney,Spleen",温里药,Warming Interior Drugs,daughter root,1459,257,131,,,HERB001776,0
+132,覆盆子,Fupenzi,Rubi Fructus,Rubi Fructus,"甘,酸,温","Sweet,Sour,Warm","肝,肾,膀胱","Liver,Kidney,Bladder",收涩药,Astringent Medicinal,,,,132,,,HERB001754,0
+133,甘草,Gancao,"Glycyrrhizae Radix Et Rhizoma,Radix Glycyrrhizae",Root of Ural Licorice,"甘,平","Sweet,Calm","心,肺,脾,胃","Heart,Lung,Spleen,Stomach",补气药,Qi Reinforcing Drugs,root and rhizome,5209,258,133,,,HERB001779,0
+134,甘松,Gansong,"Nardostachyos Radix Et Rhizoma,Radix Seu Rhizoma Rdostachyos",rdostachys Root,"辛,甘,温","Pungent,Sweet,Warm","脾,胃","Spleen,Stomach",理气药,Qi Regulating Drugs,root and rhizome,5162,265,134,,,HERB001801,0
+135,甘遂,Gansui,"Radix Kansui,Kansui Radix",root of Gansui,"苦,寒,有毒","Bitter,Cold,Toxic","肺,肾,大肠","Lung,Kidney,Large Intestine",通水药,Drastic Purgatives,tuberoid,3726,266,135,,,HERB001806,0
+136,干姜,Ganjiang,"Zingiberis Rhizoma,Rhizoma Zingiberis",Dried Ginger,"辛,热","Pungent,Hot","脾,胃,肾,心,肺","Spleen,Stomach,Kidney,Heart,Lung",温里药,Warming Interior Drugs,dried rhizome,2421,260,136,,,HERB001787,0
+137,高良姜,Gaoliangjiang,Alpiniae Officinarum Rhizoma,Alpiniae Officirum Rhizome,"辛,热","Pungent,Hot","脾,胃","Spleen,Stomach",温里药,Warming Interior Drugs,,,,137,,,HERB001852,0
+138,藁本,Gaoben,Ligustici Rhizoma Et Radix,Ligustici Rhizoma Et Radix,"辛,温","Pungent,Warm",膀胱,Bladder,辛温解表药,Pungent-Warm Exterior-Releasing Medicinal,,,,138,,,HERB001821,0
+139,葛花,Gehua,Flos Puerariae Lobatae,flower bud of lobed kudzuvine,"甘,凉","Sweet,Cool","脾,胃","Spleen,Stomach",辛凉解表药,Pungent Cool Diaphoretics,,1769,272,139,,,HERB001876,0
+140,功劳木,Gonglaomu,"Mahoniae Caulis,Caulis Mahoniae",Stem of Leatherleaf Mahonia,"苦,寒","Bitter,Cold","肝,胃,大肠","Liver,Stomach,Large Intestine",清热解毒药,Antipyretic Detoxicate Drugs,,4249,275,140,,,HERB001896,0
+141,钩藤,Gouteng,"Ramulus Uncariae Cum Uncis,Uncariae Ramulus Cumuncis",Gambir Plant,"甘,凉","Sweet,Cool","肝,心包","Liver,Pericardium",平肝熄风药,Liver-Pacifying Wind-Extinguishing Medicinal,hooked stem-branch,5452,279,141,,,HERB001924,0
+142,枸骨叶,Gouguye,Ilicis Cornutae Folium,Folium Ilicis Cornutae,"苦,凉","Bitter,Cool","肝,肾","Liver,Kidney",清虚热药,Asthenic Heat Dispelling Drugs,,,,142,,,HERB001901,0
+143,枸杞子,Gouqizi,"Lycii Fructus,Fructus Lycii",fruit of Chinese Wolfberry,"甘,平","Sweet,Calm","肝,肾","Liver,Kidney",补阴药,Yin-Tonifying Medicinal,fruit,5454,277,143,,,HERB001915,0
+144,谷精草,Gujingcao,"Flos Eriocauli,Eriocauli Flos",Pipewort Flower,"辛,甘,平","Pungent,Sweet,Calm","肝,肺","Liver,Lung",清热泻火药,Fire Purging Drugs,flower head with peduncle,2461,281,144,,,HERB001938,0
+145,骨碎补,Gusuibu,"Drynariae Rhizoma,Rhizoma Dryriae",rhizome of Heartleaf Dryria,"苦,温","Bitter,Warm","肝,肾","Liver,Kidney",补阳药,Yang Reinforcing Drugs,rhizome,7096,282,145,,,HERB001942,0
+146,瓜蒂,Guadi,Calycis Melo,Muskmelon base,"苦,寒,有毒","Bitter,Cold,Toxic",胃,Stomach,涌吐药,Emetic Medicinal,fruit pedicel,7420,284,146,,,HERB001948,0
+147,瓜蒌,Gualou,Trichosanthis Fructus,Trichosanthes Kirilowii Maxim,"甘,微苦,寒","Sweet,Slightly Bitter,Cold","肺,胃,大肠","Lung,Stomach,Large Intestine",化痰药,Phlegresolving Medicine,,,,147,,,HERB001952,0
+148,关黄柏,Guanhuangbo,Phellodendri Amurensis Cortex,Phellodendri Amurensis Cortex,"苦,寒","Bitter,Cold","肾,膀胱","Kidney,Bladder",清热燥湿药,Heat-Clearing And Dampnessdrying Medicinal,,,,148,,,HERB001969,0
+149,贯叶金丝桃,Guanyejinsitao ,Hyperici Perforati Herba,Herbahypericiperforati,"辛,寒","Pungent,Cold",肝,Liver,收敛止血药,Astringent Hemostatic Medicinal,,,,149,,,HERB001981|HERB005615,0
+150,绵马贯众,Mianmaguanzhong,"Rhizoma Dryopteris Crassirhizomae,Dryopteridis Crassirhizomatis Rhizoma",root of Chinese Angelica,"苦,微寒,有小毒","Bitter,Slightly Cold,Slightly Toxic","肝,胃","Liver,Stomach",清热解毒药,Antipyretic Detoxicate Drugs,,2988,288,150,,,HERB003961,0
+151,广藿香,Guanghuoxiang,Pogostemonis Herba,Pogostemon Cablin (Blanco) Benth.,"辛,微温","Pungent,Slightly Warm","脾,胃,肺","Spleen,Stomach,Lung",化湿药,Dampness Removing Drugs,,,,151,,,HERB002002,0
+152,广枣,Guangzao,"Choerospondiatis Fructus,Fructus Choerospondiatis",fruit of Axillary choerospondias,"甘,酸,平","Sweet,Sour,Calm","脾,肝","Spleen,Liver",活血祛瘀药,Blood Activating Stasis Removing Drugs,,2436,296,152,,,HERB002040,0
+153,鬼箭羽,Guijianyu,Ramulus Euonymi,twig of Winged Euonymus,"苦,辛,寒","Bitter,Pungent,Cold","肝,脾","Liver,Spleen",活血祛瘀药,Blood Activating Stasis Removing Drugs,,6292,300,153,,,HERB002052|HERB002053,0
+154,鬼针草,Guizhencao,Herba Bidentis,all-grass of Spanishneedles,"苦,微寒","Bitter,Slightly Cold",,,清热解毒药,Antipyretic Detoxicate Drugs,whole herb,3401,944,154,,,HERB002061,0
+155,桂枝,Guizi,"Cinnamomi Ramulus,Ramulus Cinmomi",Cassia Twig,"辛,甘,温","Pungent,Sweet,Warm","心,肺,膀胱","Heart,Lung,Bladder",辛温解表药,Pungent-Warm Exterior-Releasing Medicinal,twig,8053,303,155,,,HERB002062,0
+156,海风藤,Haifengteng,"Piperis Kadsurae Caulis,Caulis Piperis Kadsurae；Caulis Piperis Futokadsurae",stem of Kadsura Pepper,"辛,苦,微温","Pungent,Bitter,Slightly Warm",肝,Liver,祛风湿散寒药,Wind-Dampnessdispelling And Colddispersing Medicinal,stem,5134,305,156,,,HERB000613|HERB002087,0
+157,海金沙,Haijinsha,"Spora Lygodii,Lygodii Spora",spore of Japanese climbing Fern,"甘,咸,寒","Sweet,Salty,Cold","膀胱,小肠","Bladder,Small Intestine",利水渗湿药,Diuretic Dampness Excreting Drugs,aerial parts,7556,308,157,,,HERB002094,0
+158,海桐皮,Haitongpi,Cortex Erythrie,bark of Oriental Variegated Coralbean,"苦,辛,平","Bitter,Pungent,Calm","肝,脾","Liver,Spleen",祛风湿清热药,Wind-Dampnessdispelling And Heatclearing Medicinal,bark,4536,313,158,,,HERB002119,0
+159,海藻,Haizao,Sargassum,seaweed,"苦,咸,寒","Bitter,Salty,Cold","肝,胃,肾","Liver,Stomach,Kidney",化痰药,Phlegresolving Medicine,,3140,314,159,,,HERB002126,0
+160,诃子,Hezi,"Chebulae Fructus,Fructus Chebulae",Medicine Termilia Fruit,"苦,酸,涩,平","Bitter,Sour,Astringent,Calm","肺,大肠","Lung,Large Intestine",收涩药,Astringent Medicinal,fruit,2010,327,160,,,HERB002194,0
+161,荷叶,Heye,"Folium Nelumbinis,Nelumbinis Folium",Lotus leaf,"苦,平","Bitter,Calm","肝,脾,胃","Liver,Spleen,Stomach",清热解毒药,Antipyretic Detoxicate Drugs,leaf,6972,326,161,,,HERB002191,0
+162,核桃仁,Hetaoren,"Semen Juglandis,Juglandis Semen",English Walnut Seed,"甘,温","Sweet,Warm","肾,肺,大肠","Kidney,Lung,Large Intestine",补阳药,Yang Reinforcing Drugs,,1450,962,162,,,HERB002189,0
+163,鹤虱,Heshi,"Carpesii Fructus,Fructus Carpesii",Common Carpesium Fruit,"苦,辛,平,有小毒","Bitter,Pungent,Calm,Slightly Toxic","脾,胃","Spleen,Stomach",驱虫药,Antiparasitic Drugs,,3267,961,163,,,HERB002182,0
+164,黑豆,Heidou,"Semen Glycine Max,Sojae Semen Nigrum",Black bean,"甘,平","Sweet,Calm","脾,肾","Spleen,Kidney",补阴药,Yin-Tonifying Medicinal,,6627,331,164,,,HERB002209,0
+165,黑老虎,Heilaohu,,Kadsurae Coccineae Radix Et Caulis,"辛,微苦,温","Pungent,Slightly Bitter,Warm",,,理气药,Qi Regulating Drugs,,,,165,,,HERB002224,0
+166,黑芝麻,Heizhima,"Sesami Semen Nigrum,Semen Sesami Nigrum",Black Sesame,"甘,平","Sweet,Calm","肝,肾,大肠","Liver,Kidney,Large Intestine",补阴药,Yin-Tonifying Medicinal,black seed,5346,336,166,,,HERB002242,0
+167,红参,Hongshen,"Radix Ginseng Rubra,Ginseng Radix Et Rhizoma Rubra",Red Ginseng,"甘,微苦,温","Sweet,Slightly Bitter,Warm","脾,肺,心,肾","Spleen,Lung,Heart,Kidney",补气药,Qi Reinforcing Drugs,,2187,157,167,,,HERB002319,0
+168,红花,Honghua,"Flos Carthami,Carthami Flos",Safflower,"辛,温","Pungent,Warm","心,肝","Heart,Liver",活血祛瘀药,Blood Activating Stasis Removing Drugs,flower,3918,343,168,,,HERB002276,0
+169,红芪,Hongqi,Hedysari Radix,Hedysari Radix,"甘,微温","Sweet,Slightly Warm","肺,脾","Lung,Spleen",补气药,Qi Reinforcing Drugs,,2164,,169,,,HERB002309,0
+170,猴枣,Houzao,,Macacae Calcalus Gasteris,"苦,寒,无毒","Bitter,Cold,Nontoxic",,,化痰药,Phlegresolving Medicine,,,,170,,,HERB002351,0
+171,厚朴,Houpo,"Cortex Magnoliae Officilis,Magnoliae Officinalis Cortex",bark of Officil magnolia,"苦,辛,温","Bitter,Pungent,Warm","脾,胃,肺,大肠","Spleen,Stomach,Lung,Large Intestine",化湿药,Dampness Removing Drugs,,6793,159,171,,,HERB002339|HERB002342,0
+172,胡黄连,Huhuangl1an,Picrorhizae Rhizoma,Picrorhizae Rhizoma,"苦,寒","Bitter,Cold","肝,胃,大肠","Liver,Stomach,Large Intestine",清虚热药,Asthenic Heat Dispelling Drugs,,,,172,,,HERB002369,0
+173,胡椒,Hujiao,"Fructus Piperis,Piperis Fructus",Pepper Fruit,"辛,热","Pungent,Hot","胃,大肠","Stomach,Large Intestine",温里药,Warming Interior Drugs,fruit,3758,348,173,,,HERB002371,0
+174,胡芦巴,Huluba,Trigonellae Semen,Trigonellae Semen,"苦,温","Bitter,Warm",肾,Kidney,补阳药,Yang Reinforcing Drugs,,,,174,,,HERB002376,0
+175,槲寄生,Hujisheng,"Herba Visci,Visci Herba",Colored Mistletoe Herb,"苦,平","Bitter,Calm","肝,肾","Liver,Kidney",祛风湿筋骨药,Wind-Damp-Dispelling And Sinew-Bone-Strengthening Medicinal,stem and branch-leaf,6843,347,175,,,HERB002370,0
+176,虎耳草,Huercao,Herba Saxifragae,stem or leaf of Fung Waxplant,"苦,辛,寒,小毒","Bitter,Pungent,Cold,Slightly Toxic","肺,肝,心","Lung,Liver,Heart",清热解毒药,Antipyretic Detoxicate Drugs,whole herb,1552,344,176,,,HERB002365,0
+177,虎杖,Huzhang,"Rhizoma Polygoni Cuspidati,Polygoni Cuspidati Rhizoma Et Radix",rhizome of Gaint Knotweed,"微苦,微寒","Slightly Bitter,Slightly Cold","肝,胆,肺","Liver,Gallbladder,Lung",利水渗湿药,Diuretic Dampness Excreting Drugs,rhizome,7541,352,177,,,HERB002405,0
+178,花椒,Huajiao,"Zanthoxyli Pericarpium,Pericarpium Zanthoxyli",Pricklyash Peel,"辛,温","Pungent,Warm","脾,胃,肾","Spleen,Stomach,Kidney",温里药,Warming Interior Drugs,pericarp,6620,354,178,,,HERB002424,0
+179,花生衣,Huashengyi,Testa Arachidis Hypogaeae,Semino-dermis Arachidis ,"甘,微苦,涩,平","Sweet,Slightly Bitter,Astringent,Calm","肺,胃,肝","Lung,Stomach,Liver",收敛止血药,Astringent Hemostatic Medicinal,,5693,357,179,,,HERB002448,0
+180,华山参,Huashanshen,Physochlainae Radix,Physochlaie Radix,"甘,微苦,温,有毒","Sweet,Slightly Bitter,Warm,Toxic","肺,心","Lung,Heart",止咳平喘药,Antitussive Antiasthmetics,,4165,,180,,,HERB002446,0
+181,化橘红,Huajuhong,"Exocarpium Citri Grandis,Citri Grandis Exocarpium",Pummelo Peel,"辛,苦,温","Pungent,Bitter,Warm","肺,脾","Lung,Spleen",理气药,Qi Regulating Drugs,,4831,355,181,,,HERB002428,0
+182,槐花,Huaihua,"Sophorae Flos,Flos Sophorae",flower bud of Japanese pagodatree,"苦,微寒","Bitter,Slightly Cold","肝,大肠","Liver,Large Intestine",凉血止血药,Blood-Cooling Hemostatic Medicinal,,6828,359,182,,,HERB002472,0
+183,槐角,Huaijiao,"Fructus Sophorae,Sophorae Fructus",pod of Japanese pagodatree,"苦,寒","Bitter,Cold","肝,大肠","Liver,Large Intestine",凉血止血药,Blood-Cooling Hemostatic Medicinal,,7907,360,183,,,HERB002473,0
+184,黄柏,Huangbo,"Phellodendri Chinensis Cortex,Cortex Phellodendri",Phellodendron bark,"苦,寒","Bitter,Cold","肾,膀胱","Kidney,Bladder",清热燥湿药,Heat-Clearing And Dampnessdrying Medicinal,bark,2250,973,184,,,HERB002483|HERB002489,0
+185,黄精,Huangjing,"Polygonati Rhizoma,Rhizoma Polygoti",Rhizome of Fragrant Solomonseal,"甘,平","Sweet,Calm","脾,肺,肾","Spleen,Lung,Kidney",补阴药,Yin-Tonifying Medicinal,rhizome,5428,367,185,,,HERB002534,0
+186,黄连,Huanglian,"Rhizoma Coptidis,Coptidis Rhizoma",rhizome of Chinese Goldthread,"苦,寒","Bitter,Cold","心,脾,胃,肝,胆,大肠","Heart,Spleen,Stomach,Liver,Gallbladder,Large Intestine",清热燥湿药,Heat-Clearing And Dampnessdrying Medicinal,rhizome,5091,369,186,,,HERB002540,0
+187,黄芪,Huangqi,"Astragali Radix,Radix Astragali",root of Membranous Milkvetch,"甘,微温","Sweet,Slightly Warm","肺,脾","Lung,Spleen",补气药,Qi Reinforcing Drugs,root,5663,370,187,,,HERB002560,0
+188,黄芩,Huangqin,"Scutellariae Radix,Radix Scutellariae",root of Baikal skullcap,"苦,寒","Bitter,Cold","肺,胆,脾,大肠,小肠","Lung,Gallbladder,Spleen,Large Intestine,Small Intestine",清热燥湿药,Heat-Clearing And Dampnessdrying Medicinal,root,4677,371,188,,,HERB002563,0
+189,黄药子,Huangyaozi,Rhizoma Dioscoreae Bulbiferae,rhizome of Airpotato Yam,"苦,寒,小毒","Bitter,Cold,Slightly Toxic","肺,肝","Lung,Liver",化痰药,Phlegresolving Medicine,tuber,7104,373,189,,,HERB002591,0
+190,火麻仁,Huomaren,"Cannabis Fructus,Semen Canbis;Fructus Canbis",Hemp Seed,"甘,平","Sweet,Calm","脾,胃,大肠","Spleen,Stomach,Large Intestine",润下药,Laxatives,ripe seed,5703,975,190,,,HERB002640,0
+191,鸡骨草,Jigucao,"Abri Herba,Herba Abri",Canton Love-pea Vine,"甘,微苦,凉","Sweet,Slightly Bitter,Cool","肝,胃","Liver,Stomach",利水渗湿药,Diuretic Dampness Excreting Drugs,whole herb,1889,378,191,,,HERB002665,0
+192,鸡冠花,Jiguanhua,"Flos Celosiae Cristatae,Celosiae Cristatae Flos",Cockscomb flower ,"甘,涩,凉","Sweet,Astringent,Cool","肝,大肠","Liver,Large Intestine",收敛止血药,Astringent Hemostatic Medicinal,inflorescence,3584,379,192,,,HERB002667,0
+193,鸡屎藤,Jishiteng,,Paederiae Scandentis Herba,"甘,微苦,平","Sweet,Slightly Bitter,Calm",,,消食药,Digestants,,,,193,,,,0
+194,鸡血藤,Jixueteng,"Spatholobi Caulis,Caulis Millettiae; Caulis Spatholobi",Suberect Spatholobus Stem,"苦,甘,温","Bitter,Sweet,Warm","肝,肾","Liver,Kidney",活血祛瘀药,Blood Activating Stasis Removing Drugs,,5951,384,194,,,HERB002714,0
+195,积雪草,Jixuecao,"Herba Centellae,Centellae Herba",Asiatic Pennywort Herb,"苦,辛,寒","Bitter,Pungent,Cold","肝,脾,肾","Liver,Spleen,Kidney",清热解毒药,Antipyretic Detoxicate Drugs,whole herb with root,7372,383,195,,,HERB002713,0
+196,急性子,Jixingzi,"Impatientis Semen,Semen Impatientis",seed of Garden Balsam,"微苦,辛,温,有小毒","Slightly Bitter,Pungent,Warm,Slightly Toxic","肺,肝","Lung,Liver",活血祛瘀药,Blood Activating Stasis Removing Drugs,ripe seed,5087,382,196,,,HERB002711,0
+197,蒺藜,jili,"Tribuli Fructus,Fructus Tribuli",Puncturevine Caltrop Fruit,"辛,苦,微温,有小毒","Pungent,Bitter,Slightly Warm,Slightly Toxic",肝,Liver,平肝熄风药,Liver-Pacifying Wind-Extinguishing Medicinal,,1208,977,197,,,HERB002679,0
+198,姜黄,Jianghuang,"Rhizoma Curcumae Longae,Curcumae Longae Rhizoma",rhizome of Common Turmeric,"辛,苦,温","Pungent,Bitter,Warm","脾,肝","Spleen,Liver",活血祛瘀药,Blood Activating Stasis Removing Drugs,tuberoid,5487,389,198,,,HERB002840,0
+199,降香,Jiangxiang,"Lignum Dalbergiae Odoriferae Rosewood,Dalbergiae Odoriferae Lignum",Odoriferous Rosewood,"辛,温","Pungent,Warm","肝,脾","Liver,Spleen",理气药,Qi Regulating Drugs,,5690,391,199,,,HERB002846,0
+200,绞股蓝,Jiaoguolan,,Gynostemmae Pentaphylli Herba,"苦,微甘,凉","Bitter,Slightly Sweet,Cool","肺,脾,肾","Lung,Spleen,Kidney",补气药,Qi Reinforcing Drugs,,,,200,,,HERB000459|HERB002856,0
+201,芥子,Jiezi,"Semen Sipis,Sinapis Semen",Mustard Seed,"辛,温","Pungent,Warm",肺,Lung,化痰药,Phlegresolving Medicine,seed,3816,982,201,,,HERB002887,0
+202,金沸草,Jinfeicao,"Herba Inulae,Inulae Herba",All - grass of Japanese Inula,"苦,辛,咸,温","Bitter,Pungent,Salty,Warm","肺,大肠","Lung,Large Intestine",化痰药,Phlegresolving Medicine,aerial parts,8200,401,202,,,HERB002896,0
+203,金果榄,Jinguolan,Tinosporae Radix,Tinosporae Radix,"苦,寒","Bitter,Cold","肺,大肠",,清热解毒药,Antipyretic Detoxicate Drugs,,,,203,,金果揽,,0
+204,金莲花,Jinlianhua,Flos Trollii Chinensis,flower of Chinese Globeflower,"苦,寒","Bitter,Cold","肺,胃","Lung,Stomach",清热解毒药,Antipyretic Detoxicate Drugs,flower,1785,404,204,,,HERB002926,0
+205,金钱草,Jinqiancao,"Herba Glechomae Longitubae,Lysimachiae Herba",Christi Loosestrife,"甘,咸,微寒","Sweet,Salty,Slightly Cold","肝,胆,肾,膀胱","Liver,Gallbladder,Kidney,Bladder",利水渗湿药,Diuretic Dampness Excreting Drugs,,5151,408,205,,,HERB002937,0
+206,金荞麦,Jinqiaomai,"Rhizoma Fagopyri Cymosi,Fagopyri Dibotryis Rhizoma",Wild Buckwheat Rhizome,"微辛,涩,凉","Slightly Pungent,Astringent,Cool",肺,Lung,清热解毒药,Antipyretic Detoxicate Drugs,,3474,984,206,,,HERB002941|HERB002991,0
+207,金银花,Jinyinhua,"Lonicerae Japonicae Flos,Flos Lonicerae",Honeysuckle Flower,"甘,寒","Sweet,Cold","肺,心,胃","Lung,Heart,Stomach",清热解毒药,Antipyretic Detoxicate Drugs,flower bud,4008,409,207,,,HERB002962,0
+208,金樱子,Jinyingzi,"Fructus Rosae Laevigatae,Rosae Laevigatae Fructus",fruit of Cherokee Rose,"酸,甘,涩,平","Sour,Sweet,Astringent,Calm","肾,膀胱,大肠","Kidney,Bladder,Large Intestine",收涩药,Astringent Medicinal,fruit,2395,411,208,,,HERB002966,0
+209,金盏菊花,Jinzhanjuhua,,Calendula Officilis,,,,,凉血止血药,Blood-Cooling Hemostatic Medicinal,,,,209,217,,HERB002970,1
+210,锦灯笼,Jindenglong,Physalis Calyx Seu Fructus,Calyx Seu Fructus Physalis,"苦,寒","Bitter,Cold",肺,Lung,清热解毒药,Antipyretic Detoxicate Drugs,,,,210,,,HERB002893,0
+211,京大戟,Jingdaji,"Radix Euphorbiae Pekinensis,Euphorbiae Pekinensis Radix",Peking Euphorbia Root,"苦,寒,有毒","Bitter,Cold,Toxic","肺,脾,肾","Lung,Spleen,Kidney",通水药,Drastic Purgatives,,6224,985,211,,,HERB002976,0
+212,荆芥,Jingjie,"Schizonepetae Herba,Herba Schizonepetae",all-grass of Fineleaf Schizonepeta,"辛,微温","Pungent,Slightly Warm","肺,肝","Lung,Liver",辛温解表药,Pungent-Warm Exterior-Releasing Medicinal,aerial parts,6629,412,212,,荆芥炭,HERB002983,0
+213,荆芥穗,Jingjiesui,Schizonepetae Spica,Schizonepetae Spica,"辛,微温","Pungent,Slightly Warm","肺,肝","Lung,Liver",辛温解表药,Pungent-Warm Exterior-Releasing Medicinal,,,,213,,荆芥穗炭,HERB002986,0
+214,景天三七,Jintiansanqi,,Sedum Aizoon L.,"甘,微酸,平","Sweet,Slightly Sour,Calm","心,肝","Heart,Liver",化瘀止血药,Stasis-Resolving Hemostatic Medicinal,,,,214,,,HERB002993,0
+215,韭菜子,Jiucaizi,"Allii Tuberosi Semen,Semen Allii Tuberosi",Tuber Onion Seed,"辛,甘,温","Pungent,Sweet,Warm","肝,肾","Liver,Kidney",补阳药,Yang Reinforcing Drugs,,6407,987,215,,,HERB003004,0
+216,桔梗,Jiegeng,"Radix Platycodi,Platycodonis Radix",Platycodon Root,"苦,辛,平","Bitter,Pungent,Calm",肺,Lung,化痰药,Phlegresolving Medicine,root,4437,981,216,,,HERB002876,0
+217,菊花,Juhua,"Chrysanthemi Flos,Flos Chrysanthemi",Chrysanthemum Flower,"甘,苦,微寒","Sweet,Bitter,Slightly Cold","肺,肝","Lung,Liver",辛凉解表药,Pungent Cool Diaphoretics,capitulum,5182,422,217,,,HERB003031,0
+218,菊苣,Juju,"Cichorii Herba
+Cichorii Radix,Herba Cichorii",Chicory Herb,"微苦,咸,凉","Slightly Bitter,Salty,Cool","肝,胆,胃","Liver,Gallbladder,Stomach",拔毒化腐生肌药,"External Medicinal (Draw Out Toxin, Resolve Putridity)",,6796,949,218,,,HERB003039,0
+219,橘核,Juhe,"Semen Citri Reticulatae,Citri Reticulatae Semen",Tangerine Seed,"苦,平","Bitter,Calm","肝,肾","Liver,Kidney",理气药,Qi Regulating Drugs,seed,7633,420,219,,,HERB003027,0
+220,橘红,Juhong,Citri Exocarpium Rubrum,Citri Exocarpium Rubrum,"辛,苦,温","Pungent,Bitter,Warm","肺,脾","Lung,Spleen",理气药,Qi Regulating Drugs,,,,220,,,HERB003028,0
+221,橘络,Juluo,,Citri Fructus Retinervus,"甘,苦,平","Sweet,Bitter,Calm","肝,肺,脾","Liver,Lung,Spleen",理气药,Qi Regulating Drugs,,695,,221,,,HERB003040,0
+222,橘叶,Juye,Folium Citri Tangerie,tangerine leaf,"苦,辛,平","Bitter,Pungent,Calm","肝,胃","Liver,Stomach",理气药,Qi Regulating Drugs,,4479,424,222,,,HERB003053,0
+223,卷柏,Juanbai,"Selaginellae Herba,Herba Selaginellae",aal-grass of Tamariskoid spikemoss,"辛,平","Pungent,Calm","肝,心","Liver,Heart",化瘀止血药,Stasis-Resolving Hemostatic Medicinal,dried whole herb,1261,426,223,,,HERB003061,0
+224,决明子,Juemingzi,"Semen Cassiae;Semen Sene,Cassiae Semen",Cassia Seed,"甘,苦,咸,微寒","Sweet,Bitter,Salty,Slightly Cold","肝,大肠","Liver,Large Intestine",清热泻火药,Fire Purging Drugs,ripe seed,1219,950,224,,,HERB003070,0
+225,苦参,Kushen,"Radix Sophorae Flavescentis,Sophorae Flavescentis Radix",root of Lightyellow sophora,"苦,寒","Bitter,Cold","心,肝,胃,大肠,膀胱","Heart,Liver,Stomach,Large Intestine,Bladder",清热燥湿药,Heat-Clearing And Dampnessdrying Medicinal,dried root,2287,431,225,,,HERB003164|HERB003167,0
+226,苦地丁,Kudiding,"Corydalis Bungeanae Herba,Herba Corydalis Bungeae",all - grass of Bunge Corydalis,"苦,寒","Bitter,Cold","心,肝,大肠","Heart,Liver,Large Intestine",清热解毒药,Antipyretic Detoxicate Drugs,whole herb,1174,428,226,,,HERB003136,0
+227,苦丁茶,Kudingcha,,Ilicis Cornutae Folium Immayuri,"甘,苦,寒","Sweet,Bitter,Cold","肝,肺,胃","Liver,Lung,Stomach",清热泻火药,Fire Purging Drugs,tender leaf,5464,,227,,,HERB003137,0
+228,苦楝皮,Kulianpi,Meliae Cortex,Meliae Cortex,"苦,寒,有毒","Bitter,Cold,Toxic","肝,脾,胃","Liver,Spleen,Stomach",驱虫药,Antiparasitic Drugs,,,,228,,,HERB003153,0
+229,苦楝子,Kulianzi,,Meliae Azedarach Fructus,"苦,寒,小毒","Bitter,Cold,Slightly Toxic",,,驱虫药,Antiparasitic Drugs,,,,229,,,HERB003156,0
+230,苦杏仁,Kuxingren,"Armeniacae Semen Amarum,Semen Armeniacae Amarum",bitter Apricot seed,"苦,微温,有小毒","Bitter,Slightly Warm,Slightly Toxic","肺,大肠","Lung,Large Intestine",止咳平喘药,Antitussive Antiasthmetics,,6558,433,230,,,HERB003174,0
+231,款冬花,Kuandonghua,"Farfarae Flos,Flos Farfarae",flower bud of common coltsfoot,"辛,微苦,温","Pungent,Slightly Bitter,Warm",肺,Lung,止咳平喘药,Antitussive Antiasthmetics,,,435,231,,,HERB003192,0
+232,昆布,Kunbu,"Laminariae Thallus Eckloniae Thallus,Thallus Lamiriae",Kelp or Tangle,"咸,寒","Salty,Cold","肝,胃,肾","Liver,Stomach,Kidney",化痰药,Phlegresolving Medicine,dried thallus,4440,436,232,,,HERB003210,0
+233,辣椒,Lajiao,"Fructus Capsici,Capsici Fructus",Hot pepper,"辛,热","Pungent,Hot","心,脾","Heart,Spleen",拔毒化腐生肌药,"External Medicinal (Draw Out Toxin, Resolve Putridity)",fruit,6736,437,233,,,HERB003232,0
+234,莱菔子,Laifuzi,"Raphani Semen,Semen Raphani",Radish Seed,"辛,甘,平","Pungent,Sweet,Calm","肺,脾,胃","Lung,Spleen,Stomach",消食药,Digestants,seed,2090,438,234,,,HERB003245,0
+235,老鹳草,Laoguancao,"Erodii Herba Geranii Herba,Herba Erodiiherba Geranii",All - grass of Common Heron's bill,"辛,苦,平","Pungent,Bitter,Calm","肝,肾,脾","Liver,Kidney,Spleen",祛风湿散寒药,Wind-Dampnessdispelling And Colddispersing Medicinal,aerial parts,2755,440,235,,,HERB003274,0
+236,了哥王根,Liaogewanggen,,Wikstroemiae Indicae Rasix,"苦,辛,寒,有毒","Bitter,Pungent,Cold,Toxic",,,清热解毒药,Antipyretic Detoxicate Drugs,,,,236,,,HERB003282,0
+237,雷公藤,Leigongteng,Radix Tripterygii Wilfordii,root of common htreewingnut,"苦,辛,凉,大毒","Bitter,Pungent,Cool,Extremely Poisonous","肝,心","Liver,Heart",祛风湿散寒药,Wind-Dampnessdispelling And Colddispersing Medicinal,"root, leaf and flower",7879,441,237,,,HERB003288,0
+238,雷丸,Leiwan,Omphalia,Thunder Ball,"微苦,寒","Slightly Bitter,Cold","胃,大肠","Stomach,Large Intestine",驱虫药,Antiparasitic Drugs,,7821,442,238,,,HERB003291,0
+239,荔枝核,Lizhihe,"Litchi Semen,Semen Litchi",Litchi seed,"甘,微苦,温","Sweet,Slightly Bitter,Warm","肝,肾","Liver,Kidney",理气药,Qi Regulating Drugs,seed,6516,447,239,,,HERB003348,0
+240,连钱草,Lianqiancao,Glechomae Herba,Glechomae Herba,"辛,微苦,微寒","Pungent,Slightly Bitter,Slightly Cold","肝,肾,膀胱","Liver,Kidney,Bladder",利水渗湿药,Diuretic Dampness Excreting Drugs,,2471,,240,,,HERB003359|HERB003360,0
+241,连翘,Lianqiao,"Forsythiae Fructus,Fructus Forsythiae",Weeping Forsythia Capsule,"苦,微寒","Bitter,Slightly Cold","肺,心,小肠","Lung,Heart,Small Intestine",清热解毒药,Antipyretic Detoxicate Drugs,dried fruit,6528,449,241,,,HERB003361,0
+242,莲房,Lianfang,"Receptaculum Nelumbinis,Nelumbinis Receptaculum",Lotus Receptacle,"苦,涩,温","Bitter,Astringent,Warm",肝,Liver,收敛止血药,Astringent Hemostatic Medicinal,,2222,991,242,,,HERB003353,0
+243,莲须,Lianxu,"Stamen Nelumbinis,Nelumbinis Stamen",Lotus stamen,"甘,涩,平","Sweet,Astringent,Calm","心,肾","Heart,Kidney",收涩药,Astringent Medicinal,,5107,451,243,,,HERB003369,0
+244,莲子心,Lianzixin,"Plumula Nelumbinis,Nelumbinis Plumula",Lotus Plumule,"苦,寒","Bitter,Cold","心,肾","Heart,Kidney",收涩药,Astringent Medicinal,dried plumule and radicle in seed,7037,453,244,,,HERB003378,0
+245,两面针,Liangmianzhen,"Zanthoxyli Radix,Radix Zanthoxyli",Shinyleaf Pricklyash Root,"苦,辛,平,有小毒","Bitter,Pungent,Calm,Slightly Toxic","肝,胃","Liver,Stomach",祛风湿散寒药,Wind-Dampnessdispelling And Colddispersing Medicinal,,6308,454,245,,,HERB003384,0
+246,两头尖,Liangtoujian,"Anemones Raddeanae Rhizoma,Rhizoma Ahemones Daddeae",Radde Anemone Rhizome,"辛,热,有毒","Pungent,Hot,Toxic",脾,Spleen,祛风湿散寒药,Wind-Dampnessdispelling And Colddispersing Medicinal,,4473,994,246,,,HERB003391,0
+247,蓼大青叶,Liaodaqingye,"Polygoni Tinctorii Folium,Folium Polygoni Tinctorii",Indigoplant Leaf,"苦,寒","Bitter,Cold","心,胃","Heart,Stomach",清热解毒药,Antipyretic Detoxicate Drugs,,4168,995,247,,,HERB003395,0
+248,灵芝,Lingzhi,"Ganoderma Lucidum Seu Japonicum,Ganoderma",Lucid Ganoderma,"甘,平","Sweet,Calm","心,肺,肝,肾","Heart,Lung,Liver,Kidney",补气药,Qi Reinforcing Drugs,dried sporocarp,731,460,248,,,HERB003444,0
+249,凌霄花,Lingxiaohua,"Flos Campsis,Campsis Flos",flower of Common Trumpetcreeper,"甘,酸,寒","Sweet,Sour,Cold","肝,心包","Liver,Pericardium",活血祛瘀药,Blood Activating Stasis Removing Drugs,,4407,458,249,,,HERB003439,0
+250,零陵香,Linglingxiang,,Lysimachiae Foenigraeci Herba,"微甘,平","Slightly Sweet,Calm",,,辛温解表药,Pungent-Warm Exterior-Releasing Medicinal,,,,250,,,HERB003431,0
+251,龙胆,Longdan,Gentianae Radix Et Rhizoma,Gentiae Radix Et Rhozima,"苦,寒","Bitter,Cold","肝,胆","Liver,Gallbladder",清热燥湿药,Heat-Clearing And Dampnessdrying Medicinal,root and rhizome,2559,,251,,,HERB000963|HERB003478,0
+252,龙葵,Longkui,,Solanum Nigrum Linn.,"苦,寒","Bitter,Cold",,,清热解毒药,Antipyretic Detoxicate Drugs,aerial parts,1876,,252,,,HERB003482,0
+253,龙脷叶,Longliye,Sauropi Folium,Aauropi Folium,"甘,淡,平","Sweet,Tasteless,Calm","肺,胃","Lung,Stomach",拔毒化腐生肌药,"External Medicinal (Draw Out Toxin, Resolve Putridity)",,,,253,,,HERB003485,0
+254,漏芦,Loulu,"Rhapontici Radix,Radix Rhapontici",Uniflower Swisscentaury Root,"苦,寒","Bitter,Cold",胃,Stomach,清热解毒药,Antipyretic Detoxicate Drugs,root,2157,996,254,,,HERB003504,0
+255,芦根,Lugen,"Rhizoma Phragmitis,Phragmitis Rhizoma",Reed rhizome ,"甘,寒","Sweet,Cold","肺,胃","Lung,Stomach",清热泻火药,Fire Purging Drugs,rhizome,1804,472,255,,,HERB003526,0
+256,芦荟,Luhui,Aloe,Aloe,"苦,寒","Bitter,Cold","肝,胃,大肠","Liver,Stomach,Large Intestine",攻下药,Offensive Purgative Medicinal,solid residue obtained by evaporating liquid which drains from leaves,3268,474,256,,,HERB003528,0
+257,鹿衔草,Luxiancao,"Herba Pyrolae Chinensis,Pyrolae Herba",all-grass Chinese pyrola,"甘,苦,温","Sweet,Bitter,Warm","肝,肾","Liver,Kidney",祛风湿散寒药,Wind-Dampnessdispelling And Colddispersing Medicinal,whole herb,1308,482,257,,,HERB003549,0
+258,路路通,Lulutong,"Fructus Liquidambaris,Liquidambaris Fructus",fruit of beautiful sweetgum,"苦,平","Bitter,Calm","肝,肾","Liver,Kidney",祛风湿散寒药,Wind-Dampnessdispelling And Colddispersing Medicinal,inflorescence,2506,478,258,,,HERB003535,0
+259,罗布麻叶,Luobumaye,Apocyni Veneti Folium,Apocyniveneti Folium,"甘,苦,凉","Sweet,Bitter,Cool",肝,Liver,平肝熄风药,Liver-Pacifying Wind-Extinguishing Medicinal,,,,259,,,HERB003573,0
+260,罗汉果,Luohanguo,"Fructus Momordicae,Siraitiae Fructus",Grosvenor Momordica Fruit,"甘,凉","Sweet,Cool","肺,大肠","Lung,Large Intestine",化痰药,Phlegresolving Medicine,fruit,4270,484,260,,,HERB003582,0
+261,络石藤,Luoshiteng,"Caulis Trachelospermi,Trachelospermi Caulis Et Folium",stem of Chinese starjasmine,"苦,微寒","Bitter,Slightly Cold","心,肝,肾","Heart,Liver,Kidney",祛风湿清热药,Wind-Dampnessdispelling And Heatclearing Medicinal,leafy stem,8172,485,261,,,HERB003600,0
+262,绿豆,Lvdou,Semen Phaseoli Radiati,mung bean,"甘,寒","Sweet,Cold","心,肝,胃","Heart,Liver,Stomach",清热解毒药,Antipyretic Detoxicate Drugs,,4349,486,262,,,HERB003618,0
+263,葎草,Lvcao,Herba Humuli Scandentis,all-grass of japanese hop,"甘,苦,寒","Sweet,Bitter,Cold","肺,肾","Lung,Kidney",清热解毒药,Antipyretic Detoxicate Drugs,root,5377,997,263,,,HERB003511|HERB003616,0
+264,麻黄,Mahuang,"Herba Ephedrae,Ephedrae Herba",Ephedra,"辛,微苦,温","Pungent,Slightly Bitter,Warm","肺,膀胱","Lung,Bladder",辛温解表药,Pungent-Warm Exterior-Releasing Medicinal,herbaceous twigs,2425,493,264,,,HERB003658,0
+265,麻黄根,Mahuanggen,"Ephedrae Radix Et Rhizoma,Radix Ephedrae",Ephedra Root,"甘,涩,平","Sweet,Astringent,Calm","心,肺","Heart,Lung",收涩药,Astringent Medicinal,root,4409,494,265,,,HERB003659,0
+266,马鞭草,Mabiancao,"Herba Verbae,Verbenae Herba",European Verbe Herb,"苦,凉","Bitter,Cool","肝,脾","Liver,Spleen",活血祛瘀药,Blood Activating Stasis Removing Drugs,aerial parts,2098,1003,266,,,HERB003636,0
+267,马勃,Mabo,"Lasiosphaera Seu Calvatia,Lasiosphaera Calvatia",Puff-ball,"辛,平","Pungent,Calm",肺,Lung,清热解毒药,Antipyretic Detoxicate Drugs,sporocarp,6654,490,267,,,HERB003638,0
+268,马齿苋,Machixian,"Portulacae Herba,Herba Portulacae",all-grass of Purslane,"酸,寒","Sour,Cold","肝,大肠","Liver,Large Intestine",清热解毒药,Antipyretic Detoxicate Drugs,aerial parts,1349,491,268,,,HERB003641,0
+269,马兜铃,Madouling,Fructus Aristolochiae,Dutohmanspipe Fruit,"寒,微辛,苦","Cold,Slightly Pungent,Bitter","肺,大肠","Lung,Large Intestine",止咳平喘药,Antitussive Antiasthmetics,fruit,4033,492,269,,,HERB003648,1
+270,马钱子,Maqianzi,"Strychni Semen,Semen Strychni",Nux Vomica,"苦,温,有大毒","Bitter,Warm,Extremely Poisonous","肝,脾","Liver,Spleen",祛风湿散寒药,Wind-Dampnessdispelling And Colddispersing Medicinal,seed,1336,495,270,,,HERB000689|HERB003679|HERB003945|HERB004843,0
+271,马尾莲,Maweilian,Radix Et Rhizoma Thalictri,root and rhizome of Manyleaf Meadowrue,"苦,寒","Bitter,Cold","心,肝,大肠","Heart,Liver,Large Intestine",清热燥湿药,Heat-Clearing And Dampnessdrying Medicinal,,4858,497,271,,,HERB003698,0
+272,麦芽,Maiya,"Hordei Fructus Germinatus,Fructus Hordei Germitus",Germited Barley,"甘,平","Sweet,Calm","脾,胃","Spleen,Stomach",消食药,Digestants,germinated fruit,5159,501,272,,,HERB003715,0
+273,满山红,Manshanhong,"Folium Rhododendri Daurici,Rhododendri Daurici Folium",Dahurian Rhododendron Leaf,"辛,苦,寒","Pungent,Bitter,Cold","肺,脾","Lung,Spleen",止咳平喘药,Antitussive Antiasthmetics,leaf,6650,505,273,,,HERB003730,0
+274,蔓荆子,Manjingzi,"Viticis Fructus,Fructus Viticis",Shrub Chastetree Fruit,"微寒,辛,苦","Minor cold,Pungent,Bitter","膀胱,胃,肝","Bladder,Stomach,Liver",辛凉解表药,Pungent Cool Diaphoretics,seed,5933,504,274,,,HERB003725,0
+275,猫眼草,Maoyancao,,Lunulatae Herba,"苦,微寒,有毒","Bitter,Slightly Cold,Toxic",,,化痰药,Phlegresolving Medicine,,,,275,,,HERB003821,0
+276,猫爪草,Maozhaocao,"Radix Ranunculi Terti,Ranunculi Ternati Radix",Catclaw Buttercup Root,"甘,辛,温","Sweet,Pungent,Warm","肝,肺","Liver,Lung",清热解毒药,Antipyretic Detoxicate Drugs,,3776,160,276,,,HERB003837,0
+277,没药,Moyao,"Resi Myrrhae;Myrrha,Myrrha",Myrrh,"辛,苦,平","Pungent,Bitter,Calm","心,肝,脾","Heart,Liver,Spleen",活血祛瘀药,Blood Activating Stasis Removing Drugs,balsam,7375,514,277,,,HERB004004,0
+278,玫瑰花,Meiguihua,"Rosae Rugosae Flos,Flos Rosae Rugosae",Rose Flower,"甘,微苦,温","Sweet,Slightly Bitter,Warm","肝,脾","Liver,Spleen",理气药,Qi Regulating Drugs,bud,3088,161,278,,,HERB003840,0
+279,梅花,Meihua,"Flos Mume,Mume Flos",Plum Flower,"微酸,平","Slightly Sour,Calm","肝,胃,肺","Liver,Stomach,Lung",理气药,Qi Regulating Drugs,,1527,1007,279,,,HERB003851,0
+280,猕猴桃根,Mihoutaogen,,Actinidia Chinensis Planch,"微甘,涩,凉,小毒","Slightly Sweet,Astringent,Cool,Slightly Toxic",,,清热解毒药,Antipyretic Detoxicate Drugs,,1628,,280,,,HERB003924,0
+281,密蒙花,Mimenghua,"Buddlejae Flos,Flos Buddlejae",flower of Pale Butterflybush,"甘,微寒","Sweet,Slightly Cold",肝,Liver,清热泻火药,Fire Purging Drugs,flower,1580,165,281,,,HERB003941,0
+282,绵萆薢,Mianbixie,Dioscoreae Spongiosae Rhizoma,Dioscoreae Septemlo Bae Rhizoma,"苦,平","Bitter,Calm","肾,胃","Kidney,Stomach",利水渗湿药,Diuretic Dampness Excreting Drugs,,8104,,282,,,HERB003953,0
+283,墨旱莲,Mohanlian,"Ecliptae Herba,Herba Ecliptae",all-grass of Yerbadetajo,"甘,酸,寒","Sweet,Sour,Cold","肾,肝","Kidney,Liver",补阴药,Yin-Tonifying Medicinal,aerial parts,5882,512,283,,,HERB003988,0
+284,牡丹皮,Mudanpi,"Cortex Moutan,Moutan Cortex",Tree Peony Bark,"苦,辛,微寒","Bitter,Pungent,Slightly Cold","心,肝,肾","Heart,Liver,Kidney",清热凉血药,Heat Clearing Blood Cooling Drugs,root cortex,1688,516,284,,,HERB004013,0
+285,牡荆叶,Mujingye,"Folium Viticis Negundo,Viticis Negundo Foliun",Hempleaf Negundo Chastetree Leaf,"微苦,辛,平","Slightly Bitter,Pungent,Calm",肺,Lung,辛凉解表药,Pungent Cool Diaphoretics,,6455,1011,285,,,HERB004040,0
+286,牡荆子,Mujingzi,,Viticis Canbifoliae Fructus,"苦,辛,温","Bitter,Pungent,Warm","肺,大肠","Lung,Large Intestine",止咳平喘药,Antitussive Antiasthmetics,fruit,3959,,286,,,HERB004036|HERB004042,0
+287,木鳖子,Mubiezi,Momordicae Semen,Momordicae Semen,"苦,微甘,凉,有毒","Bitter,Slightly Sweet,Cool,Toxic","肝,脾,胃","Liver,Spleen,Stomach",拔毒化腐生肌药,"External Medicinal (Draw Out Toxin, Resolve Putridity)",,,,287,,,HERB004009|HERB004011,0
+288,木瓜,Mugua,"Fructus Chaenomelis,Chaenomelis Fructus",fruit of Common Floweringquince,"酸,温","Sour,Warm","肝,脾","Liver,Spleen",祛风湿散寒药,Wind-Dampnessdispelling And Colddispersing Medicinal,fruit,7903,518,288,,,HERB004021,0
+289,木蝴蝶,Muhudie,"Semen Oroxyli,Oroxyli Semen",Indian Trumpetflower Seed,"苦,甘,凉","Bitter,Sweet,Cool","肺,肝,胃","Lung,Liver,Stomach",清热解毒药,Antipyretic Detoxicate Drugs,seed,2595,1009,289,,,HERB004029,0
+290,木棉花,Mumianhua,"Gossampini Flos,Flos Gossampini",Flower of Common Bombax,"甘,淡,凉","Sweet,Tasteless,Cool",大肠,Large Intestine,拔毒化腐生肌药,"External Medicinal (Draw Out Toxin, Resolve Putridity)",flower,2297,521,290,,,HERB004055,0
+291,木通,Mutong,"Akebiae Caulis,Caulis Aristolochiae Seu Clematis","Akebia, Clematis stem","苦,寒","Bitter,Cold","心,小肠,膀胱","Heart,Small Intestine,Bladder",利水渗湿药,Diuretic Dampness Excreting Drugs,stem,3172,523,291,,,HERB004060,0
+292,木香,Muxiang,"Radix Aucklandiae,Aucklandiae Radix",Common Aucklandia Root,"辛,苦,温","Pungent,Bitter,Warm","脾,胃,大肠,三焦,胆","Spleen,Stomach,Large Intestine,Triple Energizers,Gallbladder",理气药,Qi Regulating Drugs,root,7167,524,292,,,HERB004064,0
+293,木贼,Muzei,"Herba Equiseti Hiemalis,Equiseti Hiemalis Herba",Common Scouring Rush Herb,"甘,苦,平","Sweet,Bitter,Calm","肺,肝","Lung,Liver",辛凉解表药,Pungent Cool Diaphoretics,aerial parts,5534,525,293,,,HERB004068,0
+294,墓头回,Mutouhui,,Et Radix Patriniae Rhizoma,"苦,微酸涩,凉","Bitter,Slightly Sour,Cool","心,肝","Heart,Liver",清热解毒药,Antipyretic Detoxicate Drugs,,,,294,,,HERB004063,0
+295,南瓜子,nguazi,Semen Cucurbitae Moschatae,Pumpkin seed and husks,"甘,平","Sweet,Calm",大肠,Large Intestine,驱虫药,Antiparasitic Drugs,seed,2976,1013,295,,,HERB004092,0
+296,南鹤虱,Nanheshi,Carotae Fructus,Fructus Carotae,"苦,辛,平,有小毒","Bitter,Pungent,Calm,Slightly Toxic","脾,胃","Spleen,Stomach",驱虫药,Antiparasitic Drugs,fruit,4934,,296,,,HERB004093,0
+297,南沙参,Nanshashen,"Radix Adenophorae,Adenophorae Radix",Fourleaf Ladybell Root,"甘,微寒","Sweet,Slightly Cold","肺,胃","Lung,Stomach",补阴药,Yin-Tonifying Medicinal,,3481,1015,297,,,HERB004102,0
+298,南蛇藤果,nshetengguo,,Celastri Orbiculati Fructus,"甘,微苦,平","Sweet,Slightly Bitter,Calm",,,安神药,Tranguilizing Medicinal,,,,298,,,HERB004107,0
+299,南五味子,Nanwuweizi,"Schisandrae Sphenantherae 
+Fructus",Schisandrae Sphentherae Fructus,"酸,甘,温","Sour,Sweet,Warm","肺,心,肾","Lung,Heart,Kidney",收涩药,Astringent Medicinal,,,,299,,,HERB004118,0
+300,闹羊花,Naoyanghua,"Rhododendri Mollis Flos,Flos Rhododendri Mollis",Yellow Azalea Flower,"辛,温,有大毒","Pungent,Warm,Extremely Poisonous",肝,Liver,祛风湿散寒药,Wind-Dampnessdispelling And Colddispersing Medicinal,flower,1702,1016,300,,,HERB004129,0
+301,牛蒡子,Niubangzi,"Fructus Arctii Lappae,Arctil  Fructus",achene of Great Burdock,"辛,苦,寒","Pungent,Bitter,Cold","肺,胃","Lung,Stomach",辛凉解表药,Pungent Cool Diaphoretics,fruit,3167,530,301,,,HERB004191,0
+302,牛大力,Niudali,,Millettiae Speciosae Radix,"甘,苦,平","Sweet,Bitter,Calm",,,止咳平喘药,Antitussive Antiasthmetics,,,,302,,,HERB004193,0
+303,牛黄,Niuhuang,"Calculus Bovis,Bovis Calculus",Cow-bezoar,"甘,凉","Sweet,Cool","心,肝","Heart,Liver",开窍药,Resuscitative Stimulant; Resuscitative Medicinal,gallstone,8190,531,303,,,HERB004201,0
+304,牛膝,Niuxi,"Radix Achyranthis Bidentatae,Achyranthis Bidentatae Radix",root of Twotooth Achyranthes,"苦,甘,酸,平","Bitter,Sweet,Sour,Calm","肝,肾","Liver,Kidney",活血祛瘀药,Blood Activating Stasis Removing Drugs,root,1561,533,304,,,HERB004218,0
+305,糯稻根,Nuodaogen,Radix Oryzae Glutinosae,Glutinous Rice root,"甘,平","Sweet,Calm","肺,肾","Lung,Kidney",收涩药,Astringent Medicinal,,6372,1031,305,,,HERB004239|HERB004712,0
+306,女贞子,Nüzhenzi,"Ligustri Lucidi Fructus,Fructus Ligustri Lucidi",fruit of Glossy privet,"甘,苦,凉","Sweet,Bitter,Cool","肝,肾","Liver,Kidney",补阴药,Yin-Tonifying Medicinal,,6266,535,306,,,HERB004237|HERB004242,0
+307,藕节,Oujie,"Nelumbinis Rhizomatis Nodus,Nodus Nelumbinis Rhizomatis",node of lotus rhizome,"甘,涩,平","Sweet,Astringent,Calm","肝,肺,胃","Liver,Lung,Stomach",收敛止血药,Astringent Hemostatic Medicinal,,7353,536,307,,,HERB004251,0
+308,胖大海,Pangdahai,"Sterculiae Lychnophorae Semen,Semen Sterculiae Lychnophorae",Boat-fruited Sterculia Seed,"甘,寒","Sweet,Cold","肺,大肠","Lung,Large Intestine",化痰药,Phlegresolving Medicine,,6220,1018,308,,,HERB004316|HERB004317,0
+309,佩兰,Peilan,"Eupatorii Herba,Herba Eupatorii",Fortune Eupatorium Herb,"辛,平","Pungent,Calm","脾,胃,肺","Spleen,Stomach,Lung",化湿药,Dampness Removing Drugs,aerial parts,4280,544,309,,,HERB004330,0
+310,枇杷叶,Pipaye,"Eriobotryae Folium,Folium Eriobotryae",Loquat Leaf,"苦,微寒","Bitter,Slightly Cold","肺,胃","Lung,Stomach",止咳平喘药,Antitussive Antiasthmetics,leaf,6087,546,310,,,HERB004350,0
+311,平贝母,Pingbeimu,"Bulbus Fritillariae Ussuriensis,Fritillariae Ussuriensis Bulbus",Ussuri Fritillary Bulb,"苦,甘,微寒","Bitter,Sweet,Slightly Cold","肺,心","Lung,Heart",化痰药,Phlegresolving Medicine,bulb,2131,1020,311,,,HERB004366,0
+312,蒲黄,Puhuang,"Typhae Pollen,Pollen Typhae",pollen of longbract cattail,"甘,平","Sweet,Calm","肝,心包","Liver,Pericardium",化瘀止血药,Stasis-Resolving Hemostatic Medicinal,pollen,3598,551,312,,,HERB004402,0
+313,荠菜,Jicai,Herba Capsellae,all-grass of Shepherdspurse,"甘,淡,凉","Sweet,Tasteless,Cool","肝,脾,膀胱","Liver,Spleen,Bladder",利水渗湿药,Diuretic Dampness Excreting Drugs,whole herb with root,1167,976,313,,,HERB002655,0
+314,千斤拔,Qianjinba,Radix Moghaniae Philippinensis,root of Philippine Flemingia,"甘,辛,微涩,平","Sweet,Pungent,Slightly Astringent,Calm",,,祛风湿筋骨药,Wind-Damp-Dispelling And Sinew-Bone-Strengthening Medicinal,,7490,565,314,,,HERB004457,0
+315,千金子,Qianjinzi,"Semen Euphorbiae,Euphorbiae Semen",Caper Euphorbia Seed,"辛,温,有毒","Pungent,Warm,Toxic","肝,肾,大肠","Liver,Kidney,Large Intestine",通水药,Drastic Purgatives,ripe seed without seed coat,1392,1023,315,,,HERB004460,0
+316,千年健,Qiannianjian,"Homalomenae Rhizoma,Rhizoma Homalomee Occultae",rhizome of Obscured Homalome,"苦,辛,温","Bitter,Pungent,Warm","肝,肾","Liver,Kidney",祛风湿筋骨药,Wind-Damp-Dispelling And Sinew-Bone-Strengthening Medicinal,,1887,567,316,,,HERB004468,0
+317,千日红,Qianrihong,Flos Gomphree,flower of Globeamaranth,"甘,微咸,平","Sweet,Slightly Salty,Calm",,,止咳平喘药,Antitussive Antiasthmetics,inflorescence or herb,5813,1025,317,,,HERB004471,0
+318,牵牛子,Qianniuzi,"Pharbitidis Semen,Semen Pharbitidis",Pharbitis seed,"苦,寒,有毒","Bitter,Cold,Toxic","肺,肾,大肠","Lung,Kidney,Large Intestine",通水药,Drastic Purgatives,seed,7785,568,318,,,HERB004469,0
+319,前胡,Qianhu,"Peucedani Radix,Radix Peucedani",root of Grand Hogfennel,"苦,辛,微寒","Bitter,Pungent,Slightly Cold",肺,Lung,化痰药,Phlegresolving Medicine,root,5101,564,319,,,HERB004453|HERB005937,0
+320,芡实,Qianshi,"Semen Euryales,Euryales Semen",seed of Gordon Euryale,"甘,涩,平","Sweet,Astringent,Calm","脾,肾","Spleen,Kidney",收涩药,Astringent Medicinal,,5738,569,320,,,HERB004472,0
+321,茜草,Qiancao,"Rubiae Radix Et Rhizoma,Radix Rubiae",root of Tali Madder,"苦,寒","Bitter,Cold",肝,Liver,化瘀止血药,Stasis-Resolving Hemostatic Medicinal,,3281,561,321,,,HERB004446,0
+322,羌活,Qianghuo,"Radix Et Rhizoma Notopterygii,Notopterygii Rhizoma Et Radix",Root and rhizome of Incised Notoptergium,"辛,苦,温","Pungent,Bitter,Warm","膀胱,肾","Bladder,Kidney",辛温解表药,Pungent-Warm Exterior-Releasing Medicinal,rhizome or root,7549,570,322,,,HERB004479,0
+323,茄根,Qiegeng,Radix Solani Melongee,root of Garden Eggplant,"甘,辛,寒","Sweet,Pungent,Cold","脾,大肠,胃","Spleen,Large Intestine,Stomach",祛风湿清热药,Wind-Dampnessdispelling And Heatclearing Medicinal,,6062,386,323,,,HERB002740|HERB004500,0
+324,秦艽,Qinjiao,"Radix Gentiae Macrophyllae,Gentianae Macrophyllae Radix",root of Largeleaf Gentian,"辛,苦,平","Pungent,Bitter,Calm","胃,肝,胆","Stomach,Liver,Gallbladder",祛风湿清热药,Wind-Dampnessdispelling And Heatclearing Medicinal,dried root,5116,574,324,,,HERB004507,0
+325,秦皮,Qinpi,"Cortex Fraxini,Fraxini Cortex",bark of Largeleaf Chinese Ash,"苦,涩,寒","Bitter,Astringent,Cold","肝,胆,大肠","Liver,Gallbladder,Large Intestine",清热燥湿药,Heat-Clearing And Dampnessdrying Medicinal,,5035,576,325,,,HERB004513,0
+326,青黛,Qingdai,"Indigo Naturalls,Indigo Turalis",tural Indigo,"咸,寒","Salty,Cold",肝,Liver,清热解毒药,Antipyretic Detoxicate Drugs,,6275,577,326,,,HERB004516,0
+327,青风藤,Qingfengteng,Sinomenii Caulis,Caulis Sinomenii,"苦,辛,平","Bitter,Pungent,Calm","肝,脾","Liver,Spleen",祛风湿散寒药,Wind-Dampnessdispelling And Colddispersing Medicinal,,,,327,,,HERB004518,0
+328,青果,Qingguo,Canarii Fructus,Carii Fructus,"甘,酸,平","Sweet,Sour,Calm","肺,胃","Lung,Stomach",清热解毒药,Antipyretic Detoxicate Drugs,,,,328,,,HERB004519,0
+329,青蒿,Qinghao,"Artemisiae Annuae Herba,Herba Artemisiae Annuae",Sweet Wormwood Herb,"苦,辛,寒","Bitter,Pungent,Cold","肝,胆","Liver,Gallbladder",清虚热药,Asthenic Heat Dispelling Drugs,whole herb,4964,1026,329,,,HERB004520,0
+330,青皮,Qingpi,"Citri Reticulatae Pericarpium Viride,Pericarpium Citri Reticulatae Viride",Green Tangerine Peel,"苦,辛,温","Bitter,Pungent,Warm","肝,胆,胃","Liver,Gallbladder,Stomach",理气药,Qi Regulating Drugs,,6229,585,330,,,HERB004534,0
+331,青葙子,Qingxiangzi,Celosiae Semen,Celosiae Semen,,"Bitter,Slightly Cold",肝,Liver,清热泻火药,Fire Purging Drugs,,,,331,,,HERB004543,0
+332,青叶胆,Qingyedan,"Swertiae Mileensis Herba,Herba Swertiae",All - grass of Mile Swertia,"苦,甘,寒","Bitter,Sweet,Cold","肝,胆,膀胱","Liver,Gallbladder,Bladder",利水渗湿药,Diuretic Dampness Excreting Drugs,whole herb,6392,587,332,,,HERB004546,0
+333,苘麻子,Qingmazi,"Abutili Semen,Semen Abutili",Chingma Abutilon Seed,"苦,平","Bitter,Calm","大肠,小肠,膀胱","Large Intestine,Small Intestine,Bladder",利水渗湿药,Diuretic Dampness Excreting Drugs,,3032,1027,333,,,HERB004527,0
+334,瞿麦,Qumai,"Dianthi Herba,Herba Dianthi",all-grass of Lilac Pink,"苦,寒","Bitter,Cold","心,小肠","Heart,Small Intestine",利水渗湿药,Diuretic Dampness Excreting Drugs,aerial parts,2962,588,334,,,HERB004569,0
+335,拳参,Quanshen,"Bistortae Rhizoma,Rhizoma Bistortae",rhizome of Bistort,"苦,涩,微寒","Bitter,Astringent,Slightly Cold","肺,肝,大肠","Lung,Liver,Large Intestine",清热解毒药,Antipyretic Detoxicate Drugs,rhizome,6440,590,335,,,HERB004578,0
+336,人参,Renshen,"Ginseng Radix Et Rhizoma,Radix Ginseng",Ginseng,"甘,微苦,微温","Sweet,Slightly Bitter,Slightly Warm","脾,肺,心,肾","Spleen,Lung,Heart,Kidney",补气药,Qi Reinforcing Drugs,root,7519,594,336,,,HERB004609,0
+337,人参叶,Renshenye,"Ginseng Folium,Folium Ginseng",Ginseng Leaf,"苦,甘,寒","Bitter,Sweet,Cold","肺,胃","Lung,Stomach",补气药,Qi Reinforcing Drugs,leaf,5140,1029,337,,,HERB004616,0
+338,肉苁蓉,Roucongrong,"Herba Cistanches,Cistanches Herba",Desertliving Cistanche,"甘,咸,温","Sweet,Salty,Warm","肾,大肠","Kidney,Large Intestine",补阳药,Yang Reinforcing Drugs,fleshy stem,2463,596,338,,,HERB004692,0
+339,肉豆蔻,Roudoukou,"Semen Myristicae,Myristicae Semen",Nutmeg,"辛,温","Pungent,Warm","脾,胃,大肠","Spleen,Stomach,Large Intestine",收涩药,Astringent Medicinal,kernel,6373,597,339,,,HERB004693,0
+340,肉桂,Rougui,"Cortex Cinmomi,Cinnamomi Cortex",Cassia Bark,"辛,甘,大热","Pungent,Sweet,Big Hot","肾,脾,心,肝","Kidney,Spleen,Heart,Liver",温里药,Warming Interior Drugs,bark,6321,598,340,,,HERB004694,0
+341,乳香,Ruxiang,"Olibanum,Resi Oliani",Frankincense,"辛,苦,温","Pungent,Bitter,Warm","心,肝,脾","Heart,Liver,Spleen",活血祛瘀药,Blood Activating Stasis Removing Drugs,balsam,3566,599,341,,,HERB004719,0
+342,蕤仁,Ruiren,"Prinsepiae Nux,Nux Prinsepiae",Hedge Prinsepia Nut,"甘,微寒","Sweet,Slightly Cold",肝,Liver,辛凉解表药,Pungent Cool Diaphoretics,,6161,1032,342,,,HERB004734,0
+343,三白草,Sanbaicao,"Saururi Herba,Rhizoma Seu Herba Saururi",Chinese Lizardtail Rhizome or Herb,"甘,辛,寒","Sweet,Pungent,Cold","肺,膀胱","Lung,Bladder",利水渗湿药,Diuretic Dampness Excreting Drugs,rhizome or whole plant,4509,1033,343,,,HERB004752,0
+344,三分三,Sanfensan,,Anisodus Acutangulus C. Y. Wu Et C .Chen Ex C. Che,"苦,辛,温,大毒","Bitter,Pungent,Warm,Extremely Poisonous",,,祛风湿散寒药,Wind-Dampnessdispelling And Colddispersing Medicinal,,,,344,,,HERB004762,0
+345,三棱,Sanleng,"Rhizoma Sparganii,Sparganii Rhizoma",Common Burreed Tuber,"辛,苦,平","Pungent,Bitter,Calm","肝,脾","Liver,Spleen",活血祛瘀药,Blood Activating Stasis Removing Drugs,tuber,1966,601,345,,,HERB004774,0
+346,三七,Sanqi,"Radix Notoginseng,Notoginseng Radix Et Rhizoma",Sanchi,"甘,微苦,温","Sweet,Slightly Bitter,Warm","肝,胃","Liver,Stomach",化瘀止血药,Stasis-Resolving Hemostatic Medicinal,root,3797,602,346,,,HERB004783,0
+347,三七花,Sanqihua,,Notoginseng Flos,"甘,微苦,凉","Sweet,Slightly Bitter,Cool",,,清热解毒药,Antipyretic Detoxicate Drugs,,,,347,,,HERB004785,0
+348,桑白皮,Sangbaipi,Mori Cortex,Cortex Mori,"甘,寒","Sweet,Cold",肺,Lung,止咳平喘药,Antitussive Antiasthmetics,,7707,,348,,,HERB004822|HERB004954,0
+349,桑寄生,Sangjisheng,"Herba Taxilli,Taxilli Herba",Chinese Taxillus Herb,"苦,甘,平","Bitter,Sweet,Calm","肝,肾","Liver,Kidney",祛风湿筋骨药,Wind-Damp-Dispelling And Sinew-Bone-Strengthening Medicinal,stem and branch-leaf,4667,605,349,,,HERB004829,0
+350,桑椹,Sangshen,"Mori Fructus,Fructus Mori",Mulberry Fruit,"甘,酸,寒","Sweet,Sour,Cold","心,肝,肾","Heart,Liver,Kidney",补阴药,Yin-Tonifying Medicinal,,5445,607,350,,,HERB004832,0
+351,桑叶,Sangye,"Mori Folium,Folium Mori",Mulberry Leaf,"甘,苦,寒","Sweet,Bitter,Cold","肺,肝","Lung,Liver",辛凉解表药,Pungent Cool Diaphoretics,leaf,3537,608,351,,,HERB004834,0
+352,桑枝,Sangzhi,"Ramulus Mori,Mori Ramulus",Mulberry Twig,"微苦,平","Slightly Bitter,Calm",肝,Liver,祛风湿清热药,Wind-Dampnessdispelling And Heatclearing Medicinal,young twig,6678,609,352,,,HERB004837,0
+353,沙棘,Shaji,"Fructus Hippophae,Hippophae Fructus",fruit of seabuckthorn,"酸,涩,温","Sour,Astringent,Warm","脾,胃,肺,心","Spleen,Stomach,Lung,Heart",化痰药,Phlegresolving Medicine,,6348,613,353,,,HERB004849,0
+354,沙苑子,Shayuanzi,"Astragali Complanati Semen,Semen Astragali Complati",Flatstem Milkvetch Seed,"甘,温","Sweet,Warm","肝,肾","Liver,Kidney",补阳药,Yang Reinforcing Drugs,,2516,1035,354,,,HERB004864,0
+355,砂仁,Sharen,"Amomi Fructus,Fructus Amomi",Villous Amomum Fruit,"辛,温","Pungent,Warm","脾,胃,肾","Spleen,Stomach,Kidney",化湿药,Dampness Removing Drugs,ripe fruit or seed,3351,614,355,,,HERB004853,0
+356,山慈菇,Shancigu,"Cremastrae Pseudobulbus
+Pleiones Pseudobulbus,Pseudobulbus Cremastrae Seu Pleiones",Appendiculate Cremastra Pseudobulb or Common Pleione Pseudobulb,"甘,微辛,凉","Sweet,Slightly Pungent,Cool","肝,脾","Liver,Spleen",清热解毒药,Antipyretic Detoxicate Drugs,whole herb,6320,1036,356,,,HERB004874,0
+357,山豆根,Shandougen,"Radix Sophorae Tonkinensis,Sophorae Tonkinensis Radix Et Rhizoma",Vietmese Sophora Root,"苦,寒,有毒","Bitter,Cold,Toxic","肺,胃","Lung,Stomach",清热解毒药,Antipyretic Detoxicate Drugs,root and rhizome,1334,618,357,,,HERB004883,0
+358,山柰,Shannai,"Rhizoma Kaempferiae,Kaempferiae Rhizoma",Galanga Resurrectionlily Rhizome,"辛,温","Pungent,Warm",胃,Stomach,温里药,Warming Interior Drugs,rhizome,6821,622,358,,,HERB004914,0
+359,山药,Shanyao,"Rhizoma Dioscoreae,Dioscoreae Rhizoma",Common Yam Rhizome,"甘,平","Sweet,Calm","脾,肺,肾","Spleen,Lung,Kidney",补气药,Qi Reinforcing Drugs,rhizome,4987,1038,359,,,HERB004938,0
+360,山楂叶,Shanzha,Crataegi Folium,Crataegi Folium,"酸,平","Sour,Calm",肝,Liver,活血祛瘀药,Blood Activating Stasis Removing Drugs,leaf,3766,,360,,,HERB004948,0
+361,山茱萸,Shanzhuyu,"Fructus Corni,Corni Fructus",Asiatic Cornelian Cherry Fruit,"酸,涩,微温","Sour,Astringent,Slightly Warm","肝,肾","Liver,Kidney",收涩药,Astringent Medicinal,fruit,5433,626,361,,,HERB004950,0
+362,商陆,Shanglu,"Radix Phytolaccae,Phytolaccae Radix",Pokeberry Root,"苦,寒,有毒","Bitter,Cold,Toxic","肺,脾,肾,大肠","Lung,Spleen,Kidney,Large Intestine",通水药,Drastic Purgatives,root,4080,627,362,,,HERB004957,0
+363,蛇床子,Shechuangzi,"Cnidii Fructus,Fructus Cnidii",Common Cnidium Fruit,"辛,苦,温,有小毒","Pungent,Bitter,Warm,Slightly Toxic",肾,Kidney,解毒杀虫燥湿止痒药,Medicinal For Detoxification、Parasiticide、Drying Dampness And Relieving Itching,fruit,5805,628,363,,,HERB004971,0
+364,射干,Shegan,"Belamcandae Rhizoma,Rhizoma Belamcandae",Blackberrylily Rhizome,"苦,寒","Bitter,Cold",肺,Lung,清热解毒药,Antipyretic Detoxicate Drugs,rhizome,7395,630,364,,,HERB004973,0
+365,伸筋草,Shenjincao,"Herba Lycopodii,Lycopodii Herba",Common Clubmoss Herb,"微苦,辛,温","Slightly Bitter,Pungent,Warm","肝,脾,肾","Liver,Spleen,Kidney",祛风湿散寒药,Wind-Dampnessdispelling And Colddispersing Medicinal,,3827,635,365,,,HERB004998|HERB004999,0
+366,升麻,Shengma,"Cimicifugae Rhizoma,Rhizoma Cimicifugae",Largetrifoliolious Bugbane Rhizome,"辛,微甘,微寒","Pungent,Slightly Sweet,Slightly Cold","肺,脾,胃,大肠","Lung,Spleen,Stomach,Large Intestine",辛凉解表药,Pungent Cool Diaphoretics,rhizome,4158,644,366,,,HERB005022,0
+367,生姜,Shengjiang,"Zingiberis Rhizoma Recens,Rhizoma Zingiberis Recens",Fresh Ginger,"辛,微温","Pungent,Slightly Warm","肺,脾,胃","Lung,Spleen,Stomach",辛温解表药,Pungent-Warm Exterior-Releasing Medicinal,fresh rhizome,6203,640,367,,,HERB005017,0
+368,十大功劳根,Shidagonglaogen,,Mahoniae Eadix,"寒,苦","Cold,Bitter",,,清热解毒药,Antipyretic Detoxicate Drugs,,,,368,,,HERB005034,0
+369,十大功劳叶,Shidagonglaoye,Folium Mahoe,leaf of leatherleaf Mahonia,"苦,寒","Bitter,Cold","肺,肝,肾","Lung,Liver,Kidney",清热解毒药,Antipyretic Detoxicate Drugs,leaf,3363,649,369,,,HERB000944|HERB005036,0
+370,石菖蒲,Shichangpu,"Rhizoma Acori Talarinowii,Acori Tatarinowii Rhizoma",Grassleaf Sweetflag Rhizome,"辛,苦,温","Pungent,Bitter,Warm","心,胃","Heart,Stomach",开窍药,Resuscitative Stimulant; Resuscitative Medicinal,Rhizome,6059,648,370,,,HERB005030,0
+371,石见穿,Shijianchuan,,Salviae Chinensis Herba,"辛,苦,微寒","Pungent,Bitter,Slightly Cold",,,活血祛瘀药,Blood Activating Stasis Removing Drugs,,,,371,,,HERB005059,0
+372,石榴皮,Shiliupi,"Granati Pericarpium,Pericarpium Grati",Pomegrate Rind,"酸,涩,温","Sour,Astringent,Warm",大肠,Large Intestine,收涩药,Astringent Medicinal,pericarp,2047,658,372,,,HERB005071,0
+373,石上柏,Shishangbai,,Selaginella Doederleinii Hieron,"甘,微苦,涩,凉","Sweet,Slightly Bitter,Astringent,Cool",,,清热解毒药,Antipyretic Detoxicate Drugs,,2442,,373,,,HERB005085,0
+374,石韦,Shiwei,Pyrrosiae Folium,Pyrrosiae Folium,"甘,苦,微寒","Sweet,Bitter,Slightly Cold","肺,膀胱","Lung,Bladder",利水渗湿药,Diuretic Dampness Excreting Drugs,,,,374,,,HERB005092,0
+375,使君子,Shijunzi,"Quisqualis Fructus,Fructus Quisqualis",fruit of Rangooncreeper,"甘,温","Sweet,Warm","脾,胃","Spleen,Stomach",驱虫药,Antiparasitic Drugs,ripe fruit,4574,655,375,,,HERB005062,0
+376,柿蒂,Shidi,"Calyx Kaki,Kaki Calyx",calyx and receptacle of a Persimmon,"苦,涩,平","Bitter,Astringent,Calm",胃,Stomach,理气药,Qi Regulating Drugs,calyx,3817,650,376,,,HERB005039,0
+377,熟地黄,Shudihuang,"Rehmanniae Radix Praeparata,Radix Rehmanniae Preparata",Prepared Rehmannia Root,"甘,微温","Sweet,Slightly Warm","肝,肾","Liver,Kidney",补血药,Blood-Tonifying Medicinal,steamed and sundried root,1774,665,377,,,HERB005118,0
+378,鼠曲草,Shuqucao,,Gphalii Affinis Herba,"甘,微酸,平","Sweet,Slightly Sour,Calm",肺,Lung,化痰药,Phlegresolving Medicine,,,,378,,,HERB005132,0
+379,水飞蓟,Shuifeiji,Silybi Fructus,Silybum Marianum,"苦,凉","Bitter,Cool","肝,胆","Liver,Gallbladder",清热解毒药,Antipyretic Detoxicate Drugs,achene,7047,,379,,,HERB005162,0
+380,水红花子,Shuihonghuazi,"Polygoni Orientalis Fructus,Fructus Polygoni Orientalis",Prince's-feather Fruit,"咸,微寒","Salty,Slightly Cold","肝,胃","Liver,Stomach",活血祛瘀药,Blood Activating Stasis Removing Drugs,,2695,1042,380,,,HERB005165,0
+381,四季青,Sijiqing,"Folium Llicis Chinensis,Ilicis Chinensis Folium",Purpleflower Holly Leaf,"苦,涩,凉","Bitter,Astringent,Cool","肺,大肠,膀胱","Lung,Large Intestine,Bladder",清热解毒药,Antipyretic Detoxicate Drugs,leaf,2057,167,381,,,HERB005228,0
+382,松花粉,Songhuafen,Pini Pollen,Pine Pollen,"甘,温","Sweet,Warm","肝,脾","Liver,Spleen",收敛止血药,Astringent Hemostatic Medicinal,,,,382,,,HERB005258,0
+383,油松节,Songjie,"Lignum Pini Nodi,Pini Lignum Nodi","Knotty pine wood, Pine nodular branch","苦,辛,温","Bitter,Pungent,Warm","肝,肾","Liver,Kidney",祛风湿散寒药,Wind-Dampnessdispelling And Colddispersing Medicinal,,3343,169,383,,,,0
+384,松子仁,Songziren,,Semen Pini Koraiensis,"甘,温","Sweet,Warm",,,润下药,Laxatives,,,,384,,,HERB005273,0
+385,苏合香,Suhexiang,Styrax,Storax,"辛,温","Pungent,Warm","心,脾","Heart,Spleen",开窍药,Resuscitative Stimulant; Resuscitative Medicinal,balsam from trunk,6474,671,385,,,HERB005287,0
+386,酸枣仁,Suanzaoren,"Ziziphi Spinosae Semen,Semen Ziziphi Spinosae",Spine Date Seed,"甘,酸,平","Sweet,Sour,Calm","肝,胆,心","Liver,Gallbladder,Heart",安神药,Tranguilizing Medicinal,seed,4780,678,386,,,HERB005319,0
+387,娑罗子,Suoluozi,"Aesculi Semen,Semen Aesculi",Buckeye Seed,"甘,温","Sweet,Warm","肝,胃","Liver,Stomach",理气药,Qi Regulating Drugs,ripe fruit without shell,3802,1049,387,,,HERB005335,0
+388,太子参,Taizishen,"Radix Pseudostellariae,Pseudostellariae Radix",Heterophylly Falsestarwort Root,"甘,微苦,平","Sweet,Slightly Bitter,Calm","脾,肺","Spleen,Lung",补气药,Qi Reinforcing Drugs,,7115,682,388,,,HERB005390,0
+389,檀香,Tanxiang,"Santali Albi Lignum,Lignum Santaii Albi",Sandalwood,"辛,温","Pungent,Warm","脾,胃,心,肺","Spleen,Stomach,Heart,Lung",理气药,Qi Regulating Drugs,heartwood,3960,683,389,,,HERB005392,0
+390,桃仁,Taoren,"Persicae Semen,Semen Persicae",Peach Seed,"苦,甘,平","Bitter,Sweet,Calm","心,肝,大肠","Heart,Liver,Large Intestine",活血祛瘀药,Blood Activating Stasis Removing Drugs,seed,5712,684,390,,,HERB005412,0
+391,天冬,Tiandong,"Asparagi Radix,Radix Asparagi",Cochinchinese Asparagus Root,"甘,苦,寒","Sweet,Bitter,Cold","肺,肾","Lung,Kidney",补阴药,Yin-Tonifying Medicinal,,1284,687,391,,,HERB005434,0
+392,天花粉,Tianhuafen,"Trichosanthis Radix,Radix Trichosanthis","Trichosanthes root, Skegourd root","甘,微苦,微寒","Sweet,Slightly Bitter,Slightly Cold","肺,胃","Lung,Stomach",清热泻火药,Fire Purging Drugs,root,1211,1052,392,,,HERB005444,0
+393,天葵子,Tiankuizi,"Radix Semiaquilegiae,Semiaquilegiae Radix",Muskroot-like Semiaquilegia Root,"甘,苦,寒","Sweet,Bitter,Cold","肝,胃","Liver,Stomach",清热解毒药,Antipyretic Detoxicate Drugs,,5120,690,393,,,HERB005447,0
+394,天南星,Tiannanxing,"Rhizoma Arisaematis,Arisaematis Rhizoma",Jackinthepulpit Tuber,"苦,辛,温,有毒","Bitter,Pungent,Warm,Toxic","肺,肝,脾","Lung,Liver,Spleen",化痰药,Phlegresolving Medicine,tuber,7309,692,394,,制天南星,HERB005455,0
+395,天山雪莲,Tianshanxuelian,Saussureae Involucratae Herba,Saussureae Involucratae Herba,"微苦,温","Slightly Bitter,Warm",,,补阳药,Yang Reinforcing Drugs,,,,395,,,HERB005471,0
+396,天仙藤,Tianxianteng,Herba Aristolochiae,Dutchmanspipe Vine,,,,,祛风湿散寒药,Wind-Dampnessdispelling And Colddispersing Medicinal,"root, stem or leaf",4571,1054,396,,,HERB005476,1
+397,天仙子,Tianxianzi,"Hyoscyami Semen,Semen Hyoscyami",Henbane Seed,"苦,辛,温,有大毒","Bitter,Pungent,Warm,Extremely Poisonous","心,胃,肝","Heart,Stomach,Liver",止咳平喘药,Antitussive Antiasthmetics,,3935,695,397,,,HERB005477,0
+398,天竺黄,Tianzhuhuang,"Bambusae Concretio Silicea,Concretio Silicea Bambusae",Chinese schinzostachyum Tabasheer,"甘,寒","Sweet,Cold","心,肝","Heart,Liver",化痰药,Phlegresolving Medicine,,3475,696,398,,,HERB005485,0
+399,甜瓜子,Tianguazi,"Melo Semen,Semen Cucumis",muskmelon seed,"甘,寒","Sweet,Cold","肺,胃,大肠","Lung,Stomach,Large Intestine",化痰药,Phlegresolving Medicine,,4853,688,399,,,HERB005442,0
+400,铁丝威灵仙,Tiesiweilingxian,Radix Smilacis,root and rhizome of smilax,"温,辛,咸","Warm,Pungent,Salty",,,祛风湿清热药,Wind-Dampnessdispelling And Heatclearing Medicinal,,1651,699,400,411,,HERB005508,1
+401,铁线透骨草,Tiexiantougucao,,Herba Clematidis Aethusaefoliae,"辛,咸,温,小毒","Pungent,Salty,Warm,Slightly Toxic",,,祛风湿散寒药,Wind-Dampnessdispelling And Colddispersing Medicinal,,,,401,,,HERB005511,0
+402,葶苈子,Tinglizi,"Semen Lepiddi Seu Descurainiae;Semen Lepidii；Semen Descurainiae,Descurainiae Semen Lepidii Semen","Lepidium seed, Descurainia seed","辛,苦,大寒","Pungent,Bitter,Big Chill","肺,膀胱","Lung,Bladder",止咳平喘药,Antitussive Antiasthmetics,seed,7213,703,402,,,HERB005519,0
+403,通草,Tongcao,"Medulla Tetrapacis,Tetrapanacis Medulla",puth of Ricepaperplant,"甘,淡,微寒","Sweet,Tasteless,Slightly Cold","肺,胃","Lung,Stomach",利水渗湿药,Diuretic Dampness Excreting Drugs,,6838,705,403,,,HERB005523,0
+404,土贝母,Tubeimu,"Bolbostemmatis Rhizoma,Rhizoma Bolbostemmae",Paniculate Bolbostemma,"苦,微寒","Bitter,Slightly Cold","肺,脾","Lung,Spleen",化痰药,Phlegresolving Medicine,,7369,709,404,,,HERB005548,0
+405,土茯苓,Tufuling,"Rhizoma Smilacis Glabrae,Smilacis Glabrae Rhizoma",Glabrous Greenbrier Rhizome,"甘,淡,平","Sweet,Tasteless,Calm","肝,胃","Liver,Stomach",清热解毒药,Antipyretic Detoxicate Drugs,rhizome,3215,710,405,,,HERB005564,0
+406,土荆皮,Tujingpi,Pseudolaricis Cortex,Pseudolaricis Cortex,"辛,温,有毒","Pungent,Warm,Toxic","肺,脾","Lung,Spleen",解毒杀虫燥湿止痒药,Medicinal For Detoxification、Parasiticide、Drying Dampness And Relieving Itching,,,,406,,,HERB005569,0
+407,菟丝子,Tusizi,"Cuscutae Semen,Semen Cuseutae;Semen Cuseutae",Dodder Seed,"辛,甘,平","Pungent,Sweet,Calm","肝,肾,脾","Liver,Kidney,Spleen",补阳药,Yang Reinforcing Drugs,,6456,713,407,,,HERB005580,0
+408,瓦楞子,Walengzi,"Concha Arcae,Arcae Concha",Arc Shell,"咸,平","Salty,Calm","肺,胃,肝","Lung,Stomach,Liver",化痰药,Phlegresolving Medicine,,3822,1057,408,,,HERB005602,0
+409,瓦松,Wasong,Orostachyis Fimbriatae Herba,Cotyledon Fimbriata Turcz.,"酸,苦,凉","Sour,Bitter,Cool","肝,肺,脾","Liver,Lung,Spleen",清热凉血药,Heat Clearing Blood Cooling Drugs,,,,409,,,HERB005609,0
+410,王不留行,Wangbuliuxing,"Vaccariae Semen,Semen Vaccariae","Vacarria seed, Cow soapwort seed","苦,平","Bitter,Calm","肝,胃","Liver,Stomach",活血祛瘀药,Blood Activating Stasis Removing Drugs,seed,1182,717,410,,,HERB005637,0
+411,威灵仙,Weilingxian,"Radix Clematidis,Clematidis Radix Et Rhizoma",Chinese Clematis Root,"辛,咸,温","Pungent,Salty,Warm",膀胱,Bladder,祛风湿散寒药,Wind-Dampnessdispelling And Colddispersing Medicinal,root,4604,719,411,,,HERB005659,0
+412,委陵菜,Weilingcai,"Herba Potentillae Chinensis,Potentiliae Chinensis Herba",Chinese Cinquefoil,"苦,寒","Bitter,Cold","肝,大肠","Liver,Large Intestine",清热解毒药,Antipyretic Detoxicate Drugs,whole herb with root,7875,1058,412,,,HERB005658,0
+413,乌敛莓,Wulianmei,,Cayratiae Japonicae Herba,"苦,酸,寒","Bitter,Sour,Cold","心,肝,胃","Heart,Liver,Stomach",清热解毒药,Antipyretic Detoxicate Drugs,,,,413,,,HERB005731,0
+414,乌梅,Wumei,"Fructus Mume,Mume Fructus",Smoked Plum,"酸,涩,平","Sour,Astringent,Calm","肝,脾,肺,大肠","Liver,Spleen,Lung,Large Intestine",收涩药,Astringent Medicinal,unripe fruit,7694,726,414,,,HERB005742,0
+415,乌药,Wuyao,"Linderae Radix,Radix Linderae",Combined Spicebush Root,"辛,温","Pungent,Warm","肺,脾,肾,膀胱","Lung,Spleen,Kidney,Bladder",理气药,Qi Regulating Drugs,tuberoid,6386,729,415,,,HERB005767,0
+416,无患子,Wuhuanzi,,Sapindi Mukorossi Semen,"苦,辛,寒,小毒","Bitter,Pungent,Cold,Slightly Toxic",,,化痰药,Phlegresolving Medicine,seed,7970,,416,,,HERB005712,0
+417,无患子皮,Wuhuanzipi,,Sapindi Mukorossiperic Arpium,"苦,平,小毒","Bitter,Calm,Slightly Toxic",,,化痰药,Phlegresolving Medicine,pericarp,4117,,417,,,HERB005713,0
+418,吴茱萸,Wuzhuyu,"Euodiae Fructus,Fructus Evodiae",Medicil Evodia Fruit,"辛,苦,热,有小毒","Pungent,Bitter,Hot,Slightly Toxic","肝,脾,胃,肾","Liver,Spleen,Stomach,Kidney",温里药,Warming Interior Drugs,fruit,2013,1060,418,,,HERB005782,0
+419,梧桐子,Wutongzi,,Semen Firmiae,"甘,平","Sweet,Calm","脾,肺,肾","Spleen,Lung,Kidney",消食药,Digestants,seed,4692,,419,,,HERB005758,0
+420,五倍子,Wubeizi,Galla Chinensis,Chinese Gall,"酸,涩,寒","Sour,Astringent,Cold","肺,大肠,肾","Lung,Large Intestine,Kidney",收涩药,Astringent Medicinal,,5965,721,420,,,HERB005692,0
+421,西河柳,Xiheliu,"Cacumen Tamaricis,Tamaricis Cacumen",Chinese Tamarisk Twig,"甘,辛,平","Sweet,Pungent,Calm","心,肺,胃","Heart,Lung,Stomach",辛温解表药,Pungent-Warm Exterior-Releasing Medicinal,,7275,737,421,,,HERB005825,0
+422,西红花,Xihonghua,"Croci Stigma,Stigma Croci",Saffron,"甘,平","Sweet,Calm","心,肝","Heart,Liver",活血祛瘀药,Blood Activating Stasis Removing Drugs,,2599,738,422,,,HERB005826,0
+423,西洋参,Xiyangshen,"Panacis Quinquefolii Radix,Radix Pacis Quinquefolii",American Ginseng,"甘,微苦,凉","Sweet,Slightly Bitter,Cool","心,肺,肾","Heart,Lung,Kidney",补气药,Qi Reinforcing Drugs,root,4363,747,423,,,HERB005900,0
+424,豨莶草,Xixiancao,Siegesbeckiae Herba,Siegesbeckiae Herba,"辛,苦,寒","Pungent,Bitter,Cold","肝,肾","Liver,Kidney",祛风湿清热药,Wind-Dampnessdispelling And Heatclearing Medicinal,,,,424,,,HERB005889,0
+425,细辛,Xixin,"Herba Asari,Asari Radix Et Rhizoma",all-grass Manchurian wildginger,"辛,温","Pungent,Warm","心,肺,肾","Heart,Lung,Kidney",辛温解表药,Pungent-Warm Exterior-Releasing Medicinal,whole herb,7857,746,425,,,HERB005894,0
+426,夏枯草,Xiakucao,"Prunellae Spica,Spica Prunellae",fruit -spike of Common Selfheal,"辛,苦,寒","Pungent,Bitter,Cold","肝,胆","Liver,Gallbladder",清热泻火药,Fire Purging Drugs,spike,766,748,426,,,HERB005940,0
+427,夏天无,Xiatianwu,"Corydalis Decumbentis Rhizoma,Rhizoma Corydalis Decumbentis",Decumbent Corydalis Rhizome,"苦,微辛,温","Bitter,Slightly Pungent,Warm",肝,Liver,祛风湿清热药,Wind-Dampnessdispelling And Heatclearing Medicinal,tuber,5113,1063,427,,,HERB005945,0
+428,仙鹤草,Xianhecao,"Agrimoniae Herba,Herba Agrimoniae",all - grss of Hairyvein Agrimonia,"苦,涩,平","Bitter,Astringent,Calm","心,肝","Heart,Liver",收敛止血药,Astringent Hemostatic Medicinal,aerial parts,8005,750,428,,,HERB005977,0
+429,仙茅,Xianmao,"Curculiginis Rhizoma,Rhizoma Curculiginis",rhizome of Common Curculigo,"辛,热,有毒","Pungent,Hot,Toxic","肾,肝,脾","Kidney,Liver,Spleen",补阳药,Yang Reinforcing Drugs,rhizome,4856,752,429,,,HERB005988,0
+430,仙桃草,Xiantaocao,,Veronicae Peregrie Herba,"甘,微辛,平","Sweet,Slightly Pungent,Calm","肝,胃,肺","Liver,Stomach,Lung",活血祛瘀药,Blood Activating Stasis Removing Drugs,,,,430,,,HERB005995,0
+431,相思子,Xiangsizi,,Abrus Precatorius L.,"苦,辛,平,大毒","Bitter,Pungent,Calm,Extremely Poisonous",,,清热解毒药,Antipyretic Detoxicate Drugs,ripe seed,5581,,431,,,HERB006048,0
+432,香附,Xiangfu,"Rhizoma Cyperi,Cyperi Rhizoma",rhizome of Nutgrass Galingale,"辛,微苦,微甘,平","Pungent,Slightly Bitter,Slightly Sweet,Calm","肝,脾,三焦","Liver,Spleen,Triple Energizers",理气药,Qi Regulating Drugs,rhizome,6317,755,432,,,HERB006019|HERB006068,0
+433,香加皮,Xiangjiapi,Periplocae Cortex,Cortex Periplocae Radicis,"辛,苦,温,有毒","Pungent,Bitter,Warm,Toxic","肝,肾,心","Liver,Kidney,Heart",祛风湿散寒药,Wind-Dampnessdispelling And Colddispersing Medicinal,,,,433,,,HERB006026,0
+434,香茅,Xiangmao,,Cymbopon Citratus(D C.) Stapf,"甘,辛,温","Sweet,Pungent,Warm",,,祛风湿散寒药,Wind-Dampnessdispelling And Colddispersing Medicinal,,,,434,,,HERB000716|HERB006033,0
+435,香薷,Xiangru,"Herba Elsholtziae,Moslae Herba",all-grass of Haichow Elsholtzia,"辛,微温","Pungent,Slightly Warm","肺,胃","Lung,Stomach",辛温解表药,Pungent-Warm Exterior-Releasing Medicinal,aerial parts,7699,758,435,,,HERB006045,0
+436,香橼,Xiangyuan,Citri Fructus,Citri Fructus,"辛,苦,酸,温","Pungent,Bitter,Sour,Warm","肝,脾,肺","Liver,Spleen,Lung",理气药,Qi Regulating Drugs,,,,436,,,HERB006055|HERB006061,0
+437,小茴香,Xiaohuixiang,"Foeniculi Fructus,Fructus Foeniculi",fennel fruit,"辛,温","Pungent,Warm","肝,肾,脾,胃","Liver,Kidney,Spleen,Stomach",温里药,Warming Interior Drugs,,5007,763,437,,,HERB006121,0
+438,小蓟,Xiaoji,"Cirsii Herba,Herba Cirsii;Herba Cirsii Segeti",Field Thistle Herb,"甘,苦,凉","Sweet,Bitter,Cool","心,肝","Heart,Liver",凉血止血药,Blood-Cooling Hemostatic Medicinal,whole herb or root,2616,764,438,,,HERB006122,0
+439,小通草,Xiaotongcao,"Medulla Stachyuri Medulla Helwingiae,Stachyuri Medulla
+Helwingiae Medulla",Stachyurus or Japanese Helwingia Pith,"甘,淡,寒","Sweet,Tasteless,Cold","肺,胃","Lung,Stomach",利水渗湿药,Diuretic Dampness Excreting Drugs,,4744,1067,439,,,HERB006151,0
+440,薤白,Xiebai,"Bulbus Allii Macrostemi,Allii Macrostemonis Bulbus",bulb of longstamen onion,"辛,苦,温","Pungent,Bitter,Warm","心,肺,胃,大肠","Heart,Lung,Stomach,Large Intestine",理气药,Qi Regulating Drugs,bulb,6167,770,440,,,HERB006191,0
+441,辛夷,Xinyi,Magnoliae Flos,Magnoliae Flos,"辛,温","Pungent,Warm","肺,胃","Lung,Stomach",辛温解表药,Pungent-Warm Exterior-Releasing Medicinal,,,,441,,,HERB006228,0
+442,徐长卿,Xuchangqing,"Cynanchi Paniculati Radix 
+Et Rhizoma,Radix Cynchi Paniculati",Paniculate Swallowwort Root,"辛,温","Pungent,Warm","肝,胃","Liver,Stomach",祛风湿散寒药,Wind-Dampnessdispelling And Colddispersing Medicinal,root,6158,775,442,,,HERB006258,0
+443,续断,Xuduan,"Dipsaci Radix,Radix Dipsaci",Himalayan Teasel Root,"苦,辛,微温","Bitter,Pungent,Slightly Warm","肝,肾","Liver,Kidney",补阳药,Yang Reinforcing Drugs,root,3782,776,443,,,HERB006259,0
+444,萱草根,Xuancaogen,,Hemerocallis Radix,"甘,凉,有毒","Sweet,Cool,Toxic","脾,肝,膀胱","Spleen,Liver,Bladder",利水渗湿药,Diuretic Dampness Excreting Drugs,root,2467,,444,,,HERB006265,0
+445,玄参,Xuanshen,"Radix Scrophulariae,Scrophulariae Radix",Figwort Root,"甘,苦,咸,微寒","Sweet,Bitter,Salty,Slightly Cold","肺,胃,肾","Lung,Stomach,Kidney",清热凉血药,Heat Clearing Blood Cooling Drugs,root,6668,782,445,,,HERB006280,0
+446,旋覆花,Xuanfuhua,"Flos Inulae,Inulae Flos",Inula Flower,"苦,辛,咸,微温","Bitter,Pungent,Salty,Slightly Warm","肺,脾,胃,大肠","Lung,Spleen,Stomach,Large Intestine",化痰药,Phlegresolving Medicine,,6019,777,446,,,HERB006269,0
+447,寻骨风,Xungufeng,,Rhizoma Seu Herba Aristolochiae Mollissimae,"辛,苦,平","Pungent,Bitter,Calm",肝,Liver,祛风湿散寒药,Wind-Dampnessdispelling And Colddispersing Medicinal,,,,447,,,HERB006307,0
+448,鸦胆子,Yadanzi,"Bruceae Fructus,Fructus Bruceae",Java Brucea Fruit,"苦,寒,有小毒","Bitter,Cold,Slightly Toxic","大肠,肝","Large Intestine,Liver",清热解毒药,Antipyretic Detoxicate Drugs,fruit,7382,1072,448,,,HERB006310,0
+449,鸭跖草,Yazhicao,"Herba Commelie,Commelinae Herba",all-grass of Common Dayflower,"甘,淡,寒","Sweet,Tasteless,Cold","肺,胃,小肠","Lung,Stomach,Small Intestine",清热泻火药,Fire Purging Drugs,,5991,784,449,,,HERB006335|HERB006336,0
+450,亚麻子,Yamazi,"Lini Semen,Semen Lini",Linseed,"甘,平","Sweet,Calm","肺,肝,大肠","Lung,Liver,Large Intestine",润下药,Laxatives,seed,5757,1074,450,,,HERB006326,0
+451,延胡索,Yanhusuo,"Rhizoma Corydalis,Corydalis Rhizoma",Corydalis tuber,"温,辛,苦","Warm,Pungent,Bitter","脾,肝,心","Spleen,Liver,Heart",理气药,Qi Regulating Drugs,rhizome,8069,786,451,,延胡索（元胡）,HERB006353,0
+452,洋金花,Yangjinhua,"Flos Daturae,Daturae Flos",Datura Flower,"辛,温,有毒","Pungent,Warm,Toxic","肺,肝","Lung,Liver",止咳平喘药,Antitussive Antiasthmetics,"seed ,  abdomen, wind-damp impediment pain, knocks and falls, epilepsy, chronic fright wind, anesthesia",6355,1077,452,,,HERB006387,0
+453,野菊花,Yejuhua,"Chrysanthemi Indici Flos,Flos Chrysanthemi Indici",Wild Chrysanthemum Flower,"苦,辛,微寒","Bitter,Pungent,Slightly Cold","肝,心","Liver,Heart",清热解毒药,Antipyretic Detoxicate Drugs,flower-head,336,796,453,,,HERB006471,0
+454,一枝黄花,Yizhihuanghua,Solidaginis Herba,Solidaginis Herba,"辛,苦,凉","Pungent,Bitter,Cool","肺,肝","Lung,Liver",辛凉解表药,Pungent Cool Diaphoretics,,,,454,,,HERB006571,0
+455,伊贝母,Yibeimu,"Fritillariae Pallidiflorae Bulbus,Buibus Fritillariae Pallidiflorae",Sinkiang Fritillary Bulb,"苦,甘,微寒","Bitter,Sweet,Slightly Cold","肺,心","Lung,Heart",化痰药,Phlegresolving Medicine,bulb,4128,952,455,,,HERB006508,0
+456,益母草,Yimucao,"Herba Leonuri,Leonuri Herba",motherwort,"苦,辛,微寒","Bitter,Pungent,Slightly Cold","肝,心包,膀胱","Liver,Pericardium,Bladder",活血祛瘀药,Blood Activating Stasis Removing Drugs,aerial parts,5788,799,456,,,HERB005673|HERB006537,0
+457,益智,Yizhi,Alpiniae Oxyphyllae Fructus,Alpiniae Oxyphyliae Fructus,"辛,温","Pungent,Warm","脾,肾","Spleen,Kidney",补阳药,Yang Reinforcing Drugs,,,,457,,,HERB006569,0
+458,薏苡仁,Yiyiren,"Semen Coicis,Coicis Semen",seed of Jobstears,"甘,淡,凉","Sweet,Tasteless,Cool","脾,胃,肺","Spleen,Stomach,Lung",利水渗湿药,Diuretic Dampness Excreting Drugs,seed,4471,802,458,,,HERB006568,0
+459,茵陈,Yinchen,"Artemisiae Scopariae Herba,Herba Artemisiae Scopariae",Virgate Wormwood Herb,"苦,辛,微寒","Bitter,Pungent,Slightly Cold","脾,胃,肝,胆","Spleen,Stomach,Liver,Gallbladder",利水渗湿药,Diuretic Dampness Excreting Drugs,,3839,806,459,,,HERB006586,0
+460,银柴胡,Yincha,"Stellariae Radix,Radix Stellariae",Starwort Root,"甘,微寒","Sweet,Slightly Cold","肝,胃","Liver,Stomach",清虚热药,Asthenic Heat Dispelling Drugs,root,2975,805,460,,,HERB006585,0
+461,银杏叶,Yinxingye,Ginkgo Folium,Ginkgo Folium,"甘,苦,涩,平","Sweet,Bitter,Astringent,Calm","心,肺","Heart,Lung",止咳平喘药,Antitussive Antiasthmetics,,3197,,461,,,HERB006632|HERB006658,0
+462,淫羊藿,Yinyanghuo,Epimedii Folium,Epimrdii Herba,"辛,甘,温","Pungent,Sweet,Warm","肝,肾","Liver,Kidney",补阳药,Yang Reinforcing Drugs,,,,462,,,HERB006633,0
+463,罂粟壳,Yingsuqiao,"Pericarpium Papaveris,Papaveris Pericarpium",poppy capsule,"酸,涩,平,有毒","Sour,Astringent,Calm,Toxic","肺,大肠,肾","Lung,Large Intestine,Kidney",收涩药,Astringent Medicinal,capsule,5347,810,463,,,HERB006653,0
+464,余甘子,Yuganzi,"Phyllanthi Fructus,Fructus Phyllanthi",Emblic Leafflower Fruit,"甘,酸,涩,凉","Sweet,Sour,Astringent,Cool","肺,胃","Lung,Stomach",清热解毒药,Antipyretic Detoxicate Drugs,,1626,812,464,,,HERB006714,0
+465,鱼腥草,Yuxingcao,"Herba Houttuyniae,Houttuyniae Herba",all-grass of Heartleaf Houttuynia,"辛,微寒","Pungent,Slightly Cold",肺,Lung,清热解毒药,Antipyretic Detoxicate Drugs,aerial parts,7426,815,465,,,HERB006741,0
+466,禹州漏芦,Yuzhouloulu,"Echinopsis Radix,Radix Echinopsis",Globethistle Root,"苦,寒","Bitter,Cold",胃,Stomach,拔毒化腐生肌药,"External Medicinal (Draw Out Toxin, Resolve Putridity)",,1874,1080,466,,,HERB006753,0
+467,玉米须,Yumixu,Stigma Maydis,Corn stigma,"甘,淡,平","Sweet,Tasteless,Calm","肾,胃,肝,胆","Kidney,Stomach,Liver,Gallbladder",利水渗湿药,Diuretic Dampness Excreting Drugs,style and stigma,2335,956,467,,,HERB006733,0
+468,玉竹,Yuzhu,"Polygonati Odorati Rhizoma,Rhizoma Polygoti Odorati",Fragrant Solomonseal Rhizome,"甘,微寒","Sweet,Slightly Cold","肺,胃","Lung,Stomach",补阴药,Yin-Tonifying Medicinal,rhizome,2224,816,468,,,HERB006754,0
+469,郁金,Yujin,"Curcumae Radix,Radix Curcumae",Tuber - root of Common Turmeric,"辛,苦,寒","Pungent,Bitter,Cold","肝,心,肺","Liver,Heart,Lung",活血祛瘀药,Blood Activating Stasis Removing Drugs,tuberoid,8013,813,469,,,HERB006718,0
+470,郁李仁,Yuliren,"Semen Pruni,Pruni Semen",Chinese Dwarf Cherry Seed,"辛,苦,甘,平","Pungent,Bitter,Sweet,Calm","脾,大肠,小肠","Spleen,Large Intestine,Small Intestine",润下药,Laxatives,ripe seed,5927,955,470,,,HERB006725,0
+471,预知子,Yuzhizi,"Fructus Akebiae,Akebiae Fructus",Akebia Fruit,"苦,寒","Bitter,Cold","肝,胆,胃,膀胱","Liver,Gallbladder,Stomach,Bladder",理气药,Qi Regulating Drugs,seed,4334,1079,471,,,HERB006752,0
+472,芫花,Yuanhua,"Genkwa Flos,Flos Genkwa",flower bud of Lilac Daphne,"苦,辛,温,有毒","Bitter,Pungent,Warm,Toxic","肺,脾,肾","Lung,Spleen,Kidney",通水药,Drastic Purgatives,bud,6222,819,472,,,HERB006773,0
+473,芫荽,Yuansui,,Coriandri Sativi Herba,"辛,温","Pungent,Warm","肺,脾,肝","Lung,Spleen,Liver",辛温解表药,Pungent-Warm Exterior-Releasing Medicinal,,,,473,,,HERB006784,0
+474,月季花,Yuejihua,"Flos Rosae Chinensis,Rosae Chinensis Flos",Chinese rose flower,"甘,温","Sweet,Warm",肝,Liver,活血祛瘀药,Blood Activating Stasis Removing Drugs,flower,1285,1081,474,,,HERB006811,0
+475,云芝,Yunzhi,"Polysaccharidum Versicolor,Coriolus",Coriolus versicolor,"甘,平","Sweet,Calm","心,脾,肝,肾","Heart,Spleen,Liver,Kidney",拔毒化腐生肌药,"External Medicinal (Draw Out Toxin, Resolve Putridity)",,355,825,475,,,HERB006860,0
+476,皂荚子,Zaojiazi,,Gleditsiae Sinensis Semen,"辛,温","Pungent,Warm","肺,大肠","Lung,Large Intestine",化痰药,Phlegresolving Medicine,,,,476,,,HERB006890,0
+477,皂角刺,Zhaojiaoci,"Spi Gleditsiae,Gleditsiae Spina",spine of Chinese Honeylocust,"辛,温","Pungent,Warm","肝,胃","Liver,Stomach",化痰药,Phlegresolving Medicine,,3210,830,477,,,HERB006891,0
+478,泽兰,Zelan,"Lycopi Herba,Herba Lycopi",Hirsute Shiny Bugleweed Herb,"苦,辛,微温","Bitter,Pungent,Slightly Warm","肝,脾","Liver,Spleen",活血祛瘀药,Blood Activating Stasis Removing Drugs,aerial parts,1409,1082,478,,,HERB001773|HERB006901,0
+479,泽漆,Zeqi,,Euphorbiae Helioscopiae Herba,"辛,苦,微寒,有毒","Pungent,Bitter,Slightly Cold,Toxic","肺,大肠,小肠","Lung,Large Intestine,Small Intestine",利水渗湿药,Diuretic Dampness Excreting Drugs,,,,479,,,HERB006905,0
+480,泽泻,Zexie,"Rhizoma Alismatis,Alismatis Rhizoma",rhizome of Oriental Waterplantain,"甘,淡,寒","Sweet,Tasteless,Cold","肾,膀胱","Kidney,Bladder",利水渗湿药,Diuretic Dampness Excreting Drugs,tuber,3424,835,480,,,HERB006908,0
+481,浙贝母,Zhebeimu,"Bulbus Fritillariae Thunbergii,Fritillariae Thunbergii Bulbus",bulb of Thunberg Fritillary,"苦,寒","Bitter,Cold","肺,心","Lung,Heart",化痰药,Phlegresolving Medicine,bulb,1846,178,481,,,HERB006950,0
+482,知母,Zhimu,"Rhizoma Anemarrhee,Anemarrhenae Rhizoma",rhizome of Common Amarrhe,"苦,甘,寒","Bitter,Sweet,Cold","肺,胃,肾","Lung,Stomach,Kidney",清热泻火药,Fire Purging Drugs,rhizome,1170,862,482,,,HERB007023,0
+483,栀子,Zhizi,"Fructus Gardeniae,Gardeniae Fructus",fruit of Cape Jasmine,"苦,寒","Bitter,Cold","心,肺,三焦","Heart,Lung,Triple Energizers",清热泻火药,Fire Purging Drugs,ripe fruit,2923,875,483,,焦栀子,HERB007046,0
+484,枳椇子,Zhijuzi,,Hoveniae Dulcis Semen,"甘,平","Sweet,Calm",胃,Stomach,利水渗湿药,Diuretic Dampness Excreting Drugs,,,,484,,,HERB007002,0
+485,枳壳,Zhiqiao,"Fructus Aurantii,Aurantii Fructus",fruit of Seville orange,"苦,辛,酸,微寒","Bitter,Pungent,Sour,Slightly Cold","脾,胃","Spleen,Stomach",理气药,Qi Regulating Drugs,unripe fruit,1602,865,485,,,HERB007004|HERB007026,0
+486,枳实,Zhishi,"Fructus Aurantii Immaturus,Aurantii Fructus Immaturus",immature fruit of Seville orange,"苦,辛,酸,微寒","Bitter,Pungent,Sour,Slightly Cold","脾,胃","Spleen,Stomach",理气药,Qi Regulating Drugs,young fruit,3972,871,486,,,HERB007034,0
+487,肿节风,Zhongjiefeng,"Sarcandrae Herba,Herba Sarcatidrae",all-grass of Glabrous sarcandra,"苦,辛,平","Bitter,Pungent,Calm","心,肝","Heart,Liver",清热解毒药,Antipyretic Detoxicate Drugs,,5399,1087,487,,,HERB007079,0
+488,猪苓,Zhuling,"Polyporus,Polyporus Umbellatus","Polyporus grifolia, Umbellate pore-fungus","甘,淡,平","Sweet,Tasteless,Calm","肾,膀胱","Kidney,Bladder",利水渗湿药,Diuretic Dampness Excreting Drugs,sclerotium,7897,883,488,,,HERB007112,0
+489,猪牙皂,Zhuyazao,"Gleditsiae Fructus Abnormalis,Fructus Gleditsiae Abnormalis",Chinese Honeylocust Abnormal Fruit,"辛,咸,温,有小毒","Pungent,Salty,Warm,Slightly Toxic","肺,大肠","Lung,Large Intestine",化痰药,Phlegresolving Medicine,,4480,1089,489,,,HERB007127,0
+490,竹节参,Zhujieshen,Panacis Japonici Rhizoma,Pacis Japonici Rhizoma,"甘,微苦,温","Sweet,Slightly Bitter,Warm","肝,脾,肺","Liver,Spleen,Lung",补气药,Qi Reinforcing Drugs,,,,490,,,HERB007108,0
+491,竹沥,Zhuli,Succus Bambusae,Bamboo juice,"甘,苦,寒","Sweet,Bitter,Cold","心,肝,肺","Heart,Liver,Lung",清热解毒药,Antipyretic Detoxicate Drugs,,7413,882,491,,,HERB007111,0
+492,苎麻根,Zhumagen,Radix Boehmeriae,Ramine root ,"甘,寒","Sweet,Cold","肝,心,膀胱","Liver,Heart,Bladder",凉血止血药,Blood-Cooling Hemostatic Medicinal,,3398,884,492,,,HERB007114,0
+493,紫草,Zicao,"Radix Arnebiae Seu Lithospermi,Arnebiae Radix",Arnebia Root Gromwell Root,"甘,咸,寒","Sweet,Salty,Cold","心,肝","Heart,Liver",清热凉血药,Heat Clearing Blood Cooling Drugs,root,7958,893,493,,,HERB007160,0
+494,紫花地丁,Zihuadiding,"Violae Herba,Herba Violae",Tokyo Violet Herb,"寒,辛,苦","Cold,Pungent,Bitter","肝,心","Liver,Heart",清热解毒药,Antipyretic Detoxicate Drugs,whole herb,6067,895,494,,,HERB007174,0
+495,紫花前胡,Zihuaqianhu,Peucedani Decursivi Radix,Peucedanidecursivi Radix,"苦,辛,微寒","Bitter,Pungent,Slightly Cold",肺,Lung,化痰药,Phlegresolving Medicine,,3010,,495,,,HERB007180,0
+496,紫苏叶,Zisuye,Perillae Folium,,"辛,温","Pungent,Warm","肺,脾","Lung,Spleen",辛温解表药,Pungent-Warm Exterior-Releasing Medicinal,seed,1891,,496,,,HERB007211,0
+497,紫苏子,Zisuzi,"Fructus Perillae,Perillae Fructus",Perilia Fruit,"辛,温","Pungent,Warm",肺,Lung,止咳平喘药,Antitussive Antiasthmetics,,1378,1096,497,,,HERB007213,0
+498,紫菀,Ziwan,"Asteris Radix Et Rhizoma,Radix Asteris",root of tatarian aster,"辛,苦,温","Pungent,Bitter,Warm",肺,Lung,止咳平喘药,Antitussive Antiasthmetics,root and rhizome,1316,188,498,,,HERB007221,0
+499,葛根,Gegen,"Puerariae Lobatae Radix,Radix Puerariae",root of lobed kudzuvine,"甘,辛,凉","Sweet,Pungent,Cool","脾,胃,肺","Spleen,Stomach,Lung",辛温解表药,Pungent-Warm Exterior-Releasing Medicinal,tuberoid,6238,271,499,,,HERB001874,0
+500,人工牛黄,Rengong Niuhuang,Bovis Calculus Artifactus,,"甘,凉","Sweet,Cool","心,肝","Heart,Liver",平肝熄风药,Liver-Pacifying Wind-Extinguishing Medicinal,,,,,,,HERB004606,0
+501,九里香,Jiulixiang,Murrayae Folium Et Cacumen,,"辛,微苦,温,有小毒","Pungent,Slightly Bitter,Warm,Slightly Toxic","肝,胃","Liver,Stomach",理气药,Qi Regulating Drugs,,,,,,,HERB003010,0
+502,九香虫,Jiuxiangchong,Aspongopus,,"咸,温","Salty,Warm","肝,脾,肾","Liver,Spleen,Kidney",理气药,Qi Regulating Drugs,,,,,,,HERB003013,0
+503,三颗针,Sankezhen,Berberidis Radix,,"苦,寒,有毒","Bitter,Cold,Toxic","肝,胃,大肠","Liver,Stomach,Large Intestine",清热燥湿药,Heat-Clearing And Dampnessdrying Medicinal,,,,,,,HERB004773,0
+504,炮姜,Paojiang,Zingiberis Rhizoma Praeparatum,,"辛,热","Pungent,Hot","脾,胃,肾","Spleen,Stomach,Kidney",止血药,Hemostatic Medicinal,,,,,,,HERB004322,0
+505,干漆,Gangi,Toxicodendri Resina,,"辛,温,有毒","Pungent,Warm,Toxic","肝,脾","Liver,Spleen",活血化瘀药,Blood-Activating And Stasis-Resolving Medicinal,,,,,,,HERB001796,0
+506,土木香,Tumuxiang,Inulae Radix,,"辛,苦,温","Pungent,Bitter,Warm","肝,脾","Liver,Spleen",理气药,Qi Regulating Drugs,,,,,,,HERB005574,0
+507,土鳖虫（䗪虫）,Tubiechong,Eupolyphaga Steleophaga,,"咸,寒,有小毒","Salty,Cold,Slightly Toxic",肝,Liver,活血疗伤药,Blood-Activating Trauma-Curing Medicinal,,,,,,土鳖虫,,0
+508,大叶紫珠,Dayezizhu,Callicarpae Macrophyllae Folium,,"辛,苦,平","Pungent,Bitter,Calm","肝,肺,胃","Liver,Lung,Stomach",收敛止血药,Astringent Hemostatic Medicinal,,,,,,,HERB001158,0
+509,大豆黄卷,Dadouhuangjuan,Sojae Semen Germinatum,,"甘,平","Sweet,Calm","脾,胃,肺","Spleen,Stomach,Lung",辛凉解表药,Pungent Cool Diaphoretics,,,,,,,,0
+510,大青盐,Daqingyan,Halitum,,"咸,寒","Salty,Cold","心,肾,膀胱","Heart,Kidney,Bladder",清热凉血药,Heat Clearing Blood Cooling Drugs,,,,,,,,0
+511,大蓟炭,Dajitan,Cirsii Japonici Herba Carbonisata,,"苦,涩,凉","Bitter,Astringent,Cool","心,肝","Heart,Liver",凉血止血药,Blood-Cooling Hemostatic Medicinal,,,,,,大蓟,,0
+512,山麦冬,Shanmaidong,Liriopes Radix,,"甘,微苦,微寒","Sweet,Slightly Bitter,Slightly Cold","心,肺,胃","Heart,Lung,Stomach",补阴药,Yin-Tonifying Medicinal,,,,,,,HERB004909|HERB004910,0
+513,山香圆叶,Shanxiangyuanye,Turpiniae Folium,,"苦,寒","Bitter,Cold","肺,肝","Lung,Liver",清热解毒药,Antipyretic Detoxicate Drugs,,,,,,,,0
+514,山银花,Shanyinhua,Lonicerae Flos,,"甘,寒","Sweet,Cold","肺,心,胃","Lung,Heart,Stomach",清热解毒药,Antipyretic Detoxicate Drugs,,,,,,,,0
+515,山楂,Shanzha,Crataegi Fructus,,"酸,甘,微温","Sour,Sweet,Slightly Warm","脾,胃,肝","Spleen,Stomach,Liver",消食药,Digestants,,,,,,,HERB004945|HERB005532,0
+516,千里光,Qianliguang,Senecionis Scandentis Hebra,,"苦,寒","Bitter,Cold","肺,肝","Lung,Liver",清热解毒药,Antipyretic Detoxicate Drugs,,,,,,,HERB004462,0
+517,千金子霜,Qianjinzishuang,Euphorbiae Semen Pulveratum,,"辛,温,有毒","Pungent,Warm,Toxic","肝,肾,大肠","Liver,Kidney,Large Intestine",攻下药,Offensive Purgative Medicinal,,,,,,,HERB004461,0
+518,川木香,Chuanmuxiang,Ⅴladimiriae Radix,,"辛,苦,温","Pungent,Bitter,Warm","脾,胃,大肠,胆","Spleen,Stomach,Large Intestine,Gallbladder",理气药,Qi Regulating Drugs,,,,,,,HERB000871,0
+519,制川乌,Zhichuanwu,Aconiti Radix Cocta,,"辛,苦,热,有毒","Pungent,Bitter,Hot,Toxic","心,肝,肾,脾","Heart,Liver,Kidney,Spleen",祛风湿药,Wind-Dampnessdispelling Medicinal,,,,,,,HERB006985,0
+520,广东紫珠,Guangdongzizhu,Callicarpae Caulis Et Folium,,"苦,涩,凉","Bitter,Astringent,Cool","肝,肺,胃","Liver,Lung,Stomach",收涩药,Astringent Medicinal,,,,,,紫珠,,0
+521,广金钱草,Guangjinqiancao,Desmodii Styracifolii Herba,,"甘,淡,凉","Sweet,Tasteless,Cool","肝,肾,膀胱","Liver,Kidney,Bladder",利水渗湿药,Diuretic Dampness Excreting Drugs,,,,,,,HERB002006|HERB002007,0
+522,小叶莲,Xiaoyelian,Sinopodophylli Fructus,,"甘,平,有小毒","Sweet,Calm,Slightly Toxic",,,活血祛瘀药,Blood Activating Stasis Removing Drugs,,,,,,,HERB006175,0
+523,小驳骨,Xiaobogu,Gendarussae Herba,,"辛,温","Pungent,Warm","肝,肾","Liver,Kidney",活血祛瘀药,Blood Activating Stasis Removing Drugs,,,,,,,,0
+524,飞扬草,Feiyangcao,Euphorbiae Hirtae Herba,,"辛,酸,凉,有小毒","Pungent,Sour,Cool,Slightly Toxic","肺,膀胱,大肠","Lung,Bladder,Large Intestine",清热解毒药,Antipyretic Detoxicate Drugs,,,,,,,,0
+525,马钱子粉,Maqianzi Fen,Strychni Semen Pulveratum,,"苦,温,有大毒","Bitter,Warm,Extremely Poisonous","肝,脾","Liver,Spleen",活血化瘀药,Blood-Activating And Stasis-Resolving Medicinal,,,,,,,HERB003680,0
+526,制天南星,Zhitiannanxing,Arisaematis Rhizoma Preparatum,,"苦,辛,温,有毒","Bitter,Pungent,Warm,Toxic","肺,肝,脾","Lung,Liver,Spleen",化痰药,Phlegresolving Medicine,,,,,,天南星,,0
+527,天麻,Tianma,Gastrodiae Rhizoma,,"甘,平","Sweet,Calm",肝,Liver,平肝熄风药,Liver-Pacifying Wind-Extinguishing Medicinal,,,,,,,HERB005451,0
+528,天然冰片（右旋龙脑）,Tianranbingpian,Borneolum,,"辛,苦,凉","Pungent,Bitter,Cool","心,脾,肺","Heart,Spleen,Lung",开窍药,Resuscitative Stimulant; Resuscitative Medicinal,,,,,,天然冰片,,0
+529,木芙蓉叶,Mufurongye,Hibisci Mutabilis Folium,,"辛,平","Pungent,Calm","肺,肝","Lung,Liver",清热凉血药,Heat Clearing Blood Cooling Drugs,,,,,,,,0
+530,五加皮,Wujiapi,Acanthopanacis Cortex,,"辛,苦,温","Pungent,Bitter,Warm","肝,肾","Liver,Kidney",祛风湿药,Wind-Dampnessdispelling Medicinal,,,,,,,HERB005717,0
+531,毛诃子,Maohezi,Terminaliae Belliricae Fructus,,"甘,涩,平","Sweet,Astringent,Calm",,,清热解毒药,Antipyretic Detoxicate Drugs,,,,,,,HERB003787,0
+532,片姜黄,Pianjianghuang,Wenyujin Rhizoma Concisum,,"辛,苦,温","Pungent,Bitter,Warm","脾,肝","Spleen,Liver",活血化瘀药,Blood-Activating And Stasis-Resolving Medicinal,,,,,,,HERB004362,0
+533,乌梢蛇,Wushaoshe,Zaocys,,"甘,平","Sweet,Calm",肝,Liver,祛风湿药,Wind-Dampnessdispelling Medicinal,,,,,,,HERB005750,0
+534,巴豆霜,Badoushuang,Crotonis Semen Pulveratum,,"辛,热,有大毒","Pungent,Hot,Extremely Poisonous","胃,大肠","Stomach,Large Intestine",泻下药,Purgative Medicinal,,,,,,,HERB000130,0
+535,水牛角,Shuiniujiao,Bubali Cornu,,"苦,寒","Bitter,Cold","心,肝","Heart,Liver",清热药,Heat-Clearing Medicinal,,,,,,,HERB005183,0
+536,水蛭,Shuizhi,Hirudo,,"辛,热,有大毒","Pungent,Hot,Extremely Poisonous","胃,大肠","Stomach,Large Intestine",活血化瘀药,Blood-Activating And Stasis-Resolving Medicinal,,,,,,,HERB005206,0
+537,炙甘草,Zhigancao,"Glycyrrhizae Radix Et Rhizoma
+Praeparata Cum Melle",,"甘,平","Sweet,Calm","心,肺,脾,胃","Heart,Lung,Spleen,Stomach",补虚药,Tonifying And Replenishing Medicinal,,,,,,,HERB006990,0
+538,艾片（左旋龙脑）,Aipian,L-Borneolum,,"辛,苦,微寒","Pungent,Bitter,Slightly Cold","心,脾,肺","Heart,Spleen,Lung",开窍药,Resuscitative Stimulant; Resuscitative Medicinal,,,,,,艾片,,0
+539,石吊兰,Shidiaolan,Lysionoti Herba,,"苦,温","Bitter,Warm",肺,Lung,化痰药,Phlegresolving Medicine,,,,,,,HERB005042,0
+540,石决明,Shijueming,Haliotidis Concha,,"咸,寒","Salty,Cold",肝,Liver,平肝熄风药,Liver-Pacifying Wind-Extinguishing Medicinal,,,,,,,HERB005061,0
+541,石斛,Shihu,Dendrobii Caulis,,"甘,微寒","Sweet,Slightly Cold","胃,肾","Stomach,Kidney",补虚药,Tonifying And Replenishing Medicinal,,,,,,,HERB005051|HERB005054|HERB005055,0
+542,石膏,Shigao,Gypsum Fibrosum,,"甘,辛,大寒","Sweet,Pungent,Big Chill","肺,胃","Lung,Stomach",清热药,Heat-Clearing Medicinal,,,,,,,HERB005048,0
+543,煅石膏,Duanshigao,Gypsum Ustum,,"甘,辛,涩,寒","Sweet,Pungent,Astringent,Cold","肺,胃","Lung,Stomach",清热泻火药,Fire Purging Drugs,,,,,,,HERB001441,0
+544,龙眼肉,Longyanrou,Longan Arillus,,"甘,温","Sweet,Warm","心,脾","Heart,Spleen",补虚药,Tonifying And Replenishing Medicinal,,,,,,,HERB003498,0
+545,白矾,Baifan,Alumen,,"酸,涩,寒","Sour,Astringent,Cold","肺,脾,肝,大肠","Lung,Spleen,Liver,Large Intestine",攻毒杀虫止痒药,Toxin-Attacking And Worm-Expelling And Itch-Relieving Medicinal,,,,,,,HERB000177,0
+546,瓜子金,Guazijin,Polygalae Japonicae Herba,,"辛,苦,平","Pungent,Bitter,Calm",肺,Lung,化痰药,Phlegresolving Medicine,,,,,,,,0
+547,瓜蒌子,Gualouzi,Trichosanthis Semen,,"甘,寒","Sweet,Cold","肺,胃,大肠","Lung,Stomach,Large Intestine",化痰药,Phlegresolving Medicine,,,,,,炒瓜蒌子,,0
+548,炒瓜蒌子,Chaogualouzi,Trichosanthis Semen Tostum,,"甘,寒","Sweet,Cold","肺,胃,大肠","Lung,Stomach,Large Intestine",化痰药,Phlegresolving Medicine,,,,,,瓜蒌子,,0
+549,瓜蒌皮,Gualoupi,Trichosanthis Pericarpium,,"甘,寒","Sweet,Cold","肺,胃","Lung,Stomach",化痰药,Phlegresolving Medicine,,,,,,,,0
+550,冬凌草,Donglingcao,Rabdosiae Rubescentis Herba,,"苦,甘,微寒","Bitter,Sweet,Slightly Cold","肺,胃,肝","Lung,Stomach,Liver",清热解毒药,Antipyretic Detoxicate Drugs,,,,,,,,0
+551,玄明粉,Xuanmingfen,Natrii Sulfas Exsiccatus,,"咸,苦,寒","Salty,Bitter,Cold","胃,大肠","Stomach,Large Intestine","攻下药,泻下药",Offensive Purgative Medicinal,,,,,,,HERB006278,0
+552,法半夏,Fabanxia,Pinelliae Rhizoma Praeparatum,,"辛,温","Pungent,Warm","脾,胃,肺","Spleen,Stomach,Lung",化痰药,Phlegresolving Medicine,,,,,,,HERB001604,0
+553,姜半夏,Jiangbanxia,Pinelliae Rhizoma Praeparatumcum Zingibere Et Alumine,,"辛,温","Pungent,Warm","脾,胃,肺","Spleen,Stomach,Lung",化痰药,Phlegresolving Medicine,,,,,,半夏,,0
+554,清半夏,Qingbanxia,Pinelliae Rhizoma Praeparatum Cum Alumine,,"辛,温","Pungent,Warm","脾,胃,肺","Spleen,Stomach,Lung",化痰药,Phlegresolving Medicine,,,,,,半夏,,0
+555,母丁香,Mudingxiang,Caryophylli Fructus,,"辛,温","Pungent,Warm","脾,胃,肺,肾","Spleen,Stomach,Lung,Kidney",温里药,Warming Interior Drugs,,,,,,,HERB004015,0
+556,丝瓜络,Sigualuo,Luffae Fructus Retinervus,,"甘,平","Sweet,Calm","肺,胃,肝","Lung,Stomach,Liver",祛风湿药,Wind-Dampnessdispelling Medicinal,,,,,,,HERB005222,0
+557,地龙,Dilong,Pheretima,,"咸,寒","Salty,Cold","肝,脾,膀胱","Liver,Spleen,Bladder",平肝熄风药,Liver-Pacifying Wind-Extinguishing Medicinal,,,,,,,HERB001257,0
+558,芒硝,Mangxiao,Natrii Sulfas,,"咸,苦,寒","Salty,Bitter,Cold","胃,大肠","Stomach,Large Intestine","攻下药,泻下药",Offensive Purgative Medicinal,,,,,,,HERB003748,0
+559,亚乎奴（锡生藤）,Yahunu,Cissampelotis Herba,,"甘,苦,温","Sweet,Bitter,Warm",,,拔毒化腐生肌药,"External Medicinal (Draw Out Toxin, Resolve Putridity)",,,,,,锡生藤,,0
+560,西瓜霜,Xiguashuang,Mirabilitum Praeparatum,,"咸,寒","Salty,Cold","肺,胃,大肠","Lung,Stomach,Large Intestine",清热泻火药,Fire Purging Drugs,,,,,,,,0
+561,西青果,Xiqingguo,Chebulae Fructus Immaturus,,"苦,酸,涩,平","Bitter,Sour,Astringent,Calm","肺,大肠","Lung,Large Intestine",清热药,Heat-Clearing Medicinal,,,,,,,,0
+562,当药,Dangyao,Swertiae Herba,,"苦,寒","Bitter,Cold","肝,胃,大肠","Liver,Stomach,Large Intestine",清热燥湿药,Heat-Clearing And Dampnessdrying Medicinal,,,,,,,HERB001213,0
+563,虫白蜡,Chongbaila,Cera Chinensis,,"甘,淡,温","Sweet,Tasteless,Warm",肝,Liver,,,,,,,,,HERB000814,0
+564,朱砂,Zhusha,Cinnabaris,,"甘,微寒,有毒","Sweet,Slightly Cold,Toxic",心,Heart,安神药,Tranguilizing Medicinal,,,,,,,HERB007117,0
+565,朱砂根,Zhushagen,Ardisiae Crenatae Radix,,"微苦,辛,平","Slightly Bitter,Pungent,Calm","肺,肝","Lung,Liver",解毒杀虫燥湿止痒药,Medicinal For Detoxification、Parasiticide、Drying Dampness And Relieving Itching,,,,,,,HERB007119,0
+566,竹茹,Zhuru,Bambusae Caulis In Taenias,,"甘,微寒","Sweet,Slightly Cold","肺,胃,心,胆","Lung,Stomach,Heart,Gallbladder",化痰药,Phlegresolving Medicine,,,,,,,HERB007116,0
+567,自然铜,Zirantong,Pyritum,,"辛,平","Pungent,Calm",肝,Liver,活血化瘀药,Blood-Activating And Stasis-Resolving Medicinal,,,,,,,HERB007200,0
+568,血余炭,Xueyutan,Crinis Carbonisatus,,"苦,平","Bitter,Calm","肝,胃","Liver,Stomach",止血药,Hemostatic Medicinal,,,,,,,HERB006305,0
+569,血竭,Xuejie,Draconis Sanguis,,"甘,咸,平","Sweet,Salty,Calm","心,肝","Heart,Liver",活血化瘀药,Blood-Activating And Stasis-Resolving Medicinal,,,,,,,HERB006290,0
+570,全蝎,Quanxie,Scorpio,,"辛,平,有毒","Pungent,Calm,Toxic",肝,Liver,平肝熄风药,Liver-Pacifying Wind-Extinguishing Medicinal,,,,,,,HERB004579,0
+571,合欢皮,Hehuanpi,Albiziae Cortex,,"甘,平","Sweet,Calm","心,肝,肺","Heart,Liver,Lung",安神药,Tranguilizing Medicinal,,,,,,,HERB002173,0
+572,合欢花,Hehuanhua,Albiziae Flos,,"甘,平","Sweet,Calm","心,肝","Heart,Liver",安神药,Tranguilizing Medicinal,,,,,,,HERB002172,0
+573,灯盏细辛（灯盏花）,Dengzhanxixin,Erigerontis Herba,,"辛,微苦,温","Pungent,Slightly Bitter,Warm","心,肝","Heart,Liver",活血祛瘀药,Blood Activating Stasis Removing Drugs,,,,,,灯盏花,,0
+574,红大戟,Hongdaji,Knoxiae Radix,,"苦,寒,有小毒","Bitter,Cold,Slightly Toxic","肺,脾,肾","Lung,Spleen,Kidney",泻下药,Purgative Medicinal,,,,,,,HERB002260,0
+575,红花龙胆,Honghualongdan,Gentianae Rhodanthae Herba,,"苦,寒","Bitter,Cold","肝,胆","Liver,Gallbladder",清热燥湿药,Heat-Clearing And Dampnessdrying Medicinal,,,,,,,HERB002280,0
+576,炙红芪,Zhihongqi,Hedysari Radix Praeparata Cum Melle,,"甘,温","Sweet,Warm","肺,脾","Lung,Spleen",补气药,Qi Reinforcing Drugs,,,,,,,HERB006995,0
+577,红豆蔻,Hongdoukou,Galangae Fructus,,"辛,温","Pungent,Warm","脾,肺","Spleen,Lung",温里药,Warming Interior Drugs,,,,,,,HERB002263,0
+578,红粉,Hongfen,Hydrargyri Oxydum Rubrum,,"辛,热,有大毒","Pungent,Hot,Extremely Poisonous","肺,脾","Lung,Spleen",拔毒化腐生肌药,"External Medicinal (Draw Out Toxin, Resolve Putridity)",,,,,,,HERB002267,0
+579,红景天,Hongjingtian,Rhodiolae Crenulatae Radix Et Rhizoma,,"甘,苦,平","Sweet,Bitter,Calm","肺,心","Lung,Heart",补虚药,Tonifying And Replenishing Medicinal,,,,,,,HERB002294,0
+580,麦冬,Maidong,Ophiopogonis Radix,,"甘,微苦,微寒","Sweet,Slightly Bitter,Slightly Cold","心,肺,胃","Heart,Lung,Stomach",补虚药,Tonifying And Replenishing Medicinal,,,,,,,HERB003708,0
+581,远志,Yuanzhi,Polygalae Raedix,,"苦,辛,温","Bitter,Pungent,Warm","心,肾,肺","Heart,Kidney,Lung",安神药,Tranguilizing Medicinal,,,,,,,HERB006798,0
+582,赤石脂,Chishizhi,Halloysitum Rubrum,,"甘,酸,涩,温","Sweet,Sour,Astringent,Warm","大肠,胃","Large Intestine,Stomach",收涩药,Astringent Medicinal,,,,,,,HERB000803,0
+583,花蕊石,Huaruishi,Ophicalcitum,,"酸,涩,平","Sour,Astringent,Calm",肝,Liver,止血药,Hemostatic Medicinal,,,,,,,HERB002443,0
+584,苏木,Sumu,Sappan Lignum,,"甘,咸,平","Sweet,Salty,Calm","心,肝,脾","Heart,Liver,Spleen",活血化瘀药,Blood-Activating And Stasis-Resolving Medicinal,,,,,,,HERB005297,0
+585,杠板归,Gangbanggui,Polygoni Perfoliati Herba,,"酸,微寒","Sour,Slightly Cold","肺,膀胱","Lung,Bladder",清热解毒药,Antipyretic Detoxicate Drugs,,,,,,,,0
+586,巫山淫羊藿,Wushan yingyanghuo,Epimedii Wushanensis Folium,,"辛,甘,温","Pungent,Sweet,Warm","肝,肾","Liver,Kidney",补阳药,Yang Reinforcing Drugs,,,,,,,HERB005749,0
+587,牡蛎,Muli,Ostreae Concha,,"咸,微寒","Salty,Slightly Cold","心,肝,肾","Heart,Liver,Kidney",平肝熄风药,Liver-Pacifying Wind-Extinguishing Medicinal,,,,,,,HERB004050,0
+588,体外培育牛黄,Tiwai Peiyu Niuhuang,Bovis Calculus Sativus,,,,"心,肝","Heart,Liver",平肝熄风药,Liver-Pacifying Wind-Extinguishing Medicinal,,,,,,,,0
+589,何首乌,Heshouwu,Polygoni Multiflori Radix,,"苦,甘,涩,微温","Bitter,Sweet,Astringent,Slightly Warm","肝,心,肾","Liver,Heart,Kidney",补虚药,Tonifying And Replenishing Medicinal,,,,,,制何首乌,HERB002185,0
+590,制何首乌,Zhiheshouwu,Polgoni Multiflori Radix Praeparata,,"苦,甘,涩,微温","Bitter,Sweet,Astringent,Slightly Warm","肝,心,肾","Liver,Heart,Kidney",补虚药,Tonifying And Replenishing Medicinal,,,,,,何首乌,,0
+591,皂矾（绿矾）,Zaofan,Melanteritum,,"酸,凉","Sour,Cool","肝,脾","Liver,Spleen",解毒杀虫燥湿止痒药,Medicinal For Detoxification、Parasiticide、Drying Dampness And Relieving Itching,,,,,,绿矾,,0
+592,谷芽,Guya,Setariae Fructus Germinatus,,"甘,温","Sweet,Warm","脾,胃","Spleen,Stomach",消食药,Digestants,,,,,,,HERB001947,0
+593,龟甲,Guijia,Testudinis Carapax Et Plastrum,,"咸,甘,微寒","Salty,Sweet,Slightly Cold","肝,肾,心","Liver,Kidney,Heart",补虚药,Tonifying And Replenishing Medicinal,,,,,,,HERB002050,0
+594,龟甲胶,Guijiajiao,Testudinis Carapacis Et Plastri Colla,,"咸,甘,凉","Salty,Sweet,Cool","肝,肾,心","Liver,Kidney,Heart",补虚药,Tonifying And Replenishing Medicinal,,,,,,,,0
+595,补骨脂,Buguzhi,Psoraleae Fructus,,"辛,苦,温","Pungent,Bitter,Warm","肾,脾","Kidney,Spleen",补虚药,Tonifying And Replenishing Medicinal,,,,,,,HERB000546,0
+596,阿胶,Ejiao,Asini Corii Colla,,"甘,平","Sweet,Calm","肺,肝,肾","Lung,Liver,Kidney",补虚药,Tonifying And Replenishing Medicinal,,,,,,,HERB001564,0
+597,阿魏,Awei,Ferulae Resina,,"苦,辛,温","Bitter,Pungent,Warm","脾,胃","Spleen,Stomach",消食药,Digestants,,,,,,,HERB000029,0
+598,忍冬藤,Rendongteng,Lonicerae Japonicae Caulis,,"甘,寒","Sweet,Cold","肺,胃","Lung,Stomach",清热药,Heat-Clearing Medicinal,,,,,,,HERB004605,0
+599,鸡内金,Jineijin,Galli Gigerii Endothelium Corneum,,"甘,平","Sweet,Calm","脾,胃,小肠,膀胱","Spleen,Stomach,Small Intestine,Bladder",消食药,Digestants,,,,,,,HERB002690,0
+600,青礞石,Qingmengshi,Chloriti Lapis,,"甘,咸,平","Sweet,Salty,Calm","肺,心,肝","Lung,Heart,Liver",化痰药,Phlegresolving Medicine,,,,,,,HERB004529,0
+601,苦木,Kumu,Picrasmae Ramulus Et Folium,,"苦,寒,有小毒","Bitter,Cold,Slightly Toxic","肺,大肠","Lung,Large Intestine",清热药,Heat-Clearing Medicinal,,,,,,,HERB003159,0
+602,苦玄参,Kuxuanshen,Picriae Herba,,"苦,寒","Bitter,Cold","肺,胃,肝","Lung,Stomach,Liver",清热解毒药,Antipyretic Detoxicate Drugs,,,,,,,HERB003175,0
+603,枫香脂,Fengxiangzhi,Liquidambaris Resina,,"辛,微苦,平","Pungent,Slightly Bitter,Calm","肺,脾","Lung,Spleen",活血化瘀药,Blood-Activating And Stasis-Resolving Medicinal,,,,,,,HERB001726,0
+604,刺五加,Ciwujia,Acanthopanacis Senticosi Radix Et Rhizoma Seu Caulis,,"辛,微苦,温","Pungent,Slightly Bitter,Warm","脾,肾,心","Spleen,Kidney,Heart",补气药,Qi Reinforcing Drugs,,,,,,,HERB000940,0
+605,明党参,Mingdangshen,Changii Radix,,"甘,微苦,微寒","Sweet,Slightly Bitter,Slightly Cold","肺,脾,肝","Lung,Spleen,Liver",补气药,Qi Reinforcing Drugs,,,,,,,HERB003979,0
+606,岩白菜,Yanbaicai,Bergeniae Rhizoma,,"苦,涩,平","Bitter,Astringent,Calm","肺,肝,脾","Lung,Liver,Spleen",收涩药,Astringent Medicinal,,,,,,,HERB006342,0
+607,金龙胆草,Jinlongdancao,Conyzae Herba,,"苦,寒","Bitter,Cold","肺,肝","Lung,Liver",清化热痰药,Heat-Clearing Phlegm-Transforming Medicinal,,,,,,,,0
+608,金钱白花蛇,Jinqianbaihuashe,Bungarus Parvus,,"甘,咸,温,有毒","Sweet,Salty,Warm,Toxic",肝,Liver,祛风湿药,Wind-Dampnessdispelling Medicinal,,,,,,,,0
+609,金铁锁,Jintiesuo,Psammosilenes Radix,,"苦,辛,温,有小毒","Bitter,Pungent,Warm,Slightly Toxic",肝,Liver,祛风湿散寒药,Wind-Dampnessdispelling And Colddispersing Medicinal,,,,,,,HERB002954,0
+610,金礞石,Jingmengshi,Micae Lapis Aureus,,"甘,咸,平","Sweet,Salty,Calm","肺,心,肝","Lung,Heart,Liver",化痰药,Phlegresolving Medicine,,,,,,,HERB002934,0
+611,狗脊,Gouji,Cibotii Rhizoma,,"苦,甘,温","Bitter,Sweet,Warm","肝,肾","Liver,Kidney",祛风湿药,Wind-Dampnessdispelling Medicinal,,,,,,,HERB001903,0
+612,炉甘石,Luganshi,Calamina,,"甘,平","Sweet,Calm","肝,脾","Liver,Spleen",拔毒化腐生肌药,"External Medicinal (Draw Out Toxin, Resolve Putridity)",,,,,,,HERB003525,0
+613,珍珠,Zhenzhu,Margarita,,"甘,咸,寒","Sweet,Salty,Cold","心,肝","Heart,Liver",平肝熄风药,Liver-Pacifying Wind-Extinguishing Medicinal,,,,,,,HERB006967,0
+614,珍珠母,Zhenzhumu ,Margaritifera Concha,,"咸,寒","Salty,Cold","肝,心","Liver,Heart",平肝熄风药,Liver-Pacifying Wind-Extinguishing Medicinal,,,,,,,HERB002650|HERB006972,0
+615,荆芥炭,Jingjietan,Schizonepetae Herba Carbonisata,,"辛,涩,微温","Pungent,Astringent,Slightly Warm","肺,肝","Lung,Liver",解表药,Exterior-Releasing Medicinal,,,,,,荆芥,,0
+616,荆芥穗炭,Jingjiesuitan ,Schizonepetae Spica Carbonisata,,"辛,涩,微温","Pungent,Astringent,Slightly Warm","肺,肝","Lung,Liver",解表药,Exterior-Releasing Medicinal,,,,,,荆芥穗,,0
+617,制草乌,Zh1caowu,Aconiti Kusnezoffii Radix Cocta,,"辛,苦,热,有毒","Pungent,Bitter,Hot,Toxic","心,肝,肾,脾","Heart,Liver,Kidney,Spleen",祛风湿药,Wind-Dampnessdispelling Medicinal,,,,,,,HERB006983,0
+618,草豆蔻,Caodoukou,Alpiniae Katsumadai Semen,,"辛,温","Pungent,Warm","脾,胃","Spleen,Stomach",化湿药,Dampness Removing Drugs,,,,,,,HERB000592,0
+619,茯苓皮,Fulingpi,Poriae Cutis,,"甘,淡,平","Sweet,Tasteless,Calm","肺,脾,肾","Lung,Spleen,Kidney",利水渗湿药,Diuretic Dampness Excreting Drugs,,,,,,,HERB001750,0
+620,南板蓝根,Nanbanlangen,"Baphicacanthis Cusiae Rhizoma
+ Et Radix",,"苦,寒","Bitter,Cold","心,胃","Heart,Stomach",清热解毒药,Antipyretic Detoxicate Drugs,,,,,,板蓝根,,0
+621,焦栀子,Jiaozhizi,Gardeniae Fructus Praeparatus,,"苦,寒","Bitter,Cold","心,肺,三焦","Heart,Lung,Triple Energizers",清热药,Heat-Clearing Medicinal,,,,,,栀子,HERB002871,0
+622,厚朴花,Houpohua,Magnoliae Officinalis Flos,,"苦,微温","Bitter,Slightly Warm","脾,胃","Spleen,Stomach",化湿药,Dampness Removing Drugs,,,,,,,HERB002340|HERB002343,0
+623,轻粉,Qingfen,Calomelas,,"辛,寒,有毒","Pungent,Cold,Toxic","大肠,小肠","Large Intestine,Small Intestine",拔毒化腐生肌药,"External Medicinal (Draw Out Toxin, Resolve Putridity)",,,,,,,HERB004517,0
+624,哈蟆油,Hamayou,Ranae Oviductus,,"甘,咸,平","Sweet,Salty,Calm","肺,肾","Lung,Kidney",,,,,,,,,,0
+625,钟乳石,Zhongrushi,Stalactitum,,"甘,温","Sweet,Warm","肺,肾,胃","Lung,Kidney,Stomach",补虚药,Tonifying And Replenishing Medicinal,,,,,,,HERB007081,0
+626,重楼,Chonglou,Paridis Rhizoma,,"苦,微寒,有小毒","Bitter,Slightly Cold,Slightly Toxic",肝,Liver,清热药,Heat-Clearing Medicinal,,,,,,,HERB000818,0
+627,禹余粮,Yuyuliang,Limonitum,,"甘,涩,微寒","Sweet,Astringent,Slightly Cold","胃,大肠","Stomach,Large Intestine",收涩药,Astringent Medicinal,,,,,,,HERB006750,0
+628,胆南星,Dannanxing,Arisaema Cum Bile,,"苦,微辛,凉","Bitter,Slightly Pungent,Cool","肺,肝,脾","Lung,Liver,Spleen",化痰药,Phlegresolving Medicine,,,,,,,HERB001192,0
+629,独一味,Duyiwei,Lamiophlomis Herba,,"甘,苦,平","Sweet,Bitter,Calm",肝,Liver,活血祛瘀药,Blood Activating Stasis Removing Drugs,,,,,,,HERB001407,0
+630,首乌藤,Shouwuteng,Polygoni Multiflori Caulis,,"甘,平","Sweet,Calm","心,肝","Heart,Liver",安神药,Tranguilizing Medicinal,,,,,,,HERB005114,0
+631,洪连,Honglion,Lagotidis Herba,,"苦,甘,寒","Bitter,Sweet,Cold","肺,心,肝","Lung,Heart,Liver",清热解毒药,Antipyretic Detoxicate Drugs,,,,,,,HERB002298,0
+632,珠子参,Zhuzishen,Panacis Majoris Rhizoma,,"苦,甘,微寒","Bitter,Sweet,Slightly Cold","肝,肺,胃","Liver,Lung,Stomach",补阴药,Yin-Tonifying Medicinal,,,,,,,HERB007136,0
+633,莲子,Lianzi,Nelumbinis Semen,,"甘,涩,平","Sweet,Astringent,Calm","脾,肾,心","Spleen,Kidney,Heart",收涩药,Astringent Medicinal,,,,,,,HERB003376,0
+634,桃枝,Taozhi,Persicae Ramulus,,"苦,平","Bitter,Calm","心,肝","Heart,Liver",活血祛瘀药,Blood Activating Stasis Removing Drugs,,,,,,,HERB005415,0
+635,铁皮石斛,Tiepishihu,Dendrobii Officinalis Caulis,,"甘,微寒","Sweet,Slightly Cold","胃,肾","Stomach,Kidney",补阴药,Yin-Tonifying Medicinal,,,,,,,HERB005502,0
+636,臭灵丹草,Choulingdancao,Laggerae Herba,,"辛,苦,寒,有毒","Pungent,Bitter,Cold,Toxic",肺,Lung,清热解毒药,Antipyretic Detoxicate Drugs,,,,,,,,0
+637,狼毒,Langdu,Euphorbiae Ebracteolatae Radix,,"辛,平,有毒","Pungent,Calm,Toxic","肝,脾","Liver,Spleen",通水药,Drastic Purgatives,,,,,,,HERB003269,0
+638,高山辣根菜,Gaoshanlagencai,Pegaeophyti Radixe Tr Hizoma,,"苦,辛,寒","Bitter,Pungent,Cold","肺,肝","Lung,Liver",清热解毒药,Antipyretic Detoxicate Drugs,,,,,,,HERB001861,0
+639,粉葛,Fenge,Puerariae Thomsonii Radix,,"甘,辛,凉","Sweet,Pungent,Cool","脾,胃","Spleen,Stomach",辛凉解表药,Pungent Cool Diaphoretics,,,,,,,HERB001683,0
+640,海马,Haima,Hippocampus,,"甘,咸,温","Sweet,Salty,Warm","肝,肾","Liver,Kidney",补虚药,Tonifying And Replenishing Medicinal,,,,,,,HERB002097,0
+641,海龙,Hailong,Syngnathus,,"甘,咸,温","Sweet,Salty,Warm","肝,肾","Liver,Kidney",补阳药,Yang Reinforcing Drugs,,,,,,,HERB002096,0
+642,海螵蛸,haipiaoxiao,Sepiae Endoconcha,,"咸,涩,温","Salty,Astringent,Warm","脾,肾","Spleen,Kidney",收涩药,Astringent Medicinal,,,,,,,HERB002108,0
+643,通关藤,Tongguanteng,Marsdeniae Tenacissimae Caulis,,"苦,微寒","Bitter,Slightly Cold",肺,Lung,止咳平喘药,Antitussive Antiasthmetics,,,,,,,HERB005526,0
+644,桑螵蛸,Sangpiaoxiao,Mantidis Ootheca,,"甘,咸,平","Sweet,Salty,Calm","肝,肾","Liver,Kidney",收涩药,Astringent Medicinal,,,,,,,HERB004831,0
+645,黄山药,Huangshanyao,Dioscorea Panthaicae Rhizoma,,"苦,微辛,平","Bitter,Slightly Pungent,Calm","胃,心","Stomach,Heart",理气药,Qi Regulating Drugs,,,,,,,HERB002573,0
+646,炙黄芪,Zhihuangqi,"Astragali Radix Praeparata
+Cum Melle",,"甘,温","Sweet,Warm","肺,脾","Lung,Spleen",补虚药,Tonifying And Replenishing Medicinal,,,,,,,HERB006998,0
+647,黄蜀葵花,Huangshukuihua,Abelmoschi Corolla,,"甘,寒","Sweet,Cold","肾,膀胱","Kidney,Bladder",清热燥湿药,Heat-Clearing And Dampnessdrying Medicinal,,,,,,,HERB002574,0
+648,黄藤,Huangteng,Fibraureae Caulis,,"苦,寒","Bitter,Cold","心,肝","Heart,Liver",清热解毒药,Antipyretic Detoxicate Drugs,,,,,,,,0
+649,菥蓂,ximing,Thlaspi Herba,,"辛,微寒","Pungent,Slightly Cold","肝,胃,大肠","Liver,Stomach,Large Intestine",平肝熄风药,Liver-Pacifying Wind-Extinguishing Medicinal,,,,,,,,0
+650,救必应,Jiubiying,Ilicis Rotundae Cortex,,"苦,寒","Bitter,Cold","肺,胃,大肠,肝","Lung,Stomach,Large Intestine,Liver",清热解毒药,Antipyretic Detoxicate Drugs,,,,,,,HERB003000,0
+651,野马追,Yemazhui,Eupatorii Lindleyani Herba,,"苦,平","Bitter,Calm",肺,Lung,化痰药,Phlegresolving Medicine,,,,,,,,0
+652,野木瓜,Yemugua,Stauntoniae Caulis Et Folium,,"微苦,平","Slightly Bitter,Calm","肝,胃","Liver,Stomach",祛风湿散寒药,Wind-Dampnessdispelling And Colddispersing Medicinal,,,,,,,HERB006476,0
+653,蛇蜕,Shetui,Serpentis Periostracum,,"咸,甘,平","Salty,Sweet,Calm",肝,Liver,祛风湿药,Wind-Dampnessdispelling Medicinal,,,,,,,HERB004983,0
+654,猪胆粉,Zhudanfen,Suis Fellis Pul Vis,,"苦,寒","Bitter,Cold","肝,胆,肺,大肠","Liver,Gallbladder,Lung,Large Intestine",清热解毒药,Antipyretic Detoxicate Drugs,,,,,,,,0
+655,鹿角,Lujiao,Cervi Cornu,,"咸,温","Salty,Warm","肾,肝","Kidney,Liver",补虚药,Tonifying And Replenishing Medicinal,,,,,,,HERB003529,0
+656,鹿角胶,Lujiaojiao,Cervi Cornus Colla,,"甘,咸,温","Sweet,Salty,Warm","肾,肝","Kidney,Liver",补虚药,Tonifying And Replenishing Medicinal,,,,,,,HERB003531,0
+657,鹿角霜,Lujiooshuong,Cervi Cornu Degelatinatum,,"咸,涩,温","Salty,Astringent,Warm","肝,肾","Liver,Kidney",补虚药,Tonifying And Replenishing Medicinal,,,,,,,HERB003533,0
+658,鹿茸,Lurong,Cervi Cornu Pantotrichum,,"甘,咸,温","Sweet,Salty,Warm","肾,肝","Kidney,Liver",补虚药,Tonifying And Replenishing Medicinal,,,,,,,HERB003536,0
+659,羚羊角,Lingyangpao,Saigae Tataricae Cornu,,"咸,寒","Salty,Cold","肝,心","Liver,Heart",平肝熄风药,Liver-Pacifying Wind-Extinguishing Medicinal,,,,,,,HERB003441,0
+660,淡竹叶,Danzhuye,Lophatheri Herba,,"甘,淡,寒","Sweet,Tasteless,Cold","心,胃,小肠","Heart,Stomach,Small Intestine",清热药,Heat-Clearing Medicinal,,,,,,,HERB001204,0
+661,绵马贯众炭,Mianmaguanzhongtan,Dryopteridis Crassirhizomatis Rhizoma Carbonisatum,,"苦,涩,微寒,有小毒","Bitter,Astringent,Slightly Cold,Slightly Toxic","肝,胃","Liver,Stomach",清热药,Heat-Clearing Medicinal,,,,,,绵马贯众,,0
+662,棕榈,Zonglü,Trachycarpi  Petiolus,,"苦,涩,平","Bitter,Astringent,Calm","肺,肝,大肠","Lung,Liver,Large Intestine",止血药,Hemostatic Medicinal,,,,,,,HERB007244,0
+663,硫黄,Liuhuang,Sulfur,,"酸,温,有毒","Sour,Warm,Toxic","肾,大肠","Kidney,Large Intestine",,,,,,,,,,0
+664,雄黄,Xionghuang,Realgar,,"辛,温,有毒","Pungent,Warm,Toxic","肝,大肠","Liver,Large Intestine",攻毒杀虫止痒药,Toxin-Attacking And Worm-Expelling And Itch-Relieving Medicinal,,,,,,,HERB006243,0
+665,紫石英,Zishiying,Fluoritum,,"甘,温","Sweet,Warm","肾,心,肺","Kidney,Heart,Lung",补虚药,Tonifying And Replenishing Medicinal,,,,,,,HERB007206,0
+666,紫苏梗,Zisugeng,Perillae Caulis,,"辛,温","Pungent,Warm","肺,脾","Lung,Spleen",解表药,Exterior-Releasing Medicinal,,,,,,,HERB007210,0
+667,紫珠叶,Zizhuye,Callicarpae Formosanae Folium,,"苦,涩,凉","Bitter,Astringent,Cool","肝,肺,胃","Liver,Lung,Stomach",收敛止血药,Astringent Hemostatic Medicinal,,,,,,,,0
+668,紫萁贯众,Ziqiguanzhong,Osmundae Rhizoma,,"苦,微寒,有小毒","Bitter,Slightly Cold,Slightly Toxic","肺,胃,肝","Lung,Stomach,Liver",清热解毒药,Antipyretic Detoxicate Drugs,,,,,,,,0
+669,蛤壳,Geqiao,Meretricis Concha Cyclinae Concha,,"苦,咸,寒","Bitter,Salty,Cold","肺,肾,胃","Lung,Kidney,Stomach",化痰药,Phlegresolving Medicine,,,,,,,HERB001885,0
+670,蛤蚧,Gejie,Gecko,,"咸,平","Salty,Calm","肺,肾","Lung,Kidney",补虚药,Tonifying And Replenishing Medicinal,,,,,,,HERB001877,0
+671,黑种草子,Heizhongcaozi,Nigellae Semen,,"甘,辛,温","Sweet,Pungent,Warm",,,解毒杀虫燥湿止痒药,Medicinal For Detoxification、Parasiticide、Drying Dampness And Relieving Itching,,,,,,,,0
+672,锁阳,Suoyang,Cynomorii Herba,,"甘,温","Sweet,Warm","肝,肾,大肠","Liver,Kidney,Large Intestine",补虚药,Tonifying And Replenishing Medicinal,,,,,,,HERB005338,0
+673,筋骨草,Jingucao,Ajugae Herba,,"苦,寒","Bitter,Cold",肺,Lung,清热解毒药,Antipyretic Detoxicate Drugs,,,,,,,HERB002902,0
+674,湖北贝母,Hubeibeimu,Fritillariae Hupehensis Bulbus,,"微苦,凉","Slightly Bitter,Cool","肺,心","Lung,Heart",化痰药,Phlegresolving Medicine,,,,,,,HERB002353,0
+675,滑石,Huashi,Talcum,,,,,,利水渗湿药,Diuretic Dampness Excreting Drugs,,,,,,,HERB002450,0
+676,滑石粉,Huashifen,Talci Pulvis,,"甘,淡,寒","Sweet,Tasteless,Cold","膀胱,肺,胃","Bladder,Lung,Stomach",利水渗湿药,Diuretic Dampness Excreting Drugs,,,,,,,HERB002451,0
+677,蓍草,Shicao,Achilleae Herba,,"苦,酸,平","Bitter,Sour,Calm","肺,脾,膀胱","Lung,Spleen,Bladder",解毒杀虫燥湿止痒药,Medicinal For Detoxification、Parasiticide、Drying Dampness And Relieving Itching,,,,,,,,0
+678,蓝布正,Lanbuzheng,Gei Herba,,"甘,微苦,凉","Sweet,Slightly Bitter,Cool","肝,脾,肺","Liver,Spleen,Lung",补气药,Qi Reinforcing Drugs,,,,,,,,0
+679,蒲公英,Pugongying,Taraxaci Herba,,"苦,甘,寒","Bitter,Sweet,Cold","肝,胃","Liver,Stomach",清热药,Heat-Clearing Medicinal,,,,,,,HERB004401,0
+680,蜈蚣,Wugong,Scolopendra,,"辛,温,有毒","Pungent,Warm,Toxic",肝,Liver,平肝熄风药,Liver-Pacifying Wind-Extinguishing Medicinal,,,,,,,HERB005706|HERB005708,0
+681,蜂房,Fengfang,Vespae Nidus,,"甘,平","Sweet,Calm",胃,Stomach,攻毒杀虫止痒药,Toxin-Attacking And Worm-Expelling And Itch-Relieving Medicinal,,,,,,,HERB001702,0
+682,蜂胶,Fengjiao,Propolis,,"苦,辛,寒","Bitter,Pungent,Cold","脾,胃","Spleen,Stomach",补气药,Qi Reinforcing Drugs,,,,,,,HERB001705,0
+683,蜂蜡,Fengla,Cera Flava,,"甘,微温","Sweet,Slightly Warm",脾,Spleen,解毒杀虫燥湿止痒药,Medicinal For Detoxification、Parasiticide、Drying Dampness And Relieving Itching,,,,,,,HERB001706,0
+684,蜂蜜,Fengmi,Mel,,"甘,平","Sweet,Calm","肺,脾,大肠","Lung,Spleen,Large Intestine",补气药,Qi Reinforcing Drugs,,,,,,,HERB001711,0
+685,滇鸡血藤,Dianjixueteng,Kadsurae Caulis,,"苦,甘,温","Bitter,Sweet,Warm","肝,肾","Liver,Kidney",活血祛瘀药,Blood Activating Stasis Removing Drugs,,,,,,,,0
+686,裸花紫珠,Luohuazizhu,Callicarpae Nudiflorae Folium,,"苦,微辛,平","Bitter,Slightly Pungent,Calm",,,解毒杀虫燥湿止痒药,Medicinal For Detoxification、Parasiticide、Drying Dampness And Relieving Itching,,,,,,,,0
+687,榧子,Feizi,Torreyae Semen,,"甘,平","Sweet,Calm","肺,胃,大肠","Lung,Stomach,Large Intestine",驱虫药,Antiparasitic Drugs,,,,,,,HERB001676,0
+688,榼藤子,Ketengzi,Entadae Semen,,"微苦,凉,有小毒","Slightly Bitter,Cool,Slightly Toxic","肝,脾,胃,肾","Liver,Spleen,Stomach,Kidney",补气药,Qi Reinforcing Drugs,,,,,,,,0
+689,焦槟榔,Jiaobinglang,Arecae Semen Tostum,,"苦,辛,温","Bitter,Pungent,Warm","胃,大肠","Stomach,Large Intestine",驱虫药,Antiparasitic Drugs,,,,,,,HERB002852,0
+690,磁石,Cishi,Magnetitum,,"咸,寒","Salty,Cold","肝,心,肾","Liver,Heart,Kidney",安神药,Tranguilizing Medicinal,,,,,,,HERB000935,0
+691,蜘蛛香,Zhizhuxiang,Valerianae Jatamansi Rhizoma Et Radix,,"微苦,辛,温","Slightly Bitter,Pungent,Warm","心,脾,胃","Heart,Spleen,Stomach",辛凉解表药,Pungent Cool Diaphoretics,,,,,,,HERB007044,0
+692,赭石,Zheshi,Haematitum,,"苦,寒","Bitter,Cold","肝,心,肺,胃","Liver,Heart,Lung,Stomach",平肝熄风药,Liver-Pacifying Wind-Extinguishing Medicinal,,,,,,,HERB006955,0
+693,蕲蛇,Qishe,Agkistrodon,,"甘,咸,温,有毒","Sweet,Salty,Warm,Toxic",肝,Liver,祛风湿药,Wind-Dampnessdispelling Medicinal,,,,,,,HERB004436,0
+694,暴马子皮,Baomazipi,Syringae Cortex,,"苦,微寒","Bitter,Slightly Cold",肺,Lung,化痰药,Phlegresolving Medicine,,,,,,,,0
+695,稻芽,Daoya,Oryzae Fructus Germinatus,,"甘,温","Sweet,Warm","脾,胃","Spleen,Stomach",消食药,Digestants,,,,,,,HERB001222,0
+696,僵蚕,Jiangcan,Bombyx Batryticatus,,"咸,辛,平","Salty,Pungent,Calm","肝,肺,胃","Liver,Lung,Stomach",平肝熄风药,Liver-Pacifying Wind-Extinguishing Medicinal,,,,,,,HERB002834|HERB002835,0
+697,颠茄草,Dianqiecao,Belladonnae Herba,,,,,,,,,,,,,,HERB001292,0
+698,藏菖蒲,Zangchangpu,Acori Calami Rhizoma,,"苦,辛,温,燥,锐","Bitter,Pungent,Warm,Dryness,Sharp",,,补阳药,Yang Reinforcing Drugs,,,,,,菖蒲,,0
+699,翼首草,Yishoucao,Pterocephali Herba,,"苦,寒,小毒","Bitter,Cold,Slightly Toxic",,,解毒杀虫燥湿止痒药,Medicinal For Detoxification、Parasiticide、Drying Dampness And Relieving Itching,,,,,,,,0
+700,蟾酥,Chansu,Bufonis Venenum,,"辛,温,有毒","Pungent,Warm,Toxic",心,Heart,攻毒杀虫止痒药,Toxin-Attacking And Worm-Expelling And Itch-Relieving Medicinal,,,,,,,HERB000650,0
+701,鳖甲,Biejia,Trionycis Carapax,,"咸,微寒","Salty,Slightly Cold","肝,肾","Liver,Kidney",补虚药,Tonifying And Replenishing Medicinal,,,,,,,HERB000484,0
+702,麝香,Shexiang,Moschus,,"辛,温","Pungent,Warm","心,脾","Heart,Spleen",开窍药,Resuscitative Stimulant; Resuscitative Medicinal,,,,,,,HERB004984,0
+703,地黄,Dihuang,Rehmanniae Radix,,"甘,寒","Sweet,Cold","心,肝,肾","Heart,Liver,Kidney",清热凉血药,Heat Clearing Blood Cooling Drugs,,,,,,,HERB001251,0

@@ -1,0 +1,2566 @@
+﻿Herb_id,Field_name,Field_context
+1,Chinese_name,矮地茶
+1,Pinyin_name,Aidicha
+1,Latin_name,"Ardisiae Japonicae Herba,Ardisiae Japonicae"
+1,English_name,Japanese Ardisia Herb
+2,Chinese_name,艾叶
+2,Pinyin_name,Aiye
+2,Latin_name,"Folium Artemisiae Argyi,Artemisiae Argyi Folium"
+2,English_name,leaf of Argy Wormwood
+3,Chinese_name,安息香
+3,Pinyin_name,Anxixiang
+3,Latin_name,Benzoinum
+3,English_name,Benzoin
+4,Chinese_name,八角茴香
+4,Pinyin_name,Bajiaohuixiang
+4,Latin_name,"Fructus Anisi Stellati,Anisi Stellati Fructus"
+4,English_name,Chinese Star Anise
+5,Chinese_name,八角莲
+5,Pinyin_name,Bajiaolian
+5,English_name,Dysosmae Verspiellis Rhixoma Et Radix
+6,Chinese_name,巴豆
+6,Pinyin_name,Badou
+6,Latin_name,"Crotonis Fructus,Fructus Crotonis"
+6,English_name,Croton Fruit
+7,Chinese_name,巴戟天
+7,Pinyin_name,Bajitian
+7,Latin_name,Morindae Officinalis Radix
+7,English_name,Morindae Officilis Radix
+8,Chinese_name,菝葜
+8,Pinyin_name,Baqia
+8,Latin_name,Smilacis Chinae Rhizoma
+8,English_name,Smilax Chi
+9,Chinese_name,白扁豆
+9,Pinyin_name,Baibiandou
+9,Latin_name,"Semen Lablab Album,Lablab Semen Album"
+9,English_name,White Hyacinth Bean
+10,Chinese_name,白附子
+10,Pinyin_name,Baifuzi
+10,Latin_name,"Typhonii Rhizoma,Rhizoma Typhonii"
+10,English_name,rhizome of Giant Typhonium
+11,Chinese_name,白果
+11,Pinyin_name,Baiguo
+11,Latin_name,"Ginkgo Semen,Semen Ginkgo"
+11,English_name,Ginkgo seed
+12,Chinese_name,白花菜子
+12,Pinyin_name,Baihuacaizi
+12,English_name,Semen Cleomis
+13,Chinese_name,白花蛇舌草
+13,Pinyin_name,Baihuasheshecao
+13,Latin_name,Herba Hedyotis Diffusae
+13,English_name,all - grass of Spreading Hedyotis
+14,Chinese_name,白及
+14,Pinyin_name,Baiji
+14,Latin_name,Bletillae Rhizoma
+14,English_name,Bletilla Striata (Thunb.Ex A.Murray)Rchb.F.
+15,Chinese_name,白蔹
+15,Pinyin_name,Bailian
+15,Latin_name,"Radix Ampelopsis,Ampelopsis Radix"
+15,English_name,root of Japanese Ampelopsis 
+16,Chinese_name,白毛藤
+16,Pinyin_name,Baimaoteng
+16,English_name,Herba Solani Lyrati
+17,Chinese_name,白毛夏枯草
+17,Pinyin_name,Baimaoxiakucao
+17,Latin_name,Herha Ajugae Ciliatae
+17,English_name,all - grass of Decumbent Bugle
+18,Chinese_name,白茅根
+18,Pinyin_name,Baimaogen
+18,Latin_name,"Rhizoma Imperatae,Imperatae Rhizoma"
+18,English_name,Lalang Grass Rhizome
+19,Chinese_name,白前
+19,Pinyin_name,Baiqian
+19,Latin_name,"Cynanchi Stauntonii Rhizoma Et Radix,Rhizoma Cynchi Stauntonii"
+19,English_name,Cynchum root
+20,Chinese_name,白屈菜
+20,Pinyin_name,Baiqucai
+20,Latin_name,Chelidonii Herba
+20,English_name,Chelidonii Herba
+21,Chinese_name,白芍
+21,Pinyin_name,Baishao
+21,Latin_name,"Radix Paeoniae Alba,Paeoniae Radix Alba"
+21,English_name,White peony root
+22,Chinese_name,白术
+22,Pinyin_name,Baizhu
+22,Latin_name,"Atractylodis Macrocephalae Rhizoma,Rhizoma Atractylodis Macrocephalae"
+22,English_name,rhizome of Largehead Atractylodes
+23,Chinese_name,白头翁
+23,Pinyin_name,Baitouweng
+23,Latin_name,"Pulsatillae Radix,Radix Pulsatillae"
+23,English_name,Root of Chinese Pulsatilla
+24,Chinese_name,白薇
+24,Pinyin_name,Baiwei
+24,Latin_name,"Cynanchi Atrati Radix Et Rhizoma,Radix Cynchi Atrati"
+24,English_name,Blackend Swallowwort Root
+25,Chinese_name,白鲜皮
+25,Pinyin_name,Baixianpi
+25,Latin_name,Dictamni Cortex
+25,English_name,Dictamni Cortex
+26,Chinese_name,白药子
+26,Pinyin_name,Baiyaozi
+26,English_name,Radix Stephaniae Cepharanthae.
+27,Chinese_name,白芷
+27,Pinyin_name,Baizhi
+27,Latin_name,"Radix Angelicae Dahuricae,Angelicae Dahuricae Radix"
+27,English_name,Dahurian Angelica Root
+28,Chinese_name,百部
+28,Pinyin_name,Baibu
+28,Latin_name,"Radix Stemoe,Stemonae Radix"
+28,English_name,Root of Japanese Stemo
+29,Chinese_name,百合
+29,Pinyin_name,Baihe
+29,Latin_name,"Bulbus Lilii ,Lilii Bulbus"
+29,English_name,Bulb of Greenish Lily
+30,Chinese_name,柏子仁
+30,Pinyin_name,Baiziren
+30,Latin_name,"Platycladi Semen,Semen Biotae"
+30,English_name,seed of Chinese Arborvitae
+31,Chinese_name,败酱草
+31,Pinyin_name,Baijiangcao
+31,Latin_name,Herba Patriniae
+31,English_name,All - grass of Dahurian Patrinia
+32,Chinese_name,斑蝥
+32,Pinyin_name,Banmao
+32,Latin_name,Mylabris
+32,English_name,Mylabris
+33,Chinese_name,板蓝根
+33,Pinyin_name,Banlangen
+33,Latin_name,"Isatidis Radix,Radix Isatidis Seu Baphicacanthi"
+33,English_name,Root of Dyers Woad.
+34,Chinese_name,半边莲
+34,Pinyin_name,Banbianlian
+34,Latin_name,"Lobeliae Chinensis Herba,Herba Lobeliae Chinensis"
+34,English_name,Chinese Lobelia Herb
+35,Chinese_name,半夏
+35,Pinyin_name,Banxia
+35,Latin_name,"Rhizoma Pinelliae,Pinelliae Rhizoma"
+35,English_name,tuber of Pinellia
+36,Chinese_name,半枝莲
+36,Pinyin_name,Banzhilian
+36,Latin_name,"Herba Scutellariae Barbatae,Scutellariae Barbatae Herba"
+36,English_name,all - grass of Barbed Skullcap
+37,Chinese_name,薄荷
+37,Pinyin_name,Bohe
+37,Latin_name,"Menthae Haplocalycis Herba,Herba Menthae"
+37,English_name,"Mentha, Peppermint"
+38,Chinese_name,北豆根
+38,Pinyin_name,Beidougen
+38,Latin_name,"Rhizoma Menispermi,Menispermi Rhizoma"
+38,English_name,Chinese Cinquefoil
+39,Chinese_name,北刘寄奴
+39,Pinyin_name,Beiliujinu
+39,Latin_name,Siphonostegiae Herba
+39,English_name,Siphonostegiae Herba
+40,Chinese_name,北沙参
+40,Pinyin_name,Beishashen
+40,Latin_name,"Radix Glehniae,Glehniae Radix"
+40,English_name,root of Coastal Glehnia
+41,Chinese_name,五味子
+41,Pinyin_name,Wuweizi
+41,Latin_name,Schisandrae Chinensis Fructus
+41,English_name,Schisandrae Chinensis Fructus
+42,Chinese_name,荜茇
+42,Pinyin_name,Bibo
+42,Latin_name,Piperis Longi Fructus
+42,English_name,Piperis Longi Fructus
+43,Chinese_name,荜澄茄
+43,Pinyin_name,Bichengqie
+43,Latin_name,Litseae Fructus
+43,English_name,Litseae Fructus
+44,Chinese_name,蓖麻子
+44,Pinyin_name,Bimazi
+44,Latin_name,"Semen Ricini,Ricini Semen"
+44,English_name,Castor Seed
+45,Chinese_name,萹蓄
+45,Pinyin_name,Bianxu
+45,Latin_name,Polygoni Avicularis Herba
+45,English_name,all-grass of common knotgrass
+46,Chinese_name,扁豆花
+46,Pinyin_name,Biandouhua
+46,Latin_name,Flos Dolichoris
+46,English_name,flower of Hyacinth Dolichos
+47,Chinese_name,槟榔
+47,Pinyin_name,Binglang
+47,Latin_name,"Arecae Semen,Semen Arecae"
+47,English_name,areca seed
+48,Chinese_name,冰片
+48,Pinyin_name,Bingpian
+48,Latin_name,Borneolum Syntheticum
+48,English_name,Borneol
+49,Chinese_name,布渣叶
+49,Pinyin_name,Buzhaye
+49,Latin_name,Microctis Folium
+49,English_name,Microctis Folium
+50,Chinese_name,蚕沙
+50,Pinyin_name,Cansha
+50,English_name,Bombyx Mori L.
+51,Chinese_name,苍耳子
+51,Pinyin_name,Cang'erzi
+51,Latin_name,"Fructus Xanthii Sibirici,Xanthii Fructus"
+51,English_name,fruit of Siberian Cockleblur
+52,Chinese_name,苍术
+52,Pinyin_name,Cangzhu
+52,Latin_name,"Atractylodis Rhizoma,Rhizoma Atractylodis"
+52,English_name,Rhizome of Swordlike Atractylodes
+53,Chinese_name,草苁蓉
+53,Pinyin_name,Caocongrong
+53,English_name,Boschniakia Rossica Herba
+54,Chinese_name,草果
+54,Pinyin_name,Caoguo
+54,Latin_name,"Tsaoko Fructus,Fructus Tsaoko"
+54,English_name,Tsaoko
+55,Chinese_name,草乌
+55,Pinyin_name,Caowu
+55,Latin_name,"Radix Aconiti Kusnezoffii,Aconiti Kusnezoffii Radix"
+55,English_name,Kusnezoff Monkshood Root
+56,Chinese_name,草乌叶
+56,Pinyin_name,Caowuye
+56,Latin_name,"Aconiti Kusnezoffii Folium,Folium Aconiti Kusnezoffii"
+56,English_name,Kusnezoff Monkshood Leaf
+57,Chinese_name,侧柏叶
+57,Pinyin_name,Cebaiye
+57,Latin_name,"Platycladi Cacumen,Cacumen Et Folium Biotae"
+57,English_name,leafy twigs of Oriental Arborvitae
+58,Chinese_name,柴胡
+58,Pinyin_name,Chaihu
+58,Latin_name,"Radix Bupleuri,Bupleuri Radix"
+58,English_name,root of Chinese Thorowax
+59,Chinese_name,蝉蜕
+59,Pinyin_name,Chantui
+59,Latin_name,"Periostracum Cicadae,Cicadae Periostracum"
+59,English_name,Cicada Slough
+60,Chinese_name,常山
+60,Pinyin_name,Changshan
+60,Latin_name,"Radix Dichroae,Dichroae Radix"
+60,English_name,root of antifebrile Dichroa
+61,Chinese_name,车前草
+61,Pinyin_name,Cheqiancao
+61,Latin_name,"Plantaginis Herba,Herba Plantaginis"
+61,English_name,all-grass of Rippleseed plantain
+62,Chinese_name,车前子
+62,Pinyin_name,Cheqianzi
+62,Latin_name,"Semen Plantaginis,Plantaginis Semen"
+62,English_name,seed of Asiatic pantain
+63,Chinese_name,沉香
+63,Pinyin_name,Chenxiang
+63,Latin_name,"Lignum Aquilariae Resitum,Aquilariae Lignum Resinatum"
+63,English_name,Oily wood of Agalloch Eaglewood
+64,Chinese_name,陈皮
+64,Pinyin_name,Chenpi
+64,Latin_name,"Citri Reticulatae Pericarpium,Pericarpium Citri Reticulatae"
+64,English_name,Dried Tangerine Peel
+65,Chinese_name,赤芍
+65,Pinyin_name,Chishao
+65,Latin_name,"Radix Paeoniae Rubra,Paeoniae Radix Rubra"
+65,English_name,Red Peony root
+66,Chinese_name,赤小豆
+66,Pinyin_name,Chixiaodou
+66,Latin_name,"Semen Phaseoli,Vignae Semen"
+66,English_name,Rice Bean
+67,Chinese_name,茺蔚子
+67,Pinyin_name,Chongweizi
+67,Latin_name,"Leonuri Fructus,Fructus Leonuri"
+67,English_name,Motherwort Fruit
+68,Chinese_name,臭梧桐
+68,Pinyin_name,Chouwutong
+68,Latin_name,Folium Clerodentri Trichotomi
+68,English_name,"Glorybower leaf, Clerodendron leaf"
+69,Chinese_name,楮实子
+69,Pinyin_name,Chushizi
+69,Latin_name,Broussonetiae Fructus
+69,English_name,Broussonetiae Fructus
+70,Chinese_name,川贝母
+70,Pinyin_name,Chuanbeimu
+70,Latin_name,"Bulbus Fritillariae Cirrhosae,Fritillariae Cirrhosae Bulbus"
+70,English_name,Bulb of Tendrilleaf Fritillary
+71,Chinese_name,川槿皮
+71,Pinyin_name,Chuanjinpi
+71,English_name,Cortex Hibisci
+72,Chinese_name,川楝子
+72,Pinyin_name,Chuanlianzi
+72,Latin_name,"Toosendan Fructus,Fructus Meliae Toosendan"
+72,English_name,Szechwan Chiberry Fruit
+73,Chinese_name,川木通
+73,Pinyin_name,Chuanmutong
+73,Latin_name,"Caulis Clematidis Armandii,Clematidis Armandii Caulis"
+73,English_name,Armand Clematis Stem
+74,Chinese_name,川牛膝
+74,Pinyin_name,Chuanniuxi
+74,Latin_name,"Cyathulae Radix,Radix Cyathulae"
+74,English_name,root of Medicil cyathula
+75,Chinese_name,川射干
+75,Pinyin_name,Chuanshegan
+75,Latin_name,Iridis Tectori Rhizoma
+75,English_name,Iridis Tectori Rhizoma
+76,Chinese_name,川乌
+76,Pinyin_name,Chuanwu
+76,Latin_name,"Aconiti Radix,Radix Aconiti"
+76,English_name,root of Common Monkshood
+77,Chinese_name,川芎
+77,Pinyin_name,Chuanxiong
+77,Latin_name,"Chuanxiong Rhizoma,Radix Chuanxiong；Rhizoma Chuanxiong"
+77,English_name,"Chuanxiong rhizome, Szechuan lovage root"
+78,Chinese_name,穿山龙
+78,Pinyin_name,Chuanshanlong
+78,Latin_name,"Rhizoma Dioscoreae Nipponicae,Dioscoreae Nipponicae Rhizoma"
+78,English_name,Ningpo Yam Rhizome 
+79,Chinese_name,穿心莲
+79,Pinyin_name,Chuanxinlian
+79,Latin_name,"Andrographis Herba,Herba Andrographitis"
+79,English_name,all-grass of Common Androgrphis
+80,Chinese_name,垂盆草
+80,Pinyin_name,Chuipencao
+80,Latin_name,"Sedi Herba,Herba Sedi Sarmentosi"
+80,English_name,all - grass of Stringy stonecrop
+81,Chinese_name,椿皮
+81,Pinyin_name,Chunpi
+81,Latin_name,"Cortex Tooe Sinensis,Ailanthi Cortex"
+81,English_name,"Ailanthus bark, Tree of heaven bark"
+82,Chinese_name,葱白
+82,Pinyin_name,Congbai
+82,Latin_name,Bulbus Allii Fistulosi
+82,English_name,"Allium bulb, Wild scallion, Chinese green onion"
+83,Chinese_name,大风子
+83,Pinyin_name,Dafengzi
+83,English_name,Hydnocarpi Anthelminticae Semen
+84,Chinese_name,大腹皮
+84,Pinyin_name,Dafupi
+84,Latin_name,Arecae Pericarpium
+84,English_name,Areca Catechu L.
+85,Chinese_name,大黄
+85,Pinyin_name,Dahuang
+85,Latin_name,"Radix Et Rhizoma Rhei,Rhei Radix Et Rhizoma"
+85,English_name,root and rhziome of Sorrel Rhubarb
+86,Chinese_name,大蓟
+86,Pinyin_name,Daji
+86,Latin_name,"Cirsii Japonici Herba,Herba Cirsii Japonici;Radix Cirsii Japonici;Herba Seu Radix Cirsii Japonici"
+86,English_name,all-grass of Thistle
+87,Chinese_name,大青叶
+87,Pinyin_name,Daqingye
+87,Latin_name,"Folium Isatidis,Isatidis Folium"
+87,English_name,Isatis leaf
+88,Chinese_name,大蒜
+88,Pinyin_name,Dasuan
+88,Latin_name,"Allii Sativi Bulbus,Bulbus Allii"
+88,English_name,Garlic
+89,Chinese_name,大血藤
+89,Pinyin_name,Daxueteng
+89,Latin_name,"Caulis Sargentodoxae,Sargentodoxae Caulis"
+89,English_name,Stem of Sargentgloryvine
+90,Chinese_name,大枣
+90,Pinyin_name,Dazao
+90,Latin_name,"Fructus Zizyphi Jujubae,Jujubae Fructus"
+90,English_name,Jujube Chinese date
+91,Chinese_name,大皂角
+91,Pinyin_name,Dazaojiao
+91,Latin_name,Gleditsiae Sinensis Fructus
+91,English_name,Gleditsiae Fructus
+92,Chinese_name,玳玳花
+92,Pinyin_name,Daidaihua
+92,English_name,Citrus Aurantium
+93,Chinese_name,丹参
+93,Pinyin_name,Danshen
+93,Latin_name,"Radix Salviae Liguliobae,Salviae Miltiorrhizae
+Radix Et Rhizoma"
+93,English_name,root of Ligulilobe sage
+94,Chinese_name,淡豆豉
+94,Pinyin_name,Dandouchi
+94,Latin_name,"Semen Sojae Praeparata,Sojae Semen Praeparatum"
+94,English_name,Fermented Soybean
+95,Chinese_name,当归
+95,Pinyin_name,Danggui
+95,Latin_name,"Radix Angelicae Sinensis,Angelicae Sinensis Radix"
+95,English_name,root of Chinese Angelica
+96,Chinese_name,党参
+96,Pinyin_name,Dangshen
+96,Latin_name,"Codonopsis Radix,Radix Codonopsis Pilosulae"
+96,English_name,root Pilose Asiabell
+97,Chinese_name,刀豆
+97,Pinyin_name,Daodou
+97,Latin_name,"Semen Cavaliae,Canaⅴ Aliae Semen"
+97,English_name,Jack Bean
+98,Chinese_name,倒扣草
+98,Pinyin_name,Daokoucao
+98,English_name,Achyranthis Asperae Herba
+99,Chinese_name,灯心草
+99,Pinyin_name,Dengxincao
+99,Latin_name,"Junci Medulla,Medulla Junci"
+99,English_name,pith of Common Rush
+100,Chinese_name,地耳草
+100,Pinyin_name,Diercao
+100,Latin_name,Herba Hyperici Japonici
+100,English_name,all - grass of Japanese St. Johnswort
+101,Chinese_name,地枫皮
+101,Pinyin_name,Difengpi
+101,Latin_name,"Illicii Cortex,Cortex Illicii"
+101,English_name,Difengpi Bark
+102,Chinese_name,地肤子
+102,Pinyin_name,Difuzi
+102,Latin_name,"Fructus Kochiae,Kochiae Fructus"
+102,English_name,fruit of Belvedere
+103,Chinese_name,地骨皮
+103,Pinyin_name,Digupi
+103,Latin_name,"Cortex Lycii Radicis,Lycii Cortex"
+103,English_name,root - bark of Chinese Wolfberry
+104,Chinese_name,地锦草
+104,Pinyin_name,Dijincao
+104,Latin_name,"Euphorbiae Humifusae Herba,Herba Euphorbiae Humifusae"
+104,English_name,all - grass of Humifuse Euphorbia
+105,Chinese_name,地榆
+105,Pinyin_name,Diyu
+105,Latin_name,"Sanguisorbae Radix,Radix Sanguisorbae"
+105,English_name,Root of Garden Burnet
+106,Chinese_name,丁公藤
+106,Pinyin_name,Dinggongteng
+106,Latin_name,"Caulis Erycibes,Erycibes Caulis"
+106,English_name,Stem of Taiwan Erycibe
+107,Chinese_name,丁香
+107,Pinyin_name,Dingxiang
+107,Latin_name,"Flos Caryophylli,Caryophylli Flos"
+107,English_name,Clove
+108,Chinese_name,冬虫夏草
+108,Pinyin_name,Dongchongxiacao
+108,Latin_name,Cordyceps
+108,English_name,Chinese Caterpillar Fungus
+109,Chinese_name,冬瓜皮
+109,Pinyin_name,Dongguapi
+109,Latin_name,"Exocarpium Benincasae,Benincasae Exocarpium"
+109,English_name,Chinese Waxgourd Peel
+110,Chinese_name,冬瓜子
+110,Pinyin_name,Dongguazi
+110,English_name,Benincasae Semen
+111,Chinese_name,冬葵果
+111,Pinyin_name,Dongkuiguo
+111,Latin_name,"Fructus Malvae,Malvae Fructus"
+111,English_name,Cluster Mallow Fruit
+112,Chinese_name,豆蔻
+112,Pinyin_name,Doukou
+112,Latin_name,"Fructus Amomi Rotundus,Amomi Fructus Rotundus"
+112,English_name,Round Cardamon Fruit
+113,Chinese_name,独活
+113,Pinyin_name,Duhuo
+113,Latin_name,"Radix Angelicae Pubescentis,Angelicae Pubescentis Radix"
+113,English_name,Doubleteeth Pubescent Angelica Root
+114,Chinese_name,杜仲
+114,Pinyin_name,Duzhong
+114,Latin_name,"Cortex Eucommiae,Eucommiae Cortex"
+114,English_name,Eucommia bark
+115,Chinese_name,杜仲叶
+115,Pinyin_name,Duzhongye
+115,Latin_name,Eucommiae Folium
+115,English_name,Eucommiae Folium
+116,Chinese_name,断血流
+116,Pinyin_name,Duanxueliu
+116,Latin_name,"Herba Clinopodii,Clinopodii Herba"
+116,English_name,Clinopodium Herb
+117,Chinese_name,莪术
+117,Pinyin_name,Ezhu
+117,Latin_name,"Curcumae Rhizoma,Rhizoma Curcumae"
+117,English_name,Zedoray Rhizome
+118,Chinese_name,鹅不食草
+118,Pinyin_name,Ebushicao
+118,Latin_name,"Herba Centipedae,Centipedae Herba"
+118,English_name,Small Centipeda Herb
+119,Chinese_name,儿茶
+119,Pinyin_name,Ercha
+119,Latin_name,Catechu
+119,English_name,"Cutch, Black Catechu"
+120,Chinese_name,番泻叶
+120,Pinyin_name,Fanxieye
+120,Latin_name,"Sennae Folium,Folium Sene"
+120,English_name,Sen leaf
+121,Chinese_name,翻白草
+121,Pinyin_name,Fanbaicao
+121,Latin_name,"Herba Potentillae Discoloris,Potentillae Discoloris Herba"
+121,English_name,all-grass of discolor cinquefoil
+122,Chinese_name,防风
+122,Pinyin_name,Fangfeng
+122,Latin_name,"Radix Saposhnikoviae Divaricatae,Saposhnikoviae Radix"
+122,English_name,root of Divaricate Saposhnikovia
+123,Chinese_name,防己
+123,Pinyin_name,Fangji
+123,Latin_name,"Stephaniae Tetrandrae Radix,Radix Stephaniae Tetrandrae"
+123,English_name,Root of Fourstamen Stephania
+124,Chinese_name,粉萆薢
+124,Pinyin_name,Fenbixie
+124,Latin_name,Dioscoreae Hypoglaucae Rhizoma
+124,English_name,Dioscoreae Hypoglaucae Rhizoma
+125,Chinese_name,凤尾草
+125,Pinyin_name,Fengweicao
+125,Latin_name,Herba Pteridis Multifidae
+125,English_name,all - grass of Chinese Brake
+126,Chinese_name,凤仙透骨草
+126,Pinyin_name,Fengxiantougucao
+126,Latin_name,Herba Speranskiae Tuberculatae
+126,English_name,all-grass of Tubercultae speranskia
+127,Chinese_name,凤眼草
+127,Pinyin_name,Fengyancao
+127,English_name,Ailanthi Altissimae Fructus
+128,Chinese_name,佛手
+128,Pinyin_name,Foshou
+128,Latin_name,"Fructus Citri Sarcodactylis,Citri Sarcodactylis Fructus"
+128,English_name,Finger Citron
+129,Chinese_name,茯苓
+129,Pinyin_name,Fuling
+129,Latin_name,Poria
+129,English_name,Indian Bread
+130,Chinese_name,浮萍
+130,Pinyin_name,Fuping
+130,Latin_name,"Spirodelae Herba,Herba Spirodelae"
+130,English_name,all-grass of Common Ducksmeat
+131,Chinese_name,附子
+131,Pinyin_name,Fuzi
+131,Latin_name,"Aconiti Lateralis Radix Praeparata,Radix Aconiti Lateralis"
+131,English_name,Common Monkshood Daughter Root
+132,Chinese_name,覆盆子
+132,Pinyin_name,Fupenzi
+132,Latin_name,Rubi Fructus
+132,English_name,Rubi Fructus
+133,Chinese_name,甘草
+133,Pinyin_name,Gancao
+133,Latin_name,"Glycyrrhizae Radix Et Rhizoma,Radix Glycyrrhizae"
+133,English_name,Root of Ural Licorice
+134,Chinese_name,甘松
+134,Pinyin_name,Gansong
+134,Latin_name,"Nardostachyos Radix Et Rhizoma,Radix Seu Rhizoma Rdostachyos"
+134,English_name,rdostachys Root
+135,Chinese_name,甘遂
+135,Pinyin_name,Gansui
+135,Latin_name,"Radix Kansui,Kansui Radix"
+135,English_name,root of Gansui
+136,Chinese_name,干姜
+136,Pinyin_name,Ganjiang
+136,Latin_name,"Zingiberis Rhizoma,Rhizoma Zingiberis"
+136,English_name,Dried Ginger
+137,Chinese_name,高良姜
+137,Pinyin_name,Gaoliangjiang
+137,Latin_name,Alpiniae Officinarum Rhizoma
+137,English_name,Alpiniae Officirum Rhizome
+138,Chinese_name,藁本
+138,Pinyin_name,Gaoben
+138,Latin_name,Ligustici Rhizoma Et Radix
+138,English_name,Ligustici Rhizoma Et Radix
+139,Chinese_name,葛花
+139,Pinyin_name,Gehua
+139,Latin_name,Flos Puerariae Lobatae
+139,English_name,flower bud of lobed kudzuvine
+140,Chinese_name,功劳木
+140,Pinyin_name,Gonglaomu
+140,Latin_name,"Mahoniae Caulis,Caulis Mahoniae"
+140,English_name,Stem of Leatherleaf Mahonia
+141,Chinese_name,钩藤
+141,Pinyin_name,Gouteng
+141,Latin_name,"Ramulus Uncariae Cum Uncis,Uncariae Ramulus Cumuncis"
+141,English_name,Gambir Plant
+142,Chinese_name,枸骨叶
+142,Pinyin_name,Gouguye
+142,Latin_name,Ilicis Cornutae Folium
+142,English_name,Folium Ilicis Cornutae
+143,Chinese_name,枸杞子
+143,Pinyin_name,Gouqizi
+143,Latin_name,"Lycii Fructus,Fructus Lycii"
+143,English_name,fruit of Chinese Wolfberry
+144,Chinese_name,谷精草
+144,Pinyin_name,Gujingcao
+144,Latin_name,"Flos Eriocauli,Eriocauli Flos"
+144,English_name,Pipewort Flower
+145,Chinese_name,骨碎补
+145,Pinyin_name,Gusuibu
+145,Latin_name,"Drynariae Rhizoma,Rhizoma Dryriae"
+145,English_name,rhizome of Heartleaf Dryria
+146,Chinese_name,瓜蒂
+146,Pinyin_name,Guadi
+146,Latin_name,Calycis Melo
+146,English_name,Muskmelon base
+147,Chinese_name,瓜蒌
+147,Pinyin_name,Gualou
+147,Latin_name,Trichosanthis Fructus
+147,English_name,Trichosanthes Kirilowii Maxim
+148,Chinese_name,关黄柏
+148,Pinyin_name,Guanhuangbo
+148,Latin_name,Phellodendri Amurensis Cortex
+148,English_name,Phellodendri Amurensis Cortex
+149,Chinese_name,贯叶金丝桃
+149,Pinyin_name,Guanyejinsitao 
+149,Latin_name,Hyperici Perforati Herba
+149,English_name,Herbahypericiperforati
+150,Chinese_name,绵马贯众
+150,Pinyin_name,Mianmaguanzhong
+150,Latin_name,"Rhizoma Dryopteris Crassirhizomae,Dryopteridis Crassirhizomatis Rhizoma"
+150,English_name,root of Chinese Angelica
+151,Chinese_name,广藿香
+151,Pinyin_name,Guanghuoxiang
+151,Latin_name,Pogostemonis Herba
+151,English_name,Pogostemon Cablin (Blanco) Benth.
+152,Chinese_name,广枣
+152,Pinyin_name,Guangzao
+152,Latin_name,"Choerospondiatis Fructus,Fructus Choerospondiatis"
+152,English_name,fruit of Axillary choerospondias
+153,Chinese_name,鬼箭羽
+153,Pinyin_name,Guijianyu
+153,Latin_name,Ramulus Euonymi
+153,English_name,twig of Winged Euonymus
+154,Chinese_name,鬼针草
+154,Pinyin_name,Guizhencao
+154,Latin_name,Herba Bidentis
+154,English_name,all-grass of Spanishneedles
+155,Chinese_name,桂枝
+155,Pinyin_name,Guizi
+155,Latin_name,"Cinnamomi Ramulus,Ramulus Cinmomi"
+155,English_name,Cassia Twig
+156,Chinese_name,海风藤
+156,Pinyin_name,Haifengteng
+156,Latin_name,"Piperis Kadsurae Caulis,Caulis Piperis Kadsurae；Caulis Piperis Futokadsurae"
+156,English_name,stem of Kadsura Pepper
+157,Chinese_name,海金沙
+157,Pinyin_name,Haijinsha
+157,Latin_name,"Spora Lygodii,Lygodii Spora"
+157,English_name,spore of Japanese climbing Fern
+158,Chinese_name,海桐皮
+158,Pinyin_name,Haitongpi
+158,Latin_name,Cortex Erythrie
+158,English_name,bark of Oriental Variegated Coralbean
+159,Chinese_name,海藻
+159,Pinyin_name,Haizao
+159,Latin_name,Sargassum
+159,English_name,seaweed
+160,Chinese_name,诃子
+160,Pinyin_name,Hezi
+160,Latin_name,"Chebulae Fructus,Fructus Chebulae"
+160,English_name,Medicine Termilia Fruit
+161,Chinese_name,荷叶
+161,Pinyin_name,Heye
+161,Latin_name,"Folium Nelumbinis,Nelumbinis Folium"
+161,English_name,Lotus leaf
+162,Chinese_name,核桃仁
+162,Pinyin_name,Hetaoren
+162,Latin_name,"Semen Juglandis,Juglandis Semen"
+162,English_name,English Walnut Seed
+163,Chinese_name,鹤虱
+163,Pinyin_name,Heshi
+163,Latin_name,"Carpesii Fructus,Fructus Carpesii"
+163,English_name,Common Carpesium Fruit
+164,Chinese_name,黑豆
+164,Pinyin_name,Heidou
+164,Latin_name,"Semen Glycine Max,Sojae Semen Nigrum"
+164,English_name,Black bean
+165,Chinese_name,黑老虎
+165,Pinyin_name,Heilaohu
+165,English_name,Kadsurae Coccineae Radix Et Caulis
+166,Chinese_name,黑芝麻
+166,Pinyin_name,Heizhima
+166,Latin_name,"Sesami Semen Nigrum,Semen Sesami Nigrum"
+166,English_name,Black Sesame
+167,Chinese_name,红参
+167,Pinyin_name,Hongshen
+167,Latin_name,"Radix Ginseng Rubra,Ginseng Radix Et Rhizoma Rubra"
+167,English_name,Red Ginseng
+168,Chinese_name,红花
+168,Pinyin_name,Honghua
+168,Latin_name,"Flos Carthami,Carthami Flos"
+168,English_name,Safflower
+169,Chinese_name,红芪
+169,Pinyin_name,Hongqi
+169,Latin_name,Hedysari Radix
+169,English_name,Hedysari Radix
+170,Chinese_name,猴枣
+170,Pinyin_name,Houzao
+170,English_name,Macacae Calcalus Gasteris
+171,Chinese_name,厚朴
+171,Pinyin_name,Houpo
+171,Latin_name,"Cortex Magnoliae Officilis,Magnoliae Officinalis Cortex"
+171,English_name,bark of Officil magnolia
+172,Chinese_name,胡黄连
+172,Pinyin_name,Huhuangl1an
+172,Latin_name,Picrorhizae Rhizoma
+172,English_name,Picrorhizae Rhizoma
+173,Chinese_name,胡椒
+173,Pinyin_name,Hujiao
+173,Latin_name,"Fructus Piperis,Piperis Fructus"
+173,English_name,Pepper Fruit
+174,Chinese_name,胡芦巴
+174,Pinyin_name,Huluba
+174,Latin_name,Trigonellae Semen
+174,English_name,Trigonellae Semen
+175,Chinese_name,槲寄生
+175,Pinyin_name,Hujisheng
+175,Latin_name,"Herba Visci,Visci Herba"
+175,English_name,Colored Mistletoe Herb
+176,Chinese_name,虎耳草
+176,Pinyin_name,Huercao
+176,Latin_name,Herba Saxifragae
+176,English_name,stem or leaf of Fung Waxplant
+177,Chinese_name,虎杖
+177,Pinyin_name,Huzhang
+177,Latin_name,"Rhizoma Polygoni Cuspidati,Polygoni Cuspidati Rhizoma Et Radix"
+177,English_name,rhizome of Gaint Knotweed
+178,Chinese_name,花椒
+178,Pinyin_name,Huajiao
+178,Latin_name,"Zanthoxyli Pericarpium,Pericarpium Zanthoxyli"
+178,English_name,Pricklyash Peel
+179,Chinese_name,花生衣
+179,Pinyin_name,Huashengyi
+179,Latin_name,Testa Arachidis Hypogaeae
+179,English_name,Semino-dermis Arachidis 
+180,Chinese_name,华山参
+180,Pinyin_name,Huashanshen
+180,Latin_name,Physochlainae Radix
+180,English_name,Physochlaie Radix
+181,Chinese_name,化橘红
+181,Pinyin_name,Huajuhong
+181,Latin_name,"Exocarpium Citri Grandis,Citri Grandis Exocarpium"
+181,English_name,Pummelo Peel
+182,Chinese_name,槐花
+182,Pinyin_name,Huaihua
+182,Latin_name,"Sophorae Flos,Flos Sophorae"
+182,English_name,flower bud of Japanese pagodatree
+183,Chinese_name,槐角
+183,Pinyin_name,Huaijiao
+183,Latin_name,"Fructus Sophorae,Sophorae Fructus"
+183,English_name,pod of Japanese pagodatree
+184,Chinese_name,黄柏
+184,Pinyin_name,Huangbo
+184,Latin_name,"Phellodendri Chinensis Cortex,Cortex Phellodendri"
+184,English_name,Phellodendron bark
+185,Chinese_name,黄精
+185,Pinyin_name,Huangjing
+185,Latin_name,"Polygonati Rhizoma,Rhizoma Polygoti"
+185,English_name,Rhizome of Fragrant Solomonseal
+186,Chinese_name,黄连
+186,Pinyin_name,Huanglian
+186,Latin_name,"Rhizoma Coptidis,Coptidis Rhizoma"
+186,English_name,rhizome of Chinese Goldthread
+187,Chinese_name,黄芪
+187,Pinyin_name,Huangqi
+187,Latin_name,"Astragali Radix,Radix Astragali"
+187,English_name,root of Membranous Milkvetch
+188,Chinese_name,黄芩
+188,Pinyin_name,Huangqin
+188,Latin_name,"Scutellariae Radix,Radix Scutellariae"
+188,English_name,root of Baikal skullcap
+189,Chinese_name,黄药子
+189,Pinyin_name,Huangyaozi
+189,Latin_name,Rhizoma Dioscoreae Bulbiferae
+189,English_name,rhizome of Airpotato Yam
+190,Chinese_name,火麻仁
+190,Pinyin_name,Huomaren
+190,Latin_name,"Cannabis Fructus,Semen Canbis;Fructus Canbis"
+190,English_name,Hemp Seed
+191,Chinese_name,鸡骨草
+191,Pinyin_name,Jigucao
+191,Latin_name,"Abri Herba,Herba Abri"
+191,English_name,Canton Love-pea Vine
+192,Chinese_name,鸡冠花
+192,Pinyin_name,Jiguanhua
+192,Latin_name,"Flos Celosiae Cristatae,Celosiae Cristatae Flos"
+192,English_name,Cockscomb flower 
+193,Chinese_name,鸡屎藤
+193,Pinyin_name,Jishiteng
+193,English_name,Paederiae Scandentis Herba
+194,Chinese_name,鸡血藤
+194,Pinyin_name,Jixueteng
+194,Latin_name,"Spatholobi Caulis,Caulis Millettiae; Caulis Spatholobi"
+194,English_name,Suberect Spatholobus Stem
+195,Chinese_name,积雪草
+195,Pinyin_name,Jixuecao
+195,Latin_name,"Herba Centellae,Centellae Herba"
+195,English_name,Asiatic Pennywort Herb
+196,Chinese_name,急性子
+196,Pinyin_name,Jixingzi
+196,Latin_name,"Impatientis Semen,Semen Impatientis"
+196,English_name,seed of Garden Balsam
+197,Chinese_name,蒺藜
+197,Pinyin_name,jili
+197,Latin_name,"Tribuli Fructus,Fructus Tribuli"
+197,English_name,Puncturevine Caltrop Fruit
+198,Chinese_name,姜黄
+198,Pinyin_name,Jianghuang
+198,Latin_name,"Rhizoma Curcumae Longae,Curcumae Longae Rhizoma"
+198,English_name,rhizome of Common Turmeric
+199,Chinese_name,降香
+199,Pinyin_name,Jiangxiang
+199,Latin_name,"Lignum Dalbergiae Odoriferae Rosewood,Dalbergiae Odoriferae Lignum"
+199,English_name,Odoriferous Rosewood
+200,Chinese_name,绞股蓝
+200,Pinyin_name,Jiaoguolan
+200,English_name,Gynostemmae Pentaphylli Herba
+201,Chinese_name,芥子
+201,Pinyin_name,Jiezi
+201,Latin_name,"Semen Sipis,Sinapis Semen"
+201,English_name,Mustard Seed
+202,Chinese_name,金沸草
+202,Pinyin_name,Jinfeicao
+202,Latin_name,"Herba Inulae,Inulae Herba"
+202,English_name,All - grass of Japanese Inula
+203,Chinese_name,金果榄
+203,Pinyin_name,Jinguolan
+203,Latin_name,Tinosporae Radix
+203,English_name,Tinosporae Radix
+204,Chinese_name,金莲花
+204,Pinyin_name,Jinlianhua
+204,Latin_name,Flos Trollii Chinensis
+204,English_name,flower of Chinese Globeflower
+205,Chinese_name,金钱草
+205,Pinyin_name,Jinqiancao
+205,Latin_name,"Herba Glechomae Longitubae,Lysimachiae Herba"
+205,English_name,Christi Loosestrife
+206,Chinese_name,金荞麦
+206,Pinyin_name,Jinqiaomai
+206,Latin_name,"Rhizoma Fagopyri Cymosi,Fagopyri Dibotryis Rhizoma"
+206,English_name,Wild Buckwheat Rhizome
+207,Chinese_name,金银花
+207,Pinyin_name,Jinyinhua
+207,Latin_name,"Lonicerae Japonicae Flos,Flos Lonicerae"
+207,English_name,Honeysuckle Flower
+208,Chinese_name,金樱子
+208,Pinyin_name,Jinyingzi
+208,Latin_name,"Fructus Rosae Laevigatae,Rosae Laevigatae Fructus"
+208,English_name,fruit of Cherokee Rose
+209,Chinese_name,金盏菊花
+209,Pinyin_name,Jinzhanjuhua
+209,English_name,Calendula Officilis
+210,Chinese_name,锦灯笼
+210,Pinyin_name,Jindenglong
+210,Latin_name,Physalis Calyx Seu Fructus
+210,English_name,Calyx Seu Fructus Physalis
+211,Chinese_name,京大戟
+211,Pinyin_name,Jingdaji
+211,Latin_name,"Radix Euphorbiae Pekinensis,Euphorbiae Pekinensis Radix"
+211,English_name,Peking Euphorbia Root
+212,Chinese_name,荆芥
+212,Pinyin_name,Jingjie
+212,Latin_name,"Schizonepetae Herba,Herba Schizonepetae"
+212,English_name,all-grass of Fineleaf Schizonepeta
+213,Chinese_name,荆芥穗
+213,Pinyin_name,Jingjiesui
+213,Latin_name,Schizonepetae Spica
+213,English_name,Schizonepetae Spica
+214,Chinese_name,景天三七
+214,Pinyin_name,Jintiansanqi
+214,English_name,Sedum Aizoon L.
+215,Chinese_name,韭菜子
+215,Pinyin_name,Jiucaizi
+215,Latin_name,"Allii Tuberosi Semen,Semen Allii Tuberosi"
+215,English_name,Tuber Onion Seed
+216,Chinese_name,桔梗
+216,Pinyin_name,Jiegeng
+216,Latin_name,"Radix Platycodi,Platycodonis Radix"
+216,English_name,Platycodon Root
+217,Chinese_name,菊花
+217,Pinyin_name,Juhua
+217,Latin_name,"Chrysanthemi Flos,Flos Chrysanthemi"
+217,English_name,Chrysanthemum Flower
+218,Chinese_name,菊苣
+218,Pinyin_name,Juju
+218,Latin_name,"Cichorii Herba
+Cichorii Radix,Herba Cichorii"
+218,English_name,Chicory Herb
+219,Chinese_name,橘核
+219,Pinyin_name,Juhe
+219,Latin_name,"Semen Citri Reticulatae,Citri Reticulatae Semen"
+219,English_name,Tangerine Seed
+220,Chinese_name,橘红
+220,Pinyin_name,Juhong
+220,Latin_name,Citri Exocarpium Rubrum
+220,English_name,Citri Exocarpium Rubrum
+221,Chinese_name,橘络
+221,Pinyin_name,Juluo
+221,English_name,Citri Fructus Retinervus
+222,Chinese_name,橘叶
+222,Pinyin_name,Juye
+222,Latin_name,Folium Citri Tangerie
+222,English_name,tangerine leaf
+223,Chinese_name,卷柏
+223,Pinyin_name,Juanbai
+223,Latin_name,"Selaginellae Herba,Herba Selaginellae"
+223,English_name,aal-grass of Tamariskoid spikemoss
+224,Chinese_name,决明子
+224,Pinyin_name,Juemingzi
+224,Latin_name,"Semen Cassiae;Semen Sene,Cassiae Semen"
+224,English_name,Cassia Seed
+225,Chinese_name,苦参
+225,Pinyin_name,Kushen
+225,Latin_name,"Radix Sophorae Flavescentis,Sophorae Flavescentis Radix"
+225,English_name,root of Lightyellow sophora
+226,Chinese_name,苦地丁
+226,Pinyin_name,Kudiding
+226,Latin_name,"Corydalis Bungeanae Herba,Herba Corydalis Bungeae"
+226,English_name,all - grass of Bunge Corydalis
+227,Chinese_name,苦丁茶
+227,Pinyin_name,Kudingcha
+227,English_name,Ilicis Cornutae Folium Immayuri
+228,Chinese_name,苦楝皮
+228,Pinyin_name,Kulianpi
+228,Latin_name,Meliae Cortex
+228,English_name,Meliae Cortex
+229,Chinese_name,苦楝子
+229,Pinyin_name,Kulianzi
+229,English_name,Meliae Azedarach Fructus
+230,Chinese_name,苦杏仁
+230,Pinyin_name,Kuxingren
+230,Latin_name,"Armeniacae Semen Amarum,Semen Armeniacae Amarum"
+230,English_name,bitter Apricot seed
+231,Chinese_name,款冬花
+231,Pinyin_name,Kuandonghua
+231,Latin_name,"Farfarae Flos,Flos Farfarae"
+231,English_name,flower bud of common coltsfoot
+232,Chinese_name,昆布
+232,Pinyin_name,Kunbu
+232,Latin_name,"Laminariae Thallus Eckloniae Thallus,Thallus Lamiriae"
+232,English_name,Kelp or Tangle
+233,Chinese_name,辣椒
+233,Pinyin_name,Lajiao
+233,Latin_name,"Fructus Capsici,Capsici Fructus"
+233,English_name,Hot pepper
+234,Chinese_name,莱菔子
+234,Pinyin_name,Laifuzi
+234,Latin_name,"Raphani Semen,Semen Raphani"
+234,English_name,Radish Seed
+235,Chinese_name,老鹳草
+235,Pinyin_name,Laoguancao
+235,Latin_name,"Erodii Herba Geranii Herba,Herba Erodiiherba Geranii"
+235,English_name,All - grass of Common Heron's bill
+236,Chinese_name,了哥王根
+236,Pinyin_name,Liaogewanggen
+236,English_name,Wikstroemiae Indicae Rasix
+237,Chinese_name,雷公藤
+237,Pinyin_name,Leigongteng
+237,Latin_name,Radix Tripterygii Wilfordii
+237,English_name,root of common htreewingnut
+238,Chinese_name,雷丸
+238,Pinyin_name,Leiwan
+238,Latin_name,Omphalia
+238,English_name,Thunder Ball
+239,Chinese_name,荔枝核
+239,Pinyin_name,Lizhihe
+239,Latin_name,"Litchi Semen,Semen Litchi"
+239,English_name,Litchi seed
+240,Chinese_name,连钱草
+240,Pinyin_name,Lianqiancao
+240,Latin_name,Glechomae Herba
+240,English_name,Glechomae Herba
+241,Chinese_name,连翘
+241,Pinyin_name,Lianqiao
+241,Latin_name,"Forsythiae Fructus,Fructus Forsythiae"
+241,English_name,Weeping Forsythia Capsule
+242,Chinese_name,莲房
+242,Pinyin_name,Lianfang
+242,Latin_name,"Receptaculum Nelumbinis,Nelumbinis Receptaculum"
+242,English_name,Lotus Receptacle
+243,Chinese_name,莲须
+243,Pinyin_name,Lianxu
+243,Latin_name,"Stamen Nelumbinis,Nelumbinis Stamen"
+243,English_name,Lotus stamen
+244,Chinese_name,莲子心
+244,Pinyin_name,Lianzixin
+244,Latin_name,"Plumula Nelumbinis,Nelumbinis Plumula"
+244,English_name,Lotus Plumule
+245,Chinese_name,两面针
+245,Pinyin_name,Liangmianzhen
+245,Latin_name,"Zanthoxyli Radix,Radix Zanthoxyli"
+245,English_name,Shinyleaf Pricklyash Root
+246,Chinese_name,两头尖
+246,Pinyin_name,Liangtoujian
+246,Latin_name,"Anemones Raddeanae Rhizoma,Rhizoma Ahemones Daddeae"
+246,English_name,Radde Anemone Rhizome
+247,Chinese_name,蓼大青叶
+247,Pinyin_name,Liaodaqingye
+247,Latin_name,"Polygoni Tinctorii Folium,Folium Polygoni Tinctorii"
+247,English_name,Indigoplant Leaf
+248,Chinese_name,灵芝
+248,Pinyin_name,Lingzhi
+248,Latin_name,"Ganoderma Lucidum Seu Japonicum,Ganoderma"
+248,English_name,Lucid Ganoderma
+249,Chinese_name,凌霄花
+249,Pinyin_name,Lingxiaohua
+249,Latin_name,"Flos Campsis,Campsis Flos"
+249,English_name,flower of Common Trumpetcreeper
+250,Chinese_name,零陵香
+250,Pinyin_name,Linglingxiang
+250,English_name,Lysimachiae Foenigraeci Herba
+251,Chinese_name,龙胆
+251,Pinyin_name,Longdan
+251,Latin_name,Gentianae Radix Et Rhizoma
+251,English_name,Gentiae Radix Et Rhozima
+252,Chinese_name,龙葵
+252,Pinyin_name,Longkui
+252,English_name,Solanum Nigrum Linn.
+253,Chinese_name,龙脷叶
+253,Pinyin_name,Longliye
+253,Latin_name,Sauropi Folium
+253,English_name,Aauropi Folium
+254,Chinese_name,漏芦
+254,Pinyin_name,Loulu
+254,Latin_name,"Rhapontici Radix,Radix Rhapontici"
+254,English_name,Uniflower Swisscentaury Root
+255,Chinese_name,芦根
+255,Pinyin_name,Lugen
+255,Latin_name,"Rhizoma Phragmitis,Phragmitis Rhizoma"
+255,English_name,Reed rhizome 
+256,Chinese_name,芦荟
+256,Pinyin_name,Luhui
+256,Latin_name,Aloe
+256,English_name,Aloe
+257,Chinese_name,鹿衔草
+257,Pinyin_name,Luxiancao
+257,Latin_name,"Herba Pyrolae Chinensis,Pyrolae Herba"
+257,English_name,all-grass Chinese pyrola
+258,Chinese_name,路路通
+258,Pinyin_name,Lulutong
+258,Latin_name,"Fructus Liquidambaris,Liquidambaris Fructus"
+258,English_name,fruit of beautiful sweetgum
+259,Chinese_name,罗布麻叶
+259,Pinyin_name,Luobumaye
+259,Latin_name,Apocyni Veneti Folium
+259,English_name,Apocyniveneti Folium
+260,Chinese_name,罗汉果
+260,Pinyin_name,Luohanguo
+260,Latin_name,"Fructus Momordicae,Siraitiae Fructus"
+260,English_name,Grosvenor Momordica Fruit
+261,Chinese_name,络石藤
+261,Pinyin_name,Luoshiteng
+261,Latin_name,"Caulis Trachelospermi,Trachelospermi Caulis Et Folium"
+261,English_name,stem of Chinese starjasmine
+262,Chinese_name,绿豆
+262,Pinyin_name,Lvdou
+262,Latin_name,Semen Phaseoli Radiati
+262,English_name,mung bean
+263,Chinese_name,葎草
+263,Pinyin_name,Lvcao
+263,Latin_name,Herba Humuli Scandentis
+263,English_name,all-grass of japanese hop
+264,Chinese_name,麻黄
+264,Pinyin_name,Mahuang
+264,Latin_name,"Herba Ephedrae,Ephedrae Herba"
+264,English_name,Ephedra
+265,Chinese_name,麻黄根
+265,Pinyin_name,Mahuanggen
+265,Latin_name,"Ephedrae Radix Et Rhizoma,Radix Ephedrae"
+265,English_name,Ephedra Root
+266,Chinese_name,马鞭草
+266,Pinyin_name,Mabiancao
+266,Latin_name,"Herba Verbae,Verbenae Herba"
+266,English_name,European Verbe Herb
+267,Chinese_name,马勃
+267,Pinyin_name,Mabo
+267,Latin_name,"Lasiosphaera Seu Calvatia,Lasiosphaera Calvatia"
+267,English_name,Puff-ball
+268,Chinese_name,马齿苋
+268,Pinyin_name,Machixian
+268,Latin_name,"Portulacae Herba,Herba Portulacae"
+268,English_name,all-grass of Purslane
+269,Chinese_name,马兜铃
+269,Pinyin_name,Madouling
+269,Latin_name,Fructus Aristolochiae
+269,English_name,Dutohmanspipe Fruit
+270,Chinese_name,马钱子
+270,Pinyin_name,Maqianzi
+270,Latin_name,"Strychni Semen,Semen Strychni"
+270,English_name,Nux Vomica
+271,Chinese_name,马尾莲
+271,Pinyin_name,Maweilian
+271,Latin_name,Radix Et Rhizoma Thalictri
+271,English_name,root and rhizome of Manyleaf Meadowrue
+272,Chinese_name,麦芽
+272,Pinyin_name,Maiya
+272,Latin_name,"Hordei Fructus Germinatus,Fructus Hordei Germitus"
+272,English_name,Germited Barley
+273,Chinese_name,满山红
+273,Pinyin_name,Manshanhong
+273,Latin_name,"Folium Rhododendri Daurici,Rhododendri Daurici Folium"
+273,English_name,Dahurian Rhododendron Leaf
+274,Chinese_name,蔓荆子
+274,Pinyin_name,Manjingzi
+274,Latin_name,"Viticis Fructus,Fructus Viticis"
+274,English_name,Shrub Chastetree Fruit
+275,Chinese_name,猫眼草
+275,Pinyin_name,Maoyancao
+275,English_name,Lunulatae Herba
+276,Chinese_name,猫爪草
+276,Pinyin_name,Maozhaocao
+276,Latin_name,"Radix Ranunculi Terti,Ranunculi Ternati Radix"
+276,English_name,Catclaw Buttercup Root
+277,Chinese_name,没药
+277,Pinyin_name,Moyao
+277,Latin_name,"Resi Myrrhae;Myrrha,Myrrha"
+277,English_name,Myrrh
+278,Chinese_name,玫瑰花
+278,Pinyin_name,Meiguihua
+278,Latin_name,"Rosae Rugosae Flos,Flos Rosae Rugosae"
+278,English_name,Rose Flower
+279,Chinese_name,梅花
+279,Pinyin_name,Meihua
+279,Latin_name,"Flos Mume,Mume Flos"
+279,English_name,Plum Flower
+280,Chinese_name,猕猴桃根
+280,Pinyin_name,Mihoutaogen
+280,English_name,Actinidia Chinensis Planch
+281,Chinese_name,密蒙花
+281,Pinyin_name,Mimenghua
+281,Latin_name,"Buddlejae Flos,Flos Buddlejae"
+281,English_name,flower of Pale Butterflybush
+282,Chinese_name,绵萆薢
+282,Pinyin_name,Mianbixie
+282,Latin_name,Dioscoreae Spongiosae Rhizoma
+282,English_name,Dioscoreae Septemlo Bae Rhizoma
+283,Chinese_name,墨旱莲
+283,Pinyin_name,Mohanlian
+283,Latin_name,"Ecliptae Herba,Herba Ecliptae"
+283,English_name,all-grass of Yerbadetajo
+284,Chinese_name,牡丹皮
+284,Pinyin_name,Mudanpi
+284,Latin_name,"Cortex Moutan,Moutan Cortex"
+284,English_name,Tree Peony Bark
+285,Chinese_name,牡荆叶
+285,Pinyin_name,Mujingye
+285,Latin_name,"Folium Viticis Negundo,Viticis Negundo Foliun"
+285,English_name,Hempleaf Negundo Chastetree Leaf
+286,Chinese_name,牡荆子
+286,Pinyin_name,Mujingzi
+286,English_name,Viticis Canbifoliae Fructus
+287,Chinese_name,木鳖子
+287,Pinyin_name,Mubiezi
+287,Latin_name,Momordicae Semen
+287,English_name,Momordicae Semen
+288,Chinese_name,木瓜
+288,Pinyin_name,Mugua
+288,Latin_name,"Fructus Chaenomelis,Chaenomelis Fructus"
+288,English_name,fruit of Common Floweringquince
+289,Chinese_name,木蝴蝶
+289,Pinyin_name,Muhudie
+289,Latin_name,"Semen Oroxyli,Oroxyli Semen"
+289,English_name,Indian Trumpetflower Seed
+290,Chinese_name,木棉花
+290,Pinyin_name,Mumianhua
+290,Latin_name,"Gossampini Flos,Flos Gossampini"
+290,English_name,Flower of Common Bombax
+291,Chinese_name,木通
+291,Pinyin_name,Mutong
+291,Latin_name,"Akebiae Caulis,Caulis Aristolochiae Seu Clematis"
+291,English_name,"Akebia, Clematis stem"
+292,Chinese_name,木香
+292,Pinyin_name,Muxiang
+292,Latin_name,"Radix Aucklandiae,Aucklandiae Radix"
+292,English_name,Common Aucklandia Root
+293,Chinese_name,木贼
+293,Pinyin_name,Muzei
+293,Latin_name,"Herba Equiseti Hiemalis,Equiseti Hiemalis Herba"
+293,English_name,Common Scouring Rush Herb
+294,Chinese_name,墓头回
+294,Pinyin_name,Mutouhui
+294,English_name,Et Radix Patriniae Rhizoma
+295,Chinese_name,南瓜子
+295,Pinyin_name,nguazi
+295,Latin_name,Semen Cucurbitae Moschatae
+295,English_name,Pumpkin seed and husks
+296,Chinese_name,南鹤虱
+296,Pinyin_name,Nanheshi
+296,Latin_name,Carotae Fructus
+296,English_name,Fructus Carotae
+297,Chinese_name,南沙参
+297,Pinyin_name,Nanshashen
+297,Latin_name,"Radix Adenophorae,Adenophorae Radix"
+297,English_name,Fourleaf Ladybell Root
+298,Chinese_name,南蛇藤果
+298,Pinyin_name,nshetengguo
+298,English_name,Celastri Orbiculati Fructus
+299,Chinese_name,南五味子
+299,Pinyin_name,Nanwuweizi
+299,Latin_name,"Schisandrae Sphenantherae 
+Fructus"
+299,English_name,Schisandrae Sphentherae Fructus
+300,Chinese_name,闹羊花
+300,Pinyin_name,Naoyanghua
+300,Latin_name,"Rhododendri Mollis Flos,Flos Rhododendri Mollis"
+300,English_name,Yellow Azalea Flower
+301,Chinese_name,牛蒡子
+301,Pinyin_name,Niubangzi
+301,Latin_name,"Fructus Arctii Lappae,Arctil  Fructus"
+301,English_name,achene of Great Burdock
+302,Chinese_name,牛大力
+302,Pinyin_name,Niudali
+302,English_name,Millettiae Speciosae Radix
+303,Chinese_name,牛黄
+303,Pinyin_name,Niuhuang
+303,Latin_name,"Calculus Bovis,Bovis Calculus"
+303,English_name,Cow-bezoar
+304,Chinese_name,牛膝
+304,Pinyin_name,Niuxi
+304,Latin_name,"Radix Achyranthis Bidentatae,Achyranthis Bidentatae Radix"
+304,English_name,root of Twotooth Achyranthes
+305,Chinese_name,糯稻根
+305,Pinyin_name,Nuodaogen
+305,Latin_name,Radix Oryzae Glutinosae
+305,English_name,Glutinous Rice root
+306,Chinese_name,女贞子
+306,Pinyin_name,Nüzhenzi
+306,Latin_name,"Ligustri Lucidi Fructus,Fructus Ligustri Lucidi"
+306,English_name,fruit of Glossy privet
+307,Chinese_name,藕节
+307,Pinyin_name,Oujie
+307,Latin_name,"Nelumbinis Rhizomatis Nodus,Nodus Nelumbinis Rhizomatis"
+307,English_name,node of lotus rhizome
+308,Chinese_name,胖大海
+308,Pinyin_name,Pangdahai
+308,Latin_name,"Sterculiae Lychnophorae Semen,Semen Sterculiae Lychnophorae"
+308,English_name,Boat-fruited Sterculia Seed
+309,Chinese_name,佩兰
+309,Pinyin_name,Peilan
+309,Latin_name,"Eupatorii Herba,Herba Eupatorii"
+309,English_name,Fortune Eupatorium Herb
+310,Chinese_name,枇杷叶
+310,Pinyin_name,Pipaye
+310,Latin_name,"Eriobotryae Folium,Folium Eriobotryae"
+310,English_name,Loquat Leaf
+311,Chinese_name,平贝母
+311,Pinyin_name,Pingbeimu
+311,Latin_name,"Bulbus Fritillariae Ussuriensis,Fritillariae Ussuriensis Bulbus"
+311,English_name,Ussuri Fritillary Bulb
+312,Chinese_name,蒲黄
+312,Pinyin_name,Puhuang
+312,Latin_name,"Typhae Pollen,Pollen Typhae"
+312,English_name,pollen of longbract cattail
+313,Chinese_name,荠菜
+313,Pinyin_name,Jicai
+313,Latin_name,Herba Capsellae
+313,English_name,all-grass of Shepherdspurse
+314,Chinese_name,千斤拔
+314,Pinyin_name,Qianjinba
+314,Latin_name,Radix Moghaniae Philippinensis
+314,English_name,root of Philippine Flemingia
+315,Chinese_name,千金子
+315,Pinyin_name,Qianjinzi
+315,Latin_name,"Semen Euphorbiae,Euphorbiae Semen"
+315,English_name,Caper Euphorbia Seed
+316,Chinese_name,千年健
+316,Pinyin_name,Qiannianjian
+316,Latin_name,"Homalomenae Rhizoma,Rhizoma Homalomee Occultae"
+316,English_name,rhizome of Obscured Homalome
+317,Chinese_name,千日红
+317,Pinyin_name,Qianrihong
+317,Latin_name,Flos Gomphree
+317,English_name,flower of Globeamaranth
+318,Chinese_name,牵牛子
+318,Pinyin_name,Qianniuzi
+318,Latin_name,"Pharbitidis Semen,Semen Pharbitidis"
+318,English_name,Pharbitis seed
+319,Chinese_name,前胡
+319,Pinyin_name,Qianhu
+319,Latin_name,"Peucedani Radix,Radix Peucedani"
+319,English_name,root of Grand Hogfennel
+320,Chinese_name,芡实
+320,Pinyin_name,Qianshi
+320,Latin_name,"Semen Euryales,Euryales Semen"
+320,English_name,seed of Gordon Euryale
+321,Chinese_name,茜草
+321,Pinyin_name,Qiancao
+321,Latin_name,"Rubiae Radix Et Rhizoma,Radix Rubiae"
+321,English_name,root of Tali Madder
+322,Chinese_name,羌活
+322,Pinyin_name,Qianghuo
+322,Latin_name,"Radix Et Rhizoma Notopterygii,Notopterygii Rhizoma Et Radix"
+322,English_name,Root and rhizome of Incised Notoptergium
+323,Chinese_name,茄根
+323,Pinyin_name,Qiegeng
+323,Latin_name,Radix Solani Melongee
+323,English_name,root of Garden Eggplant
+324,Chinese_name,秦艽
+324,Pinyin_name,Qinjiao
+324,Latin_name,"Radix Gentiae Macrophyllae,Gentianae Macrophyllae Radix"
+324,English_name,root of Largeleaf Gentian
+325,Chinese_name,秦皮
+325,Pinyin_name,Qinpi
+325,Latin_name,"Cortex Fraxini,Fraxini Cortex"
+325,English_name,bark of Largeleaf Chinese Ash
+326,Chinese_name,青黛
+326,Pinyin_name,Qingdai
+326,Latin_name,"Indigo Naturalls,Indigo Turalis"
+326,English_name,tural Indigo
+327,Chinese_name,青风藤
+327,Pinyin_name,Qingfengteng
+327,Latin_name,Sinomenii Caulis
+327,English_name,Caulis Sinomenii
+328,Chinese_name,青果
+328,Pinyin_name,Qingguo
+328,Latin_name,Canarii Fructus
+328,English_name,Carii Fructus
+329,Chinese_name,青蒿
+329,Pinyin_name,Qinghao
+329,Latin_name,"Artemisiae Annuae Herba,Herba Artemisiae Annuae"
+329,English_name,Sweet Wormwood Herb
+330,Chinese_name,青皮
+330,Pinyin_name,Qingpi
+330,Latin_name,"Citri Reticulatae Pericarpium Viride,Pericarpium Citri Reticulatae Viride"
+330,English_name,Green Tangerine Peel
+331,Chinese_name,青葙子
+331,Pinyin_name,Qingxiangzi
+331,Latin_name,Celosiae Semen
+331,English_name,Celosiae Semen
+332,Chinese_name,青叶胆
+332,Pinyin_name,Qingyedan
+332,Latin_name,"Swertiae Mileensis Herba,Herba Swertiae"
+332,English_name,All - grass of Mile Swertia
+333,Chinese_name,苘麻子
+333,Pinyin_name,Qingmazi
+333,Latin_name,"Abutili Semen,Semen Abutili"
+333,English_name,Chingma Abutilon Seed
+334,Chinese_name,瞿麦
+334,Pinyin_name,Qumai
+334,Latin_name,"Dianthi Herba,Herba Dianthi"
+334,English_name,all-grass of Lilac Pink
+335,Chinese_name,拳参
+335,Pinyin_name,Quanshen
+335,Latin_name,"Bistortae Rhizoma,Rhizoma Bistortae"
+335,English_name,rhizome of Bistort
+336,Chinese_name,人参
+336,Pinyin_name,Renshen
+336,Latin_name,"Ginseng Radix Et Rhizoma,Radix Ginseng"
+336,English_name,Ginseng
+337,Chinese_name,人参叶
+337,Pinyin_name,Renshenye
+337,Latin_name,"Ginseng Folium,Folium Ginseng"
+337,English_name,Ginseng Leaf
+338,Chinese_name,肉苁蓉
+338,Pinyin_name,Roucongrong
+338,Latin_name,"Herba Cistanches,Cistanches Herba"
+338,English_name,Desertliving Cistanche
+339,Chinese_name,肉豆蔻
+339,Pinyin_name,Roudoukou
+339,Latin_name,"Semen Myristicae,Myristicae Semen"
+339,English_name,Nutmeg
+340,Chinese_name,肉桂
+340,Pinyin_name,Rougui
+340,Latin_name,"Cortex Cinmomi,Cinnamomi Cortex"
+340,English_name,Cassia Bark
+341,Chinese_name,乳香
+341,Pinyin_name,Ruxiang
+341,Latin_name,"Olibanum,Resi Oliani"
+341,English_name,Frankincense
+342,Chinese_name,蕤仁
+342,Pinyin_name,Ruiren
+342,Latin_name,"Prinsepiae Nux,Nux Prinsepiae"
+342,English_name,Hedge Prinsepia Nut
+343,Chinese_name,三白草
+343,Pinyin_name,Sanbaicao
+343,Latin_name,"Saururi Herba,Rhizoma Seu Herba Saururi"
+343,English_name,Chinese Lizardtail Rhizome or Herb
+344,Chinese_name,三分三
+344,Pinyin_name,Sanfensan
+344,English_name,Anisodus Acutangulus C. Y. Wu Et C .Chen Ex C. Che
+345,Chinese_name,三棱
+345,Pinyin_name,Sanleng
+345,Latin_name,"Rhizoma Sparganii,Sparganii Rhizoma"
+345,English_name,Common Burreed Tuber
+346,Chinese_name,三七
+346,Pinyin_name,Sanqi
+346,Latin_name,"Radix Notoginseng,Notoginseng Radix Et Rhizoma"
+346,English_name,Sanchi
+347,Chinese_name,三七花
+347,Pinyin_name,Sanqihua
+347,English_name,Notoginseng Flos
+348,Chinese_name,桑白皮
+348,Pinyin_name,Sangbaipi
+348,Latin_name,Mori Cortex
+348,English_name,Cortex Mori
+349,Chinese_name,桑寄生
+349,Pinyin_name,Sangjisheng
+349,Latin_name,"Herba Taxilli,Taxilli Herba"
+349,English_name,Chinese Taxillus Herb
+350,Chinese_name,桑椹
+350,Pinyin_name,Sangshen
+350,Latin_name,"Mori Fructus,Fructus Mori"
+350,English_name,Mulberry Fruit
+351,Chinese_name,桑叶
+351,Pinyin_name,Sangye
+351,Latin_name,"Mori Folium,Folium Mori"
+351,English_name,Mulberry Leaf
+352,Chinese_name,桑枝
+352,Pinyin_name,Sangzhi
+352,Latin_name,"Ramulus Mori,Mori Ramulus"
+352,English_name,Mulberry Twig
+353,Chinese_name,沙棘
+353,Pinyin_name,Shaji
+353,Latin_name,"Fructus Hippophae,Hippophae Fructus"
+353,English_name,fruit of seabuckthorn
+354,Chinese_name,沙苑子
+354,Pinyin_name,Shayuanzi
+354,Latin_name,"Astragali Complanati Semen,Semen Astragali Complati"
+354,English_name,Flatstem Milkvetch Seed
+355,Chinese_name,砂仁
+355,Pinyin_name,Sharen
+355,Latin_name,"Amomi Fructus,Fructus Amomi"
+355,English_name,Villous Amomum Fruit
+356,Chinese_name,山慈菇
+356,Pinyin_name,Shancigu
+356,Latin_name,"Cremastrae Pseudobulbus
+Pleiones Pseudobulbus,Pseudobulbus Cremastrae Seu Pleiones"
+356,English_name,Appendiculate Cremastra Pseudobulb or Common Pleione Pseudobulb
+357,Chinese_name,山豆根
+357,Pinyin_name,Shandougen
+357,Latin_name,"Radix Sophorae Tonkinensis,Sophorae Tonkinensis Radix Et Rhizoma"
+357,English_name,Vietmese Sophora Root
+358,Chinese_name,山柰
+358,Pinyin_name,Shannai
+358,Latin_name,"Rhizoma Kaempferiae,Kaempferiae Rhizoma"
+358,English_name,Galanga Resurrectionlily Rhizome
+359,Chinese_name,山药
+359,Pinyin_name,Shanyao
+359,Latin_name,"Rhizoma Dioscoreae,Dioscoreae Rhizoma"
+359,English_name,Common Yam Rhizome
+360,Chinese_name,山楂叶
+360,Pinyin_name,Shanzha
+360,Latin_name,Crataegi Folium
+360,English_name,Crataegi Folium
+361,Chinese_name,山茱萸
+361,Pinyin_name,Shanzhuyu
+361,Latin_name,"Fructus Corni,Corni Fructus"
+361,English_name,Asiatic Cornelian Cherry Fruit
+362,Chinese_name,商陆
+362,Pinyin_name,Shanglu
+362,Latin_name,"Radix Phytolaccae,Phytolaccae Radix"
+362,English_name,Pokeberry Root
+363,Chinese_name,蛇床子
+363,Pinyin_name,Shechuangzi
+363,Latin_name,"Cnidii Fructus,Fructus Cnidii"
+363,English_name,Common Cnidium Fruit
+364,Chinese_name,射干
+364,Pinyin_name,Shegan
+364,Latin_name,"Belamcandae Rhizoma,Rhizoma Belamcandae"
+364,English_name,Blackberrylily Rhizome
+365,Chinese_name,伸筋草
+365,Pinyin_name,Shenjincao
+365,Latin_name,"Herba Lycopodii,Lycopodii Herba"
+365,English_name,Common Clubmoss Herb
+366,Chinese_name,升麻
+366,Pinyin_name,Shengma
+366,Latin_name,"Cimicifugae Rhizoma,Rhizoma Cimicifugae"
+366,English_name,Largetrifoliolious Bugbane Rhizome
+367,Chinese_name,生姜
+367,Pinyin_name,Shengjiang
+367,Latin_name,"Zingiberis Rhizoma Recens,Rhizoma Zingiberis Recens"
+367,English_name,Fresh Ginger
+368,Chinese_name,十大功劳根
+368,Pinyin_name,Shidagonglaogen
+368,English_name,Mahoniae Eadix
+369,Chinese_name,十大功劳叶
+369,Pinyin_name,Shidagonglaoye
+369,Latin_name,Folium Mahoe
+369,English_name,leaf of leatherleaf Mahonia
+370,Chinese_name,石菖蒲
+370,Pinyin_name,Shichangpu
+370,Latin_name,"Rhizoma Acori Talarinowii,Acori Tatarinowii Rhizoma"
+370,English_name,Grassleaf Sweetflag Rhizome
+371,Chinese_name,石见穿
+371,Pinyin_name,Shijianchuan
+371,English_name,Salviae Chinensis Herba
+372,Chinese_name,石榴皮
+372,Pinyin_name,Shiliupi
+372,Latin_name,"Granati Pericarpium,Pericarpium Grati"
+372,English_name,Pomegrate Rind
+373,Chinese_name,石上柏
+373,Pinyin_name,Shishangbai
+373,English_name,Selaginella Doederleinii Hieron
+374,Chinese_name,石韦
+374,Pinyin_name,Shiwei
+374,Latin_name,Pyrrosiae Folium
+374,English_name,Pyrrosiae Folium
+375,Chinese_name,使君子
+375,Pinyin_name,Shijunzi
+375,Latin_name,"Quisqualis Fructus,Fructus Quisqualis"
+375,English_name,fruit of Rangooncreeper
+376,Chinese_name,柿蒂
+376,Pinyin_name,Shidi
+376,Latin_name,"Calyx Kaki,Kaki Calyx"
+376,English_name,calyx and receptacle of a Persimmon
+377,Chinese_name,熟地黄
+377,Pinyin_name,Shudihuang
+377,Latin_name,"Rehmanniae Radix Praeparata,Radix Rehmanniae Preparata"
+377,English_name,Prepared Rehmannia Root
+378,Chinese_name,鼠曲草
+378,Pinyin_name,Shuqucao
+378,English_name,Gphalii Affinis Herba
+379,Chinese_name,水飞蓟
+379,Pinyin_name,Shuifeiji
+379,Latin_name,Silybi Fructus
+379,English_name,Silybum Marianum
+380,Chinese_name,水红花子
+380,Pinyin_name,Shuihonghuazi
+380,Latin_name,"Polygoni Orientalis Fructus,Fructus Polygoni Orientalis"
+380,English_name,Prince's-feather Fruit
+381,Chinese_name,四季青
+381,Pinyin_name,Sijiqing
+381,Latin_name,"Folium Llicis Chinensis,Ilicis Chinensis Folium"
+381,English_name,Purpleflower Holly Leaf
+382,Chinese_name,松花粉
+382,Pinyin_name,Songhuafen
+382,Latin_name,Pini Pollen
+382,English_name,Pine Pollen
+383,Chinese_name,油松节
+383,Pinyin_name,Songjie
+383,Latin_name,"Lignum Pini Nodi,Pini Lignum Nodi"
+383,English_name,"Knotty pine wood, Pine nodular branch"
+384,Chinese_name,松子仁
+384,Pinyin_name,Songziren
+384,English_name,Semen Pini Koraiensis
+385,Chinese_name,苏合香
+385,Pinyin_name,Suhexiang
+385,Latin_name,Styrax
+385,English_name,Storax
+386,Chinese_name,酸枣仁
+386,Pinyin_name,Suanzaoren
+386,Latin_name,"Ziziphi Spinosae Semen,Semen Ziziphi Spinosae"
+386,English_name,Spine Date Seed
+387,Chinese_name,娑罗子
+387,Pinyin_name,Suoluozi
+387,Latin_name,"Aesculi Semen,Semen Aesculi"
+387,English_name,Buckeye Seed
+388,Chinese_name,太子参
+388,Pinyin_name,Taizishen
+388,Latin_name,"Radix Pseudostellariae,Pseudostellariae Radix"
+388,English_name,Heterophylly Falsestarwort Root
+389,Chinese_name,檀香
+389,Pinyin_name,Tanxiang
+389,Latin_name,"Santali Albi Lignum,Lignum Santaii Albi"
+389,English_name,Sandalwood
+390,Chinese_name,桃仁
+390,Pinyin_name,Taoren
+390,Latin_name,"Persicae Semen,Semen Persicae"
+390,English_name,Peach Seed
+391,Chinese_name,天冬
+391,Pinyin_name,Tiandong
+391,Latin_name,"Asparagi Radix,Radix Asparagi"
+391,English_name,Cochinchinese Asparagus Root
+392,Chinese_name,天花粉
+392,Pinyin_name,Tianhuafen
+392,Latin_name,"Trichosanthis Radix,Radix Trichosanthis"
+392,English_name,"Trichosanthes root, Skegourd root"
+393,Chinese_name,天葵子
+393,Pinyin_name,Tiankuizi
+393,Latin_name,"Radix Semiaquilegiae,Semiaquilegiae Radix"
+393,English_name,Muskroot-like Semiaquilegia Root
+394,Chinese_name,天南星
+394,Pinyin_name,Tiannanxing
+394,Latin_name,"Rhizoma Arisaematis,Arisaematis Rhizoma"
+394,English_name,Jackinthepulpit Tuber
+395,Chinese_name,天山雪莲
+395,Pinyin_name,Tianshanxuelian
+395,Latin_name,Saussureae Involucratae Herba
+395,English_name,Saussureae Involucratae Herba
+396,Chinese_name,天仙藤
+396,Pinyin_name,Tianxianteng
+396,Latin_name,Herba Aristolochiae
+396,English_name,Dutchmanspipe Vine
+397,Chinese_name,天仙子
+397,Pinyin_name,Tianxianzi
+397,Latin_name,"Hyoscyami Semen,Semen Hyoscyami"
+397,English_name,Henbane Seed
+398,Chinese_name,天竺黄
+398,Pinyin_name,Tianzhuhuang
+398,Latin_name,"Bambusae Concretio Silicea,Concretio Silicea Bambusae"
+398,English_name,Chinese schinzostachyum Tabasheer
+399,Chinese_name,甜瓜子
+399,Pinyin_name,Tianguazi
+399,Latin_name,"Melo Semen,Semen Cucumis"
+399,English_name,muskmelon seed
+400,Chinese_name,铁丝威灵仙
+400,Pinyin_name,Tiesiweilingxian
+400,Latin_name,Radix Smilacis
+400,English_name,root and rhizome of smilax
+401,Chinese_name,铁线透骨草
+401,Pinyin_name,Tiexiantougucao
+401,English_name,Herba Clematidis Aethusaefoliae
+402,Chinese_name,葶苈子
+402,Pinyin_name,Tinglizi
+402,Latin_name,"Semen Lepiddi Seu Descurainiae;Semen Lepidii；Semen Descurainiae,Descurainiae Semen Lepidii Semen"
+402,English_name,"Lepidium seed, Descurainia seed"
+403,Chinese_name,通草
+403,Pinyin_name,Tongcao
+403,Latin_name,"Medulla Tetrapacis,Tetrapanacis Medulla"
+403,English_name,puth of Ricepaperplant
+404,Chinese_name,土贝母
+404,Pinyin_name,Tubeimu
+404,Latin_name,"Bolbostemmatis Rhizoma,Rhizoma Bolbostemmae"
+404,English_name,Paniculate Bolbostemma
+405,Chinese_name,土茯苓
+405,Pinyin_name,Tufuling
+405,Latin_name,"Rhizoma Smilacis Glabrae,Smilacis Glabrae Rhizoma"
+405,English_name,Glabrous Greenbrier Rhizome
+406,Chinese_name,土荆皮
+406,Pinyin_name,Tujingpi
+406,Latin_name,Pseudolaricis Cortex
+406,English_name,Pseudolaricis Cortex
+407,Chinese_name,菟丝子
+407,Pinyin_name,Tusizi
+407,Latin_name,"Cuscutae Semen,Semen Cuseutae;Semen Cuseutae"
+407,English_name,Dodder Seed
+408,Chinese_name,瓦楞子
+408,Pinyin_name,Walengzi
+408,Latin_name,"Concha Arcae,Arcae Concha"
+408,English_name,Arc Shell
+409,Chinese_name,瓦松
+409,Pinyin_name,Wasong
+409,Latin_name,Orostachyis Fimbriatae Herba
+409,English_name,Cotyledon Fimbriata Turcz.
+410,Chinese_name,王不留行
+410,Pinyin_name,Wangbuliuxing
+410,Latin_name,"Vaccariae Semen,Semen Vaccariae"
+410,English_name,"Vacarria seed, Cow soapwort seed"
+411,Chinese_name,威灵仙
+411,Pinyin_name,Weilingxian
+411,Latin_name,"Radix Clematidis,Clematidis Radix Et Rhizoma"
+411,English_name,Chinese Clematis Root
+412,Chinese_name,委陵菜
+412,Pinyin_name,Weilingcai
+412,Latin_name,"Herba Potentillae Chinensis,Potentiliae Chinensis Herba"
+412,English_name,Chinese Cinquefoil
+413,Chinese_name,乌敛莓
+413,Pinyin_name,Wulianmei
+413,English_name,Cayratiae Japonicae Herba
+414,Chinese_name,乌梅
+414,Pinyin_name,Wumei
+414,Latin_name,"Fructus Mume,Mume Fructus"
+414,English_name,Smoked Plum
+415,Chinese_name,乌药
+415,Pinyin_name,Wuyao
+415,Latin_name,"Linderae Radix,Radix Linderae"
+415,English_name,Combined Spicebush Root
+416,Chinese_name,无患子
+416,Pinyin_name,Wuhuanzi
+416,English_name,Sapindi Mukorossi Semen
+417,Chinese_name,无患子皮
+417,Pinyin_name,Wuhuanzipi
+417,English_name,Sapindi Mukorossiperic Arpium
+418,Chinese_name,吴茱萸
+418,Pinyin_name,Wuzhuyu
+418,Latin_name,"Euodiae Fructus,Fructus Evodiae"
+418,English_name,Medicil Evodia Fruit
+419,Chinese_name,梧桐子
+419,Pinyin_name,Wutongzi
+419,English_name,Semen Firmiae
+420,Chinese_name,五倍子
+420,Pinyin_name,Wubeizi
+420,Latin_name,Galla Chinensis
+420,English_name,Chinese Gall
+421,Chinese_name,西河柳
+421,Pinyin_name,Xiheliu
+421,Latin_name,"Cacumen Tamaricis,Tamaricis Cacumen"
+421,English_name,Chinese Tamarisk Twig
+422,Chinese_name,西红花
+422,Pinyin_name,Xihonghua
+422,Latin_name,"Croci Stigma,Stigma Croci"
+422,English_name,Saffron
+423,Chinese_name,西洋参
+423,Pinyin_name,Xiyangshen
+423,Latin_name,"Panacis Quinquefolii Radix,Radix Pacis Quinquefolii"
+423,English_name,American Ginseng
+424,Chinese_name,豨莶草
+424,Pinyin_name,Xixiancao
+424,Latin_name,Siegesbeckiae Herba
+424,English_name,Siegesbeckiae Herba
+425,Chinese_name,细辛
+425,Pinyin_name,Xixin
+425,Latin_name,"Herba Asari,Asari Radix Et Rhizoma"
+425,English_name,all-grass Manchurian wildginger
+426,Chinese_name,夏枯草
+426,Pinyin_name,Xiakucao
+426,Latin_name,"Prunellae Spica,Spica Prunellae"
+426,English_name,fruit -spike of Common Selfheal
+427,Chinese_name,夏天无
+427,Pinyin_name,Xiatianwu
+427,Latin_name,"Corydalis Decumbentis Rhizoma,Rhizoma Corydalis Decumbentis"
+427,English_name,Decumbent Corydalis Rhizome
+428,Chinese_name,仙鹤草
+428,Pinyin_name,Xianhecao
+428,Latin_name,"Agrimoniae Herba,Herba Agrimoniae"
+428,English_name,all - grss of Hairyvein Agrimonia
+429,Chinese_name,仙茅
+429,Pinyin_name,Xianmao
+429,Latin_name,"Curculiginis Rhizoma,Rhizoma Curculiginis"
+429,English_name,rhizome of Common Curculigo
+430,Chinese_name,仙桃草
+430,Pinyin_name,Xiantaocao
+430,English_name,Veronicae Peregrie Herba
+431,Chinese_name,相思子
+431,Pinyin_name,Xiangsizi
+431,English_name,Abrus Precatorius L.
+432,Chinese_name,香附
+432,Pinyin_name,Xiangfu
+432,Latin_name,"Rhizoma Cyperi,Cyperi Rhizoma"
+432,English_name,rhizome of Nutgrass Galingale
+433,Chinese_name,香加皮
+433,Pinyin_name,Xiangjiapi
+433,Latin_name,Periplocae Cortex
+433,English_name,Cortex Periplocae Radicis
+434,Chinese_name,香茅
+434,Pinyin_name,Xiangmao
+434,English_name,Cymbopon Citratus(D C.) Stapf
+435,Chinese_name,香薷
+435,Pinyin_name,Xiangru
+435,Latin_name,"Herba Elsholtziae,Moslae Herba"
+435,English_name,all-grass of Haichow Elsholtzia
+436,Chinese_name,香橼
+436,Pinyin_name,Xiangyuan
+436,Latin_name,Citri Fructus
+436,English_name,Citri Fructus
+437,Chinese_name,小茴香
+437,Pinyin_name,Xiaohuixiang
+437,Latin_name,"Foeniculi Fructus,Fructus Foeniculi"
+437,English_name,fennel fruit
+438,Chinese_name,小蓟
+438,Pinyin_name,Xiaoji
+438,Latin_name,"Cirsii Herba,Herba Cirsii;Herba Cirsii Segeti"
+438,English_name,Field Thistle Herb
+439,Chinese_name,小通草
+439,Pinyin_name,Xiaotongcao
+439,Latin_name,"Medulla Stachyuri Medulla Helwingiae,Stachyuri Medulla
+Helwingiae Medulla"
+439,English_name,Stachyurus or Japanese Helwingia Pith
+440,Chinese_name,薤白
+440,Pinyin_name,Xiebai
+440,Latin_name,"Bulbus Allii Macrostemi,Allii Macrostemonis Bulbus"
+440,English_name,bulb of longstamen onion
+441,Chinese_name,辛夷
+441,Pinyin_name,Xinyi
+441,Latin_name,Magnoliae Flos
+441,English_name,Magnoliae Flos
+442,Chinese_name,徐长卿
+442,Pinyin_name,Xuchangqing
+442,Latin_name,"Cynanchi Paniculati Radix 
+Et Rhizoma,Radix Cynchi Paniculati"
+442,English_name,Paniculate Swallowwort Root
+443,Chinese_name,续断
+443,Pinyin_name,Xuduan
+443,Latin_name,"Dipsaci Radix,Radix Dipsaci"
+443,English_name,Himalayan Teasel Root
+444,Chinese_name,萱草根
+444,Pinyin_name,Xuancaogen
+444,English_name,Hemerocallis Radix
+445,Chinese_name,玄参
+445,Pinyin_name,Xuanshen
+445,Latin_name,"Radix Scrophulariae,Scrophulariae Radix"
+445,English_name,Figwort Root
+446,Chinese_name,旋覆花
+446,Pinyin_name,Xuanfuhua
+446,Latin_name,"Flos Inulae,Inulae Flos"
+446,English_name,Inula Flower
+447,Chinese_name,寻骨风
+447,Pinyin_name,Xungufeng
+447,English_name,Rhizoma Seu Herba Aristolochiae Mollissimae
+448,Chinese_name,鸦胆子
+448,Pinyin_name,Yadanzi
+448,Latin_name,"Bruceae Fructus,Fructus Bruceae"
+448,English_name,Java Brucea Fruit
+449,Chinese_name,鸭跖草
+449,Pinyin_name,Yazhicao
+449,Latin_name,"Herba Commelie,Commelinae Herba"
+449,English_name,all-grass of Common Dayflower
+450,Chinese_name,亚麻子
+450,Pinyin_name,Yamazi
+450,Latin_name,"Lini Semen,Semen Lini"
+450,English_name,Linseed
+451,Chinese_name,延胡索
+451,Pinyin_name,Yanhusuo
+451,Latin_name,"Rhizoma Corydalis,Corydalis Rhizoma"
+451,English_name,Corydalis tuber
+452,Chinese_name,洋金花
+452,Pinyin_name,Yangjinhua
+452,Latin_name,"Flos Daturae,Daturae Flos"
+452,English_name,Datura Flower
+453,Chinese_name,野菊花
+453,Pinyin_name,Yejuhua
+453,Latin_name,"Chrysanthemi Indici Flos,Flos Chrysanthemi Indici"
+453,English_name,Wild Chrysanthemum Flower
+454,Chinese_name,一枝黄花
+454,Pinyin_name,Yizhihuanghua
+454,Latin_name,Solidaginis Herba
+454,English_name,Solidaginis Herba
+455,Chinese_name,伊贝母
+455,Pinyin_name,Yibeimu
+455,Latin_name,"Fritillariae Pallidiflorae Bulbus,Buibus Fritillariae Pallidiflorae"
+455,English_name,Sinkiang Fritillary Bulb
+456,Chinese_name,益母草
+456,Pinyin_name,Yimucao
+456,Latin_name,"Herba Leonuri,Leonuri Herba"
+456,English_name,motherwort
+457,Chinese_name,益智
+457,Pinyin_name,Yizhi
+457,Latin_name,Alpiniae Oxyphyllae Fructus
+457,English_name,Alpiniae Oxyphyliae Fructus
+458,Chinese_name,薏苡仁
+458,Pinyin_name,Yiyiren
+458,Latin_name,"Semen Coicis,Coicis Semen"
+458,English_name,seed of Jobstears
+459,Chinese_name,茵陈
+459,Pinyin_name,Yinchen
+459,Latin_name,"Artemisiae Scopariae Herba,Herba Artemisiae Scopariae"
+459,English_name,Virgate Wormwood Herb
+460,Chinese_name,银柴胡
+460,Pinyin_name,Yincha
+460,Latin_name,"Stellariae Radix,Radix Stellariae"
+460,English_name,Starwort Root
+461,Chinese_name,银杏叶
+461,Pinyin_name,Yinxingye
+461,Latin_name,Ginkgo Folium
+461,English_name,Ginkgo Folium
+462,Chinese_name,淫羊藿
+462,Pinyin_name,Yinyanghuo
+462,Latin_name,Epimedii Folium
+462,English_name,Epimrdii Herba
+463,Chinese_name,罂粟壳
+463,Pinyin_name,Yingsuqiao
+463,Latin_name,"Pericarpium Papaveris,Papaveris Pericarpium"
+463,English_name,poppy capsule
+464,Chinese_name,余甘子
+464,Pinyin_name,Yuganzi
+464,Latin_name,"Phyllanthi Fructus,Fructus Phyllanthi"
+464,English_name,Emblic Leafflower Fruit
+465,Chinese_name,鱼腥草
+465,Pinyin_name,Yuxingcao
+465,Latin_name,"Herba Houttuyniae,Houttuyniae Herba"
+465,English_name,all-grass of Heartleaf Houttuynia
+466,Chinese_name,禹州漏芦
+466,Pinyin_name,Yuzhouloulu
+466,Latin_name,"Echinopsis Radix,Radix Echinopsis"
+466,English_name,Globethistle Root
+467,Chinese_name,玉米须
+467,Pinyin_name,Yumixu
+467,Latin_name,Stigma Maydis
+467,English_name,Corn stigma
+468,Chinese_name,玉竹
+468,Pinyin_name,Yuzhu
+468,Latin_name,"Polygonati Odorati Rhizoma,Rhizoma Polygoti Odorati"
+468,English_name,Fragrant Solomonseal Rhizome
+469,Chinese_name,郁金
+469,Pinyin_name,Yujin
+469,Latin_name,"Curcumae Radix,Radix Curcumae"
+469,English_name,Tuber - root of Common Turmeric
+470,Chinese_name,郁李仁
+470,Pinyin_name,Yuliren
+470,Latin_name,"Semen Pruni,Pruni Semen"
+470,English_name,Chinese Dwarf Cherry Seed
+471,Chinese_name,预知子
+471,Pinyin_name,Yuzhizi
+471,Latin_name,"Fructus Akebiae,Akebiae Fructus"
+471,English_name,Akebia Fruit
+472,Chinese_name,芫花
+472,Pinyin_name,Yuanhua
+472,Latin_name,"Genkwa Flos,Flos Genkwa"
+472,English_name,flower bud of Lilac Daphne
+473,Chinese_name,芫荽
+473,Pinyin_name,Yuansui
+473,English_name,Coriandri Sativi Herba
+474,Chinese_name,月季花
+474,Pinyin_name,Yuejihua
+474,Latin_name,"Flos Rosae Chinensis,Rosae Chinensis Flos"
+474,English_name,Chinese rose flower
+475,Chinese_name,云芝
+475,Pinyin_name,Yunzhi
+475,Latin_name,"Polysaccharidum Versicolor,Coriolus"
+475,English_name,Coriolus versicolor
+476,Chinese_name,皂荚子
+476,Pinyin_name,Zaojiazi
+476,English_name,Gleditsiae Sinensis Semen
+477,Chinese_name,皂角刺
+477,Pinyin_name,Zhaojiaoci
+477,Latin_name,"Spi Gleditsiae,Gleditsiae Spina"
+477,English_name,spine of Chinese Honeylocust
+478,Chinese_name,泽兰
+478,Pinyin_name,Zelan
+478,Latin_name,"Lycopi Herba,Herba Lycopi"
+478,English_name,Hirsute Shiny Bugleweed Herb
+479,Chinese_name,泽漆
+479,Pinyin_name,Zeqi
+479,English_name,Euphorbiae Helioscopiae Herba
+480,Chinese_name,泽泻
+480,Pinyin_name,Zexie
+480,Latin_name,"Rhizoma Alismatis,Alismatis Rhizoma"
+480,English_name,rhizome of Oriental Waterplantain
+481,Chinese_name,浙贝母
+481,Pinyin_name,Zhebeimu
+481,Latin_name,"Bulbus Fritillariae Thunbergii,Fritillariae Thunbergii Bulbus"
+481,English_name,bulb of Thunberg Fritillary
+482,Chinese_name,知母
+482,Pinyin_name,Zhimu
+482,Latin_name,"Rhizoma Anemarrhee,Anemarrhenae Rhizoma"
+482,English_name,rhizome of Common Amarrhe
+483,Chinese_name,栀子
+483,Pinyin_name,Zhizi
+483,Latin_name,"Fructus Gardeniae,Gardeniae Fructus"
+483,English_name,fruit of Cape Jasmine
+484,Chinese_name,枳椇子
+484,Pinyin_name,Zhijuzi
+484,English_name,Hoveniae Dulcis Semen
+485,Chinese_name,枳壳
+485,Pinyin_name,Zhiqiao
+485,Latin_name,"Fructus Aurantii,Aurantii Fructus"
+485,English_name,fruit of Seville orange
+486,Chinese_name,枳实
+486,Pinyin_name,Zhishi
+486,Latin_name,"Fructus Aurantii Immaturus,Aurantii Fructus Immaturus"
+486,English_name,immature fruit of Seville orange
+487,Chinese_name,肿节风
+487,Pinyin_name,Zhongjiefeng
+487,Latin_name,"Sarcandrae Herba,Herba Sarcatidrae"
+487,English_name,all-grass of Glabrous sarcandra
+488,Chinese_name,猪苓
+488,Pinyin_name,Zhuling
+488,Latin_name,"Polyporus,Polyporus Umbellatus"
+488,English_name,"Polyporus grifolia, Umbellate pore-fungus"
+489,Chinese_name,猪牙皂
+489,Pinyin_name,Zhuyazao
+489,Latin_name,"Gleditsiae Fructus Abnormalis,Fructus Gleditsiae Abnormalis"
+489,English_name,Chinese Honeylocust Abnormal Fruit
+490,Chinese_name,竹节参
+490,Pinyin_name,Zhujieshen
+490,Latin_name,Panacis Japonici Rhizoma
+490,English_name,Pacis Japonici Rhizoma
+491,Chinese_name,竹沥
+491,Pinyin_name,Zhuli
+491,Latin_name,Succus Bambusae
+491,English_name,Bamboo juice
+492,Chinese_name,苎麻根
+492,Pinyin_name,Zhumagen
+492,Latin_name,Radix Boehmeriae
+492,English_name,Ramine root 
+493,Chinese_name,紫草
+493,Pinyin_name,Zicao
+493,Latin_name,"Radix Arnebiae Seu Lithospermi,Arnebiae Radix"
+493,English_name,Arnebia Root Gromwell Root
+494,Chinese_name,紫花地丁
+494,Pinyin_name,Zihuadiding
+494,Latin_name,"Violae Herba,Herba Violae"
+494,English_name,Tokyo Violet Herb
+495,Chinese_name,紫花前胡
+495,Pinyin_name,Zihuaqianhu
+495,Latin_name,Peucedani Decursivi Radix
+495,English_name,Peucedanidecursivi Radix
+496,Chinese_name,紫苏叶
+496,Pinyin_name,Zisuye
+496,Latin_name,Perillae Folium
+497,Chinese_name,紫苏子
+497,Pinyin_name,Zisuzi
+497,Latin_name,"Fructus Perillae,Perillae Fructus"
+497,English_name,Perilia Fruit
+498,Chinese_name,紫菀
+498,Pinyin_name,Ziwan
+498,Latin_name,"Asteris Radix Et Rhizoma,Radix Asteris"
+498,English_name,root of tatarian aster
+499,Chinese_name,葛根
+499,Pinyin_name,Gegen
+499,Latin_name,"Puerariae Lobatae Radix,Radix Puerariae"
+499,English_name,root of lobed kudzuvine
+500,Chinese_name,人工牛黄
+500,Pinyin_name,Rengong Niuhuang
+500,Latin_name,Bovis Calculus Artifactus
+501,Chinese_name,九里香
+501,Pinyin_name,Jiulixiang
+501,Latin_name,Murrayae Folium Et Cacumen
+502,Chinese_name,九香虫
+502,Pinyin_name,Jiuxiangchong
+502,Latin_name,Aspongopus
+503,Chinese_name,三颗针
+503,Pinyin_name,Sankezhen
+503,Latin_name,Berberidis Radix
+504,Chinese_name,炮姜
+504,Pinyin_name,Paojiang
+504,Latin_name,Zingiberis Rhizoma Praeparatum
+505,Chinese_name,干漆
+505,Pinyin_name,Gangi
+505,Latin_name,Toxicodendri Resina
+506,Chinese_name,土木香
+506,Pinyin_name,Tumuxiang
+506,Latin_name,Inulae Radix
+507,Chinese_name,土鳖虫（䗪虫）
+507,Pinyin_name,Tubiechong
+507,Latin_name,Eupolyphaga Steleophaga
+508,Chinese_name,大叶紫珠
+508,Pinyin_name,Dayezizhu
+508,Latin_name,Callicarpae Macrophyllae Folium
+509,Chinese_name,大豆黄卷
+509,Pinyin_name,Dadouhuangjuan
+509,Latin_name,Sojae Semen Germinatum
+510,Chinese_name,大青盐
+510,Pinyin_name,Daqingyan
+510,Latin_name,Halitum
+511,Chinese_name,大蓟炭
+511,Pinyin_name,Dajitan
+511,Latin_name,Cirsii Japonici Herba Carbonisata
+512,Chinese_name,山麦冬
+512,Pinyin_name,Shanmaidong
+512,Latin_name,Liriopes Radix
+513,Chinese_name,山香圆叶
+513,Pinyin_name,Shanxiangyuanye
+513,Latin_name,Turpiniae Folium
+514,Chinese_name,山银花
+514,Pinyin_name,Shanyinhua
+514,Latin_name,Lonicerae Flos
+515,Chinese_name,山楂
+515,Pinyin_name,Shanzha
+515,Latin_name,Crataegi Fructus
+516,Chinese_name,千里光
+516,Pinyin_name,Qianliguang
+516,Latin_name,Senecionis Scandentis Hebra
+517,Chinese_name,千金子霜
+517,Pinyin_name,Qianjinzishuang
+517,Latin_name,Euphorbiae Semen Pulveratum
+518,Chinese_name,川木香
+518,Pinyin_name,Chuanmuxiang
+518,Latin_name,Ⅴladimiriae Radix
+519,Chinese_name,制川乌
+519,Pinyin_name,Zhichuanwu
+519,Latin_name,Aconiti Radix Cocta
+520,Chinese_name,广东紫珠
+520,Pinyin_name,Guangdongzizhu
+520,Latin_name,Callicarpae Caulis Et Folium
+521,Chinese_name,广金钱草
+521,Pinyin_name,Guangjinqiancao
+521,Latin_name,Desmodii Styracifolii Herba
+522,Chinese_name,小叶莲
+522,Pinyin_name,Xiaoyelian
+522,Latin_name,Sinopodophylli Fructus
+523,Chinese_name,小驳骨
+523,Pinyin_name,Xiaobogu
+523,Latin_name,Gendarussae Herba
+524,Chinese_name,飞扬草
+524,Pinyin_name,Feiyangcao
+524,Latin_name,Euphorbiae Hirtae Herba
+525,Chinese_name,马钱子粉
+525,Pinyin_name,Maqianzi Fen
+525,Latin_name,Strychni Semen Pulveratum
+526,Chinese_name,制天南星
+526,Pinyin_name,Zhitiannanxing
+526,Latin_name,Arisaematis Rhizoma Preparatum
+527,Chinese_name,天麻
+527,Pinyin_name,Tianma
+527,Latin_name,Gastrodiae Rhizoma
+528,Chinese_name,天然冰片（右旋龙脑）
+528,Pinyin_name,Tianranbingpian
+528,Latin_name,Borneolum
+529,Chinese_name,木芙蓉叶
+529,Pinyin_name,Mufurongye
+529,Latin_name,Hibisci Mutabilis Folium
+530,Chinese_name,五加皮
+530,Pinyin_name,Wujiapi
+530,Latin_name,Acanthopanacis Cortex
+531,Chinese_name,毛诃子
+531,Pinyin_name,Maohezi
+531,Latin_name,Terminaliae Belliricae Fructus
+532,Chinese_name,片姜黄
+532,Pinyin_name,Pianjianghuang
+532,Latin_name,Wenyujin Rhizoma Concisum
+533,Chinese_name,乌梢蛇
+533,Pinyin_name,Wushaoshe
+533,Latin_name,Zaocys
+534,Chinese_name,巴豆霜
+534,Pinyin_name,Badoushuang
+534,Latin_name,Crotonis Semen Pulveratum
+535,Chinese_name,水牛角
+535,Pinyin_name,Shuiniujiao
+535,Latin_name,Bubali Cornu
+536,Chinese_name,水蛭
+536,Pinyin_name,Shuizhi
+536,Latin_name,Hirudo
+537,Chinese_name,炙甘草
+537,Pinyin_name,Zhigancao
+537,Latin_name,"Glycyrrhizae Radix Et Rhizoma
+Praeparata Cum Melle"
+538,Chinese_name,艾片（左旋龙脑）
+538,Pinyin_name,Aipian
+538,Latin_name,L-Borneolum
+539,Chinese_name,石吊兰
+539,Pinyin_name,Shidiaolan
+539,Latin_name,Lysionoti Herba
+540,Chinese_name,石决明
+540,Pinyin_name,Shijueming
+540,Latin_name,Haliotidis Concha
+541,Chinese_name,石斛
+541,Pinyin_name,Shihu
+541,Latin_name,Dendrobii Caulis
+542,Chinese_name,石膏
+542,Pinyin_name,Shigao
+542,Latin_name,Gypsum Fibrosum
+543,Chinese_name,煅石膏
+543,Pinyin_name,Duanshigao
+543,Latin_name,Gypsum Ustum
+544,Chinese_name,龙眼肉
+544,Pinyin_name,Longyanrou
+544,Latin_name,Longan Arillus
+545,Chinese_name,白矾
+545,Pinyin_name,Baifan
+545,Latin_name,Alumen
+546,Chinese_name,瓜子金
+546,Pinyin_name,Guazijin
+546,Latin_name,Polygalae Japonicae Herba
+547,Chinese_name,瓜蒌子
+547,Pinyin_name,Gualouzi
+547,Latin_name,Trichosanthis Semen
+548,Chinese_name,炒瓜蒌子
+548,Pinyin_name,Chaogualouzi
+548,Latin_name,Trichosanthis Semen Tostum
+549,Chinese_name,瓜蒌皮
+549,Pinyin_name,Gualoupi
+549,Latin_name,Trichosanthis Pericarpium
+550,Chinese_name,冬凌草
+550,Pinyin_name,Donglingcao
+550,Latin_name,Rabdosiae Rubescentis Herba
+551,Chinese_name,玄明粉
+551,Pinyin_name,Xuanmingfen
+551,Latin_name,Natrii Sulfas Exsiccatus
+552,Chinese_name,法半夏
+552,Pinyin_name,Fabanxia
+552,Latin_name,Pinelliae Rhizoma Praeparatum
+553,Chinese_name,姜半夏
+553,Pinyin_name,Jiangbanxia
+553,Latin_name,Pinelliae Rhizoma Praeparatumcum Zingibere Et Alumine
+554,Chinese_name,清半夏
+554,Pinyin_name,Qingbanxia
+554,Latin_name,Pinelliae Rhizoma Praeparatum Cum Alumine
+555,Chinese_name,母丁香
+555,Pinyin_name,Mudingxiang
+555,Latin_name,Caryophylli Fructus
+556,Chinese_name,丝瓜络
+556,Pinyin_name,Sigualuo
+556,Latin_name,Luffae Fructus Retinervus
+557,Chinese_name,地龙
+557,Pinyin_name,Dilong
+557,Latin_name,Pheretima
+558,Chinese_name,芒硝
+558,Pinyin_name,Mangxiao
+558,Latin_name,Natrii Sulfas
+559,Chinese_name,亚乎奴（锡生藤）
+559,Pinyin_name,Yahunu
+559,Latin_name,Cissampelotis Herba
+560,Chinese_name,西瓜霜
+560,Pinyin_name,Xiguashuang
+560,Latin_name,Mirabilitum Praeparatum
+561,Chinese_name,西青果
+561,Pinyin_name,Xiqingguo
+561,Latin_name,Chebulae Fructus Immaturus
+562,Chinese_name,当药
+562,Pinyin_name,Dangyao
+562,Latin_name,Swertiae Herba
+563,Chinese_name,虫白蜡
+563,Pinyin_name,Chongbaila
+563,Latin_name,Cera Chinensis
+564,Chinese_name,朱砂
+564,Pinyin_name,Zhusha
+564,Latin_name,Cinnabaris
+565,Chinese_name,朱砂根
+565,Pinyin_name,Zhushagen
+565,Latin_name,Ardisiae Crenatae Radix
+566,Chinese_name,竹茹
+566,Pinyin_name,Zhuru
+566,Latin_name,Bambusae Caulis In Taenias
+567,Chinese_name,自然铜
+567,Pinyin_name,Zirantong
+567,Latin_name,Pyritum
+568,Chinese_name,血余炭
+568,Pinyin_name,Xueyutan
+568,Latin_name,Crinis Carbonisatus
+569,Chinese_name,血竭
+569,Pinyin_name,Xuejie
+569,Latin_name,Draconis Sanguis
+570,Chinese_name,全蝎
+570,Pinyin_name,Quanxie
+570,Latin_name,Scorpio
+571,Chinese_name,合欢皮
+571,Pinyin_name,Hehuanpi
+571,Latin_name,Albiziae Cortex
+572,Chinese_name,合欢花
+572,Pinyin_name,Hehuanhua
+572,Latin_name,Albiziae Flos
+573,Chinese_name,灯盏细辛（灯盏花）
+573,Pinyin_name,Dengzhanxixin
+573,Latin_name,Erigerontis Herba
+574,Chinese_name,红大戟
+574,Pinyin_name,Hongdaji
+574,Latin_name,Knoxiae Radix
+575,Chinese_name,红花龙胆
+575,Pinyin_name,Honghualongdan
+575,Latin_name,Gentianae Rhodanthae Herba
+576,Chinese_name,炙红芪
+576,Pinyin_name,Zhihongqi
+576,Latin_name,Hedysari Radix Praeparata Cum Melle
+577,Chinese_name,红豆蔻
+577,Pinyin_name,Hongdoukou
+577,Latin_name,Galangae Fructus
+578,Chinese_name,红粉
+578,Pinyin_name,Hongfen
+578,Latin_name,Hydrargyri Oxydum Rubrum
+579,Chinese_name,红景天
+579,Pinyin_name,Hongjingtian
+579,Latin_name,Rhodiolae Crenulatae Radix Et Rhizoma
+580,Chinese_name,麦冬
+580,Pinyin_name,Maidong
+580,Latin_name,Ophiopogonis Radix
+581,Chinese_name,远志
+581,Pinyin_name,Yuanzhi
+581,Latin_name,Polygalae Raedix
+582,Chinese_name,赤石脂
+582,Pinyin_name,Chishizhi
+582,Latin_name,Halloysitum Rubrum
+583,Chinese_name,花蕊石
+583,Pinyin_name,Huaruishi
+583,Latin_name,Ophicalcitum
+584,Chinese_name,苏木
+584,Pinyin_name,Sumu
+584,Latin_name,Sappan Lignum
+585,Chinese_name,杠板归
+585,Pinyin_name,Gangbanggui
+585,Latin_name,Polygoni Perfoliati Herba
+586,Chinese_name,巫山淫羊藿
+586,Pinyin_name,Wushan yingyanghuo
+586,Latin_name,Epimedii Wushanensis Folium
+587,Chinese_name,牡蛎
+587,Pinyin_name,Muli
+587,Latin_name,Ostreae Concha
+588,Chinese_name,体外培育牛黄
+588,Pinyin_name,Tiwai Peiyu Niuhuang
+588,Latin_name,Bovis Calculus Sativus
+589,Chinese_name,何首乌
+589,Pinyin_name,Heshouwu
+589,Latin_name,Polygoni Multiflori Radix
+590,Chinese_name,制何首乌
+590,Pinyin_name,Zhiheshouwu
+590,Latin_name,Polgoni Multiflori Radix Praeparata
+591,Chinese_name,皂矾（绿矾）
+591,Pinyin_name,Zaofan
+591,Latin_name,Melanteritum
+592,Chinese_name,谷芽
+592,Pinyin_name,Guya
+592,Latin_name,Setariae Fructus Germinatus
+593,Chinese_name,龟甲
+593,Pinyin_name,Guijia
+593,Latin_name,Testudinis Carapax Et Plastrum
+594,Chinese_name,龟甲胶
+594,Pinyin_name,Guijiajiao
+594,Latin_name,Testudinis Carapacis Et Plastri Colla
+595,Chinese_name,补骨脂
+595,Pinyin_name,Buguzhi
+595,Latin_name,Psoraleae Fructus
+596,Chinese_name,阿胶
+596,Pinyin_name,Ejiao
+596,Latin_name,Asini Corii Colla
+597,Chinese_name,阿魏
+597,Pinyin_name,Awei
+597,Latin_name,Ferulae Resina
+598,Chinese_name,忍冬藤
+598,Pinyin_name,Rendongteng
+598,Latin_name,Lonicerae Japonicae Caulis
+599,Chinese_name,鸡内金
+599,Pinyin_name,Jineijin
+599,Latin_name,Galli Gigerii Endothelium Corneum
+600,Chinese_name,青礞石
+600,Pinyin_name,Qingmengshi
+600,Latin_name,Chloriti Lapis
+601,Chinese_name,苦木
+601,Pinyin_name,Kumu
+601,Latin_name,Picrasmae Ramulus Et Folium
+602,Chinese_name,苦玄参
+602,Pinyin_name,Kuxuanshen
+602,Latin_name,Picriae Herba
+603,Chinese_name,枫香脂
+603,Pinyin_name,Fengxiangzhi
+603,Latin_name,Liquidambaris Resina
+604,Chinese_name,刺五加
+604,Pinyin_name,Ciwujia
+604,Latin_name,Acanthopanacis Senticosi Radix Et Rhizoma Seu Caulis
+605,Chinese_name,明党参
+605,Pinyin_name,Mingdangshen
+605,Latin_name,Changii Radix
+606,Chinese_name,岩白菜
+606,Pinyin_name,Yanbaicai
+606,Latin_name,Bergeniae Rhizoma
+607,Chinese_name,金龙胆草
+607,Pinyin_name,Jinlongdancao
+607,Latin_name,Conyzae Herba
+608,Chinese_name,金钱白花蛇
+608,Pinyin_name,Jinqianbaihuashe
+608,Latin_name,Bungarus Parvus
+609,Chinese_name,金铁锁
+609,Pinyin_name,Jintiesuo
+609,Latin_name,Psammosilenes Radix
+610,Chinese_name,金礞石
+610,Pinyin_name,Jingmengshi
+610,Latin_name,Micae Lapis Aureus
+611,Chinese_name,狗脊
+611,Pinyin_name,Gouji
+611,Latin_name,Cibotii Rhizoma
+612,Chinese_name,炉甘石
+612,Pinyin_name,Luganshi
+612,Latin_name,Calamina
+613,Chinese_name,珍珠
+613,Pinyin_name,Zhenzhu
+613,Latin_name,Margarita
+614,Chinese_name,珍珠母
+614,Pinyin_name,Zhenzhumu 
+614,Latin_name,Margaritifera Concha
+615,Chinese_name,荆芥炭
+615,Pinyin_name,Jingjietan
+615,Latin_name,Schizonepetae Herba Carbonisata
+616,Chinese_name,荆芥穗炭
+616,Pinyin_name,Jingjiesuitan 
+616,Latin_name,Schizonepetae Spica Carbonisata
+617,Chinese_name,制草乌
+617,Pinyin_name,Zh1caowu
+617,Latin_name,Aconiti Kusnezoffii Radix Cocta
+618,Chinese_name,草豆蔻
+618,Pinyin_name,Caodoukou
+618,Latin_name,Alpiniae Katsumadai Semen
+619,Chinese_name,茯苓皮
+619,Pinyin_name,Fulingpi
+619,Latin_name,Poriae Cutis
+620,Chinese_name,南板蓝根
+620,Pinyin_name,Nanbanlangen
+620,Latin_name,"Baphicacanthis Cusiae Rhizoma
+ Et Radix"
+621,Chinese_name,焦栀子
+621,Pinyin_name,Jiaozhizi
+621,Latin_name,Gardeniae Fructus Praeparatus
+622,Chinese_name,厚朴花
+622,Pinyin_name,Houpohua
+622,Latin_name,Magnoliae Officinalis Flos
+623,Chinese_name,轻粉
+623,Pinyin_name,Qingfen
+623,Latin_name,Calomelas
+624,Chinese_name,哈蟆油
+624,Pinyin_name,Hamayou
+624,Latin_name,Ranae Oviductus
+625,Chinese_name,钟乳石
+625,Pinyin_name,Zhongrushi
+625,Latin_name,Stalactitum
+626,Chinese_name,重楼
+626,Pinyin_name,Chonglou
+626,Latin_name,Paridis Rhizoma
+627,Chinese_name,禹余粮
+627,Pinyin_name,Yuyuliang
+627,Latin_name,Limonitum
+628,Chinese_name,胆南星
+628,Pinyin_name,Dannanxing
+628,Latin_name,Arisaema Cum Bile
+629,Chinese_name,独一味
+629,Pinyin_name,Duyiwei
+629,Latin_name,Lamiophlomis Herba
+630,Chinese_name,首乌藤
+630,Pinyin_name,Shouwuteng
+630,Latin_name,Polygoni Multiflori Caulis
+631,Chinese_name,洪连
+631,Pinyin_name,Honglion
+631,Latin_name,Lagotidis Herba
+632,Chinese_name,珠子参
+632,Pinyin_name,Zhuzishen
+632,Latin_name,Panacis Majoris Rhizoma
+633,Chinese_name,莲子
+633,Pinyin_name,Lianzi
+633,Latin_name,Nelumbinis Semen
+634,Chinese_name,桃枝
+634,Pinyin_name,Taozhi
+634,Latin_name,Persicae Ramulus
+635,Chinese_name,铁皮石斛
+635,Pinyin_name,Tiepishihu
+635,Latin_name,Dendrobii Officinalis Caulis
+636,Chinese_name,臭灵丹草
+636,Pinyin_name,Choulingdancao
+636,Latin_name,Laggerae Herba
+637,Chinese_name,狼毒
+637,Pinyin_name,Langdu
+637,Latin_name,Euphorbiae Ebracteolatae Radix
+638,Chinese_name,高山辣根菜
+638,Pinyin_name,Gaoshanlagencai
+638,Latin_name,Pegaeophyti Radixe Tr Hizoma
+639,Chinese_name,粉葛
+639,Pinyin_name,Fenge
+639,Latin_name,Puerariae Thomsonii Radix
+640,Chinese_name,海马
+640,Pinyin_name,Haima
+640,Latin_name,Hippocampus
+641,Chinese_name,海龙
+641,Pinyin_name,Hailong
+641,Latin_name,Syngnathus
+642,Chinese_name,海螵蛸
+642,Pinyin_name,haipiaoxiao
+642,Latin_name,Sepiae Endoconcha
+643,Chinese_name,通关藤
+643,Pinyin_name,Tongguanteng
+643,Latin_name,Marsdeniae Tenacissimae Caulis
+644,Chinese_name,桑螵蛸
+644,Pinyin_name,Sangpiaoxiao
+644,Latin_name,Mantidis Ootheca
+645,Chinese_name,黄山药
+645,Pinyin_name,Huangshanyao
+645,Latin_name,Dioscorea Panthaicae Rhizoma
+646,Chinese_name,炙黄芪
+646,Pinyin_name,Zhihuangqi
+646,Latin_name,"Astragali Radix Praeparata
+Cum Melle"
+647,Chinese_name,黄蜀葵花
+647,Pinyin_name,Huangshukuihua
+647,Latin_name,Abelmoschi Corolla
+648,Chinese_name,黄藤
+648,Pinyin_name,Huangteng
+648,Latin_name,Fibraureae Caulis
+649,Chinese_name,菥蓂
+649,Pinyin_name,ximing
+649,Latin_name,Thlaspi Herba
+650,Chinese_name,救必应
+650,Pinyin_name,Jiubiying
+650,Latin_name,Ilicis Rotundae Cortex
+651,Chinese_name,野马追
+651,Pinyin_name,Yemazhui
+651,Latin_name,Eupatorii Lindleyani Herba
+652,Chinese_name,野木瓜
+652,Pinyin_name,Yemugua
+652,Latin_name,Stauntoniae Caulis Et Folium
+653,Chinese_name,蛇蜕
+653,Pinyin_name,Shetui
+653,Latin_name,Serpentis Periostracum
+654,Chinese_name,猪胆粉
+654,Pinyin_name,Zhudanfen
+654,Latin_name,Suis Fellis Pul Vis
+655,Chinese_name,鹿角
+655,Pinyin_name,Lujiao
+655,Latin_name,Cervi Cornu
+656,Chinese_name,鹿角胶
+656,Pinyin_name,Lujiaojiao
+656,Latin_name,Cervi Cornus Colla
+657,Chinese_name,鹿角霜
+657,Pinyin_name,Lujiooshuong
+657,Latin_name,Cervi Cornu Degelatinatum
+658,Chinese_name,鹿茸
+658,Pinyin_name,Lurong
+658,Latin_name,Cervi Cornu Pantotrichum
+659,Chinese_name,羚羊角
+659,Pinyin_name,Lingyangpao
+659,Latin_name,Saigae Tataricae Cornu
+660,Chinese_name,淡竹叶
+660,Pinyin_name,Danzhuye
+660,Latin_name,Lophatheri Herba
+661,Chinese_name,绵马贯众炭
+661,Pinyin_name,Mianmaguanzhongtan
+661,Latin_name,Dryopteridis Crassirhizomatis Rhizoma Carbonisatum
+662,Chinese_name,棕榈
+662,Pinyin_name,Zonglü
+662,Latin_name,Trachycarpi  Petiolus
+663,Chinese_name,硫黄
+663,Pinyin_name,Liuhuang
+663,Latin_name,Sulfur
+664,Chinese_name,雄黄
+664,Pinyin_name,Xionghuang
+664,Latin_name,Realgar
+665,Chinese_name,紫石英
+665,Pinyin_name,Zishiying
+665,Latin_name,Fluoritum
+666,Chinese_name,紫苏梗
+666,Pinyin_name,Zisugeng
+666,Latin_name,Perillae Caulis
+667,Chinese_name,紫珠叶
+667,Pinyin_name,Zizhuye
+667,Latin_name,Callicarpae Formosanae Folium
+668,Chinese_name,紫萁贯众
+668,Pinyin_name,Ziqiguanzhong
+668,Latin_name,Osmundae Rhizoma
+669,Chinese_name,蛤壳
+669,Pinyin_name,Geqiao
+669,Latin_name,Meretricis Concha Cyclinae Concha
+670,Chinese_name,蛤蚧
+670,Pinyin_name,Gejie
+670,Latin_name,Gecko
+671,Chinese_name,黑种草子
+671,Pinyin_name,Heizhongcaozi
+671,Latin_name,Nigellae Semen
+672,Chinese_name,锁阳
+672,Pinyin_name,Suoyang
+672,Latin_name,Cynomorii Herba
+673,Chinese_name,筋骨草
+673,Pinyin_name,Jingucao
+673,Latin_name,Ajugae Herba
+674,Chinese_name,湖北贝母
+674,Pinyin_name,Hubeibeimu
+674,Latin_name,Fritillariae Hupehensis Bulbus
+675,Chinese_name,滑石
+675,Pinyin_name,Huashi
+675,Latin_name,Talcum
+676,Chinese_name,滑石粉
+676,Pinyin_name,Huashifen
+676,Latin_name,Talci Pulvis
+677,Chinese_name,蓍草
+677,Pinyin_name,Shicao
+677,Latin_name,Achilleae Herba
+678,Chinese_name,蓝布正
+678,Pinyin_name,Lanbuzheng
+678,Latin_name,Gei Herba
+679,Chinese_name,蒲公英
+679,Pinyin_name,Pugongying
+679,Latin_name,Taraxaci Herba
+680,Chinese_name,蜈蚣
+680,Pinyin_name,Wugong
+680,Latin_name,Scolopendra
+681,Chinese_name,蜂房
+681,Pinyin_name,Fengfang
+681,Latin_name,Vespae Nidus
+682,Chinese_name,蜂胶
+682,Pinyin_name,Fengjiao
+682,Latin_name,Propolis
+683,Chinese_name,蜂蜡
+683,Pinyin_name,Fengla
+683,Latin_name,Cera Flava
+684,Chinese_name,蜂蜜
+684,Pinyin_name,Fengmi
+684,Latin_name,Mel
+685,Chinese_name,滇鸡血藤
+685,Pinyin_name,Dianjixueteng
+685,Latin_name,Kadsurae Caulis
+686,Chinese_name,裸花紫珠
+686,Pinyin_name,Luohuazizhu
+686,Latin_name,Callicarpae Nudiflorae Folium
+687,Chinese_name,榧子
+687,Pinyin_name,Feizi
+687,Latin_name,Torreyae Semen
+688,Chinese_name,榼藤子
+688,Pinyin_name,Ketengzi
+688,Latin_name,Entadae Semen
+689,Chinese_name,焦槟榔
+689,Pinyin_name,Jiaobinglang
+689,Latin_name,Arecae Semen Tostum
+690,Chinese_name,磁石
+690,Pinyin_name,Cishi
+690,Latin_name,Magnetitum
+691,Chinese_name,蜘蛛香
+691,Pinyin_name,Zhizhuxiang
+691,Latin_name,Valerianae Jatamansi Rhizoma Et Radix
+692,Chinese_name,赭石
+692,Pinyin_name,Zheshi
+692,Latin_name,Haematitum
+693,Chinese_name,蕲蛇
+693,Pinyin_name,Qishe
+693,Latin_name,Agkistrodon
+694,Chinese_name,暴马子皮
+694,Pinyin_name,Baomazipi
+694,Latin_name,Syringae Cortex
+695,Chinese_name,稻芽
+695,Pinyin_name,Daoya
+695,Latin_name,Oryzae Fructus Germinatus
+696,Chinese_name,僵蚕
+696,Pinyin_name,Jiangcan
+696,Latin_name,Bombyx Batryticatus
+697,Chinese_name,颠茄草
+697,Pinyin_name,Dianqiecao
+697,Latin_name,Belladonnae Herba
+698,Chinese_name,藏菖蒲
+698,Pinyin_name,Zangchangpu
+698,Latin_name,Acori Calami Rhizoma
+699,Chinese_name,翼首草
+699,Pinyin_name,Yishoucao
+699,Latin_name,Pterocephali Herba
+700,Chinese_name,蟾酥
+700,Pinyin_name,Chansu
+700,Latin_name,Bufonis Venenum
+701,Chinese_name,鳖甲
+701,Pinyin_name,Biejia
+701,Latin_name,Trionycis Carapax
+702,Chinese_name,麝香
+702,Pinyin_name,Shexiang
+702,Latin_name,Moschus
+703,Chinese_name,地黄
+703,Pinyin_name,Dihuang
+703,Latin_name,Rehmanniae Radix

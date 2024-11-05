@@ -1,0 +1,2365 @@
+﻿TCM_symptom_id,TCM_symptom_name,Symptom_pinYin,Symptom_definition,Symptom_locus,Symptom_property,Type,Version,Suppress
+1,嗳气,Ai Qi,嗳气（belching）是胃中气体上出咽喉所发出的声响，其声长而缓，俗称“打饱嗝”、“饱嗝”，是各种消化道疾病常见的症状之一。尤其是反流性食管炎、慢性胃炎、消化性溃疡和功能性消化不良等疾病，多伴有嗳气症状。自胃部上升的气体或酸性液体导致嗳气（呃逆）发生，伴有典型的响声。嗳气可因不同病因在持续时间和响度上发生改变。在过去几十年中发生的一些重要事件使人们对功能性胃肠病（FGID）有了更深入的了解。罗马III标准中将功能性胃十二指肠疾病的症状分为3类：功能性消化不良、嗳气和恶心呕吐。嗳气又分为：吞气症和非特异性过度嗳气。,胃肠,胃气上逆,Ontological terms,"v1,v2",0
+2,白带色乳白,Bai Dai Se Ru Bai,白带是女性正常情况下由阴道粘膜渗出物、宫颈管及子宫内膜腺体分泌物混合而成，并与雌激素的作用有关，会随着月经周期的不同发生变化，从阴道分泌而出。在正常的情况下，白带应该是透明发亮、白色稀糊状或蛋清样，带有粘稠性，量少，同时没有任何腥臭味，对女性的健康无不良影响，称为生理性白带。与生理性白带相比较，无论是从颜色、性质、气味等方面来说，病理性白带的性状都有很大的不同。病理性白带可分为非炎症性白带、炎症性白带、异物刺激性白带、其他阴道排除物。,子宫,带脉失约,Synonymous terms,"v1,v2",0
+3,白带淸稀,Bai Dai Qing Xi,指阴道分泌物的减少,子宫,肾阳不足,,v1,1
+4,白带增多,Bai Dai Zeng Duo,指阴道分泌物的增加,子宫,带脉失约,Synonymous terms,"v1,v2",0
+5,白发,Bai Fa,白发指头发全部或部分变白白发分有老年白发和少白发,头,血虚,Ontological terms,"v1,v2",0
+6,白睛红赤,Bai Jing Hong Chi,眼白红赤,目,猝感疫疠之气，疫热伤络，或肺胃积热，肺金凌木，侵犯肝经,Synonymous terms,"v1,v2",0
+7,白细胞减少,Bai Xi Bao Jian Shao,指周围白细胞计数持续下降所引起的一组症状。典型表现为头晕、乏力，肢体酸白细胞减少症白细胞减少症软，食欲减退，精神萎靡、低热，属祖国医学“虚劳”范畴。中医治疗白细胞减少症采用益气养血，补肾益精，健脾养胃诸法。,,脾虚,Synonymous terms,"v1,v2",0
+8,白浊,Bai Zhuo,又称尿精，系指在排尿后或排尿时从尿道口滴出白色浊物，可伴小便涩痛的一种病证,膀胱,湿热,Ontological terms,"v1,v2",0
+9,斑秃,Ban Tu,本病是一种非瘢痕性脱发，常发生于身体有毛发的部位，局部皮肤正常，无自觉症状。,皮肤,风,Ontological terms,"v1,v2",0
+10,斑疹,Ban Zhen,指皮肤局限性或弥漫性皮色改变，一般不隆起亦不凹陷即为斑疹。是皮肤病症状中最常见的原发损害之一。一般比较小，小于1-2cm，大于2cm者称为斑片。斑疹可以分为炎症性和非炎症性两种。有的斑疹上还会有鳞屑，称为鳞屑性斑疹，如花斑糠疹的皮疹。,皮肤,风热,Ontological terms,"v1,v2",0
+11,斑疹紫黑,Ban Zhen Zi Hei,指热病过程中发于肌表的斑和疹两种证候。见《伤寒九十论·发斑证》。斑和疹虽系两证，然亦有斑疹齐见者。斑疹发出后，以神清者为佳。,皮肤,热证,Ontological terms,"v1,v2",0
+12,半身不遂,Ban Shen Bu Sui,偏瘫（hemiplegia）又叫半身不遂，是指同一侧上下肢、面肌和舌肌下部的运动障碍，是急性脑血管病的常见症状。轻度偏瘫病人虽然尚能活动，但走起路来，往往上肢屈曲，下肢伸直，瘫痪的下肢走一步划半个圈，这种特殊的走路姿势，叫做偏瘫步态。严重者常卧床不起，丧失生活能力。按照偏瘫的程度，可分为轻瘫、不完全性瘫痪和全瘫。轻瘫：表现为肌力减弱，肌力在4～5级，一般不影响日常生活，不完全性瘫较轻瘫重，范围较大，肌力2～4级，全瘫：肌力0～1级，瘫痪肢体完全不能活动。应该及时就诊，以免延误治疗的最佳时期。,躯体,经脉闭阻,Ontological terms,"v1,v2",0
+13,半身麻木,Ban Shen Ma Mu,健康人肢体各种感觉的传递取决于大脑中枢至肢体神经通路的畅通无阻。如果在这一神经通路上的某一局部出现障碍，就会出现肢体麻木等症状。例如脊椎骨质增生性麻木：这种麻木在老年人中相当多见，其主要原因是椎骨骨质增生压迫了椎管内神经，有些病人还可伴有肢体疼痛等感觉。骨髓病性麻木：某些骨髓病的早期，可出现至下而上的肢体麻木，随病情加重而向上发展，进而出现肢体活动不灵等症状。,躯体,经脉闭阻,Synonymous terms,"v1,v2",0
+14,胞衣不下,Bao Yi Bu Xia,胞衣不下是一个病症，即产妇娩出胎儿后，经过半小时，胞衣（胎盘）仍不能自动排出的病症。多由分娩后元气大虚而无力排出胞衣，或产时感受外寒而气血凝滞所致，大多伴有出血症状。,子宫,气虚,Ontological terms,"v1,v2",0
+15,饱胀,Bao Zhang,人吃饱了饭或吃多了东西，肚皮太胀了，胀得难受,肠胃,胃气上逆,Synonymous terms,"v1,v2",0
+16,暴发火眼,Bao Fa Huo Yan,传染性结膜炎，又叫红眼病，是一种急性传染性眼部疾患。根据不同的致病原因，可分为细菌性结膜炎和病毒性结膜炎两类，其临床症状相似，但流行程度和危害性以病毒性结膜炎为重。本病全年均可发生，以春夏季节多见。红眼病是通过接触传染的眼病，如接触患者用过的毛巾、洗脸用具、水龙头、门把、游泳池的水、公用的玩具等。因此，本病常在幼儿园、学校、医院、工厂等集体单位广泛传播，造成暴发流行。红眼病多是双眼先后发病，患病早期，病人感到双眼发烫、烧灼、畏光、眼红，自觉眼睛磨痛，像进入沙子般地滚痛难忍，紧接着眼皮红肿、眼眵多、怕光、流泪，早晨起床时，眼皮常被分泌物粘住，不易睁开。有的病人结膜上出现小出血点或出血斑，分泌物呈粘液脓性，有时在睑结膜表面形成一层灰白色假膜，角膜边缘可有灰白色浸润点，严重的可伴有头痛、发热、疲劳、耳前淋巴结肿大等全身症状。,眼,火热,Ontological terms,"v1,v2",0
+17,暴厥,Bao Jue,古病名-因气逆于上，而致猝然昏厥，不省人事，脉来洪盛有力或脉来躁急如喘的严重病证,脑,气闭,Ontological terms,"v1,v2",0
+18,暴注下泻,Bao Zhu Xia Xie,严重腹泻,肠胃,湿热,Synonymous terms,"v1,v2",0
+19,背冷,Bei Leng,"指背部自觉冷凉感而言。本症 《伤寒论》 称 ""背恶寒"" 。《金匮要略》 名 ""背寒冷"" 。《河间六书·强痛恶 寒》 篇称 ""背怯qie冷"" ",背,阳虚,Synonymous terms,"v1,v2",0
+20,背酸痛,Bei Suan Tong,背部酸痛,背,肾虚,Ontological terms,"v1,v2",0
+21,背疼痛,Bei Teng Tong,背部疼痛,背,经络不通,Synonymous terms,"v1,v2",0
+22,背痛,Bei Tong,以腰部、背部、肩部、腿部的放射性疼痛、酸痛、挤压痛、咳嗽痛、牵拉痛等为主，轻则影响正常生活，重则损害健康，严重者可丧失劳动能力。,背,经络不通,Ontological terms,"v1,v2",0
+23,崩漏,Beng Lou,月经的周期、经期、经量发生严重失常的病证，其发病急骤，暴下如注，大量出血者为“崩”；病势缓，出血量少，淋漓不绝者为“漏”。可发生在月经初潮后至绝经的任何年龄，足以影响生育，危害健康。属妇科常见病，也是疑难急重病证。相当于西医病名无排卵性功能性子宫出血。,膀胱,带脉失约,Ontological terms,"v1,v2",0
+24,鼻干,Bi Gan,由于风燥异气内犯肺鼻，或胃腑湿热上蒸鼻窍所致的，以鼻腔干燥为主要表现的鼻部疾患。西医学的干燥性鼻炎可参考本篇进行辨证施治。,鼻,肺热,Synonymous terms,"v1,v2",0
+25,鼻干燥,Bi Gan Zao,由于风燥异气内犯肺鼻，或胃腑湿热上蒸鼻窍所致的，以鼻腔干燥为主要表现的鼻部疾患。西医学的干燥性鼻炎可参考本篇进行辨证施治。,鼻,肺热,Synonymous terms,"v1,v2",0
+26,鼻流清涕,Bi Liu Qing Ti,清水样鼻涕,鼻,风寒犯肺,Synonymous terms,"v1,v2",0
+27,鼻流浊涕,Bi Liu Zhuo Ti,浑浊粘液鼻涕,鼻,风热犯肺,Synonymous terms,"v1,v2",0
+28,鼻鸣,Bi Ming,嘘气或鼓鼻作响,鼻,肺气壅滞,Synonymous terms,"v1,v2",0
+29,鼻衄,Bi Nv,俗称鼻出血。可由鼻部疾病引起，也可由全身疾病所致。鼻出血多为单侧，少数情况下可出现双侧鼻出血；出血量多少不一，轻者仅为涕中带血，重者可引起失血性休克，反复鼻出血可导致贫血。,鼻,肺胃蕴热,Ontological terms,"v1,v2",0
+30,鼻塞,Bi Sai,鼻塞是常见的症状之一，最常见的原因包括鼻炎、鼻窦炎、鼻息肉、鼻中隔偏曲、鼻腔鼻窦肿瘤、腺样体肥大等。理论上来说，鼻塞都可以通过不同的治疗方法进行解决。,鼻,肺气不利,Ontological terms,"v1,v2",0
+31,鼻咽部慢性炎症,Bi Yan Bu Man Xing Yan Zheng,,鼻,寒湿,Synonymous terms,"v1,v2",0
+32,鼻痒,Bi Yang,鼻部瘙痒,鼻,肺气虚,Synonymous terms,"v1,v2",0
+33,鼻渊,Bi Yuan,中医病名。是指鼻流浊涕，如泉下渗，量多不止为主要特征的鼻病。常伴头痛、鼻塞、嗅觉减退，鼻窦区疼痛，久则虚眩不已。是鼻科常见病、多发病之一。亦有“脑漏”、“脑砂”、“脑崩”、“脑渊”之称。多因外感风热邪毒，或风寒侵袭，久而化热，邪热循经上蒸，犯及鼻窍；或胆经炎热，随经上犯，蒸灼鼻窍；或脾胃湿热，循胃经上扰等引起。,鼻,热证,Ontological terms,"v1,v2",0
+34,鼻燥,Bi Zao,鼻部干燥,鼻,肺热,Synonymous terms,"v1,v2",0
+35,闭合性新旧软组织损伤,Bi He Xing Xin Jiu Ruan Zu Zhi Sun Shang,,,瘀证,Synonymous terms,"v1,v2",0
+36,闭经,Bi Jing,多种疾病导致的女性体内病理生理变化的外在表现，是一种临床症状而并非某一疾病。按生殖轴病变和功能失调的部位分为下丘脑性闭经、垂体性闭经、卵巢性闭经、子宫性闭经以及下生殖道发育异常性闭经,子宫,任脉不通,Ontological terms,"v1,v2",0
+37,痹病,Bi Bing,痹病泛指机体正气不足，卫外不固，风、寒、湿、热等邪气乘虚而入，致使气血凝滞，经络痹阻，引起相关系统疾病的总称。《内经》所言五脏痹、六腑痹、奇恒之腑痹、五体肢节痹，反映了痹病的基本内容，可见痹病有广义和狭义的不同，又分外痹与内痹。痹者闭也。广义的痹病，泛指机体正气不足，卫外不固，邪气乘虚而入，脏腑经络气血为之痹阻而引起的疾病，包括《内经》所含肺痹、心痹等脏腑痹及肉痹、筋痹等络痹。狭义的痹病，即指其中的肢体经络痹，以肌肉、筋骨、关节发生疼痛、麻木、重着、屈伸不利，甚至关节肿大灼热为主要临床表现的病证。,四肢,经脉不通,Ontological terms,"v1,v2",0
+38,痹痛,Bi Tong,痹痛即现代所说的富贵病，古称膏粱病。表现为痛风，治疗方法有滋补肾气、清利湿热、溶石化结。,四肢,经脉不通,Ontological terms,"v1,v2",0
+39,臂疼痛,Bi Teng Tong,手臂疼痛,四肢,经脉不通,Ontological terms,"v1,v2",0
+40,臂痛,Bi Tong,手臂疼痛,四肢,经脉不通,Ontological terms,"v1,v2",0
+41,便闭,Bian Bi,即便秘的意思,大肠,大肠津亏,Ontological terms,"v1,v2",0
+42,便干,Bian Gan,指大便干燥。多由胃肠燥热，津液耗伤或年老体弱，劳倦内伤，血虚津亏不能下润大便而致。,大肠,大肠津亏,Synonymous terms,"v1,v2",0
+43,便黄而黏,Bian Huang Er Nian,大便黄而黏腻,大肠,湿热,Ontological terms,"v1,v2",0
+44,便结,Bian Jie,大便粘结,大肠,津液匮乏,Ontological terms,"v1,v2",0
+45,便秘,Bian Mi,是以大便排出困难，排便周期延长，或周期不长，但粪质干结，排出艰难，或粪质不硬，虽频有便意，但排便不畅为主要表现的病证。,大肠,阳明燥结,Ontological terms,"v1,v2",0
+46,便溏,Bian Tang,大便不成型,大肠,脾气虚,Ontological terms,"v1,v2",0
+47,便溏日久,Bian Tang Ri Jiu,长期大便不成型,大肠,脾虚,Synonymous terms,"v1,v2",0
+48,便下脓血,Bian Xia Nong Xie,大便伴有脓血,大肠,湿热,Synonymous terms,"v1,v2",0
+49,便泻,Bian Xie,腹泻,大肠,脾虚,Ontological terms,"v1,v2",0
+50,便血,Bian Xie,血液从肛门排出，粪便颜色呈鲜红、暗红或柏油样（黑便），均称为便血,大肠,热毒,Ontological terms,"v1,v2",0
+51,表虚自汗,Biao Xu Zi Han,自发出汗,肺,营卫不和,Ontological terms,"v1,v2",0
+52,憋气,Bie Qi,委屈或烦恼不能发泄；心情不舒畅。有时也指有意识地不呼吸，或深或浅的吸气后，紧闭声门，作尽力地呼气动作。,肺,气郁,Ontological terms,"v1,v2",0
+53,病后体弱,Bing Hou Ti Ruo,,,气虚,Synonymous terms,"v1,v2",0
+54,病后脱发,Bing Hou Tuo Fa,,,血虚,Ontological terms,"v1,v2",0
+55,病后虚弱,Bing Hou Xu Ruo,,,气虚,Synonymous terms,"v1,v2",0
+56,不饥,Bu Ji,感觉不到饥饿,脾胃,胃阴虚,Ontological terms,"v1,v2",0
+57,不寐,Bu Mei,失眠,心,心肾不交,Ontological terms,"v1,v2",0
+58,不能久视,Bu Neng Jiu Shi,无法长时间用眼,目,肝血虚,Synonymous terms,"v1,v2",0
+59,不省人事,Bu Sheng Ren Shi,失去意识,脑,气血上冲,Synonymous terms,"v1,v2",0
+60,不食,Bu Shi,无法进食,肠胃,胃虚,Ontological terms,"v1,v2",0
+61,不思乳食,Bu Si Ru Shi,对乳制品无饮食欲望,肠胃,脾胃虚弱,Synonymous terms,"v1,v2",0
+62,不思饮食,Bu Si Yin Shi,没有食欲,肠胃,脾胃虚弱,Ontological terms,"v1,v2",0
+63,不喜热饮,Bu Xi Re Yin,不喜欢热食,肠胃,胃热,Synonymous terms,"v1,v2",0
+64,不育,Bu Yu,,肝肾,肝肾亏虚,Synonymous terms,"v1,v2",0
+65,不欲饮食,Bu Yu Yin Shi,没有食欲,肠胃,脾胃虚弱,Synonymous terms,"v1,v2",0
+66,不孕,Bu Yun,女子未避孕，性生活正常，与配偶同居1年而未孕者，称为不孕症。,肝肾,肝肾亏虚,Ontological terms,"v1,v2",0
+67,步履艰难,Bu Lv Jian Nan,走路艰难,四肢,肾虚,Ontological terms,"v1,v2",0
+68,嘈杂,Cao Za,是指胃中空虚，似饥非饥，似辣非辣，似痛非痛，莫可名状，时作时止的一种病证。病位在胃，与肝脾相关,脾胃,湿热,Synonymous terms,"v1,v2",0
+69,嘈杂呕吐,Cao Za Ou Tu,,脾胃,湿热,Synonymous terms,"v1,v2",0
+70,嘈杂似饥,Cao Za Si Ji,胃中空虚，似饥非饥,脾胃,湿热,Synonymous terms,"v1,v2",0
+71,岔气,Cha Qi,急性胸肋痛，指运动时，特别是跑步中，胸肋部产生的疼痛。亦多见于举重、推车、跳跃、攀高、挑抬或搬运重物时，用力过度或不当时，岔气多发生在右下肋部，在动作停止后可自然消失。腹部按摩、缓慢深呼吸或腹式呼吸能加速其缓解。,肺,肺气上逆,Ontological terms,"v1,v2",0
+72,岔气作痛,Cha Qi Zuo Tong,急性胸肋痛，指运动时，特别是跑步中，胸肋部产生的疼痛。亦多见于举重、推车、跳跃、攀高、挑抬或搬运重物时，用力过度或不当时，岔气多发生在右下肋部，在动作停止后可自然消失。腹部按摩、缓慢深呼吸或腹式呼吸能加速其缓解。,肺,肺气上逆,Ontological terms,"v1,v2",0
+73,产后出血日久,Chan Hou Chu Xie Ri Jiu,,子宫,血虚,Synonymous terms,"v1,v2",0
+74,产后恶露不尽,Chan Hou E Lu Bu Jin,产后恶露是指产后随子宫蜕膜脱落，含有血液、坏死蜕膜等组织经阴道排出，称为恶露（lochia），这是产妇在产褥期的临床表现，属于生理性变化。恶露有血腥味，但无臭味，其颜色及内容物随时间而变化，一般持续4～6周，总量为500ml。如超出上述时间仍有较多恶露排出，称之为产后恶露不尽,子宫,血瘀,Synonymous terms,"v1,v2",0
+75,产后腹痛,Chan Hou Fu Tong,"妇分娩后，由于子宫的缩复作用，小腹呈阵阵作痛，于产后1～2日出现，持续2～3日自然消失，西医称""宫缩痛""、""产后痛""，属生理现象，一般不需治疗。若腹痛阵阵加剧，难以忍受，或腹痛绵绵，疼痛不已，影响产妇的康复，为病态，应予治疗。",子宫,血瘀,Ontological terms,"v1,v2",0
+76,产后流血,Chan Hou Liu Xie,,子宫,血瘀,Synonymous terms,"v1,v2",0
+77,产后乳房结块,Chan Hou Ru Fang Jie Kuai,,子宫,气郁,Synonymous terms,"v1,v2",0
+78,产后乳汁不通,Chan Hou Ru Zhi Bu Tong,,子宫,气郁,Ontological terms,"v1,v2",0
+79,产后乳肿,Chan Hou Ru Zhong,,子宫,湿热,Ontological terms,"v1,v2",0
+80,产后少乳,Chan Hou Shao Ru,产后缺奶，指产妇在哺乳时乳汁甚少或全无的一种状态，有多种因素可导致。,子宫,气郁,Ontological terms,"v1,v2",0
+81,产后脱发,Chan Hou Tuo Fa,,子宫,血虚,Synonymous terms,"v1,v2",0
+82,产后小腹疼痛,Chan Hou Xiao Fu Teng Tong,,子宫,血瘀,Synonymous terms,"v1,v2",0
+83,产后血虚,Chan Hou Xie Xu,,子宫,血虚,,v1,1
+84,产后血晕,Chan Hou Xie Yun,是指产妇分娩后突然头昏眼花，不能起坐，或心胸满闷，恶心呕吐，痰涌气急，心烦不安，甚则神昏口噤，不省人事，称为“产后血晕”,子宫,血虚,Ontological terms,"v1,v2",0
+85,产后瘀痛,Chan Hou Yu Tong,,子宫,血虚,Ontological terms,"v1,v2",0
+86,产后诸虚,Chan Hou Zhu Xu,,子宫,气血虚弱,Synonymous terms,"v1,v2",0
+87,产后子宫复旧不全,Chan Hou Zi Gong Fu Jiu Bu Quan,指产后6周子宫仍未能恢复到非孕状态。其原因复杂，如由于部分胎盘、胎膜残留；子宫内膜炎或盆腔感染,子宫,气血虚弱,Ontological terms,"v1,v2",0
+88,肠风便血,Chang Feng Bian Xie,因风热客于肠胃或湿热蕴积肠胃，久而损伤阴络，致大便时出血，故名。临床表现：大便前出血如注，血色鲜红，肛门无肿痛，舌红、脉数等。,大肠,湿热,Ontological terms,"v1,v2",0
+89,肠风下血,Chang Feng Xia Xie,,大肠,湿热,Ontological terms,"v1,v2",0
+90,肠功能紊乱,Chang Gong Neng Wen Luan,,大肠,湿热,Synonymous terms,"v1,v2",0
+91,肠鸣,Chang Ming,肠管内气体和液体随之流动，产生一种断续的咕噜声（gurgling sound）或气过水声，称为肠鸣音。肠鸣音是指腹中胃肠蠕动漉漉作响的体征。在正常情况下，肠鸣声低弱而和缓，一般难以闻及。当肠道功能异常或阻塞不通时，则肠鸣音高亢而频急。临床根据作响的部位及声音来判断病变部位和病变性质。,大肠,水饮,Ontological terms,"v1,v2",0
+92,肠胃不适,Chang Wei Bu Shi,,肠胃,脾胃不和,Synonymous terms,"v1,v2",0
+93,潮热,Chao Re,潮热又名潮红，常见于更年期或者更年前期，常伴出汗及心悸而出现的燥热症状，多数情况下，由面部或者胸部开始，蔓延至全身，有人发作时可见到面部明显潮红。每次发作可持续20～30分钟，发作次数不定，可一周出现几次，也可一天出现几次，甚至每个小时都出现。天气和环境温度可加重潮热的发作。中医一般认为病机为阴虚、湿热、胃肠实热而引起。,大肠,阳明燥结,Ontological terms,"v1,v2",0
+94,陈旧性伤痛,Chen Jiu Xing Shang Tong,,,瘀血,Synonymous terms,"v1,v2",0
+95,晨起面肿,Chen Qi Mian Zhong,,肾,肾虚,Synonymous terms,"v1,v2",0
+96,齿鼻衄血,Chi Bi Nv Xie,,脾,脾虚,Synonymous terms,"v1,v2",0
+97,齿痛,Chi Tong,牙齿者，骨之所终，髓之所养也。又手足阳明之支脉入于齿，故骨髓之气不足，与夫阳 明之 脉虚，风冷乘之而痛者，谓之风痛。,肾,肾虚,Ontological terms,"v1,v2",0
+98,齿龈肿痛,Chi Ken Zhong Tong,,脾,湿热,Ontological terms,"v1,v2",0
+99,赤白痢,Chi Bai Li,中医指大便中带脓血的痢疾,大肠,湿热,Ontological terms,"v1,v2",0
+100,赤白下痢,Chi Bai Xia Li,,大肠,湿热,Synonymous terms,"v1,v2",0
+101,赤痢,Chi Li,赤痢，中医称大便中带血不带脓的痢疾。痢下多血或下纯血者。即血痢。《诸病源候论·痢病诸候》：“热乘于血，则流渗入肠，与痢相杂下，故为赤痢。,大肠,热毒,Ontological terms,"v1,v2",0
+102,赤缕红斑,Chi Lv Hong Ban,,皮肤,热毒,Synonymous terms,"v1,v2",0
+103,虫毒,Chong Du,,,虫毒,Ontological terms,"v1,v2",0
+104,虫咬肿痛,Chong Yao Zhong Tong,,,虫毒,Synonymous terms,"v1,v2",0
+105,抽搐,Chou Chu,抽搐是不随意运动的表现，是神经－肌肉疾病的病理现象，表现为横 纹肌的不随意收缩。临床上常见的有如下几种：惊厥，强直性痉挛，肌阵挛，震颤，舞蹈样动作， 手足徐动，扭转痉挛， 肌束颤动， 习惯性抽搐。中医认为引起抽搐的病因病机主要有热毒内盛，风阳扰动、风毒窜络、阴血亏损等方面。常见于脑系疾病、传染病、中毒、头颅内伤、厥病类疾病、子痫、产后痉病、小儿惊风、破伤风、狂犬病等病中。临床对以抽搐为主病的病种尚不能确定时，可以抽搐待查作为初步诊断，并进行辩证论治。,,风热,Ontological terms,"v1,v2",0
+106,抽搐神昏,Chou Chu Shen Hun,,,肝风,Ontological terms,"v1,v2",0
+107,出血,Chu Xie,血液自血管或心脏外流,脾,火热,Ontological terms,"v1,v2",0
+108,出血症,Chu Xie Zheng,是指由于凝血系统出现障碍而发生的出血现象,脾,火热,Ontological terms,"v1,v2",0
+109,喘,Chuan,急促地呼吸：喘气。喘息。喘咳。苟延残喘,肺,气逆,Synonymous terms,"v1,v2",0
+110,喘促,Chuan Cu,,肺,气逆,Synonymous terms,"v1,v2",0
+111,喘促气逆,Chuan Cu Qi Ni,,肺,气逆,Synonymous terms,"v1,v2",0
+112,喘促痰多,Chuan Cu Tan Duo,,肺,痰饮,Synonymous terms,"v1,v2",0
+113,喘急,Chuan Ji,喘急或称“喘促”。是形容气喘时呼吸急促之状。,肺,伏痰,Ontological terms,"v1,v2",0
+114,喘咳,Chuan Ke,咳，指呼吸器官受刺激而引起一种反射作用。把吸入的气急急呼出，同时发声，能清除呼吸道中的异物或痰，也是某些病的症状,肺,伏痰,Ontological terms,"v1,v2",0
+115,喘满,Chuan Man,心下痞坚，面色黧黑，其脉沉紧是征象.木防己汤是治疗方药.,肺,伏痰,Ontological terms,"v1,v2",0
+116,喘嗽,Chuan Sou,气喘咳嗽,肺,气逆,Ontological terms,"v1,v2",0
+117,喘息,Chuan Xi,急促的呼吸；急促呼吸。,肺,气逆,Ontological terms,"v1,v2",0
+118,疮毒,Chuang Du,诸疮毒肿。 明 李时珍 《本草纲目·虫二·蝎》：“诸疮毒肿。全蝎七枚，卮子七个，麻油煎黑，去滓，入黄蜡，化成膏，傅之。” 贾祖璋 《蝎子》：“蝎子很早就供药用，主治惊风抽搐、带下、疮毒等症。”孙氏疮毒中药膏是祖传百年，专治疮毒的秘方药物，主要的功能是提脓生肌，去腐消炎，敛疮消肿，对于各种疑难疮毒，包括带状疱疹，瘘疮，须疮，坐板疮，镰疮等疮痈疖肿均有非常好的疗效。,皮肤,热毒,Ontological terms,"v1,v2",0
+119,疮疖痈肿,Chuang Jie Yong Zhong,,皮肤,热毒,Ontological terms,"v1,v2",0
+120,疮疖肿毒,Chuang Jie Zhong Du,,皮肤,热毒,Ontological terms,"v1,v2",0
+121,疮疖肿痛,Chuang Jie Zhong Tong,,皮肤,热毒,Synonymous terms,"v1,v2",0
+122,疮口久不愈合,Chuang Kou Jiu Bu Yu He,,皮肤,气虚,Ontological terms,"v1,v2",0
+123,疮面久溃不敛,Chuang Mian Jiu Kui Bu Lian,,皮肤,气虚,Synonymous terms,"v1,v2",0
+124,疮面疼痛,Chuang Mian Teng Tong,,皮肤,气虚,Synonymous terms,"v1,v2",0
+125,疮面鲜活,Chuang Mian Xian Huo,,皮肤,湿热,Synonymous terms,"v1,v2",0
+126,疮色鲜活,Chuang Se Xian Huo,,皮肤,湿热,Synonymous terms,"v1,v2",0
+127,疮癣,Chuang Xian,,皮肤,热毒,Ontological terms,"v1,v2",0
+128,疮疡,Chuang Yang,疮疡是指各种致病因素侵袭人体后引起的一切体表化脓感染性疾病的总称，包括急性和慢性两大类。中国古代用以泛指多种外科疾患，后世将外科分为疮疡与杂证两大类。疮疡多由毒邪内侵，邪热灼血，以致气血凝滞而成。其包括了体表上的肿疡及溃疡、痈、疽、疔疮、疖肿、流注、流痰、瘰疬及有关皮肤病的内容，是中医外科疾病中最常见的一大类病证，具有发病迅速，部分病情较重等特点，在面部可引起疔疮走黄（西医称为败血症或脓毒败血症），在手、足易引起伤筋损骨的严重后果。创伤出现感染以后，就形成了疮疡。,皮肤,热毒,Ontological terms,"v1,v2",0
+129,疮疡不敛,Chuang Yang Bu Lian,,皮肤,气虚,Ontological terms,"v1,v2",0
+130,疮疡久溃不敛,Chuang Yang Jiu Kui Bu Lian,,皮肤,气虚,Ontological terms,"v1,v2",0
+131,疮疡溃烂,Chuang Yang Kui Lan,,皮肤,湿热,Synonymous terms,"v1,v2",0
+132,疮疡肿痛,Chuang Yang Zhong Tong,,皮肤,热毒,Ontological terms,"v1,v2",0
+133,疮痈肿痛,Chuang Yong Zhong Tong,,皮肤,热毒,Ontological terms,"v1,v2",0
+134,疮肿,Chuang Zhong,疮疖溃疡之疾,皮肤,热毒,Ontological terms,"v1,v2",0
+135,创伤出血,Chuang Shang Chu Xie,,皮肤,瘀血,Ontological terms,"v1,v2",0
+136,唇干,Chun Gan,因为秋高气爽，干燥多风，很多人都会觉得嘴唇发干，出现皲裂，这种现象称为唇干。,脾,肺燥,Synonymous terms,"v1,v2",0
+137,唇甲出血,Chun Jia Chu Xie,,脾,脾虚,Synonymous terms,"v1,v2",0
+138,唇甲色淡,Chun Jia Se Dan,,脾,脾虚,Synonymous terms,"v1,v2",0
+139,刺痛,Ci Tong,刺激皮肉而感到疼痛：感到剧烈的烧灼样的疼痛,,瘀血,Ontological terms,"v1,v2",0
+140,猝然昏倒,Cu Ran Hun Dao,,心脑,气逆,Ontological terms,"v1,v2",0
+141,窜痛,Cuan Tong,疼痛部位走窜不定，病人可感觉到疼痛的窜动。,肝,气滞,Synonymous terms,"v1,v2",0
+142,挫伤筋骨,Cuo Shang Jin Gu,,,血瘀,Synonymous terms,"v1,v2",0
+143,大便不畅,Da Bian Bu Chang,,大肠,气滞,Synonymous terms,"v1,v2",0
+144,大便不利,Da Bian Bu Li,,大肠,气滞,Synonymous terms,"v1,v2",0
+145,大便不爽,Da Bian Bu Shuang,,大肠,湿热,Ontological terms,"v1,v2",0
+146,大便不调,Da Bian Bu Diao,,大肠,肝郁,Synonymous terms,"v1,v2",0
+147,大便不通,Da Bian Bu Tong,俗称便秘。是指人体在精神影响下或者饮食问题所导致排便困难,大肠,津亏,Ontological terms,"v1,v2",0
+148,大便不下,Da Bian Bu Xia,,大肠,津亏,Synonymous terms,"v1,v2",0
+149,大便臭秽,Da Bian Chou Hui,,大肠,湿热,Synonymous terms,"v1,v2",0
+150,大便出血,Da Bian Chu Xie,血液从肛门排出，粪便颜色呈鲜红、暗红或柏油样（黑便），均称为便血。便血只是一个症状，并非一种疾病。便血多见于下消化道出血，特别是结肠与直肠病变的出血，但亦可见于上消化道出血。便血的颜色取决于消化道出血的部位、出血量与血液在胃肠道停留的时间。便血伴有皮肤、黏膜或其他器官出血现象者，多见于血液系统疾病及其他全身性疾病，如白血病、弥散性血管内凝血等。,大肠,湿热,Ontological terms,"v1,v2",0
+151,大便次数增多 ,Da Bian Ci Shu Zeng Duo  ,,大肠,脾虚,,v1,1
+152,大便干,Da Bian Gan,,大肠,津亏,Synonymous terms,"v1,v2",0
+153,大便干结,Da Bian Gan Jie,,大肠,津亏,Synonymous terms,"v1,v2",0
+154,大便干结难下,Da Bian Gan Jie Nan Xia,,大肠,津亏,Synonymous terms,"v1,v2",0
+155,大便干燥,Da Bian Gan Zao,大便干燥多见于中老年人，主要表现为大便困难，便秘，甚至大便带血等，这与饮食和不良生活习惯有关。,大肠,津亏,Synonymous terms,"v1,v2",0
+156,大便困难,Da Bian Kun Nan,排便疼痛剧烈，便纸上有血迹这种情况的可能性最大，尤其是有便秘的年轻女性绝大多数是肛裂，若早点治疗，处理得当，可以不形成溃疡。,大肠,津亏,Synonymous terms,"v1,v2",0
+157,大便秘结,Da Bian Mi Jie,老年人便秘是指排便次数减少，同时排便困难、粪便干结。正常人每天排便1～2次或2～3天排便1次，便秘患者每周排便少于2次，并且排便费力，粪质硬结、量少。便秘是老年人常见的症状，约1/3的老年人出现便秘，严重影响老年人的生活质量。,大肠,津亏,Ontological terms,"v1,v2",0
+158,大便黏滞,Da Bian Nian Zhi,,大肠,湿热,Synonymous terms,"v1,v2",0
+159,大便黏滞不爽 ,Da Bian Nian Zhi Bu Shuang  ,,大肠,湿热,Synonymous terms,"v1,v2",0
+160,大便脓血,Da Bian Nong Xie,,大肠,湿热,Synonymous terms,"v1,v2",0
+161,大便清稀,Da Bian Qing Xi,,大肠,脾虚,Synonymous terms,"v1,v2",0
+162,大便失调,Da Bian Shi Diao,,大肠,肝郁,Synonymous terms,"v1,v2",0
+163,大便酸臭,Da Bian Suan Chou,,大肠,火热,Synonymous terms,"v1,v2",0
+164,大便溏雹,Da Bian Tang Bao,,大肠,脾虚,Synonymous terms,"v1,v2",0
+165,大便溏薄,Da Bian Tang Bo,,大肠,脾虚,Synonymous terms,"v1,v2",0
+166,大便溏软,Da Bian Tang Ruan,,大肠,脾虚,Synonymous terms,"v1,v2",0
+167,大便溏泻,Da Bian Tang Xie,,大肠,脾虚,Ontological terms,"v1,v2",0
+168,大便稀薄如水样,Da Bian Xi Bo Ru Shui Yang,,大肠,脾虚湿盛,Synonymous terms,"v1,v2",0
+169,大便稀溏,Da Bian Xi Tang,,大肠,脾虚,Synonymous terms,"v1,v2",0
+170,大便泄泻,Da Bian Xie Xie,,大肠,脾虚,Synonymous terms,"v1,v2",0
+171,大便燥结,Da Bian Zao Jie,,大肠,津亏,Ontological terms,"v1,v2",0
+172,带下,Dai Xia,泛指妇科疾病，狭义则专指白带的量色质气味发生异常的疾病。正常白带由前庭大腺分泌物、阴道黏膜渗出物、宫颈及子宫内膜腺体分泌物等混合形成白带。正常白带呈白色黏液状或蛋清样，量少，无异味，称生理性白带。白带的量明显增多，色、质、气味发生异常，或伴全身、局部症状者，称为“带下病”，又称“下白物”、“流秽物”。造成白带异常，也就是病理性白带的原因很多，多数白带异常为感染或炎症引起，如滴虫性阴道炎、霉菌性阴道炎、老年性阴道炎、子宫颈糜烂、子宫内膜炎、也有部分由于宫内节育器、子宫颈息肉、宫颈癌等其他疾病引起。临床表现常见白带增多、绵绵不断、腰痛、神疲等，或见赤白相兼，或五色杂下，或脓浊样，有臭气等。,子宫,湿热,Ontological terms,"v1,v2",0
+173,带下白浊,Dai Xia Bai Zhuo,,子宫,湿热,Ontological terms,"v1,v2",0
+174,带下病,Dai Xia Bing,带下的量、色、质、味发生异常，或伴全身、局部症状者，称为“带下病”。本病可见于现代医学的阴道炎、子宫颈炎、盆腔炎、卵巢早衰、闭经、不孕、妇科肿瘤等疾病引起的带下增多或减少。,子宫,湿热,Synonymous terms,"v1,v2",0
+175,带下量多,Dai Xia Liang Duo,,子宫,任脉失约,Ontological terms,"v1,v2",0
+176,带下色黄,Dai Xia Se Huang,,子宫,湿热,Synonymous terms,"v1,v2",0
+177,带下色黄质稠,Dai Xia Se Huang Zhi Chou,,子宫,湿热,Synonymous terms,"v1,v2",0
+178,丹毒,Dan Du,丹毒（erysipelas）是一种累及真皮浅层淋巴管的感染，主要致病菌为A组β溶血性链球菌。诱发因素为手术伤口或鼻孔、外耳道、耳垂下方、肛门、阴茎和趾间的裂隙。皮肤的任何炎症，尤其是有皲裂或溃疡的炎症为致病菌提供了侵入的途径。轻度擦伤或搔抓、头部以外损伤、不清洁的脐带结扎、预防接种和慢性小腿溃疡均可能导致此病。致病菌可潜伏于淋巴管内，引起复发。,,热毒,Ontological terms,"v1,v2",0
+179,单眼复视,Dan Yan Fu Shi,一眼注视时出现两个影像。,目,肝虚,Synonymous terms,"v1,v2",0
+180,胆道感染,Dan Dao Gan Ran,胆道感染是指胆道系统的细菌性感染，包括急、慢性胆囊炎，急、慢性胆管炎，急性梗阻性化脓性胆管炎等，常与胆石症并存，两者多互为因果关系。胆道感染发病率占急腹症第2位，为外科常见、多发、难治性的一类疾病。,胆,湿热,Synonymous terms,"v1,v2",0
+181,胆胀,Dan Zhang,胆腑气郁，胆失通降所引起的以右胁胀痛为主要临床表现的一种疾病。胆胀为肝胆系病证中常见的疾病。其临床表现与西医学所称的慢性胆囊炎、慢性胆管炎、胆石症等相似。胆胀多发生于40岁至65岁年龄组，女性多于男性，且以偏肥胖体型为多见。当今胆胀的发病率呈上升趋势其原因可能与人们饮食结构的变化有关。中医药治疗本病效果较好，远期疗效尤其是减少复发的疗效更为显着。,胆,肝郁,,v1,1
+182,倒饱嘈杂,Dao Bao Cao Za,,脾胃,湿热,Synonymous terms,"v1,v2",0
+183,盗汗,Dao Han,盗汗是中医的一个病证名，是以入睡后汗出异常，醒后汗泄即止为特征的一种病征。“盗”有偷盗的意思，古代医家用盗贼每天在夜里鬼祟活动，来形容该病证，即每当人们入睡、或刚一闭眼而将入睡之时，汗液象盗贼一样偷偷的泄出来。,,阴虚,Ontological terms,"v1,v2",0
+184,低热,Di Re,低热（low fever）是一种常见的症状，一般我们讲的低热是指体温超过正常，但在38℃以下者。引起低热的原因较多，要依据临床表现，查清病因，审因论治。特别是对功能性低热，要在排除器质性疾病的基础上作出诊断。,,气虚,Synonymous terms,"v1,v2",0
+185,巅顶疼痛,Dian Ding Teng Tong,,肝肾,肝寒,Ontological terms,"v1,v2",0
+186,癫狂,Dian Kuang,癫狂，中医病名。是一种精神失常疾病，系由七情内伤，饮食失节，禀赋不足，致痰气郁结，或痰火暴亢，使脏气不平，阴阳失调，闭塞心窍，神机逆乱。其病位在心，与肝胆脾胃关系密切。癫病以精神抑郁，表情淡漠，沉默痴呆，语无伦次，静而多喜为特征，治以理气解郁，畅达气机为其大法；狂病以精神亢奋，狂躁不安，喧扰不宁，骂詈毁物，动而多怒为特征。，降火豁痰以治其标。同时，移情易性不但是防病治病的需要，也是防止病情反复或发生意外的措施。,心脑,火热,Ontological terms,"v1,v2",0
+187,癫痫,Dian Xian,癫痫（epilepsy）即俗称的“羊角风”或“羊癫风”，是大脑神经元突发性异常放电，导致短暂的大脑功能障碍的一种慢性疾病。据中国最新流行病学资料显示，国内癫痫的总体患病率为7.0‰，年发病率为28.8/ 10 万，1年内有发作的活动性癫痫患病率为4.6‰。据此估计中国约有900万左右的癫痫患者，其中500～600万是活动性癫痫患者，同时每年新增加癫痫患者约40万，在中国癫痫已经成为神经科仅次于头痛的第二大常见病。,心脑,火热,Ontological terms,"v1,v2",0
+188,癫痫痰多,Dian Xian Tan Duo,,心脑,火热,Ontological terms,"v1,v2",0
+189,癲痫,Dian Xian,,心脑,火热,Ontological terms,"v1,v2",0
+190,跌打伤痛,Die Da Shang Tong,,,瘀血,Ontological terms,"v1,v2",0
+191,跌打损伤,Die Da Sun Shang,跌打损伤包括刀枪、跌仆、殴打、闪挫、刺伤、擦伤、运动损伤等，伤处多有疼痛、肿胀、出血或骨折、脱臼等，也包括一些内脏损伤。在此主要以软组织损伤为主。,,瘀血,Ontological terms,"v1,v2",0
+192,跌打瘀痛,Die Da Yu Tong,,,瘀血,Synonymous terms,"v1,v2",0
+193,跌打肿痛,Die Da Zhong Tong,,,瘀血,Ontological terms,"v1,v2",0
+194,跌扑伤痛,Die Pu Shang Tong,,,瘀血,Ontological terms,"v1,v2",0
+195,跌扑瘀肿,Die Pu Yu Zhong,,,瘀血,Ontological terms,"v1,v2",0
+196,跌扑肿痛,Die Pu Zhong Tong,,,瘀血,Ontological terms,"v1,v2",0
+197,疔疮痈肿初起,Ding Chuang Yong Zhong Chu Qi,,皮肤,热毒,Synonymous terms,"v1,v2",0
+198,疔疮肿痛,Ding Chuang Zhong Tong,,皮肤,热毒,Ontological terms,"v1,v2",0
+199,疔毒,Ding Du, 症状发展到很严重地步的疔疮,皮肤,热毒,Ontological terms,"v1,v2",0
+200,动脉硬化,Dong Mai Ying Hua,动脉硬化是动脉的一种非炎症性病变，可使动脉管壁增厚、变硬，失去弹性、管腔狭窄。动脉硬化是随着年龄增长而出现的血管疾病，其规律通常是在青少年时期发生，至中老年时期加重、发病。男性较女性多，近年来本病在我国逐渐增多，成为老年人死亡主要原因之一。,,阳虚,Synonymous terms,"v1,v2",0
+201,动辄汗出,Dong Zhe Han Chu,,,气虚,Synonymous terms,"v1,v2",0
+202,毒虫咬伤,Du Chong Yao Shang,,,虫毒,Synonymous terms,"v1,v2",0
+203,毒蛇咬伤,Du She Yao Shang,,,虫毒,Ontological terms,"v1,v2",0
+204,毒蛇咬伤,Du She Yao Shang,,,虫毒,Ontological terms,"v1,v2",1
+205,毒邪未尽,Du Xie Wei Jin,,,虫毒,Synonymous terms,"v1,v2",0
+206,短气,Duan Qi,短气，指因呼吸短促而不相接续的情况。即呼吸短促而不相接续之意。可见于很多疾病的过程中。有虚有实。实证多突然发病，伴有胸腹胀满。呼吸声粗，多由于痰、食内阻，影响气机升降所致；虚证多实久病，声低息微，形疲神倦，多由于元气大虚所致。,肺,气虚,Ontological terms,"v1,v2",0
+207,顿咳,Dun Ke,顿咳，中医病名。小儿时期感受时行邪毒引起的肺系时行疾病，临床以阵发性痉挛咳嗽，咳后有特殊的鸡啼样吸气性吼声为特征。本病因其咳嗽特征又名“顿呛”、“顿嗽”、“鹭鸶咳”；因其具有传染性，故又称“天哮呛”、“疫咳”。顿咳好发于冬春季节，以5岁以下小儿最易发病，年龄愈小，则病情大多愈重，10岁以上则较少罹患。病程愈长，对小儿身体健康影响愈大，若不及时治疗，可持续2-3个月以上。典型的顿咳与西医学百日咳相符。,肺,风寒犯肺,Ontological terms,"v1,v2",0
+208,多汗,Duo Han,多汗症是指局部或全身皮肤出汗量异常增多的现象。真正全身性多汗症少见，即使是全身性疾病所致的多汗症也主要发生在某些部位。全身性多汗症主要是由其他疾病引起的广泛性多汗，如感染性高热等。局部性多汗症常初发于儿童或青少年，往往有家族史，有成年后自然减轻的倾向。,肺,气虚,Ontological terms,"v1,v2",0
+209,多泪,Duo Lei,,肝,肝虚,Ontological terms,"v1,v2",0
+210,多泪羞明,Duo Lei Xiu Ming,,心,肝虚,Ontological terms,"v1,v2",0
+211,多梦,Duo Meng,是指睡眠不实，睡眠中梦扰纷乱，醒后感觉头昏神疲的症状。多梦常与失眠相伴，导致经常不能获得正常睡眠，并有头晕健忘等症为主要表现。,心,肝虚,Ontological terms,"v1,v2",0
+212,多尿,Duo Niao,多尿（polyuria），指每天24小时排尿多于2500ml。健康人当饮水过多或食用含水较多的食物时．可出现暂时性生理性多尿。持续性多尿属于病理性。治疗重在去除病因，对症处理，慎用药物。,膀胱,肾虚,Synonymous terms,"v1,v2",0
+213,多食,Duo Shi,,胃肠,胃火,Synonymous terms,"v1,v2",0
+214,多涎,Duo Xian,,脾,脾虚,Ontological terms,"v1,v2",0
+215,多饮,Duo Yin,,胃肠,胃热,Ontological terms,"v1,v2",0
+216,呃逆,E Ni,呃逆即打嗝，指气从胃中上逆，喉间频频作声，声音急而短促。是一个生理上常见的现象，由横膈膜痉挛收缩引起的。健康人也可发生一过性呃逆，多与饮食有关，特别是饮食过快、过饱，摄入很热或冷的食物饮料、饮酒等，外界温度变化和过度吸烟亦可引起。呃逆频繁或持续24小时以上，称为难治性呃逆，多发生于某些疾病。,胃,胃气上逆,Ontological terms,"v1,v2",0
+217,恶疮,E Chuang,亦名久恶疮，恶毒疮，顽疮,皮肤,湿热,Ontological terms,"v1,v2",0
+218,恶风寒,E Feng Han,,肺,风寒犯肺,Ontological terms,"v1,v2",0
+219,恶寒,E Han,恶寒，中医症状名。凡患者自觉怕冷，多加衣被，或近火取暖，仍感寒冷不能缓解的，称为恶寒。中医中有“有一分恶寒便有一分表证”的说法，故“恶寒”常为临床诊断和鉴别外感表证的重要指征。,肺,风寒犯肺,Ontological terms,"v1,v2",0
+220,恶寒重,E Han Zhong,,肺,风寒犯肺,Synonymous terms,"v1,v2",0
+221,恶寒壮热,E Han Zhuang Re,,肺,风寒犯肺,Synonymous terms,"v1,v2",0
+222,恶心,E Xin,恶心(nausea)是一种可以引起呕吐冲动的胃内不适感，常为呕吐的前驱感觉，但也可单独出现，主要表现为上腹部的特殊不适感，常伴有头晕、流涎、脉搏缓慢、血压降低等迷走神经兴奋症状。,胃,,Ontological terms,"v1,v2",0
+223,耳道流脓,Er Dao Liu Nong,,肝,湿热,Ontological terms,"v1,v2",0
+224,耳聋,Er Long,听觉系统中传音、感音及其听觉传导通路中的听神经和各级中枢发生病变，引起听功能障碍，产生不同程度的听力减退，统称为耳聋。一般认为语言频率平均听阈在26dB以上时称之为听力减退或听力障碍。根据听力减退的程度不同，又称之为重听、听力障碍、听力减退、听力下降等。,肝,肾虚,Ontological terms,"v1,v2",0
+225,耳漏,Er Lou,从外耳道内流出一些非脓性的液体，医学上称为“耳漏”。这种情况见于很多疾病，流出液体的性质、气味及颜色，往往为某些疾病的特殊表现。,肝,湿热,Synonymous terms,"v1,v2",0
+226,耳鸣,Er Ming,耳鸣是累及听觉系统的许多疾病不同病理变化的结果，病因复杂，机制不清，主要表现为无相应的外界声源或电刺激，而主观上在耳内或颅内有声音感觉。在临床上它既是许多疾病的伴发症状，也是一些严重疾病的首发症状（如听神经瘤）。,肝肾,肾虚,Ontological terms,"v1,v2",0
+227,耳内流脓,Er Nei Liu Nong,耳内流出脓液，其色或黄或青，其质或稠或稀的表现。,肝,湿热,Synonymous terms,"v1,v2",0
+228,耳下肿痛,Er Xia Zhong Tong,,肝,热毒,Ontological terms,"v1,v2",0
+229,二便失禁,Er Bian Shi Jin,,肾,肾虚,Synonymous terms,"v1,v2",0
+230,发斑,Fa Ban,,,胃热,Ontological terms,"v1,v2",0
+231,发喘,Fa Chuan,急促呼吸。《三侠五义》第二二回：“﹝ 展昭 ﹞将剑舞完，仍是怀中抱月的架式收住，复又朝上磕头。见他面不改色，气不发喘。”,肺,气逆,Synonymous terms,"v1,v2",0
+232,发僵,Fa Jiang,,,经络不通,Synonymous terms,"v1,v2",0
+233,发狂,Fa Kuang,疯癫，受到某种刺激而精神失常。,心,火热,Ontological terms,"v1,v2",0
+234,发热,Fa Re,"又称发烧。由于致热原的作用使体温调定点上移而引起的调节性体温升高（超过0.5℃）,又称为发热。每个人的正常体温略有不同，而且受许多因素（时间、季节、环境、月经等）的影响。因此判定是否发热，最好是和自己平时同样条件下的体温相比较。如不知自己原来的体温，则腋窝体温（检测10分钟）超过37℃可定为发热。",,风寒犯肺,Ontological terms,"v1,v2",0
+235,发热重,Fa Re Zhong,,,风热,Synonymous terms,"v1,v2",0
+236,发烧,Fa Shao,发烧（fever），也称发热，是指致热原直接作用于体温调节中枢、体温中枢功能紊乱或各种原因引起的产热过多、散热减少，导致体温升高超过正常范围的情形。每个人的正常体温略有不同，而且受时间、季节、环境、月经等因素的影响。一般认为当口腔温度高于37.5 ℃，腋窝温度高于37℃，或一日之间体温相差在1℃以上，即为发烧。发烧是临床上最常见的症状，是疾病进展过程中的重要临床表现，可见于多种感染性疾病和非感染性疾病。但有时体温升高不一定都是疾病引起的，某些情况可有生理性体温升高，如剧烈运动、月经前期及妊娠期，进入高温环境或热水浴等均可使体温较平时略高，这些通过自身调节可恢复正常。,,风寒犯肺,Synonymous terms,"v1,v2",0
+237,发颐,Fa Yi,是热病后余毒结于颐颌间引起的急性化脓性疾病。临床特点是常发生于热病后期，多一则发病，颐颌部肿胀疼痛，张口受限，全身症状明显，重者可发生内陷。类似于西医学化脓性腮腺炎。,,热毒,Ontological terms,"v1,v2",0
+238,发育迟缓,Fa Yu Chi Huan,生长发育迟缓（发育迟缓）是指在生长发育过程中出现速度放慢或是顺序异常等现象。发病率在6%～8%之间。在正常的内外环境下儿童能够正常发育，一切不利于儿童生长发育的因素均可不同程度地影响其发育，从而造成儿童的生长发育迟缓。,肾,肾虚,Synonymous terms,"v1,v2",0
+239,发疹,Fa Zhen,,皮肤,风热,Ontological terms,"v1,v2",0
+240,乏力,Fa Li,乏力是临床上最常见的主诉症状之一，属非特异性疲惫感觉。表现为自觉疲劳、肢体软弱无力。生理状态下，乏力在休息或进食后可缓解，而病理性乏力则不能恢复正常。,脾,脾虚,Ontological terms,"v1,v2",0
+241,烦倦,Fan Juan,,心,火热,Ontological terms,"v1,v2",0
+242,烦渴,Fan Ke,烦躁干渴,心,胃热,Ontological terms,"v1,v2",0
+243,烦热,Fan Re,凡发热同时又有心烦，或烦躁而有闷热的感觉，均称“烦热”。多由于里热过盛，气阴受伤所致,心,心热,Ontological terms,"v1,v2",0
+244,烦躁,Fan Zao,烦躁是一个汉语词汇，读音为fán zào，指心中烦闷不安，急躁易怒，甚则手足动作及行为举止躁动不宁的表现。语出《易·系辞下》“躁人之辞多” 唐 孔颖达 疏：“以其烦躁，故其辞多也。,心,心热,Ontological terms,"v1,v2",0
+245,烦躁不安,Fan Zao Bu An,烦躁不安是指情绪异常，患者自觉心烦，或烦躁而有闷热的感觉、心神不定,心,心热,Synonymous terms,"v1,v2",0
+246,烦躁不宁,Fan Zao Bu Ning,,心,心热,Synonymous terms,"v1,v2",0
+247,烦躁不适,Fan Zao Bu Shi,,心,心热,Synonymous terms,"v1,v2",0
+248,烦躁易怒,Fan Zao Yi Nu,,心,心热,Synonymous terms,"v1,v2",0
+249,烦躁谵语,Fan Zao Zhan Yu,,心,心热,Synonymous terms,"v1,v2",0
+250,反酸,Fan Suan,反酸（sour regurgitation），指胃内容物经食管反流达口咽部，口腔感觉到酸性物质；如果十二指肠内容物经胃、食管反流达口咽部，口腔感觉到出现苦味物质，称为十二指肠胃食管反流。多由于贲门功能不全和胃功能障碍逆蠕动致酸性胃液反流至口腔。反酸只是症状，并非一种疾病。治疗原则应首先消除病因、合理控制和缓解症状。,胃,湿热,Synonymous terms,"v1,v2",0
+251,反胃,Fan Wei,反胃，又称“胃反”，是指饮食入胃，停滞不化，良久反出的病症。,胃,胃虚,Ontological terms,"v1,v2",0
+252,反应迟钝,Fan Ying Chi Dun,反应迟钝就是无法如正常人一样对刺激做出恰当的反应，或者反应得较慢。,脑,髓海不足,Synonymous terms,"v1,v2",0
+253,泛吐清水,Fan Tu Qing Shui,,,脾虚湿盛,Synonymous terms,"v1,v2",0
+254,肺痨,Fei Lao,是以咳嗽、咯血、潮热、盗汗及身体逐渐消瘦为主要表现的病症。,肺,痨虫,Ontological terms,"v1,v2",0
+255,肺气不畅,Fei Qi Bu Chang,,肺,气逆,Synonymous terms,"v1,v2",0
+256,肺热,Fei Re,肺热之名出自《素问·刺热篇》：“肺热病者，先淅然厥，起毫毛，恶风寒，舌上黄，身热，热争则咳喘，痛走胸膺背，不得太息……。”肺热又称风温肺热、肺炎、肺炎喘嗽等。多见于西医的肺部急性炎症病变。,肺,肺热,,v1,1
+257,肺热咳嗽,Fei Re Ke Sou,肺热咳嗽是由于肺内郁热、肺气失宣出现以咳嗽为主的一种症候，多见于免疫力低下的儿童及老人，从中医学范畴上讲，肺热咳嗽属于温病学。现代医学中的呼吸道感染、急慢性支气管炎发作等呼吸系统疾病都有可能出现本病症。,肺,肺热,Ontological terms,"v1,v2",0
+258,肺痈,Fei Yong,肺痈是指由于热毒瘀结于肺，以致肺叶生疮，肉败血腐，形成脓疡，以发热，咳嗽，胸痛，咯吐腥臭浊痰，甚则咯吐脓血痰为主要临床表现的一种病证。,肺,肺热,Ontological terms,"v1,v2",0
+259,肺燥,Fei Zao,,肺,肺燥,,v1,1
+260,痱疹鲜红,Fei Zhen Xian Hong,,肺,火热,Synonymous terms,"v1,v2",0
+261,粉刺,Fen Ci,痤疮是毛囊皮脂腺单位的一种慢性炎症性皮肤病，主要好发于青少年，对青少年的心理和社交影响很大，但青春期后往往能自然减轻或痊愈。临床表现以好发于面部的粉刺、丘疹、脓疱、结节等多形性皮损为特点。,皮肤,湿热,Synonymous terms,"v1,v2",0
+262,粉剌疙瘩,Fen La Ge Da,,皮肤,湿热,Synonymous terms,"v1,v2",0
+263,风寒头痛,Feng Han Tou Tong,这类患者常有明显的感受风寒的病史。风寒头痛多发于吹风受寒之后，大致涉及因感受风寒引起发作的偏头痛、群集性头痛、肌紧张性头痛、头部神经痛。,脑,风寒犯肺,Ontological terms,"v1,v2",0
+264,风热,Feng Re,风热，是病证名，风和热相结合的病邪，临床表现为发热重、恶寒较轻、咳嗽、口渴、舌边尖红、苔微黄、脉浮数，甚则口燥、目赤、咽痛、衄血等。是风热之邪犯表、肺气失和所致。治以疏风清热为主。,肺,风热,,v1,1
+265,风热感冒,Feng Re Gan Mao,风热感冒(common cold with wind-heat syndrome)是风热之邪犯表、肺气失和所致。症状表现为发热重、微恶风、头胀痛、有汗、咽喉红肿疼痛、咳嗽、痰黏或黄、鼻塞黄涕、口渴喜饮、舌尖边红、苔薄白微黄。风热感冒多见于夏秋季，外感风热所致。中医认为，风热感冒是感受风热之邪所致的表证。,肺,风热,Ontological terms,"v1,v2",0
+266,风湿痹痛,Feng Shi Bi Tong,,四肢,风湿,Ontological terms,"v1,v2",0
+267,风湿关节痛,Feng Shi Guan Jie Tong,,四肢,风湿,Ontological terms,"v1,v2",0
+268,风湿疼痛,Feng Shi Teng Tong,,四肢,风湿,Ontological terms,"v1,v2",0
+269,风湿瘀痛,Feng Shi Yu Tong,,四肢,风湿,Synonymous terms,"v1,v2",0
+270,风湿肢体关节痿软,Feng Shi Zhi Ti Guan Jie Wei Ruan,,四肢,风湿,Synonymous terms,"v1,v2",0
+271,风痰,Feng Tan,风痰，病证名。痰扰肝经的病证。风痰证有以下两方面的含义：一是指痰扰肝经的病证。《医学入门》卷五：“动于肝，多眩晕头风，眼目瞤动昏涩，耳轮瘙痒，胁肋胀痛，左瘫右痪，麻木蜷跛奇证，名曰风痰。”《医宗必读》卷九：“在肝经者，名曰风痰，脉弦面青，四肢满闷，便溺秘涩，时有躁怒，其痰青而多泡。”又名肝经风痰。二是指素有痰疾，因感受风邪或风热怫郁而发的病证。《泰定养生主论》：“风痰者，因感风而发，或因风热怫郁而然也。此皆素抱痰疾者，因风、寒、气、热、味而喘咯咳唾，非别有五种之痰。”,,风痰,,v1,1
+272,风痰眩晕,Feng Tan Xuan Yun,病证名。因风痰上壅，闭塞清阳所致眩晕。见《医学正传·眩运》。《杂病源流犀烛·头痛源流》：“风痰闭壅眩晕，必胸膈痞塞，项急，肩背拘倦，神昏多睡，或心忪烦闷而发。”治宜祛风化痰，用半夏白术天麻汤、天麻丸、白附子丸等方。如见眩晕闷乱，瘫痪，搐搦，瞤动等症，治宜青州白圆子。,,风痰,Ontological terms,"v1,v2",0
+273,风痰瘀血痹阻脉络,Feng Tan Yu Xie Bi Zu Mai Luo,,,风痰,Synonymous terms,"v1,v2",0
+274,风痛,Feng Tong,风痛风痛是中医的风湿痹痛，大部分指的是风湿病，是一种因人体免疫力差，链球菌感染引起的慢性变态反应性疾病。,,风,Ontological terms,"v1,v2",0
+275,风眼烂弦,Feng Yan Lan Xian,,,风热,Ontological terms,"v1,v2",0
+276,风疹发红,Feng Zhen Fa Hong,,,风热,Ontological terms,"v1,v2",0
+277,风疹瘙痒,Feng Zhen Sao Yang,,,风热,Ontological terms,"v1,v2",0
+278,浮肿,Fu Zhong,浮肿是机体细胞外液中水分积聚所致的局部或全身肿胀。浮肿与身体很多器官的病变有关，引起浮肿的病因很多，复杂多变。自身所处的环境，生活方式，行为动作等都可能引起浮肿。,肾,风水,Ontological terms,"v1,v2",0
+279,腐肉不去,Fu Rou Bu Qu,,,湿热,Ontological terms,"v1,v2",0
+280,妇女痛经,Fu Nv Tong Jing,,子宫,血瘀,Synonymous terms,"v1,v2",0
+281,妇女癥瘕,Fu Nv Zheng Jia,,子宫,血瘀,Synonymous terms,"v1,v2",0
+282,腹暴痛,Fu Bao Tong,,胃,血瘀,Ontological terms,"v1,v2",0
+283,腹部不适,Fu Bu Bu Shi,,胃肠,气滞,Synonymous terms,"v1,v2",0
+284,腹部隐痛,Fu Bu Yin Tong,,胃肠,气虚,Synonymous terms,"v1,v2",0
+285,腹部胀满,Fu Bu Zhang Man,,胃肠,气滞,Synonymous terms,"v1,v2",0
+286,腹部胀满不舒,Fu Bu Zhang Man Bu Shu,,胃肠,气滞,Synonymous terms,"v1,v2",0
+287,腹水,Fu Shui,腹水（ascites），指腹腔内游离液体的过量积聚，是体征而并非一种疾病。任何病理状态下导致腹腔内液体量超过200ml即称为腹水。产生腹水的病因很多，比较常见的有心血管病、肝脏病、腹膜病、肾脏病、营养障碍病、恶性肿瘤腹膜转移、卵巢肿瘤、结缔组织疾病等。腹水定量诊断除影像学检查外，主要依据腹部叩诊法：腹水达500ml时，可用肘膝位叩诊法证实；1000ml以上的腹水可引起移动性浊音，大量腹水时两侧胁腹膨出如蛙腹，检查可有液波震颤；小量腹水则需经超声检查才能发现。,肝,水饮,Ontological terms,"v1,v2",0
+288,腹痛,Fu Tong,腹痛（abdominal pain）是临床常见的症状，也是促使患者就诊的原因。腹痛多由腹内组织或器官受到某种强烈刺激或损伤所致，也可由胸部疾病及全身性疾病所致。此外，腹痛又是一种主观感觉，腹痛的性质和强度，不仅受病变情况和刺激程度影响，而且受神经和心理等因素的影响。即患者对疼痛刺激的敏感性存在差异，相同病变的刺激在不同的患者或同一患者的不同时期引起的腹痛在性质、强度及持续时间上有所不同。,胃,血虚,Ontological terms,"v1,v2",0
+289,腹痛绵绵,Fu Tong Mian Mian,,胃,气虚,Synonymous terms,"v1,v2",0
+290,腹泻,Fu Xie,腹泻（diarrhea）是一种常见症状，俗称“拉肚子”，是指排便次数明显超过平日习惯的频率，粪质稀薄，水分增加，每日排便量超过200g，或含未消化食物或脓血、黏液。腹泻常伴有排便急迫感、肛门不适、失禁等症状。正常人每日大约有9L液体进入胃肠道，通过肠道对水分的吸收，最终粪便中水分仅约100～200ml。若进入结肠的液体量超过结肠的吸收能力或（和）结肠的吸收容量减少，就会导致粪便中水分排出量增加，便产生腹泻。临床上按病程长短，将腹泻分急性和慢性两类。急性腹泻发病急剧，病程在2～3周之内，大多系感染引起。慢性腹泻指病程在两个月以上或间歇期在2～4周内的复发性腹泻，发病原因更为复杂，可为感染性或非感染性因素所致。,大肠,湿热,Ontological terms,"v1,v2",0
+291,腹有癥块,Fu You Zheng Kuai,,,血瘀,Synonymous terms,"v1,v2",0
+292,腹胀,Fu Zhang,腹胀是一种常见的消化系统症状，而非一种疾病。可以是主观上感觉腹部的一部分或全腹部胀满，通常伴有相关的症状，如呕吐、腹泻、嗳气等；也可以是一种客观上的检查所见，如发现腹部一部分或全腹部膨隆。引起腹胀的原因主要见于胃肠道胀气、各种原因所致的腹水、腹腔肿瘤等。,肠胃,气滞,Ontological terms,"v1,v2",0
+293,腹胀满,Fu Zhang Man,,肠胃,气滞,Ontological terms,"v1,v2",0
+294,腹中冷痛,Fu Zhong Leng Tong,,肠胃,阳虚,Ontological terms,"v1,v2",0
+295,腹中胀满,Fu Zhong Zhang Man,,肠胃,气滞,Ontological terms,"v1,v2",0
+296,肝腹水,Gan Fu Shui,肝硬化腹水俗称肝腹水（hepatic ascites）。肝硬化腹水是一种慢性肝病，由大块型、结节型、弥漫型的肝细胞变性，坏死、再生；再生、坏死促使组织纤维增生和瘢痕的收缩，致使肝质变硬，形成肝硬化。肝硬化肝功能减退引起门静脉高压，形成了腹水症。,肝,痰瘀,Synonymous terms,"v1,v2",0
+297,肝火目赤,Gan Huo Mu Chi,,肝,火热,Ontological terms,"v1,v2",0
+298,肝区疼痛,Gan Qu Teng Tong,肝区痛是发生在右侧季肋部的疼痛，只是一种症状/体征，并非疾病。多见于急性肝炎时，由于肝脏充血、肿胀、渗出和肝细胞坏死，把肝脏外层的包膜极度撑开，撑紧的肝包膜刺激神经后产生肿痛、钝痛或针刺样疼痛，查体时患者常诉有触压或叩击痛。治疗应针对引起肝区疼痛的原因。,肝,气郁,Synonymous terms,"v1,v2",0
+299,肝区胀痛,Gan Qu Zhang Tong,,肝,气郁,Ontological terms,"v1,v2",0
+300,肝热目赤,Gan Re Mu Chi,,肝,火热,Ontological terms,"v1,v2",0
+301,肝痛,Gan Tong,,肝,气滞,Ontological terms,"v1,v2",0
+302,肝阳眩晕,Gan Yang Xuan Yun,,肝,火热,Ontological terms,"v1,v2",0
+303,肝脏肿大,Gan Zang Zhong Da,,肝,痰瘀,Synonymous terms,"v1,v2",0
+304,疳积,Gan Ji,疳积以神萎、面黄肌瘦、毛发焦枯、肚大筋露、纳呆便溏为主要表现的儿科病证。多见于1～5岁儿童。 疳积多因饮食不节，乳食喂养不当，损伤脾胃，运化失职，营养不足，气血精微不能濡养脏腑；或因慢性腹泻、慢性痢疾、肠道寄生虫等病，经久不愈，损伤脾胃等引起。,脾胃,湿热,Ontological terms,"v1,v2",0
+305,疳证,Gan Zheng,疳证，中医病名。疳证是由于喂养不当，或因多种疾病的影响，导致脾胃受损，气液耗伤而形成的一种小儿慢性病证。临床以形体消瘦，面黄发枯，精神萎靡或烦躁，饮食异常，大便不调为特征。本病相当于西医学营养不良。,脾胃,湿热,Synonymous terms,"v1,v2",0
+306,感冒,Gan Mao,上呼吸道感染简称上感，又称普通感冒。是包括鼻腔、咽或喉部急性炎症的总称。广义的上感不是一个疾病诊断，而是一组疾病，包括普通感冒、病毒性咽炎、喉炎、疱疹性咽峡炎、咽结膜热、细菌性咽-扁桃体炎。狭义的上感又称普通感冒，是最常见的急性呼吸道感染性疾病，多呈自限性，但发生率较高。成人每年发生2～4次，儿童发生率更高，每年6～8次。全年皆可发病，冬春季较多。,肺,风寒犯肺,Ontological terms,"v1,v2",0
+307,感冒夹惊,Gan Mao Jia Liang,,肺,风热,Ontological terms,"v1,v2",0
+308,干泾不舒,Gan Jing Bu Shu,,,,,v1,1
+309,干咳,Gan Ke,干咳（dry cough）指咳嗽无痰；或痰极少，不易排出的表现。干咳是临床肺部疾病常见症状之一，病因复杂。,肺,气逆,Ontological terms,"v1,v2",0
+310,干呕,Gan Ou,干呕（retching）是呕吐的一种，一般以有物有声为呕，有物无声为吐，无物有声为干呕。也就是说干呕是只有呕吐的声音和动作，但并无食物吐出，或仅有涎沫吐出的病症。,肺,胃气上逆,Ontological terms,"v1,v2",0
+311,肛窦炎出血,Gang Dou Yan Chu Xie,,大肠,湿热,,v1,1
+312,肛裂疼痛,Gang Lie Teng Tong,肛裂剧烈疼痛的主要原因是由于排粪时肛裂裂口内神经末梢受到刺激，立刻引起肛门内烧痛和刀割样疼痛，从而使得肛门内括约肌痉挛收缩，导致持续性疼痛。然后，随着时间的推移，括约肌渐渐疲乏松弛，疼痛随之减轻，并逐渐消失。这在肛裂疼痛症状中，称之谓“疼痛的一个周期”。另外，不仅排粪可引起肛裂的剧痛，咳嗽、喷嚏，以及排尿等都可引起这种疼痛周期。,大肠,湿热,Synonymous terms,"v1,v2",0
+313,肛门疼痛,Gang Men Teng Tong,肛门疼痛是指肛门及直肠周围以疼痛为主的的一种症状。肛门处神经丰富，感觉敏锐，受到刺激时容易发生疼痛或剧烈疼痛。表现为刺痛、胀痛、灼痛、坠痛，可发生在便时、便后或其他时间，多种疾病都可引起。,大肠,湿热,Synonymous terms,"v1,v2",0
+314,肛门下坠,Gang Men Xia Zhui,尤其对于老年人来说，身体各个器官都在逐渐衰退，抵抗力也在不断下降，如果经常坠胀感，老年人可能由于承受不了，使得病情急速恶化，还有发生癌变的可能性。,大肠,气虚下陷,Synonymous terms,"v1,v2",0
+315,肛门肿痛,Gang Men Zhong Tong,肛门肿痛流脓常常给日常生活、工作带来不便，若处理不当还会导致病情发展。 肛门肿痛 是肛肠病常见症状之一，主要是指肛门周围肿胀、疼痛，并伴有脓性分泌物，常见于肛周化脓性感染、肛周囊肿、外痔发炎、肛肠病手术后感染和癌性病变等。,大肠,湿热,Synonymous terms,"v1,v2",0
+316,肛门灼热,Gang Men Zhuo Re,,大肠,火热,Ontological terms,"v1,v2",0
+317,高热,Gao Re,发热是多种疾病的常见症状。高热(High Fever)在临床上属于危重症范畴。小儿正常体温常以肛温36.5～37.5℃，腋温36～37℃衡量。通常情况下，腋温比口温（舌下）低0.2～0.5℃，肛温比腋温约高0.5℃左右。肛温虽比腋温准确，但因种种原因常以腋温为准。若腋温超过37.4℃，且一日间体温波动超过1℃以上，可认为发热。所谓低热，指腋温为37.5℃38、中度热38.1～39℃、高热39.1～40℃、超高热则为40℃以上。发热时间超过两周为长期发热。,,风热,Ontological terms,"v1,v2",0
+318,高热不退,Gao Re Bu Tui,高热不退是指体温超过39.1℃。高热分为急性高热和长期高热，急性高热多见于感染性和变态感应性疾病，而长期高热可见于败血症、沙门氏菌属感染、结核、风湿热、幼年类风湿症等。,,风热,Synonymous terms,"v1,v2",0
+319,高热惊厥,Gao Re Liang Jue,高热惊厥是指小儿在呼吸道感染或其他感染性疾病早期，体温升高>=39℃时发生的惊厥，并排除颅内感染及其它导致惊厥的器质性或代谢性疾病。主要表现为突然发生的全身或局部肌群的强直性或阵挛性抽搐，双眼球凝视、斜视、发直或上翻，伴意识丧失。高热惊厥分为单纯性高热惊厥和复杂性高热惊厥两种。各年龄期（除新生儿期）小儿均可发生，以6个月至4岁多见，单纯性高热惊厥愈后良好，复杂性高热惊厥愈后则较差。,,风热,Ontological terms,"v1,v2",0
+320,高热神昏,Gao Re Shen Hun,,,火热,Ontological terms,"v1,v2",0
+321,高血压头痛,Gao Xie Ya Tou Tong,,,肝阳上亢,Synonymous terms,"v1,v2",0
+322,高血脂,Gao Xie Zhi,高脂血症是指血脂水平过高，可直接引起一些严重危害人体健康的疾病，如动脉粥样硬化、冠心病、胰腺炎等。,,湿热,Ontological terms,"v1,v2",0
+323,髙热,Gao Re,,,火热,Synonymous terms,"v1,v2",0
+324,髙热不退,Gao Re Bu Tui,,,火热,Synonymous terms,"v1,v2",0
+325,睾丸偏坠,Gao Wan Pian Zhui,,,肝寒,Ontological terms,"v1,v2",0
+326,睾丸痛,Gao Wan Tong,睾丸痛是男科临床常见的病症之一。常因外伤、炎症、肿瘤等引起睾丸病。睾丸病常会影响重要生殖器官正常运作。可导致男性不育，因此睾丸痛应及时就医，如果延误治疗时机，很可能是痛在身上伤在心里。,,肝寒,Ontological terms,"v1,v2",0
+327,睾丸肿,Gao Wan Zhong,,,湿热,Ontological terms,"v1,v2",0
+328,睾丸坠胀疼痛,Gao Wan Zhui Zhang Teng Tong,,,肝寒,Ontological terms,"v1,v2",0
+329,咯痰,Ge Tan,"咯痰是呼吸道内的病理性分泌物,借助咳嗽而排出体外的动作。",,痰湿,Ontological terms,"v1,v2",0
+330,咯痰、血,Ge Tan 、 Xie,,,痰湿,Synonymous terms,"v1,v2",0
+331,咯痰不爽,Ge Tan Bu Shuang,,,痰湿,Ontological terms,"v1,v2",0
+332,咯痰黄稠,Ge Tan Huang Chou,,,痰热,Ontological terms,"v1,v2",0
+333,咯痰色白,Ge Tan Se Bai,,,痰湿,Synonymous terms,"v1,v2",0
+334,咯痰色黄,Ge Tan Se Huang,,,痰热,Synonymous terms,"v1,v2",0
+335,咯痰稀白,Ge Tan Xi Bai,,,痰湿,Synonymous terms,"v1,v2",0
+336,咯吐白痰,Ge Tu Bai Tan,,,痰湿,Synonymous terms,"v1,v2",0
+337,咯吐不爽,Ge Tu Bu Shuang,,,燥痰,Synonymous terms,"v1,v2",0
+338,咯血,Ge Xie,咯血是指喉部以下的呼吸器官（即气管、支气管或肺组织）出血，并经咳嗽动作从口腔排出的过程。咯血不仅可由呼吸系统疾病引起，也可由循环系统疾病、外伤以及其他系统疾病或全身性因素引起。应与口腔、咽、鼻出血以及呕血相鉴别。,,血证,Ontological terms,"v1,v2",0
+339,各种中毒症,Ge Zhong Zhong Du Zheng,,,,Synonymous terms,"v1,v2",0
+340,功能性子宫出血,Gong Neng Xing Zi Gong Chu Xie,功能性子宫出血，简称功血，是一种常见的妇科疾病，是指异常的子宫出血，经诊查后未发现有全身及生殖器官器质性病变，而是由于神经内分泌系统功能失调所致。表现为月经周期不规律、经量过多、经期延长或不规则出血。,,血瘀,Ontological terms,"v1,v2",0
+341,宫寒,Gong Han,宫寒顾名思义是“子宫寒冷”的简称。在中医学的文献记载和正式的教科书及相关的中医妇科专著中并无此词条。但是“宫寒”已经成为深入人心的热词，也通常会被广泛地运用在今天的日常生活中，尤其是多数不孕妇女都从不同的途径对这个词有深切的感受和认识。因此，有必要梳理一下这个词汇的含义。“宫”可指西医学的“子宫”，也可指中医学的“胞宫”，后者更多的含义是泛指女性内生殖器官（子宫、输卵管、卵巢）及其功能。因此，这里的“宫”理解为“胞宫”会有助于更好地理解宫寒的含义和所指的疾病。“寒”在中医中首先是一个常见的致病原因，即贪凉涉水、受大自然寒邪侵袭、贪食寒凉食物等都可招致外来之“寒”侵入人体，停滞在人体的经脉、脏腑中，当然也包括胞宫，这种寒多为“实寒”。另一方面，“寒”在中医中还指病理产物之寒积聚在人体经脉脏腑中，这种病理产物的寒可由人体脾肾阳虚，无法正常运化水湿而使寒凉之气停滞在人体经脉脏腑中，这种寒多为“虚寒”。所以，广义的“宫寒”，即由于外来之寒邪或者是人体脾肾阳虚所生之内寒停滞在女性胞宫，使胞宫的功能受损而发生的一系列疾病的统称。,,肾阳虚,Synonymous terms,"v1,v2",0
+342,汞中毒,Gong Zhong Du,汞为银白色的液态金属，常温中即有蒸发。汞中毒以慢性为多见，主要发生在生产活动中，长期吸入汞蒸气和汞化合物粉尘所致。以精神-神经异常、齿龈炎、震颤为主要症状。大剂量汞蒸气吸入或汞化合物摄入即发生急性汞中毒。对汞过敏者，即使局部涂沫汞油基质制剂，亦可发生中毒。,,,Ontological terms,"v1,v2",0
+343,骨关节疼痛,Gu Guan Jie Teng Tong,,,经络不通,Synonymous terms,"v1,v2",0
+344,骨关节肿大,Gu Guan Jie Zhong Da,,,湿热,Synonymous terms,"v1,v2",0
+345,骨节酸痛,Gu Jie Suan Tong,,,经络不通,Ontological terms,"v1,v2",0
+346,骨节疼痛,Gu Jie Teng Tong,,,经络不通,Ontological terms,"v1,v2",0
+347,骨扭伤,Gu Niu Shang,,,血瘀,Synonymous terms,"v1,v2",0
+348,骨折,Gu Zhe,骨折是指骨结构的连续性完全或部分断裂。多见于儿童及老年人，中青年人也时有发生。病人常为—个部位骨折，少数为多发性骨折。经及时恰当处理，多数病人能恢复原来的功能，少数病人可遗留有不同程度的后遗症。,,血瘀,Ontological terms,"v1,v2",0
+349,骨折肿痛,Gu Zhe Zhong Tong,,,血瘀,Ontological terms,"v1,v2",0
+350,骨蒸劳热,Gu Zheng Lao Re,,,虚热,Ontological terms,"v1,v2",0
+351,骨质增生,Gu Zhi Zeng Sheng,增生性骨关节病是指由于关节退行性变，以致关节软骨被破坏而引起的慢性关节病。又称退化性关节炎、骨关节炎及肥大性关节炎等。,,肾虚,Synonymous terms,"v1,v2",0
+352,骨肿大,Gu Zhong Da,,,痰湿,Synonymous terms,"v1,v2",0
+353,臌胀,Gu Zhang,鼓胀，中医病名。是指腹部胀大如鼓的一类病证，临床以腹大胀满，绷急如鼓，皮色苍黄，脉络显露为特征，故名鼓胀。根据本病的临床表现，类似西医学所指的肝硬化腹水，包括病毒性肝炎、血吸虫病、胆汁性、营养不良性等多种原因导致的肝硬化腹水。 鼓胀的病位主要在于肝脾，久则及肾。基本病机为肝脾肾受损，气滞、血瘀、水停腹中。本病多属本虚标实之证。标实为主者，当根据气、血、水的偏盛，分别采用行气、活血、祛湿利水或暂用攻逐之法，同时配以疏肝健脾；本虚为主者，当根据阴阳的不同，分别采取温补脾肾或滋养肝肾法，同时配合行气活血利水。由于本病总属本虚标实错杂，故治当攻补兼施，补虚不忘实，泄实不忘虚。,,痰瘀,Ontological terms,"v1,v2",0
+354,关节痹痛,Guan Jie Bi Tong,,四肢,经络不通,Ontological terms,"v1,v2",0
+355,关节不利,Guan Jie Bu Li,,四肢,经络不通,Ontological terms,"v1,v2",0
+356,关节刺痛,Guan Jie Ci Tong,,四肢,瘀血,Synonymous terms,"v1,v2",0
+357,关节钝痛,Guan Jie Dun Tong,,四肢,,Synonymous terms,"v1,v2",0
+358,关节红肿热痛,Guan Jie Hong Zhong Re Tong,,四肢,湿热,Ontological terms,"v1,v2",0
+359,关节僵硬,Guan Jie Jiang Ying,关节僵硬（joint stiffness），指正常关节功能（如屈伸、旋转等）发生不同程度的障碍，表现为活动范围的减小。与功能完全丧失的关节强直截然不同。治疗针对原发病，酌情采用局部按摩、理疗、中药外敷、关节功能锻炼器以及手法松解等疗法，甚至行关节粘连松解术。,四肢,经络不通,Synonymous terms,"v1,v2",0
+360,关节剧痛,Guan Jie Ju Tong,,四肢,经络不通,Synonymous terms,"v1,v2",0
+361,关节冷痛,Guan Jie Leng Tong,,四肢,阳虚,Synonymous terms,"v1,v2",0
+362,关节麻木,Guan Jie Ma Mu,,四肢,气虚,Ontological terms,"v1,v2",0
+363,关节扭伤,Guan Jie Niu Shang,节扭伤多见于青少年的运动损伤以及体力劳动者的工作伤，最常发生于踝关节、手腕部及下腰部,四肢,血瘀,Synonymous terms,"v1,v2",0
+364,关节屈伸不利,Guan Jie Qu Shen Bu Li,,四肢,经络不通,Synonymous terms,"v1,v2",0
+365,关节四肢疼痛,Guan Jie Si Zhi Teng Tong,,四肢,经络不通,Synonymous terms,"v1,v2",0
+366,关节酸痛,Guan Jie Suan Tong,,四肢,肾虚,Ontological terms,"v1,v2",0
+367,关节酸痛麻木,Guan Jie Suan Tong Ma Mu,,四肢,肾虚,Ontological terms,"v1,v2",0
+368,关节疼痛,Guan Jie Teng Tong,关节炎或关节病牵涉范围非常广泛，种类繁多，病因各异，普遍的临床症状均可表现关节疼痛（arthralgia）。任何原因导致的关节炎，如能及时就医，对症治疗，一般都能治愈或缓解。,四肢,经络不通,Ontological terms,"v1,v2",0
+369,关节疼痈,Guan Jie Teng Yong,,四肢,经络不通,Synonymous terms,"v1,v2",0
+370,关节痛,Guan Jie Tong,关节炎或关节病牵涉范围非常广泛，种类繁多，病因各异，普遍的临床症状均可表现关节疼痛（arthralgia）。任何原因导致的关节炎，如能及时就医，对症治疗，一般都能治愈或缓解。,四肢,经络不通,Ontological terms,"v1,v2",0
+371,关节肿大,Guan Jie Zhong Da,,四肢,湿热,Synonymous terms,"v1,v2",0
+372,关节肿痛,Guan Jie Zhong Tong,关节肿痛（painful swelling of joint）指关节周围肿胀、潮红、发热和运动受限，是多种疾病的临床表现。主要表现为膝、踝、腕、肘等关节积液、疼痛。根据不同的疾病，采取不同的治疗方法，应用药物缓解疼痛。,四肢,湿热,Ontological terms,"v1,v2",0
+373,关节肿胀疼痛,Guan Jie Zhong Zhang Teng Tong,,四肢,湿热,Synonymous terms,"v1,v2",0
+374,寒热头痛,Han Re Tou Tong,,头,风寒犯肺,Ontological terms,"v1,v2",0
+375,寒热往来,Han Re Wang Lai,寒热往来是发热与恶寒交替出现的一种热型，其热时自热而不觉寒，其寒时自寒而不觉热。与恶寒发热的寒热同时并作不同。《类证活人书》：“往来寒热者，阴阳相胜也。阳不足则先寒后热，阴不足则先热后寒。”其病机是邪入半表半里，枢机不利而致。,,少阳证,Ontological terms,"v1,v2",0
+376,寒疝,Han Shan,寒疝是一种急性腹痛的病症。见《金匮要略》。由脾胃虚寒，或产后血虚，复感风寒外邪，结聚於腹中而致。症见脐周绞痛、冷汗、四肢厥逆、脉沉紧，甚则全身发冷. 四肢脉木；见於血虚者，腹痛连及两胁、小腹击急。指寒邪侵於厥阴经的痛证。症见阴囊冷痛肿硬、痛引睾丸、阴茎不举、喜暖畏寒、形寒肢冷等。,,阳虚,Ontological terms,"v1,v2",0
+377,寒湿痹痛,Han Shi Bi Tong,,,寒湿,Ontological terms,"v1,v2",0
+378,寒痰,Han Tan,以痰质清稀色白的痰为特征。如由外感风寒而致病的，必伴有恶寒、发热、头痛、喉痒、咳嗽等症状。由脾肾虚寒引起的，则出现恶寒肢冷，神倦纳呆，脉沉缓等症状。,,寒痰,,v1,1
+379,寒性腹泻,Han Xing Fu Xie,,,脾阳虚,Synonymous terms,"v1,v2",0
+380,汗出,Han Chu,,肾,热,Synonymous terms,"v1,v2",0
+381,汗出不畅,Han Chu Bu Chang,,肾,湿热,Synonymous terms,"v1,v2",0
+382,汗出不解,Han Chu Bu Jie,,肾,热,Synonymous terms,"v1,v2",0
+383,汗少,Han Shao,,肾,表实,Ontological terms,"v1,v2",0
+384,行步艰难,Xing Bu Jian Nan,,四肢,肾虚,Synonymous terms,"v1,v2",0
+385,行经腹痛,Xing Jing Fu Tong,,四肢,瘀血,Ontological terms,"v1,v2",0
+386,行经小腹冷痛,Xing Jing Xiao Fu Leng Tong,,四肢,阳虚,Synonymous terms,"v1,v2",0
+387,行走无力,Xing Zou Wu Li,,四肢,肾虚,Synonymous terms,"v1,v2",0
+388,黑便,Hei Bian,血液从肛门排出，粪便颜色呈鲜红、暗红或柏油样（黑便），均称为便血。便血只是一个症状，并非一种疾病。便血多见于下消化道出血，特别是结肠与直肠病变的出血，但亦可见于上消化道出血。便血的颜色取决于消化道出血的部位、出血量与血液在胃肠道停留的时间。便血伴有皮肤、黏膜或其他器官出血现象者，多见于血液系统疾病及其他全身性疾病，如白血病、弥散性血管内凝血等。,大肠,血瘀,Synonymous terms,"v1,v2",0
+389,黑头,Hei Tou,黑头又称黑头粉刺，为开放性粉刺（堵塞毛孔的皮脂的表层直接暴露在外面，与空气、空气中的尘埃接触）。是皮肤油脂在空气中的氧化而造成，发臭发黑，黑头粉刺常见于青春发育期的青少年，好发于面部、前胸和后背，尤其是鼻子的小黑头最多，其特征为明显扩大的毛孔中的黑点，挤出后形如小虫，顶端发黑,,湿热,Synonymous terms,"v1,v2",0
+390,烘热,Hong Re,,,火热,Synonymous terms,"v1,v2",0
+391,红细胞增多,Hong Xi Bao Zeng Duo,指单位容积血液中红细胞数高于正常值高限。一般认为经多次检查成年男性红细胞＞600万/mm3，成年女性＞550万／mm3，就属红细胞增多。相对性增多见于血液浓缩；绝对性增多见于高原生活、胎儿及新生儿、剧烈的体力劳动、严重的心肺疾患以及真性红细胞增多症。,,气虚,Synonymous terms,"v1,v2",0
+392,红肿,Hong Zhong,由于局部血管扩张及血液过多而引起的一部分皮肤的发红肿胀。,,火热,Ontological terms,"v1,v2",0
+393,喉痹,Hou Bi,喉痹，中医耳鼻喉科疾病咽喉病名词。是指以咽部红肿疼痛，或干燥、异物感，或咽痒不适，吞咽不利等为主要临床表现的疾病。,,气闭,Ontological terms,"v1,v2",0
+394,喉核红肿,Hou He Hong Zhong,,肺,火热,Synonymous terms,"v1,v2",0
+395,喉核肿大,Hou He Zhong Da,,肺,湿热,Synonymous terms,"v1,v2",0
+396,喉间痰鸣,Hou Jian Tan Ming,,肺,痰湿,Synonymous terms,"v1,v2",0
+397,喉痛,Hou Tong,,,火热,Ontological terms,"v1,v2",0
+398,喉痒,Hou Yang,,,风,Synonymous terms,"v1,v2",0
+399,喉中作响,Hou Zhong Zuo Xiang,,,痰湿,Synonymous terms,"v1,v2",0
+400,喉肿,Hou Zhong,,,湿热,Ontological terms,"v1,v2",0
+401,呼吸道出血,Hu Xi Dao Chu Xie,,,瘀血,Synonymous terms,"v1,v2",0
+402,呼吸气促,Hu Xi Qi Cu,,,气逆,Ontological terms,"v1,v2",0
+403,滑精,Hua Jing,“滑精”又称“滑泄”，是指夜间无梦而遗，甚至清醒时精液自动滑出的病症。滑精是遗精的一种，是遗精发展到了较重的病态阶段。专家提醒：滑精需要及早治疗，症状严重的要及时到医院诊断治疗，以免造成其他更严重疾病的出现。 滑精又称“滑泄 ”，指夜间无梦而遗，甚至清醒时精液自动滑出的病症。,膀胱,肾虚,Ontological terms,"v1,v2",0
+404,化脓,Hua Nong,化脓是因为破损的伤口或组织被病菌感染而所发生的病理变化，70%是直接受到了由化脓性链球菌(Streptococcus pyogenes)引起的感染。化脓同时会伴有脓液，是机体组织炎症过程中形成的浓稠或稀薄的混和物，炎症过程中细胞、组织在细菌和中性粒细胞释放的蛋白溶解酶的作用下发生液化坏死，加上血管的液体渗出，形成肉眼呈灰黄色或黄白色的浓稠状液体。其处理方法主要有：清理伤口感染，消毒或去医院处理。,,湿热,Synonymous terms,"v1,v2",0
+405,黄疸,Huang Dan,黄疸是常见症状与体征，其发生是由于胆红素代谢障碍而引起血清内胆红素浓度升高所致。临床上表现为巩膜、黏膜、皮肤及其他组织被染成黄色。因巩膜含有较多的弹性硬蛋白，与胆红素有较强的亲和力，故黄疸患者巩膜黄染常先于黏膜、皮肤而首先被察觉。当血清总胆红素在17.1～34.2μmol/L，而肉眼看不出黄疸时，称隐性黄疸或亚临床黄疸；当血渍总胆红素浓度超过34.2μmol/L时，临床上即可发现黄疸，也称为显性黄疸。,肝,湿热,Ontological terms,"v1,v2",0
+406,黄痰,Huang Tan,,肺,湿热,Ontological terms,"v1,v2",0
+407,会阴少腹腰骶部疼痛,Hui Yin Shao Fu Yao Di Bu Teng Tong,,,肾虚,Synonymous terms,"v1,v2",0
+408,昏厥,Hun Jue,昏厥是以突然昏倒，不省人事为特征的内科急症。,心,气血上逆,Synonymous terms,"v1,v2",0
+409,昏迷,Hun Mi,,心,气血上逆,Ontological terms,"v1,v2",0
+410,昏仆,Hun Pu,,心,气血上逆,Synonymous terms,"v1,v2",0
+411,昏睡,Hun Shui,昏睡（lethargy），指意识障碍比意识模糊更重，环境意识及自我意识均丧失，以过度睡眠为主要临床表现。患者处于熟睡状态，只有强刺激才可被唤醒，醒后答非所问，停止刺激后即进入熟睡状态。此为意识障碍的一种表现。此外，昏睡病是指一种特殊的疾病，在非洲由锥虫侵入人体所致。,心,痰湿,Synonymous terms,"v1,v2",0
+412,活动受限,Huo Dong Shou Xian,活动受限，医学专用术语，指人或者动物等生命体的运动遭受到限制，通常指人的各个关节活动、行走等基本运动固定在特定范围，并弱于健康时的运动范围、幅度、频率等。,,经络不通,Synonymous terms,"v1,v2",0
+413,活动障碍,Huo Dong Zhang Ai,,,经络不通,Synonymous terms,"v1,v2",0
+414,肌肤红,Ji Fu Hong,,皮肤,热,Synonymous terms,"v1,v2",0
+415,肌肤下肿块数处,Ji Fu Xia Zhong Kuai Shu Chu,,皮肤,痰湿,,v1,1
+416,肌肤下肿块一处,Ji Fu Xia Zhong Kuai Yi Chu,,皮肤,痰湿,Synonymous terms,"v1,v2",0
+417,肌肤肿块数处,Ji Fu Zhong Kuai Shu Chu,,皮肤,痰湿,,v1,1
+418,肌肤肿块一处 推之能动,Ji Fu Zhong Kuai Yi Chu   Tui Zhi Neng Dong,,皮肤,痰湿,Synonymous terms,"v1,v2",0
+419,肌肉关节酸痛,Ji Rou Guan Jie Suan Tong,,四肢,湿热,Ontological terms,"v1,v2",0
+420,肌肉红肿热痛,Ji Rou Hong Zhong Re Tong,,四肢,火热,Synonymous terms,"v1,v2",0
+421,肌肉剧痛,Ji Rou Ju Tong,,四肢,火热,Synonymous terms,"v1,v2",0
+422,肌肉麻木,Ji Rou Ma Mu,,四肢,气血虚弱,Synonymous terms,"v1,v2",0
+423,肌肉疲劳,Ji Rou Pi Lao,肌肉疲劳（muscle fatigue） 身体肌肉承受工作活动产生的疲劳。主要表现为乏力，工作能力减弱，工作效率降低，注意涣散，操作速度减慢，动作的协调性和灵活性降低，差错及事故发生率增加，工作满意感降低等。存在明显的个体差异。身体素质、营养状况、性别、年龄、工作动机和责任心等因素都对其有显著影响。有许多理论试图解释其产生机制，其中以中枢学说、代谢物积累学说和能源耗尽学说较有代表性。中枢学说认为，大脑有关区域持续兴奋导致的抑制性保护及抑制在大脑中的扩散是其产生的根本原因。代谢物积累学说认为，其产生是由于工作过程中代谢物（如乳酸）的不断产生与积累，使人体产生类似中毒的效应。能源耗尽学说认为，长期活动造成体内能源物质（如肌糖元）消耗殆尽，影响肌肉、大脑和各组织器官的能量供应，使人体丧失继续工作的能力。一般从工作绩效、主观反应和生理生化等方面对其作出综合评价。合理休息是其消除的最重要途径。除静止休息外，也可通过不断地变换工作使不同肌肉交替得到休息。科学地进行工作设计，让工作环境和工作负荷等处于最佳状态，也是使之减轻或延迟出现的重要措施。,四肢,脾虚,Synonymous terms,"v1,v2",0
+424,肌肉酸麻,Ji Rou Suan Ma,,四肢,气虚,Synonymous terms,"v1,v2",0
+425,肌肉酸痛,Ji Rou Suan Tong,肌肉酸痛（muscle soreness）可由运动、感染性疾病等疾病引起。其理论有：①组织牵引：肌肉损伤而起。②肌肉痉挛：肌肉的反复性抽筋而起。③结缔组织：肌肉的结缔组织受伤（如肌腱）而起。事实上，肌肉的慢性酸痛是肌肉的损伤分裂所形成。,四肢,经络不通,Synonymous terms,"v1,v2",0
+426,肌肉疼痛,Ji Rou Teng Tong,,四肢,经络不通,Synonymous terms,"v1,v2",0
+427,肌肉萎缩,Ji Rou Wei Suo,肌肉萎缩（myatrophy；myophagism）是指横纹肌营养障碍，肌肉纤维变细甚至消失等导致的肌肉体积缩小。多由肌肉本身疾患或神经系统功能障碍所致，病因主要有：神经源性肌萎缩、肌源性肌萎缩、废用性肌萎缩和其他原因性肌萎缩。肌肉营养状况除肌肉组织本身的病理变化外，更与神经系统有密切关系。脊髓疾病常导致肌肉营养不良而发生肌肉萎缩。肌萎缩患者由于肌肉萎缩、肌无力而长期卧床，易并发肺炎、压疮等，加之大多数患者出现延髓麻痹症状，给患者生命构成极大的威胁,四肢,气虚,Synonymous terms,"v1,v2",0
+428,肌痩,Ji Shou,,四肢,气虚,Synonymous terms,"v1,v2",0
+429,肌痿无力,Ji Wei Wu Li,,四肢,气虚,Ontological terms,"v1,v2",0
+430,积聚痞块,Ji Ju Pi Kuai,,四肢,痰瘀,Synonymous terms,"v1,v2",0
+431,积滞,Ji Zhi,积滞，中医病名。积滞是因小儿喂养不当，内伤乳食，停积胃肠，脾运失司所引起的一种小儿常见的脾胃病证。临床以不思乳食，腹胀嗳腐，大便酸臭或便秘为特征。食积又称积滞。与西医学消化不良相近。本病一年四季皆可发生，夏秋季节，暑湿易于困遏脾气，发病率较高。小儿各年龄组皆可发病，但以婴幼儿多见。常在感冒、泄泻、疳证中合并出现。,脾,气滞,Ontological terms,"v1,v2",0
+432,积滞不消,Ji Zhi Bu Xiao,,脾胃,气滞,,v1,1
+433,积滞内停,Ji Zhi Nei Ting,,脾胃,气滞,,v1,1
+434,积滞胀满,Ji Zhi Zhang Man,,脾胃,气滞,,v1,1
+435,急喉痹,Ji Hou Bi,急喉痹，病名。指多种原因所致的急性阻塞性喉病。症见咽喉肿痛迅速，胸闷气促、吞咽不利，痰涎壅盛、声如拽锯,,热毒,Synonymous terms,"v1,v2",0
+436,急性起并半身不遂,Ji Xing Qi Bing Ban Shen Bu Sui,,,火热,Synonymous terms,"v1,v2",0
+437,急躁易怒,Ji Zao Yi Nu,,,火热,Synonymous terms,"v1,v2",0
+438,记忆减退,Ji Yi Jian Tui,记忆减退是一种记忆障碍， 临床上较多见，可以表现为远记忆力和近记忆力的减退。主要见于脑器质性精神障碍。脑器质性损害患者最早出现的是近记忆力的减退，患者记不住最近几天，甚至当天的进食情况，或记不住近几天谁曾前来看望等等。病情严重后远记忆力也减退，例如，回忆不起本人经历等。,心,肾虚,Synonymous terms,"v1,v2",0
+439,记忆力减退,Ji Yi Li Jian Tui,记忆力减退是记忆包括识记、保持、再认或回忆三个基本过程，可分 为瞬时记忆（半分钟内）、近记忆（数天内）、远记忆（数月至数年）。记忆的三个基 本过程普遍减退称为记忆力减退，临床多见，是精神障碍的常见表现。,心,肾虚,Synonymous terms,"v1,v2",0
+440,甲状腺肿大,Jia Zhuang Xian Zhong Da,单纯性甲状腺肿是甲状腺功能正常的甲状腺肿，是以缺碘、致甲状腺肿物质或相关酶缺陷等原因所致的代偿性甲状腺肿大，不伴有明显的甲状腺功能亢进或减退，故又称非毒性甲状腺肿，其特点是散发于非地方性甲状腺肿流行区，且不伴有肿瘤和炎症，病程初期甲状腺多为弥漫性肿大，以后可发展为多结节性肿大。,,气郁,Ontological terms,"v1,v2",0
+441,肩背酸痛,Jian Bei Suan Tong,,四肢,经络不通,Ontological terms,"v1,v2",0
+442,肩臂疼痛,Jian Bi Teng Tong,,四肢,经络不通,Ontological terms,"v1,v2",0
+443,肩部疼痛重着,Jian Bu Teng Tong Zhong Zhao,,四肢,风湿,Synonymous terms,"v1,v2",0
+444,肩颈疼痛,Jian Jing Teng Tong,,四肢,经络不通,Synonymous terms,"v1,v2",0
+445,肩疼痛,Jian Teng Tong,,四肢,经络不通,Ontological terms,"v1,v2",0
+446,睑弦赤烂,Jian Xian Chi Lan,睑弦赤烂，中医病名。指睑弦部潮红溃烂，或眦部睑弦潮红糜烂，俗称烂眼边或烂弦风。临床以睑弦潮红、溃烂刺痒为特征，且容易复发。本病包括西医学之鳞屑性、溃疡性、眦角性睑缘炎。,肝,火热,Ontological terms,"v1,v2",0
+447,健忘,Jian Wang,,心脑,肾虚,Ontological terms,"v1,v2",0
+448,舰血,Jian Xie,,大肠,,,v1,1
+449,僵硬,Jiang Ying,指不灵活；肢体不能活动自如,,经络不通,Synonymous terms,"v1,v2",0
+450,僵硬畸形,Jiang Ying Ji Xing,,,痰瘀,Synonymous terms,"v1,v2",0
+451,焦虑,Jiao Lv,焦虑是人类在与环境作斗争及生存适应的过程中发展起来的基本人类情绪，焦虑并不意味着都是有临床意义的病理情绪，在应激面前适度的焦虑具有积极的意义，它可以充分地调动身体各脏器的机能，适度提高大脑的反应速度和警觉性。只有具备某些病理性特征同时对正常的社会功能造成影响时，才称为病理性焦虑。,心,气郁,Ontological terms,"v1,v2",0
+452,脚气,Jiao Qi,足癣（俗名“香港脚”、脚气），系真菌感染引起，其皮肤损害往往是先单侧（即单脚）发生，数周或数月后才感染到对侧。水疱主要出现在趾腹和趾侧，最常见于三四趾间，足底亦可出现，为深在性小水疱，可逐渐融合成大疱。足癣的皮肤损害有一特点，即边界清楚，可逐渐向外扩展。因病情发展或搔抓，可出现糜烂、渗液，甚或细菌感染，出现脓疱等。,肾,湿热,Ontological terms,"v1,v2",0
+453,脚气浮肿,Jiao Qi Fu Zhong,,肾,湿热,Ontological terms,"v1,v2",0
+454,脚重,Jiao Zhong,,肾,湿热,Synonymous terms,"v1,v2",0
+455,疖肿,Jie Zhong,疖肿是人体皮肤单个毛囊或皮脂腺因细菌感染引起的急性化脓性感染，感染后形成较大块的红色肿物。多发及反复发作的，称之为疖病。,皮肤,湿热,Ontological terms,"v1,v2",0
+456,结节,Jie Jie,指生物体表面或内部组织中圆形的小突起。耻骨、坐骨、丘脑、颏部等都有结节,皮肤,痰湿,Synonymous terms,"v1,v2",0
+457,疥癣,Jie Xian,疥”、“癣”都是皮肤表面的疾病，人们常用来比喻有关痛痒，但无碍生命的小问题。 “疥” 是象形字，描述钻入人体的寄生虫尖头甩尾的样子，现代医学称之为疥虫。疥虫的腭体很小，位于躯干的前端，一半陷入躯干中，螯肢呈钳形，适宜于食用皮肤的角质蛋白。疥虫的躯干的后半部有几对杆状的刚毛和长鬃。疥虫往往是夜行昼伏，导致晚上病人皮肤往往瘙痒剧烈。疥虫一般侵袭毛发浓密处，比如阴毛、腋毛、头发等处，出现红疹，导致瘙痒。由于人抓挠极易一起皮肤破溃感染，愈合后造成脱发、局部形成疮疤，俗称疥癞或疥癞头。,皮肤,血热,Ontological terms,"v1,v2",0
+458,疥癣瘙痒,Jie Xian Sao Yang,,皮肤,血热,Ontological terms,"v1,v2",0
+459,津伤,Jin Shang,,,热盛,,v1,1
+460,筋骨酸痛,Jin Gu Suan Tong,全身肌肉关节受风、寒、暑、湿、燥、火“六淫”侵袭、或外伤、慢性劳损，透皮入骨致病而形成“六毒”，就是我们平常所说的“骨毒”。“骨毒”长期存在于骨与骨膜之上形成“宿毒”。宿毒使得骨及关节周围软织反复充血、水肿、粘连、挛缩，从而导致局部血液循环障碍，产生大量酸性物质刺激血管，损害肌肉组织，表现为肌肉筋骨关节酸痛，麻木、肿胀，甚至红肿变形，重者会造成关节骨质的破坏，关节变形，生活不能自理,四肢,经络不通,Ontological terms,"v1,v2",0
+461,筋骨疼痛,Jin Gu Teng Tong,,四肢,经络不通,Ontological terms,"v1,v2",0
+462,筋骨痿软,Jin Gu Wei Ruan,,四肢,肾虚,Ontological terms,"v1,v2",0
+463,筋骨无力,Jin Gu Wu Li,,四肢,肾虚,Ontological terms,"v1,v2",0
+464,筋骨瘀痛,Jin Gu Yu Tong,,四肢,血瘀,Synonymous terms,"v1,v2",0
+465,筋脉拘急,Jin Mai Ju Ji,指肢体筋脉抽瘛，屈伸不利的症候,四肢,经络不通,Synonymous terms,"v1,v2",0
+466,筋脉拘挛,Jin Mai Ju Luan,,四肢,经络不通,Ontological terms,"v1,v2",0
+467,筋扭伤,Jin Niu Shang,,四肢,血瘀,Synonymous terms,"v1,v2",0
+468,筋伤,Jin Shang,各种暴力或慢性劳损等原因所造成筋的损伤,四肢,血瘀,Ontological terms,"v1,v2",0
+469,噤口痢,Jin Kou Li,噤口痢是属于痢疾之一。见《丹溪心法·痢》。亦称禁口痢。指患痢疾而见饮食不进，食入即吐，或呕不能食者。常见于疫痢、湿热痢重症。多因湿浊热毒蕴结肠中，邪毒亢盛，胃阴受劫，升降失常；或因久病脾胃两伤，中气败损所致。症见不思饮食，呕恶不纳，下痢频繁，肌肉瘦削，胸脘痞闷，舌绛，苔黄腻等。治疗可选用清热、解毒、辟秽、降逆、和阴、益气等法。,大肠,湿热,Ontological terms,"v1,v2",0
+470,经闭,Jing Bi,指妇女月经不能正常来潮,子宫,瘀血,Ontological terms,"v1,v2",0
+471,经初行不畅,Jing Chu Xing Bu Chang,,子宫,瘀血,Synonymous terms,"v1,v2",0
+472,经寒不调,Jing Han Bu Diao,,子宫,阳虚,Ontological terms,"v1,v2",0
+473,经行腹痛,Jing Xing Fu Tong,指行经期间出现下腹部及腰部疼痛，经净后即缓解痛止,子宫,血瘀,Ontological terms,"v1,v2",0
+474,经行量少,Jing Xing Liang Shao,,子宫,血瘀,Ontological terms,"v1,v2",0
+475,经行痛减,Jing Xing Tong Jian,,子宫,血瘀,Synonymous terms,"v1,v2",0
+476,经行小腹冷痛,Jing Xing Xiao Fu Leng Tong,,子宫,阳虚,Synonymous terms,"v1,v2",0
+477,经行小腹疼痛,Jing Xing Xiao Fu Teng Tong,,子宫,血瘀,Synonymous terms,"v1,v2",0
+478,经行小腹喜热,Jing Xing Xiao Fu Xi Re,,子宫,阳虚,Synonymous terms,"v1,v2",0
+479,经行小腹胀痛,Jing Xing Xiao Fu Zhang Tong,,子宫,气郁,Synonymous terms,"v1,v2",0
+480,经量少有血块,Jing Liang Shao You Xie Kuai,,子宫,血瘀,Synonymous terms,"v1,v2",0
+481,经期腹痛,Jing Qi Fu Tong,,子宫,血瘀,Synonymous terms,"v1,v2",0
+482,经期延长,Jing Qi Yan Chang,经期延长，中医病名。是指月经周期基本正常，行经时间超过7天以上，甚或淋漓半月方净者，称为月经延长。本病相当于西医学排卵型功能失调性子宫出血病的黄体萎缩不全者、盆腔炎症、子宫内膜炎等引起的经期延长。宫内节育器和输卵管结扎后引起的经期延长也按本病治疗。本病一般预后良好。,子宫,气虚,Ontological terms,"v1,v2",0
+483,经前腹痛加剧,Jing Qian Fu Tong Jia Ju,,子宫,血瘀,Synonymous terms,"v1,v2",0
+484,经前乳房胀痛,Jing Qian Ru Fang Zhang Tong,,子宫,任脉不通,Ontological terms,"v1,v2",0
+485,经前乳胀,Jing Qian Ru Zhang,,子宫,任脉不通,Synonymous terms,"v1,v2",0
+486,经前双乳胀痛,Jing Qian Shuang Ru Zhang Tong,,子宫,任脉不通,Ontological terms,"v1,v2",0
+487,经前疼痛加重,Jing Qian Teng Tong Jia Zhong,,子宫,血瘀,Synonymous terms,"v1,v2",0
+488,经前头痛,Jing Qian Tou Tong,,子宫,血瘀,Synonymous terms,"v1,v2",0
+489,经前性情急躁,Jing Qian Xing Qing Ji Zao,,子宫,气郁,,v1,1
+490,经前胸闷,Jing Qian Xiong Men,,子宫,气郁,Synonymous terms,"v1,v2",0
+491,经少色淡,Jing Shao Se Dan,,子宫,血虚,Synonymous terms,"v1,v2",0
+492,经水淋漓不净,Jing Shui Lin Li Bu Jing,,子宫,阳虚,Synonymous terms,"v1,v2",0
+493,经血紫暗,Jing Xie Zi An,,子宫,血瘀,Synonymous terms,"v1,v2",0
+494,惊风,Liang Feng,惊风，中医病名。是小儿时期常见的一种急重病证，以临床出现抽搐、昏迷为主要特征。又称“惊厥”，俗名“抽风”。任何季节均可发生，一般以1—5岁的小儿为多见，年龄越小，发病率越高。其证情往往比较凶险，变化迅速，威胁小儿生命。所以，古代医家认为惊风是一种恶候。如《东医宝鉴.小儿》说：“小儿疾之最危者，无越惊风之证”。《幼科释谜.惊风》也说：“小儿之病，最重惟惊”。本病西医学称小儿惊厥。,心脑,肝风,Ontological terms,"v1,v2",0
+495,惊风抽搐,Liang Feng Chou Chu,,心脑,肝风,Ontological terms,"v1,v2",0
+496,惊悸,Liang Ji,惊悸是一个汉语词汇，读音为jīng jì，是指无故自惊而悸动不宁之证；因惊而悸之证；突然心跳欲厥之证。《诸病源候论·虚劳病诸候》均有相关记载。,心脑,心气虚,Ontological terms,"v1,v2",0
+497,惊悸不安,Liang Ji Bu An,惊慌心跳，不能安宁,心脑,心气虚,Ontological terms,"v1,v2",0
+498,惊悸不宁,Liang Ji Bu Ning,,心脑,心气虚,Ontological terms,"v1,v2",0
+499,惊悸多梦,Liang Ji Duo Meng,,心脑,心气虚,Ontological terms,"v1,v2",0
+500,惊厥,Liang Jue,惊厥（convulsion）俗称抽筋、抽风、惊风，也称抽搐。表现为阵发性四肢和面部肌肉抽动，多伴有两侧眼球上翻、凝视或斜视，神志不清。有时伴有口吐白沫或嘴角牵动，呼吸暂停，面色青紫，发作时间多在3～5分钟之内，有时反复发作，甚至呈持续状态。是小儿常见的急症，尤以婴幼儿多见。6岁以下儿童期惊厥的发生率约为4%～6%，较成人高10～15倍，年龄愈小发生率愈高。惊厥的频繁发作或持续状态可危及患儿生命或可使患儿遗留严重的后遗症，影响小儿的智力发育和健康。,心脑,心气虚,Ontological terms,"v1,v2",0
+501,惊恐,Liang Kong,惊慌害怕，恐惧,心脑,阳虚,Synonymous terms,"v1,v2",0
+502,惊痫,Liang Xian,因受惊而得的痫病。 唐宋医书所载的癫痫，即指小儿惊风,心脑,痰瘀,Ontological terms,"v1,v2",0
+503,惊痫不安,Liang Xian Bu An,,心脑,痰瘀,Synonymous terms,"v1,v2",0
+504,精亏,Jing Yu,,肾,肾虚,,v1,1
+505,精冷,Jing Leng,男子因真阳不足而引起精气清冷，无生育能力者,肾,肾虚,,v1,1
+506,精气不足,Jing Qi Bu Zu,,肾,肾虚,Synonymous terms,"v1,v2",0
+507,精神不振,Jing Shen Bu Zhen,,心,气虚,Synonymous terms,"v1,v2",0
+508,精神恍惚,Jing Shen Huang Hu,形容精神不集中,心,气虚,Ontological terms,"v1,v2",0
+509,精神萎靡,Jing Shen Wei Mi,精神萎靡（listlessness）是一种精神异常现象。是抑郁症的一大症状，主要表现为情绪低落，兴趣减低，悲观，思维迟缓，缺乏主动性，自责自罪，饮食、睡眠差，担心自己患有各种疾病，感到全身多处不适。疾病过程中也可有精神萎靡，表现为胃口变差、食欲减退或增加、体重明显减轻或增加、失眠或嗜睡，心情沮丧、易流泪、悲伤、激动易怒、害怕与恐惧、寂寞、无聊、感情淡薄等。精神萎靡需治疗需找出病因，针对原发病治疗。,心,气虚,Synonymous terms,"v1,v2",0
+510,精神忧郁,Jing Shen You Yu,,心,气郁,Synonymous terms,"v1,v2",0
+511,精溢,Jing Yi,,肾,肾虚,Synonymous terms,"v1,v2",0
+512,颈肩部僵硬,Jing Jian Bu Jiang Ying,,四肢,经络不通,Synonymous terms,"v1,v2",0
+513,颈项活动不利,Jing Xiang Huo Dong Bu Li,,四肢,经络不通,Synonymous terms,"v1,v2",0
+514,颈项僵硬,Jing Xiang Jiang Ying,,四肢,经络不通,Synonymous terms,"v1,v2",0
+515,颈项僵直,Jing Xiang Jiang Zhi,,四肢,经络不通,Synonymous terms,"v1,v2",0
+516,颈项紧张不舒,Jing Xiang Jin Zhang Bu Shu,,四肢,经络不通,Synonymous terms,"v1,v2",0
+517,颈项疼痛,Jing Xiang Teng Tong,,四肢,经络不通,Synonymous terms,"v1,v2",0
+518,颈椎病型头痛,Jing Zhui Bing Xing Tou Tong,,四肢,血瘀,Synonymous terms,"v1,v2",0
+519,颈椎骨质增生,Jing Zhui Gu Zhi Zeng Sheng,"颈椎病又称颈椎综合征，是颈椎骨关节炎、增生性颈椎炎、颈神经根综合征、颈椎间盘脱出症的总称,是一种以退行性病理改变为基础的疾患。主要由于颈椎长期劳损、骨质增生，或椎间盘脱出、韧带增厚，致使颈椎脊髓、神经根或椎动脉受压，出现一系列功能障碍的临床综合征。表现为椎节失稳、松动；髓核突出或脱出；骨刺形成；韧带肥厚和继发的椎管狭窄等，刺激或压迫了邻近的神经根、脊髓、椎动脉及颈部交感神经等组织，引起一系列症状和体征",四肢,肾虚,Synonymous terms,"v1,v2",0
+520,胫膝酸软,Jing Xi Suan Ruan,,四肢,肾虚,Synonymous terms,"v1,v2",0
+521,痉厥,Jing Jue,是指肢体抽搐，神志不清的表现,心,,Ontological terms,"v1,v2",0
+522,痉挛,Jing Luan,指肌肉突然做不随意挛缩，俗称抽筋，会令患者突感剧痛，肌肉动作不协调,心,经络不通,Ontological terms,"v1,v2",0
+523,久病体弱,Jiu Bing Ti Ruo,,,气虚,Synonymous terms,"v1,v2",0
+524,久咳,Jiu Ke,以咳嗽经久不愈为主要表现的疾病,,气虚,Ontological terms,"v1,v2",0
+525,久咳不止,Jiu Ke Bu Zhi,,肺,气虚,Synonymous terms,"v1,v2",0
+526,久痢,Jiu Li,指日久不愈或反复发作的痢疾,大肠,脾气虚,Ontological terms,"v1,v2",0
+527,久痢不止,Jiu Li Bu Zhi,,大肠,脾气虚,Ontological terms,"v1,v2",0
+528,久疟体虚,Jiu Nve Ti Xu,,大肠,气虚,Ontological terms,"v1,v2",0
+529,久嗽,Jiu Sou,,肺,气虚,Ontological terms,"v1,v2",0
+530,久嗽不止,Jiu Sou Bu Zhi,,肺,气虚,Ontological terms,"v1,v2",0
+531,久泻,Jiu Xie,反复发作、久泻不愈的泄泻,大肠,气虚,Ontological terms,"v1,v2",0
+532,久泻不止,Jiu Xie Bu Zhi,,大肠,气虚,Ontological terms,"v1,v2",0
+533,久泻久痢,Jiu Xie Jiu Li,,大肠,气虚,Ontological terms,"v1,v2",0
+534,久泻脱肛,Jiu Xie Tuo Gang,,大肠,气虚,Ontological terms,"v1,v2",0
+535,拘挛麻木,Ju Luan Ma Mu,,四肢,经络不通,Ontological terms,"v1,v2",0
+536,局部恶寒,Ju Bu E Han,,皮肤,阳虚,Synonymous terms,"v1,v2",0
+537,局部红肿,Ju Bu Hong Zhong,,皮肤,火热,Synonymous terms,"v1,v2",0
+538,局部畏恶风寒,Ju Bu Wei E Feng Han,,皮肤,气郁,Synonymous terms,"v1,v2",0
+539,局部畏风寒,Ju Bu Wei Feng Han,,皮肤,气郁,Synonymous terms,"v1,v2",0
+540,局部畏寒,Ju Bu Wei Han,,皮肤,阳虚,Synonymous terms,"v1,v2",0
+541,局部肿痛,Ju Bu Zhong Tong,,皮肤,火热,Synonymous terms,"v1,v2",0
+542,倦怠,Juan Dai,疲乏，懈怠,心,气虚,Ontological terms,"v1,v2",0
+543,倦怠乏力,Juan Dai Fa Li,,心,气虚,Ontological terms,"v1,v2",0
+544,厥阴头痛,Jue Yin Tou Tong,厥阴头痛，中医病症名。出《伤寒论•辨厥阴病脉证并治》。三阴头痛之一。《兰室秘藏•头痛门》：“厥阴头项痛，或吐痰沫，厥冷，其脉浮缓，吴茱萸汤主之。”又：厥阴脉会于巅顶，巅顶部头痛，亦为厥阴头痛之证候特色（见陆定圃《冷庐医话•头痛》）。以巅顶、颜面疼痛多见，或全头痛，或头痛部位不定。《灵枢•经脉》曰：“肝足厥明之脉，起于大指丛毛之际，……上贯膈，布胁助，循喉咙之后，上入颃颡，连目系，上出额，与督脉会于巅；其支者，从目系下颊里，环唇内……”。《丹溪心法十二经见证》足厥阴肝经见证有“头痛”,心,风火,Ontological terms,"v1,v2",0
+545,咳喘,Ke Chuan,咳喘是肺病的主要症状。咳喘的病因有外感内伤之别，病机有寒热虚实之分。咳喘与痰密切相关，咳喘每多夹痰，痰也往往导致咳喘,肺,气逆,Ontological terms,"v1,v2",0
+546,咳喘痛甚,Ke Chuan Tong Shen,,肺,气逆,Synonymous terms,"v1,v2",0
+547,咳呛阵作,Ke Qiang Zhen Zuo,,肺,气逆,Synonymous terms,"v1,v2",0
+548,咳甚而喘,Ke Shen Er Chuan,,肺,气逆,Synonymous terms,"v1,v2",0
+549,咳嗽,Ke Sou,咳嗽（cough）是一种呼吸道常见症状，由于气管、支气管黏膜或胸膜受炎症、异物、物理或化学性刺激引起，表现先是声门关闭、呼吸肌收缩、肺内压升高，然后声门张开，肺内空气喷射而出，通常伴随声音。咳嗽具有清除呼吸道异物和分泌物的保护性作用。但如果咳嗽不停，由急性转为慢性，常给患者带来很大的痛苦，如胸闷、咽痒、喘气等。咳嗽可伴随咳痰,肺,气逆,Ontological terms,"v1,v2",0
+550,咳嗽频作,Ke Sou Pin Zuo,,肺,伏痰,Synonymous terms,"v1,v2",0
+551,咳嗽日久,Ke Sou Ri Jiu,,肺,气虚,Synonymous terms,"v1,v2",0
+552,咳嗽痰多,Ke Sou Tan Duo,是呼吸道疾病的常见症状。痰是呼吸道分泌出的黏液，通过咳嗽把痰排出，可保持呼吸道自洁和通畅；若不排出，不仅疾病难愈，而且容易堵住呼吸道，造成呼吸不畅，严重者引起呼吸困难，危及生命,肺,痰湿,Ontological terms,"v1,v2",0
+553,咳嗽痰盛,Ke Sou Tan Sheng,,肺,痰湿,Synonymous terms,"v1,v2",0
+554,咳嗽有痰,Ke Sou You Tan,,肺,痰饮,Synonymous terms,"v1,v2",0
+555,咳嗽阵作,Ke Sou Zhen Zuo,,肺,风痰,Synonymous terms,"v1,v2",0
+556,咳痰不爽,Ke Tan Bu Shuang,,肺,燥痰,Ontological terms,"v1,v2",0
+557,咳痰不已,Ke Tan Bu Yi,,肺,风痰,Synonymous terms,"v1,v2",0
+558,咳痰带血,Ke Tan Dai Xie,,肺,痰火,Ontological terms,"v1,v2",0
+559,咳痰色白,Ke Tan Se Bai,,肺,脾虚湿盛,Synonymous terms,"v1,v2",0
+560,咳吐不爽,Ke Tu Bu Shuang,,肺,燥痰,Synonymous terms,"v1,v2",0
+561,咳血,Ke Xie,咯血是指喉部以下的呼吸器官（即气管、支气管或肺组织）出血，并经咳嗽动作从口腔排出的过程。咯血不仅可由呼吸系统疾病引起，也可由循环系统疾病、外伤以及其他系统疾病或全身性因素引起。应与口腔、咽、鼻出血以及呕血相鉴别,肺,血瘀,Ontological terms,"v1,v2",0
+562,渴,Ke,,肾,火热,Synonymous terms,"v1,v2",0
+563,渴不思饮,Ke Bu Si Yin,,肾,痰饮,Synonymous terms,"v1,v2",0
+564,渴不欲饮,Ke Bu Yu Yin,口虽渴但不想饮水或饮水后不适,肾,痰饮,Synonymous terms,"v1,v2",0
+565,口鼻生疮,Kou Bi Sheng Chuang,人上火之后临床症状表现为：目赤肿痛，口鼻生疮，咽喉肿痛，急性胃肠炎，痢疾等，容易在体内积累毒素，服用抗菌药后症状减轻，但副作用较大，且易复发,肝脾,湿热,Synonymous terms,"v1,v2",0
+566,口臭,Kou Chou,口气是指从口腔或其他充满空气的空腔中如鼻、鼻窦、咽，所散发出的臭气，它严重影响人们的社会交往和心理健康，WHO已将口臭作为一种疾病来进行报道。调查显示，中国口臭患病率为27.5%。而在西方国家，则为50%。全球约有10%~65%的人曾患有口臭,肝脾,胃火,Ontological terms,"v1,v2",0
+567,口疮,Kou Chuang,是口腔黏膜疾病中发病率最高的一种疾病，普通感冒、消化不良、精神紧张、郁闷不乐等情况均能偶然引起该病的发生，好发于唇、颊、舌缘等，在黏膜的任何部位均能出现，但在角化完全的附着龈和硬腭则少见。发病年龄一般在10～30岁之间，女性较多，一年四季均能发生。复发性阿弗他溃疡有自限性，能在10天左右自愈。该病具有周期性、复发性及自限性等特点,肝脾,胃火,Ontological terms,"v1,v2",0
+568,口疮肿痛,Kou Chuang Zhong Tong,,肝脾,胃火,Synonymous terms,"v1,v2",0
+569,口唇青紫,Kou Chun Qing Zi,指口唇失其红润光泽，而呈现青紫、淡紫或黯紫,肝脾,肝风,Synonymous terms,"v1,v2",0
+570,口唇紫绀,Kou Chun Zi Gan,,肝脾,瘀血,Synonymous terms,"v1,v2",0
+571,口淡乏味,Kou Dan Fa Wei,,肝脾,脾虚,Synonymous terms,"v1,v2",0
+572,口多唾涎,Kou Duo Tuo Xian,,肝脾,脾虚,Ontological terms,"v1,v2",0
+573,口干,Kou Gan,,肝脾,津亏,Ontological terms,"v1,v2",0
+574,口角流诞,Kou Jiao Liu Dan,,肝脾,脾虚,Synonymous terms,"v1,v2",0
+575,口角流涎,Kou Jiao Liu Xian,,肝脾,脾虚,Synonymous terms,"v1,v2",0
+576,口噤,Kou Jin,指牙关紧闭，口不能开的症状,肝脾,肝风,Ontological terms,"v1,v2",0
+577,口渴,Kou Ke,,肝脾,火热,Ontological terms,"v1,v2",0
+578,口渴不欲饮,Kou Ke Bu Yu Yin,口虽渴但不想饮水或饮水后胃中不适，多为饮停于胃证,肝脾,痰饮,Synonymous terms,"v1,v2",0
+579,口渴喜饮,Kou Ke Xi Yin,,肝脾,火热,Synonymous terms,"v1,v2",0
+580,口苦,Kou Ku,,肝脾,胆热,Ontological terms,"v1,v2",0
+581,口糜烂,Kou Mi Lan,,肝脾,脾热,Synonymous terms,"v1,v2",0
+582,口黏,Kou Nian,,肝脾,湿热,Synonymous terms,"v1,v2",0
+583,口腔溃疡,Kou Qiang Kui Yang,口腔溃疡俗称“口疮”，是一种常见的发生于口腔黏膜的溃疡性损伤病症，多见于唇内侧、舌头、舌腹、颊黏膜、前庭沟、软腭等部位，这些部位的黏膜缺乏角质化层或角化较差。舌头溃疡指发生于舌头、舌腹部位的口腔溃疡。口腔溃疡发作时疼痛剧烈，局部灼痛明显，严重者还会影响饮食、说话，对日常生活造成极大不便；可并发口臭、慢性咽炎、便秘、头痛、头晕、恶心、乏力、烦躁、发热、淋巴结肿大等全身症状,肝脾,湿热,Synonymous terms,"v1,v2",0
+584,口腔溃疡久不收敛,Kou Qiang Kui Yang Jiu Bu Shou Lian,,肝脾,气虚,Synonymous terms,"v1,v2",0
+585,口腔炎症,Kou Qiang Yan Zheng,口腔炎症是指口颊，舌边，上腭，齿龈等处发生溃疡，周围红肿作痛，溃面有糜烂的现象。中医认为由脾胃积热，心火上炎，虚火上浮而致,肝脾,湿热,Synonymous terms,"v1,v2",0
+586,口舌干燥,Kou She Gan Zao,,肝脾,燥热,Synonymous terms,"v1,v2",0
+587,口舌生疮,Kou She Sheng Chuang,口舌生疮或溃烂、出现局部疼痛的口腔病。部分患者常反复发作，甚至溃疡久不愈合。多由心脾积热，外感热邪，或脾胃湿热，阴虚阳亢所致。古代文献中，又称此病为口破、口疳、口疡，发生在舌的称舌疡。可见于现代医学的口腔溃疡。疮疡皆属于火，但有实火与虚火的区别，如因烟酒不节，或多食肥甘厚味，留滞生热，或外感风热、湿热之邪，入里化火，或情志郁结，久而化火，多属实火；素体阴虚，热病伤阴，或睡眠不足，长期疲劳而致人身体衰弱,肝脾,火热,Ontological terms,"v1,v2",0
+588,口舌歪斜,Kou She Wai Xie,,肝脾,风痰,Synonymous terms,"v1,v2",0
+589,口舌肿痛,Kou She Zhong Tong,,肝脾,火热,,v1,1
+590,口生疮,Kou Sheng Chuang,,肝脾,火热,Ontological terms,"v1,v2",0
+591,口吐涎沫,Kou Tu Xian Mo,,肝脾,胃寒,Synonymous terms,"v1,v2",0
+592,口喎,Kou Wai,,肝脾,经络不通,Synonymous terms,"v1,v2",0
+593,口眼涡斜,Kou Yan Wo Xie,,肝脾,经络不通,Synonymous terms,"v1,v2",0
+594,口喁,Kou Yong,,肝脾,经络不通,Synonymous terms,"v1,v2",0
+595,口燥,Kou Zao,,肝脾,火热,Ontological terms,"v1,v2",0
+596,口中甜腻,Kou Zhong Tian Ni,,肝脾,湿热,Ontological terms,"v1,v2",0
+597,狂躁,Kuang Zao,是以情感的病理性高涨为特征的一种精神疾病，常常表现为自我评价过高，高傲自大，目空一切，自命不凡，盛气凌人，不可一世,心,火热,Synonymous terms,"v1,v2",0
+598,溃疡不敛,Kui Yang Bu Lian,,脾,气虚,Ontological terms,"v1,v2",0
+599,剌痛,La Tong,,,血瘀,Ontological terms,"v1,v2",0
+600,懒言,Lan Yan,,心,气虚,Synonymous terms,"v1,v2",0
+601,劳伤,Lao Shang,指因过度劳累而引起的内伤。包括劳力过度、劳神过度和房劳过度三个方面,,气虚,,v1,1
+602,劳嗽,Lao Sou,久嗽成劳或劳极伤肺所致的咳嗽,肺,气虚,Ontological terms,"v1,v2",0
+603,劳嗽咯血,Lao Sou Ge Xie,,肺,气虚,Ontological terms,"v1,v2",0
+604,痨嗽,Lao Sou,痨病而咳嗽,肺,气虚,Ontological terms,"v1,v2",0
+605,老年轻度认知障碍,Lao Nian Qing Du Ren Zhi Zhang Ai,,脑,肾虚,Synonymous terms,"v1,v2",0
+606,老年腰膝酸软,Lao Nian Yao Xi Suan Ruan,,四肢,肾虚,Synonymous terms,"v1,v2",0
+607,羸瘦,Lei Shou,瘦弱,脾胃,气虚,Ontological terms,"v1,v2",0
+608,肋间神经痛,Lei Jian Shen Jing Tong,肋间神经痛是患者的主观症状。肋间神经由胸脊髓向两侧发出经肋间到胸前壁，支配相应胸椎旁背部和胸壁的肌肉的分支及沿肋间走行的感觉分支。因此肋间神经痛是从胸背部沿肋间向斜向前下至胸腹前壁中线带状区疼痛,,经络不通,Synonymous terms,"v1,v2",0
+609,冷喘,Leng Chuan,,肺,肺阳虚,,v1,1
+610,冷汗自出,Leng Han Zi Chu,,脾,阳虚,Synonymous terms,"v1,v2",0
+611,冷痛,Leng Tong,是指疼痛有冷感而喜暖。常见于腰脊、脘腹及四肢关节等处。因寒邪阻络所致，则属于实证；阳气不足，脏腑、肢体失于温煦而致者，则属于虚证,肾,阳虚,Ontological terms,"v1,v2",0
+612,冷哮,Leng Xiao,感受寒邪，引动伏痰，痰气相搏，以初起恶寒，发热，头痛，无汗，咳嗽，呼吸紧迫感，喉痒，鼻痒或身痒，鼻流清涕如水样; 继则喘促加剧，喉中痰鸣如水鸡声，咳吐清稀，不得平卧，胸膈满闷如窒，面色苍白或青灰，背冷，口不渴，或渴喜热饮，舌淡，苔白滑，脉浮紧为常见症的哮病证候,肺,肺阳虚,,v1,1
+613,冷泻,Leng Xie,,大肠,脾阳虚,,v1,1
+614,里急后重,Li Ji Hou Zhong,里急后重（tenesmus）为临床常见症状之一，表现为下腹部不适，很想解大便，然而又无法一泄为快。“里急”即形容大便在腹内急迫，窘迫急痛，欲解下为爽；“后重”形容大便至肛门，有重滞欲下不下之感；肛门、直肠及髓尾部坠胀，总有“排便不尽感”,大肠,湿热,Ontological terms,"v1,v2",0
+615,痢疾,Li Ji,是以痢下赤白脓血，腹痛，里急后重为临床特征。主要病因是外感时邪疫毒，内伤饮食不洁。病位在肠，与脾胃有密切关系。病机为湿热、疫毒、寒湿结于肠腑，气血壅滞，脂膜血络受损，化为脓血，大肠传导失司，发为痢疾。暴痢多实证，久痢多虚证。痢疾的治疗，以初痢宜通，久痢宜涩，热痢宜清，寒痢宜温，寒热虚实夹杂者宜通涩兼施、温清并用。对具传染性的细菌性痢疾和阿米巴痢疾，应重在预防，控制传染,大肠,湿热,Ontological terms,"v1,v2",0
+616,臁疮糜烂,Lian Chuang Mi Lan,,皮肤,湿热,Ontological terms,"v1,v2",0
+617,两腮痛,Liang Sai Tong,,,火热,Synonymous terms,"v1,v2",0
+618,两腮肿,Liang Sai Zhong,,,火热,Synonymous terms,"v1,v2",0
+619,两腮肿痛,Liang Sai Zhong Tong,,,火热,Synonymous terms,"v1,v2",0
+620,两胁疼痛,Liang Xie Teng Tong,,,少阳证,Synonymous terms,"v1,v2",0
+621,两胁胀痛,Liang Xie Zhang Tong,,,气郁,Synonymous terms,"v1,v2",0
+622,两眼刺痛,Liang Yan Ci Tong,,,血瘀,Synonymous terms,"v1,v2",0
+623,淋沥疼痛,Lin Li Teng Tong,,,湿热,Synonymous terms,"v1,v2",0
+624,淋证,Lin Zheng,以小便频数、淋沥涩痛、小腹拘急引痛为主症的疾病。根据病因和症状特点不同，可分为热淋、血淋、石淋、气淋、膏淋、劳淋六证。基本病机为湿热蕴结下焦，肾与膀胱气化不利。病理因素为湿热。病位在肾与膀胱。辨证时首辨淋证类别，再审证候虚实，三别标本缓急,,湿热,Ontological terms,"v1,v2",0
+625,淋证涩痛,Lin Zheng Se Tong,,,湿热,Ontological terms,"v1,v2",0
+626,淋症,Lin Zheng,尿频、尿急、排尿障碍或涩痛、淋沥不断的症候统称“淋症”。分为“石淋”，“气淋”，“膏淋”，“劳淋”，“血淋”等五种类型,,湿热,Synonymous terms,"v1,v2",0
+627,淋浊,Lin Zhuo,"淋者小便短数,淋沥不通之谓也,单病此者,自有诸书可考,血家病此,特其兼见者耳,然二便为消息之门户,若一闭塞,则上中焦不得消息,故伤寒论,有言急下者,有言当利其小便者,有言有小便则生,无小便死者,无一不吃紧於此,此水病也,水与血相为倚伏,吾己言之屡屡,单病血,不病水者易愈,以水调,则其血虽病,犹有水以濡之也,若病血,而又累及於水,则上而喘欬,外而肿热,下而淋浊,均不能免,水病则无以濡血,而血证亦因以难愈矣,吾於尿血肿欬诸条,己详言之,可以参看",,湿热,Ontological terms,"v1,v2",0
+628,鳞屑多,Lin Xie Duo,,,热毒,Ontological terms,"v1,v2",0
+629,流产后出血,Liu Chan Hou Chu Xie,,子宫,气虚,Synonymous terms,"v1,v2",0
+630,流产后宫缩不良,Liu Chan Hou Gong Suo Bu Liang,,子宫,气虚,Synonymous terms,"v1,v2",0
+631,流黄稠涕,Liu Huang Chou Ti,,鼻,湿热,Synonymous terms,"v1,v2",0
+632,流黄涕,Liu Huang Ti,,鼻,湿热,Synonymous terms,"v1,v2",0
+633,流黄浊涕,Liu Huang Zhuo Ti,,鼻,湿热‘,Synonymous terms,"v1,v2",0
+634,流泪,Liu Lei,"流泪(lachrymation， dacryorrhea， tearing，epiphora), 眼科症状。主要与3种原因相关。第一种是角膜、虹膜、睫状体等组织病变或烟尘和化学物品等因素刺激所引起的泪液分泌过多。第二种是由于泪道系统阻塞，正常分泌的泪液不能顺利排入鼻腔，以致反流溢出。第三种是由于下睑外翻，泪小点不能紧靠在泪阜上，泪液不能由泪小管进入鼻腔，因而外溢",肝,肝虚,Ontological terms,"v1,v2",0
+635,流脓,Liu Nong,损害破裂而排出脓性黄白色汁液坏死物,,湿热’,Ontological terms,"v1,v2",0
+636,流脓涕,Liu Nong Ti,,,湿热‘,Synonymous terms,"v1,v2",0
+637,流清涕,Liu Qing Ti,,,风寒犯肺,Synonymous terms,"v1,v2",0
+638,流涕,Liu Ti,,鼻,肺气虚,Ontological terms,"v1,v2",0
+639,流涕黏白,Liu Ti Nian Bai,,鼻,痰湿,Synonymous terms,"v1,v2",0
+640,流注,Liu Zhu,流注是以发生在肌肉深部的转移性、多发性脓肿为表现的全身感染性疾病。其特点是漫肿疼痛，皮色正常，好发于四肢、躯干肌肉丰厚之深处，并有此处未愈他处又起。相当于西医的脓血症、肌肉深部脓肿、髂窝部脓肿,鼻,痰湿,Ontological terms,"v1,v2",0
+641,流浊涕,Liu Zhuo Ti,,鼻,痰湿,Synonymous terms,"v1,v2",0
+642,瘰疬,Luo Li,瘰疬又称老鼠疮，生于颈部的一种感染性外科疾病。在颈部皮肉间可扪及大小不等的核块，互相串连，其中小者称瘰，大者称疬，统称瘰疬，俗称疬子颈。多见于青少年及原有结核病者，好发于颈部、耳后，也有的缠绕颈项，延及锁骨上窝、胸部和腋下。相当于现代医学的淋巴结核，多是由于结核杆菌侵入颈部所引起的特异性感染，严重时可溃破流脓。该病早期并无明显症状，病情发展后可有全身症状如疲乏、食欲不振、消瘦、低热等，还有病变器官的局部症状,鼻,痰湿,Ontological terms,"v1,v2",0
+643,瘰疬未溃,Luo Li Wei Kui,,鼻,痰湿,Synonymous terms,"v1,v2",0
+644,落枕,Luo Zhen,落枕或称“失枕”，是一种常见病，好发于青壮年，以冬春季多见。落枕的常见发病经过是入睡前并无任何症状，晨起后却感到项背部明显酸痛，颈部活动受限。这说明病起于睡眠之后，与睡枕及睡眠姿势有密切关系,四肢,经络不通,Synonymous terms,"v1,v2",0
+645,屡经流产,Lv Jing Liu Chan,,子宫,带脉失约,Synonymous terms,"v1,v2",0
+646,麻痹瘙痒,Ma Bi Sao Yang,,皮肤,风,Ontological terms,"v1,v2",0
+647,麻木,Ma Mu,,皮肤,经络不通,Ontological terms,"v1,v2",0
+648,麻木拘挛,Ma Mu Ju Luan,,,经络不通,Ontological terms,"v1,v2",0
+649,麻木瘫痪,Ma Mu Tan Huan,,,经络不通,Ontological terms,"v1,v2",0
+650,麻疹不透,Ma Zhen Bu Tou,,,湿热,Ontological terms,"v1,v2",0
+651,脉沉细,Mai Chen Xi,,,水饮内停,Synonymous terms,"v1,v2",0
+652,脉细,Mai Xi,指脉按之的感觉较正常人为细，甚至如线的脉。脉细表示虚证，多为阴虚或血虚所致,,血虚,Synonymous terms,"v1,v2",0
+653,脉细弱,Mai Xi Ruo,,,气血虚弱,Synonymous terms,"v1,v2",0
+654,脉细涩,Mai Xi Se,,,亡血,Synonymous terms,"v1,v2",0
+655,脉细数,Mai Xi Shu,指病人的脉搏变窄变细而且速率加快，属于阴虚内热的症候，治疗用滋阴清热法,,热盛伤津,Synonymous terms,"v1,v2",0
+656,脉细弦,Mai Xi Xian,,,气郁,Synonymous terms,"v1,v2",0
+657,脉弦细,Mai Xian Xi,比微脉稍大一点，在指下感觉到只象一根丝线那么小，而且是软弱无力的。尽管细小，却始终都可明显地摸着它，不象微脉那样模糊不清按：脉来沉细如丝，软弱无力的，便叫细脉，又叫小脉，主要是气血两虚所致,,气郁,Synonymous terms,"v1,v2",0
+658,慢性腹泻,Man Xing Fu Xie,慢性腹泻是一种常见临床症状，并非一种疾病。是指病程在两个月以上的腹泻或间歇期在2～4周内的复发性腹泻。病因较为复杂，病程迁延。根据病因不同，临床症状多样化，治疗原则各异,大肠,脾虚,Synonymous terms,"v1,v2",0
+659,慢性支气管炎急性发作,Man Xing Zhi Qi Guan Yan Ji Xing Fa Zuo,,肺,伏痰,Synonymous terms,"v1,v2",0
+660,毛发成片脱落,Mao Fa Cheng Pian Tuo Luo,,皮肤,风,Synonymous terms,"v1,v2",0
+661,毛发呈稀疏状脱落,Mao Fa Cheng Xi Shu Zhuang Tuo Luo,,皮肤,血虚,Synonymous terms,"v1,v2",0
+662,毛发干燥,Mao Fa Gan Zao,,皮肤,血虚,Synonymous terms,"v1,v2",0
+663,毛发松动,Mao Fa Song Dong,,皮肤,血虚,Synonymous terms,"v1,v2",0
+664,毛发油腻,Mao Fa You Ni,,皮肤,湿热,,v1,1
+665,眉棱骨痛,Mei Leng Gu Tong,眉棱骨痛，中医病名。是因经气不通致眉棱骨部或兼眼眶深部胀痛的眼病。该病名见于《眼科阐微》。本病可单侧出现，亦可双侧发生。多见于成年人，女性多于男性。本病类似于西医学之眶上神经痛,皮肤,风痰,Ontological terms,"v1,v2",0
+666,梦遗,Meng Yi,是遗精的一种，遗精就是指在没有性交或手淫情况下的射精。在入睡后做梦时遗精为梦遗，不在做梦时遗精称为无梦遗精，清醒状态下遗精则为滑精。中医认为是一种疾病，是中医的病症名,肾,肾虚,Ontological terms,"v1,v2",0
+667,眠差,Mian Cha,,心,心气虚,Synonymous terms,"v1,v2",0
+668,面赤,Mian Chi,,肾,火热,Synonymous terms,"v1,v2",0
+669,面浮肿,Mian Fu Zhong,,肾,湿热,Ontological terms,"v1,v2",0
+670,面红,Mian Hong,面红或皮肤潮红现象是指面部血管暂时性扩张，血液突涌至两颊所产生的脸红现象。既可以是遭遇尴尬或者特殊气氛下产生的一种表情，也可能是疾病的一种表现。目前发生的机制不是完全清楚，可能由于情绪激动，自主神经功能紊乱，内分泌影响，或血管活性物质直接作用于真皮血管所引起的,肾,火热,Synonymous terms,"v1,v2",0
+671,面黄,Mian Huang,,肝,脾虚,Ontological terms,"v1,v2",0
+672,面目悉黄,Mian Mu Xi Huang,,肝,脾虚,Synonymous terms,"v1,v2",0
+673,面目虚涪,Mian Mu Xu Fu,,肝,脾虚,Synonymous terms,"v1,v2",0
+674,面色不华,Mian Se Bu Hua,,肝,气虚,Synonymous terms,"v1,v2",0
+675,面色苍白,Mian Se Cang Bai,面色苍白（pale complexion）是由于脸部毛细血管充盈不足引起，中医认为这是体质差的表现。此外，如大出血、休克引起毛细血管强烈收缩，甲状腺机能减退症、慢性肾炎、铅中毒等也均会引起脸色苍白。面色苍白需查找原发疾病，针对病因及时进行治疗,肝,气虚,Ontological terms,"v1,v2",0
+676,面色淡白,Mian Se Dan Bai,面色泛白而没有血色的表现,肝,气虚,Synonymous terms,"v1,v2",0
+677,面色恍白,Mian Se Huang Bai,,肝,气虚,Synonymous terms,"v1,v2",0
+678,面色晄白,Mian Se Huang Bai,,肝,气虚,Synonymous terms,"v1,v2",0
+679,面色黢黑,Mian Se Qu Hei,,肝,肾虚,,v1,1
+680,面色少华,Mian Se Shao Hua,,肝,气虚,Synonymous terms,"v1,v2",0
+681,面色萎黄,Mian Se Wei Huang,面色萎黄，病状名。指面部呈现枯萎晦黄的病色。多因脾胃虚弱，气血不能上荣所致。常见于慢性消耗性疾患、失血、久痢、胃脘痛、贫血等,肝,脾虚,Ontological terms,"v1,v2",0
+682,面色无华,Mian Se Wu Hua,,肝,气虚,Synonymous terms,"v1,v2",0
+683,面神经麻痹,Mian Shen Jing Ma Bi,面神经炎俗称面神经麻痹（即面神经瘫痪）、“歪嘴巴”、“吊线风”，是以面部表情肌群运动功能障碍为主要特征的一种疾病。它是一种常见病、多发病，不受年龄限制。一般症状是口眼歪斜，患者往往连最基本的抬眉、闭眼、鼓嘴等动作都无法完成,肝,经络不通,Synonymous terms,"v1,v2",0
+684,面肢浮肿,Mian Zhi Fu Zhong,,肝,风水,Synonymous terms,"v1,v2",0
+685,目暗不明,Mu An Bu Ming,,肝,肝血虚,Ontological terms,"v1,v2",0
+686,目暗昏花,Mu An Hun Hua,,肝,血虚,Ontological terms,"v1,v2",0
+687,目暗羞明,Mu An Xiu Ming,,肝,血虚,Ontological terms,"v1,v2",0
+688,目赤,Mu Chi,目赤是指眼结膜充血，俗称火眼，多由于风火、肝火或阴虚火旺所致。常见于中医学的暴风客热、天行赤眼、天行赤眼暴翳、白睛溢血等。古代医家认为目赤有三，一曰风助火郁于上，二曰火盛，三曰燥邪伤肝。戴复庵云：目赤无非血雍肝经所致,肝,火热,Ontological terms,"v1,v2",0
+689,目赤红肿,Mu Chi Hong Zhong,,肝,火热,Ontological terms,"v1,v2",0
+690,目赤昏花,Mu Chi Hun Hua,,肝,火热,Ontological terms,"v1,v2",0
+691,目赤翳障,Mu Chi Yi Zhang,,肝,火热,Ontological terms,"v1,v2",0
+692,目赤肿痛,Mu Chi Zhong Tong,目赤肿痛(swelling and pain of eye)为多种眼部疾患中的一个急性症状。古代文献根据发病原因、症状急重和流行性，又称“风热眼”、“暴风客热”、“天行赤眼”等。 目赤肿痛常见于西医学的急性结膜炎、假性结膜炎以及流行性角膜炎等，认为由细菌或病毒感染，或过敏而导致,肝,火热,Ontological terms,"v1,v2",0
+693,目发黄,Mu Fa Huang,,肝,湿热,Synonymous terms,"v1,v2",0
+694,目花,Mu Hua,,肝,肝虚,Ontological terms,"v1,v2",0
+695,目黄,Mu Huang,,肝,湿热,Synonymous terms,"v1,v2",0
+696,目昏,Mu Hun,视物模糊不清的表现,肝,肝虚,Ontological terms,"v1,v2",0
+697,目昏不明,Mu Hun Bu Ming,,肝,肝虚,Ontological terms,"v1,v2",0
+698,目涩,Mu Se,,肝,肝阴虚,Ontological terms,"v1,v2",0
+699,目生翳膜,Mu Sheng Yi Mo,,肝,湿热,Ontological terms,"v1,v2",0
+700,目生云翳,Mu Sheng Yun Yi,,肝,肝经湿热,Ontological terms,"v1,v2",0
+701,目眩,Mu Xuan,眼前发黑，视物昏花迷乱的症象,肝,肝阳上亢,Ontological terms,"v1,v2",0
+702,目痒,Mu Yang,,肝,肝经风热,Synonymous terms,"v1,v2",0
+703,目淫羞明,Mu Yin Xiu Ming,,肝,肝经失养,Synonymous terms,"v1,v2",0
+704,目胀,Mu Zhang,,肝,肝气郁滞,,v1,1
+705,目珠夜痛,Mu Zhu Ye Tong,,肝,肝阴虚,Ontological terms,"v1,v2",0
+706,纳差,Na Cha,"所谓“纳”指“胃纳”,“纳差”意指食量减少。在中医范畴中归属于脾胃病，由多种原因导致。如伤食引起，常表现为嗳吐酸腐之气；再如湿阻引起，常表现为胃脘胀闷、舌苔白腻；此外消化功能低下也可以引起纳差，中医称为脾胃虚弱，临床除见到纳食减少外，还伴有食后腹胀、面色萎黄、气短懒言、大便稀薄等症状。治疗根据引起纳差的病因病机辨证施治。",心,胃气虚,Ontological terms,"v1,v2",0
+707,纳呆,Na Dai,胃接受和容纳食物的功能称作“胃主受纳”，因邪气扰动，胃气不降；或脾胃功能虚弱，出现消化不良、食欲不振，进食后有饱滞之感的症状，称为“胃纳呆滞”，简称胃呆、纳呆、纳少或食少。作为症状可兼见于多种疾病，临床较为多见，如临床表现突出而其他症状不明显，可作为独立疾病诊断,心,胃气虚,Ontological terms,"v1,v2",0
+708,纳谷不香,Na Gu Bu Xiang,缺乏食欲，饮食无味的表现,胃,胃气虚,Ontological terms,"v1,v2",0
+709,纳少,Na Shao,胃接受和容纳食物的功能称作“胃主受纳”，因邪气扰动，胃气不降；或脾胃功能虚弱，出现消化不良、食欲不振，进食后有饱滞之感的症状，称为“胃纳呆滞”，简称胃呆、纳呆、纳少或食少。作为症状可兼见于多种疾病，临床较为多见，如临床表现突出而其他症状不明显，可作为独立疾病诊断,脾胃,胃气虚,Synonymous terms,"v1,v2",0
+710,纳少嘈杂,Na Shao Cao Za,,脾胃,胃气虚,Synonymous terms,"v1,v2",0
+711,难产,Nan Chan,难产泛指在分娩过程中出现某些情况，如胎儿本身的问题，或母亲骨盆腔狭窄、子宫或阴道结构异常、子宫收缩无力或异常等，造成胎儿分娩困难，需要助产或剖宫产结束分娩的情况。临床上的表现是分娩过程缓慢，甚至停止。胎儿经阴道顺利分娩取决于产力、产道和胎儿三大因素。如果其中一个或一个以上的因素出现异常，即可导致难产,子宫,,Ontological terms,"v1,v2",0
+712,脑部疼痛,Nao Bu Teng Tong,,脑,肝肾亏虚,Synonymous terms,"v1,v2",0
+713,脑功能减退,Nao Gong Neng Jian Tui,,脑,肝肾亏虚,Synonymous terms,"v1,v2",0
+714,脑络瘀阻,Nao Luo Yu Zu,,脑,淤血阻滞,Synonymous terms,"v1,v2",0
+715,内外伤出血,Nei Wai Shang Chu Xie,,,,Ontological terms,"v1,v2",0
+716,内障目暗,Nei Zhang Mu An,,肝,肝血虚,Synonymous terms,"v1,v2",0
+717,内痔出血,Nei Zhi Chu Xie,痔（internal hemorrhoid）所致便血，血在粪便表面，时有滴沥，或喷射而出；而肠道炎症，则粪便、分泌物、紫暗血迹，相混杂于一起,大肠,血热伤络,Synonymous terms,"v1,v2",0
+718,年老气喘,Nian Lao Qi Chuan,,肺,肾虚,Synonymous terms,"v1,v2",0
+719,年老哮喘,Nian Lao Xiao Chuan,,肺,肾虚,Synonymous terms,"v1,v2",0
+720,黏液便,Nian Ye Bian,黏液便（mucous stool）可在急性痢疾中出现，亦可在慢性肠炎、慢性菌痢、肠易激综合征等疾病中出现。治疗应针对病因，对症治疗,大肠,大肠湿热,Synonymous terms,"v1,v2",0
+721,尿赤,Niao Chi,,膀胱,心火旺,Ontological terms,"v1,v2",0
+722,尿道涩痛,Niao Dao Se Tong,,膀胱,心火旺,Ontological terms,"v1,v2",0
+723,尿道灼热,Niao Dao Zhuo Re,,膀胱,膀胱湿热,Synonymous terms,"v1,v2",0
+724,尿点滴而下,Niao Dian Di Er Xia,,膀胱,肾虚,Synonymous terms,"v1,v2",0
+725,尿后滴沥,Niao Hou Di Li,,膀胱,肾虚,Synonymous terms,"v1,v2",0
+726,尿后余沥不尽,Niao Hou Yu Li Bu Jin,,膀胱,肾虚,Synonymous terms,"v1,v2",0
+727,尿黄,Niao Huang,,膀胱,膀胱湿热,Synonymous terms,"v1,v2",0
+728,尿黄如茶,Niao Huang Ru Cha,,膀胱,膀胱湿热,Synonymous terms,"v1,v2",0
+729,尿混浊,Niao Hun Zhuo,,膀胱,膀胱湿热,Synonymous terms,"v1,v2",0
+730,尿急,Niao Ji,尿急（urgent micturition）与尿频（frequent micturition）在中文的西医诊断学里是两个不同的概念，尿急是指患者一有尿意即迫不及待地需要排尿，难以控制,膀胱,膀胱湿热,Synonymous terms,"v1,v2",0
+731,尿路结石,Niao Lu Jie Shi,尿路结石是最常见的泌尿外科疾病之一。男性多于女性，约4～5∶1。 尿路结石在肾和膀胱内形成。上尿路结石与下尿路结石的形成机制、病因、结石成份和流行病学有显著差异。上尿路结石大多数为草酸钙结石。膀胱结石中磷酸镁铵结石较上尿路多见。成核作用、结石基质和晶体抑制物质学说是结石形成的三种最基本学说。根据上尿路结石形成机制的不同，有人将其分为与代谢因素有关的结石和感染性结石。细菌、感染产物及坏死组织亦为形成结石之核心,膀胱,膀胱湿热,Synonymous terms,"v1,v2",0
+732,尿频,Niao Pin,正常成人白天排尿4～6次，夜间0～2次，次数明显增多称尿频。尿频既可以是生理性、精神神经性的，也可以是许多疾病的症状之一。导致尿频的原因较多，包括炎症、异物、精神因素、病后体虚、寄生虫病等,膀胱,肾虚,Ontological terms,"v1,v2",0
+733,尿频数,Niao Pin Shu,,膀胱,肾虚,Synonymous terms,"v1,v2",0
+734,尿热,Niao Re,,膀胱,湿热,Ontological terms,"v1,v2",0
+735,尿色赤黄,Niao Se Chi Huang,,膀胱,湿热,Synonymous terms,"v1,v2",0
+736,尿色偏黄,Niao Se Pian Huang,,膀胱,湿热,Synonymous terms,"v1,v2",0
+737,尿涩,Niao Se,,膀胱,湿热,Ontological terms,"v1,v2",0
+738,尿涩痛,Niao Se Tong,,膀胱,湿热,Ontological terms,"v1,v2",0
+739,尿少,Niao Shao,,膀胱,湿热,Ontological terms,"v1,v2",0
+740,尿痛,Niao Tong,尿痛（urodynia）指患者排尿时尿道或伴耻骨上区、会阴部位疼痛。其疼痛程度有轻有重，常为烧灼感，重者痛如刀割。尿痛常见于尿道炎、前列腺炎、前列腺增生、精囊炎、膀胱炎、尿路结石、膀胱结核、肾盂肾炎等。治疗尿痛首先要控制急性感染，同时配合药物外洗，然后根据尿道外口的局部情况决定治疗方案,膀胱,湿热,Ontological terms,"v1,v2",0
+741,尿线细,Niao Xian Xi,,膀胱,湿热,Synonymous terms,"v1,v2",0
+742,尿血,Niao Xie,尿中含有过多的红细胞。正常情况下，尿液中是没有红细胞的。医学上把病人尿液离心沉淀后，用显微镜来检查，如果每个高倍视野中有5个以上的红细胞，就叫血尿,膀胱,湿热,Ontological terms,"v1,v2",0
+743,尿血血色鲜红,Niao Xie Xie Se Xian Hong,,膀胱,湿热,Synonymous terms,"v1,v2",0
+744,尿血血色紫红,Niao Xie Xie Se Zi Hong,,膀胱,湿热,Synonymous terms,"v1,v2",0
+745,扭腰,Niu Yao,急性腰背部扭伤俗称“闪腰”，在临床上较为多见，尤其是在体力劳动者；偶然参加运动或劳动而事先又未做体力活动准备者发生尤多，此种情况多见于常年坐办公室者。急性腰背部扭伤患者男性较女性多见，年龄以青壮年为多，年幼及年老患者均较少。本病病变的范围包括下背部至骶髂部的肌筋膜组织，即胸腰段及腰骶部两个解剖区。但在临床上由于其表现及治疗原则基本相似，故现将其一并阐述,,,Synonymous terms,"v1,v2",0
+746,脓成不溃,Nong Cheng Bu Kui,,,,Ontological terms,"v1,v2",0
+747,脓腐将荆,Nong Fu Jiang Jing,,,,,v1,1
+748,脓疱,Nong Pao,脓疱（pustule）指皮肤上的一个局限性的隆起，内含有脓液。因脓液的颜色不同，呈黄色或黄绿色。脓液是机体组织炎症过程中形成的浓稠或稀薄的渗出物，其中包含变性、坏死的白细胞、可含有或不含有细菌、坏死组织碎片和渗出的组织液,,,Synonymous terms,"v1,v2",0
+749,脓水,Nong Shui,,,,Ontological terms,"v1,v2",0
+750,脓痰,Nong Tan,"脓痰（purulent sputum）是呼吸道疾病最常见的症状之一,多表明呼吸系统，尤其是支气管、肺部有炎症。临床常伴有咳嗽、发热、呼吸急促等症状。脓痰的量、颜色、气味、性状和伴发症状常可提示诊断。治疗应查找脓痰产生的原发病，针对病因进行治疗",肺,,,v1,1
+751,胬肉攀睛,Nu Rou Pan Jing,胬肉攀睛指有一三角形脂膜胬起如肉，由眼珠眦角横贯白睛，攀侵黑睛的慢性外障眼病。多生于大眦，生于小眦或两眦同时发生者较少见。病变进程缓慢，往往经过数月或多年始侵入黑睛，并逐渐遮盖瞳仁，也有停止进展者。本病相当西医之翼状胬肉,,,Ontological terms,"v1,v2",0
+752,衄血,Nv Xie,非外伤所致的某些部位的外部出血症。包括眼衄、耳衄、鼻衄、齿衄、舌衄、肌衄等，以鼻衄（见鼻出血）为多见。,,,Ontological terms,"v1,v2",0
+753,呕恶,Ou E,指胃气上逆动膈，气逆上冲，出于喉间，呃呃连声，声短而频，不能自制的一种病症,胃,胃气上逆,Ontological terms,"v1,v2",0
+754,呕逆,Ou Ni,,胃,胃气上逆,Ontological terms,"v1,v2",0
+755,呕吐,Ou Tu,是以胃失和降，气逆于上所致的一种病证，可出现在许多疾病的过程中。临床辨证以虚实为纲。治疗以和胃降逆为原则，但须根据虚实不同情况分别处理,胃,胃气上逆,Ontological terms,"v1,v2",0
+756,呕吐清水,Ou Tu Qing Shui,,胃,胃气上逆,Synonymous terms,"v1,v2",0
+757,呕吐乳食,Ou Tu Ru Shi,,胃,胃气上逆,Synonymous terms,"v1,v2",0
+758,呕吐痰涎,Ou Tu Tan Xian,,胃,胃气上逆,Synonymous terms,"v1,v2",0
+759,呕吐吞酸,Ou Tu Tun Suan,,胃,胃气上逆,Ontological terms,"v1,v2",0
+760,排便乏力,Pai Bian Fa Li,,大肠,气虚,Synonymous terms,"v1,v2",0
+761,排尿滴沥不尽,Pai Niao Di Li Bu Jin,,膀胱,肾虚,Synonymous terms,"v1,v2",0
+762,排尿困难,Pai Niao Kun Nan,排尿困难系指排尿费力且有排不尽感，须增加腹压才能排出尿液，病情严重时增加腹压也不能将膀胱内尿液排出体外，导致尿潴留。治疗应首先引流尿液，进行病因治疗和对症治疗,膀胱,肾虚,Synonymous terms,"v1,v2",0
+763,喷嚏,Pen Ti,,,肺气上逆,Synonymous terms,"v1,v2",0
+764,盆腔包块,Pen Qiang Bao Kuai,盆腔炎性包块为女性盆腔脏器的炎症未得到正规治疗，发生盆腔慢性炎症性组织学改变，从而导致盆腔炎性包块发生。患者常先有急性输卵管炎的临床表现，服抗炎药可缓解的症状。症状包括下腹部疼痛、发热、阴道流血。平时病人可有白带增多、以后下腹部疼痛减轻。当盆腔包块增大时疼痛有所增加，但能忍受，表现为下腹部的隐痛和钝痛。炎性包块盆腔炎腹痛在月经期也会加重，但不如子宫内膜异位症所致的痛经明显,,,Ontological terms,"v1,v2",0
+765,皮肤风团色红,Pi Fu Feng Tuan Se Hong,,皮肤,血热,Synonymous terms,"v1,v2",0
+766,皮肤感染,Pi Fu Gan Ran,是细菌和真菌感染性皮肤病，病情患者有轻有重，轻的易治疗，严重的不易治疗,皮肤,热毒,,v1,1
+767,皮肤干燥,Pi Fu Gan Zao,皮肤干燥是指皮肤缺乏水分令人感觉不适的现象。其症状主要为皮肤发紧、个别部位干燥脱皮、洗澡过后全身发痒。年龄增长、气候变化、睡眠不足、过度疲劳、洗澡水过热、洗涤用品碱性强等都是导致皮肤干燥的重要原因。预防措施为加强皮肤的日常护理保养，合理调节饮食结构，坚持多喝水等,皮肤,阴虚,Ontological terms,"v1,v2",0
+768,皮肤黄染,Pi Fu Huang Ran,,皮肤,肝经湿热,Ontological terms,"v1,v2",0
+769,皮肤皲裂,Pi Fu Jun Lie,,皮肤,阴虚,Ontological terms,"v1,v2",0
+770,皮肤潰疡,Pi Fu Kui Yang,,皮肤,脾虚,Synonymous terms,"v1,v2",0
+771,皮肤糜烂,Pi Fu Mi Lan,,皮肤,脾虚,Ontological terms,"v1,v2",0
+772,皮肤黏膜破溃,Pi Fu Nian Mo Po Kui,,皮肤,脾虚,Synonymous terms,"v1,v2",0
+773,皮肤青紫,Pi Fu Qing Zi,,皮肤,血热,Synonymous terms,"v1,v2",0
+774,皮肤瘙痒,Pi Fu Sao Yang,瘙痒是一种仅有皮肤瘙痒而无原发性皮肤损害的皮肤病症状。根据皮肤瘙痒的范围及部位，一般分为全身性和局限性两大类。,皮肤,血虚风燥,Ontological terms,"v1,v2",0
+775,皮肤色斑,Pi Fu Se Ban,,皮肤,血热,Ontological terms,"v1,v2",0
+776,皮肤湿烂,Pi Fu Shi Lan,,皮肤,湿热,Ontological terms,"v1,v2",0
+777,皮肤湿疹,Pi Fu Shi Zhen,,皮肤,湿热,Ontological terms,"v1,v2",0
+778,皮肤瘀斑,Pi Fu Yu Ban,,皮肤,淤血,Synonymous terms,"v1,v2",0
+779,皮肤肿痛,Pi Fu Zhong Tong,,皮肤,热毒,Synonymous terms,"v1,v2",0
+780,皮肤紫斑,Pi Fu Zi Ban,,皮肤,热毒,Synonymous terms,"v1,v2",0
+781,皮肤紫癜,Pi Fu Zi Dian,,皮肤,热毒,Synonymous terms,"v1,v2",0
+782,皮损呈红斑湿润,Pi Sun Cheng Hong Ban Shi Run,,皮肤,热毒,Synonymous terms,"v1,v2",0
+783,皮下结块,Pi Xia Jie Kuai,,皮肤,淤血,Synonymous terms,"v1,v2",0
+784,皮下紫斑,Pi Xia Zi Ban,,皮肤,淤血,Ontological terms,"v1,v2",0
+785,皮疹表面覆有较厚的银白色鳞屑,Pi Zhen Biao Mian Fu You Jiao Hou De Yin Bai Se Lin Xie,,皮肤,湿热,Synonymous terms,"v1,v2",0
+786,皮疹色鲜红,Pi Zhen Se Xian Hong,,皮肤,热毒,Ontological terms,"v1,v2",0
+787,皮疹为点滴状,Pi Zhen Wei Dian Di Zhuang,,皮肤,热毒,Synonymous terms,"v1,v2",0
+788,皮疹圆形,Pi Zhen Yuan Xing,,皮肤,湿热,,v1,1
+789,疲乏无力,Pi Fa Wu Li,,心,气虚,Synonymous terms,"v1,v2",0
+790,疲倦,Pi Juan,指十分劳累，困倦。出自清·李宝嘉《官场现形记》第三十六回。又指劳累、昏昏欲睡,心,气虚,Synonymous terms,"v1,v2",0
+791,脾胃气滞,Pi Wei Qi Zhi,,脾,气虚,,v1,1
+792,脾虚,Pi Xu,脾虚，为中医名词术语。泛指因脾气虚损引起的一系列脾脏生理功能失常的病理现象及病证。包括脾气虚、脾阳虚、中气下陷、脾不统血等证型。多因饮食失调．劳逸失度，或久病体虚所引起。脾有运化食物中的营养物质和输布水液以及统摄血液等作用。脾虚则运化失常，并可出现营养障碍，水液失于布散而生湿酿痰，或发生失血等症,脾,,,v1,1
+793,脾虚气滞,Pi Xu Qi Zhi,脾虚气滞是一种疾病，素有脾胃虚弱，或病后中气不足，主要症状是胃脘痞闷，食欲不振，恶心呕吐,脾,,Synonymous terms,"v1,v2",0
+794,痞满,Pi Man,痞满是由于脾胃功能失调，升降失司，胃气壅塞，出现以脘腹满闷不舒为主症的病证。以自觉胀满，触之无形，按之柔软，压之无痛为临床特点。临床表现与西医学的慢性胃炎（包括浅表性胃炎和萎缩性胃炎）、功能性消化不良、胃下垂等疾病相似，这些疾病若以脘腹满闷不舒为主症时，可参考本证辨证论治,胃,气虚,Ontological terms,"v1,v2",0
+795,痞闷,Pi Men,,胃,脾气虚,Ontological terms,"v1,v2",0
+796,偏身麻木,Pian Shen Ma Mu,身麻木（hemianesthesia），通常指由脑病造成的一侧上下肢的感觉减退或消失。大多由于对侧大脑半球疾患所致。常见于脑血管意外、颅脑损伤、脑炎等疾病,,,Synonymous terms,"v1,v2",0
+797,偏瘫,Pian Tan,偏瘫（hemiplegia）又叫半身不遂，是指同一侧上下肢、面肌和舌肌下部的运动障碍，是急性脑血管病的常见症状。轻度偏瘫病人虽然尚能活动，但走起路来，往往上肢屈曲，下肢伸直，瘫痪的下肢走一步划半个圈，这种特殊的走路姿势，叫做偏瘫步态。严重者常卧床不起，丧失生活能力。按照偏瘫的程度，可分为轻瘫、不完全性瘫痪和全瘫。轻瘫：表现为肌力减弱，肌力在4～5级，一般不影响日常生活，不完全性瘫较轻瘫重，范围较大，肌力2～4级，全瘫：肌力0～1级，瘫痪肢体完全不能活动。应该及时就诊，以免延误治疗的最佳时期,,,Ontological terms,"v1,v2",0
+798,偏头痛,Pian Tou Tong,偏头痛（migraine）是临床最常见的原发性头痛类型，临床以发作性中重度、搏动样头痛为主要表现，头痛多为偏侧，一般持续4～72小时，可伴有恶心、呕吐，光、声刺激或日常活动均可加重头痛，安静环境、休息可缓解头痛。偏头痛是一种常见的慢性神经血管性疾患，多起病于儿童和青春期，中青年期达发病高峰，女性多见，男女患者比例约为1∶2～3，人群中患病率为5%～10%，常有遗传背景,,,Ontological terms,"v1,v2",0
+799,贫血,Pin Xie,贫血(anemia)是指人体外周血红细胞容量减少，低于正常范围下限的一种常见的临床症状。由于红细胞容量测定较复杂，临床上常以血红蛋白（Hb）浓度来代替。我国血液病学家认为在我国海平面地区，成年男性Hb<120g/L，成年女性（非妊娠）Hb<110g/L，孕妇Hb<100g/L就有贫血,肾,脾虚,Ontological terms,"v1,v2",0
+800,脐腹胀痛,Qi Fu Zhang Tong,,脾胃,肝气郁滞,Synonymous terms,"v1,v2",0
+801,起坐不利,Qi Zuo Bu Li,,四肢,肝肾亏虚,Synonymous terms,"v1,v2",0
+802,气闭昏厥,Qi Bi Hun Jue,,肺,气闭,Synonymous terms,"v1,v2",0
+803,气喘,Qi Chuan,喘（asthma），为一种呼吸困难的症状。轻者活动时气促，重者在安静时亦感呼吸费力甚至不能平卧，也有部分患者气喘与活动无关，而与接触冷空气、过敏原等相关。气喘可由多种原因引起，需要及早明确病因并进行相应治疗，对症治疗是以药物治疗为主，可使用支气管扩张剂及止咳剂、化痰剂等药,肺,肾气虚,Ontological terms,"v1,v2",0
+804,气喘咳嗽,Qi Chuan Ke Sou,,肺,肾气虚,Ontological terms,"v1,v2",0
+805,气粗,Qi Cu,,肺,肺热,Synonymous terms,"v1,v2",0
+806,气促,Qi Cu,气促指呼吸急促，气短而不均匀，为肺病常见症状之一，正常人因活动量过大也可出现此症状，为正常现象。因气虚不摄，或外邪、水饮犯肺等所致者，当辨明疾病类型，辨证论治,肺,肺热,Ontological terms,"v1,v2",0
+807,气促喘息,Qi Cu Chuan Xi,,肺,肺热,Synonymous terms,"v1,v2",0
+808,气短,Qi Duan,气短（panting），指呼吸比正常人短促，躁而带粗，气若有所窒，则语言不接续和呼吸勉强。呼吸微弱而喘促，或短气不足以吸，似喘而无声的表现。患者多伴有呼吸系统或心血管系统疾病。治疗需针对原发病。若气短引起呼吸困难，首先做到及时给予补氧,肺,气虚,Ontological terms,"v1,v2",0
+809,气急,Qi Ji,呼吸急促，上气不接下气,肺,气虚,Synonymous terms,"v1,v2",0
+810,气逆,Qi Ni,气逆（reversed flow of qi），是中医名称，指气机升降出入反常，应降不降，气机上逆，或横逆的病理变化。临床以肺气上逆、胃气上逆为多见，肺气上逆则咳嗽、气喘；胃气上逆则恶心、呕吐、嗳气、呃逆等,肺,气滞,,v1,1
+811,气逆喘急,Qi Ni Chuan Ji,,肺,肺气上逆,Ontological terms,"v1,v2",0
+812,气逆喘咳,Qi Ni Chuan Ke,,肺,肺气上逆,Ontological terms,"v1,v2",0
+813,气阴两虚,Qi Yin Liang Xu,气阴两虚，又称气阴两伤。气虚和阴虚同时并见的病理变化。常见于热性病过程中，热在气分，汗出不彻，久而伤及气阴；或热盛耗伤津液，气随液脱；或温热病后期及内伤杂病，真阴亏损，元气大伤。也可见于某些慢性代谢性、消耗性疾病，如糖尿病、结核病、肿瘤等疾病。症见口渴、气短等。,肺,,,v1,1
+814,气郁,Qi Yu,气郁一词出《素问·六元正纪大论》，多因情志不舒，气机郁结所致。《丹溪心法·六郁》：“气郁者，胸胁痛，脉沉涩。”《证治汇补·郁证章》：“气郁，胸满胁痛，噫气腹胀。”治宜行气解郁。《杂病源流犀烛·诸气源流》“一切气郁，总宜以化滞为主。”用气郁汤、木香调气散、七气汤、越鞠丸等方。若气郁生痰者，用温胆汤、半夏厚朴汤、上下分消导痰汤,肺,,,v1,1
+815,气滞胃痛,Qi Zhi Wei Tong,,肺,气郁,Synonymous terms,"v1,v2",0
+816,前额头痛,Qian E Tou Tong,,脑,,Synonymous terms,"v1,v2",0
+817,前额压痛,Qian E Ya Tong,,脑,,Synonymous terms,"v1,v2",0
+818,前列腺增生,Qian Lie Xian Zeng Sheng,常称作良性前列腺增生（benign prostatic hyperplasia，BPH）是中老年男性常见疾病之一，随全球人口老年化发病日渐增多。前列腺增生的发病率随年龄递增，但有增生病变时不一定有临床症状，多数患者随着年龄的增长，排尿困难等症状随之增加,,,Synonymous terms,"v1,v2",0
+819,浅表脓疱,Qian Biao Nong Pao,,,湿热,Synonymous terms,"v1,v2",0
+820,青盲雀目,Qing Mang Que Mu,,肝,肝血虚,Ontological terms,"v1,v2",0
+821,靑少年远视力下降,Qing Shao Nian Yuan Shi Li Xia Jiang,,肝,,Synonymous terms,"v1,v2",0
+822,轻度烧伤,Qing Du Shao Shang,,皮肤,,Synonymous terms,"v1,v2",0
+823,轻度视力下降,Qing Du Shi Li Xia Jiang,,,,Synonymous terms,"v1,v2",0
+824,轻度烫伤（表皮未破),Qing Du Tang Shang （ Biao Pi Wei Po ),,皮肤,,Synonymous terms,"v1,v2",0
+825,情志不畅,Qing Zhi Bu Chang,,心,肝气郁滞,Ontological terms,"v1,v2",0
+826,情志抑郁,Qing Zhi Yi Yu,,心,肝气郁滞,Synonymous terms,"v1,v2",0
+827,屈伸不利,Qu Shen Bu Li,,四肢,脾虚,Ontological terms,"v1,v2",0
+828,龋齿疼痛,Qu Chi Teng Tong,,肾,胃热,Synonymous terms,"v1,v2",0
+829,全身乏力,Quan Shen Fa Li,全身乏力是一种非特异性的症状，可以是肝病的早期症状;也可以是其他一些疾病的预警信号，如肿瘤;甚至是生理性的，如过度劳累。乏力主要是患者的自我感受，有一定的主观性，主要是靠与平时的日常活动相比得出的，如平时可以上三层楼，现在上一层楼即感气喘，双腿发软，懒动等。一般来说，肝病患者的乏力程度自轻度疲倦到严重乏力，与肝病的严重程度相一致。,心,气虚,Synonymous terms,"v1,v2",0
+830,全身酸疼,Quan Shen Suan Teng,,肾,,Synonymous terms,"v1,v2",0
+831,颧骨部压痛,Quan Gu Bu Ya Tong,,,,Synonymous terms,"v1,v2",0
+832,热痹疼痛,Re Bi Teng Tong,,,热证,Ontological terms,"v1,v2",0
+833,热病发热,Re Bing Fa Re,,,热证,Ontological terms,"v1,v2",0
+834,热病发烧,Re Bing Fa Shao,,,热证,Synonymous terms,"v1,v2",0
+835,热病烦渴,Re Bing Fan Ke,,肾,热证,Ontological terms,"v1,v2",0
+836,热毒泻痢,Re Du Xie Li,,,热证,Ontological terms,"v1,v2",0
+837,热毒血痢,Re Du Xie Li,,,热证,Ontological terms,"v1,v2",0
+838,热痢,Re Li,热痢，病名。由肠胃酝热所致的痢疾。证见里急后重，身热腹痛，烦渴引饮，喜冷畏热，小便热赤，痢下赤色，或如鱼脑，稠粘而秽，脉滑数而有力，舌苔黄腻等。,,,Ontological terms,"v1,v2",0
+839,热淋涩痛,Re Lin Se Tong,,,热证,Ontological terms,"v1,v2",0
+840,热淋证,Re Lin Zheng,,,热证,Ontological terms,"v1,v2",0
+841,热痰,Re Tan,痰水与热相搏之病证、火痰、痰热聚于心、素有痰疾因外感而喘咯咳唾。①痰水与热邪相搏所致的病证 《诸病源候论·痰饮诸病候》 “热痰者，谓饮水浆，结积所生也。言阴阳否隔，上焦生热，热气与痰水相搏，聚而不散，故令身体虚热，逆害饮食，头面噏噏而热，故云热痰也。”②火痰 《杂病源流犀烛·痰饮源流》 “热痰，即火痰也。”证见烦热燥结，头面烘热，或为眼烂喉闭，癫狂嘈杂，懊憹怔忡，痰色亦黄。治宜清热化痰，用清气化痰丸、清热导痰汤。③痰热聚于心者 《杂病源流犀烛·痰饮源流》 “在心曰热痰，其色赤，结如胶而坚，多烦热，心痛，口干唇燥，喜笑，脉必洪，宜半黄丸。”④素有痰疾，因外感而喘咯咳唾者 《泰定养生主论》 “热痰者，因食辛辣烧炙煎煿，重裀厚褥，及天时郁勃而然也。”“此皆素抱痰疾者，因风、寒、气、热、味而喘咯咳唾，非别有此五种之痰。”,,,,v1,1
+842,热泻,Re Xie,热泻是指因热迫大肠所引起。亦名“火泻”。,,,,v1,1
+843,妊娠恶阻,Ren Shen E Zu,妊娠早期出现恶心呕吐，头晕倦怠，甚至食入即吐者，成为“妊娠恶阻”。亦称为“子病”、“病儿”、“阻病”。多因脾胃虚弱或肝胃不和导致冲气上逆、胃失和降。若呕吐日久，浆水不入，伤及气阴，可继发气阴两虚的恶阻重症。,子宫,冲气上逆,Ontological terms,"v1,v2",0
+844,妊娠漏血,Ren Shen Lou Xie,,子宫,脾虚,Ontological terms,"v1,v2",0
+845,妊娠呕吐,Ren Shen Ou Tu,,子宫,冲气上逆,Ontological terms,"v1,v2",0
+846,妊娠胎漏,Ren Shen Tai Lou,,子宫,胎元不固,Ontological terms,"v1,v2",0
+847,妊娠下血,Ren Shen Xia Xie,,子宫,脾虚,Synonymous terms,"v1,v2",0
+848,乳房结节,Ru Fang Jie Jie,,乳房,肝气郁滞,Synonymous terms,"v1,v2",0
+849,乳房疼痛,Ru Fang Teng Tong,乳房的感觉受肋间神经及3、4颈神经支配，一旦这些神经受到侵犯就会引起疼痛，所以乳房疼痛不是某一种疾病的特定症状。早期乳腺癌很少出现疼痛，除非局部晚期乳腺癌或炎性乳腺癌。乳房疼痛多来自非肿瘤性的乳房良性疾病。可以说乳房疼痛与乳房疾病的良恶性及疾病严重程度不成正比。,乳房,肝气郁滞,Synonymous terms,"v1,v2",0
+850,乳房有块,Ru Fang You Kuai,,乳房,肝气郁滞,Synonymous terms,"v1,v2",0
+851,乳房胀痛,Ru Fang Zhang Tong,,乳房,肝气郁滞,Ontological terms,"v1,v2",0
+852,乳房肿块,Ru Fang Zhong Kuai,乳房肿块是乳房疾病的常见体征。女性的乳房本身就是凹凸不平的，许多妇女自己发现的肿块只不过是正常乳腺凸起的区域，在月经来潮之前，这些肿块会变得更加明显更容易触及。,乳房,肝气郁滞,Synonymous terms,"v1,v2",0
+853,乳房肿痛,Ru Fang Zhong Tong,乳房胀痛（distending pain in breast）可见于生理及病理时，常见的生理性乳房胀痛有：青春期胀痛、经前胀痛、孕期胀痛、产后和人工流产后胀痛，但大多数的生理性乳房胀痛与情绪紧张相关。如果乳房胀痛持续不缓解，甚至越发严重，或者触摸乳房时，发现有形态不规则、边缘不清、活动度差的肿块时，应及早去医院检查诊治。,乳房,肝气郁滞,Ontological terms,"v1,v2",0
+854,乳癖,Ru Pi,乳癖，中医病名。是以乳房有形状大小不一的肿块，疼痛，与月经周期相关为主要表现的乳腺组织的良性增生性疾病。一年四季均可发生。好发于30—50岁妇女，约占全部乳腺疾病的75%，是临床上最常见的乳房疾病。本病有一定的癌变危险。西医则称为乳腺囊性增生症。本病若早期诊断，病情较轻，及时治疗，一般预后良好。但也有向癌症转变的。,乳房,肝气郁滞,Ontological terms,"v1,v2",0
+855,乳少,Ru Shao,乳少，病名。指产后分泌乳汁少。见清·许廷哲《保产要旨》。即缺乳。,乳房,气虚亏虚,Ontological terms,"v1,v2",0
+856,乳腺增生,Ru Xian Zeng Sheng,"乳腺增生症，既不是肿瘤,也不属于炎症,从组织学表现看：是乳腺组织增生及退行性变，与内分泌功能紊乱密切相关。本病好发于中年妇女，青少年和绝经后妇女也有发生，当今大城市职业妇女中50%-70%都有不同程度的乳腺增生。乳腺增生症常表现为乳房疼痛和乳腺摸到结节，其危害并不在于疾病本身，而是心理压力，担心自己会不会患了乳腺癌或以后会变成癌。乳腺增生症有多种病理类型，如单纯性小叶增生（占乳腺增生症的大部分），只要注意调整心态，缓解压力，就可能逐渐缓解。若乳腺小叶增生伴导管上皮增生，且呈现重度异形，则为癌前期病变（占极少部分），需积极治疗定期检查，防患于未然。",乳房,肝气郁滞,Synonymous terms,"v1,v2",0
+857,乳痈,Ru Yong,乳痈是以乳房红肿疼痛，乳汁排出不畅，以致结脓成痈的急性化脓性病证。多发于产后哺乳的产妇，尤其是初产妇更为多见。俗称奶疮。根据发病时期的不同，又有几种名称：发生于哺乳期者，称外吹乳痈；发生于怀孕期者，名内吹乳痈；在非哺乳期和非怀孕期发生者，名非哺乳期乳痈。现代医学之急性化脓性乳腺炎属于乳痈范畴。,乳房,肝经热毒,Ontological terms,"v1,v2",0
+858,乳痈初起,Ru Yong Chu Qi,,乳房,热毒,Synonymous terms,"v1,v2",0
+859,乳胀痛,Ru Zhang Tong,,乳房,肝气郁滞,Ontological terms,"v1,v2",0
+860,乳汁不通,Ru Zhi Bu Tong,乳汁不通，病证名。见《肖山竹林寺妇科》。即乳汁不行，又名乳脉不行。,乳房,肝气郁滞,Ontological terms,"v1,v2",0
+861,乳汁不下,Ru Zhi Bu Xia,,乳房,肝气郁滞,Ontological terms,"v1,v2",0
+862,乳汁郁积,Ru Zhi Yu Ji,,乳房,肝气郁滞,Ontological terms,"v1,v2",0
+863,乳肿痛,Ru Zhong Tong,,乳房,肝气郁滞,Ontological terms,"v1,v2",0
+864,褥疮,Ru Chuang,压疮又称压力性溃疡、褥疮，是由于局部组织长期受压，发生持续缺血、缺氧、营养不良而致组织溃烂坏死。皮肤压疮在康复治疗、护理中是一个普通性的问题。据有关文献报道，每年约有6万人死于压疮合并征。,皮肤,湿热,,v1,1
+865,褥疮肿痛,Ru Chuang Zhong Tong,,,湿热,,v1,1
+866,软组织损伤,Ruan Zu Zhi Sun Shang,软组织损伤指软组织或骨骼肌肉受到直接或间接暴力，或长期慢性劳损引起的一大类创伤综合征。组织受创后出现微循环障碍、无菌性炎症，致使局部肿胀疼痛。,,,Synonymous terms,"v1,v2",0
+867,腮腺炎肿痛,Sai Xian Yan Zhong Tong,,,,Synonymous terms,"v1,v2",0
+868,腮肿,Sai Zhong,腮肿为症状名。指两颊下半部肿胀的表现。,,,Synonymous terms,"v1,v2",0
+869,瘙痒,Sao Yang,瘙痒是许多皮肤病共有的一种自觉症状，如仅有皮肤瘙痒而无原发性皮肤损害时则称为瘙痒病(pruritus)。,,,Ontological terms,"v1,v2",0
+870,瘙痒明显,Sao Yang Ming Xian,,,风邪犯表,Synonymous terms,"v1,v2",0
+871,瘙痒难忍,Sao Yang Nan Ren,,,风邪犯表,Synonymous terms,"v1,v2",0
+872,色素沉着,Se Su Chen Zhao,色素沉着是人体皮肤由于种种原因而致皮肤呈现不同颜色、不同范围及不同深浅的色素变化。色素分为两类，一类人体自身产生的色素，一类是外源性色素。,,,,v1,1
+873,涩痛,Se Tong,,肾,肝阴虚,Ontological terms,"v1,v2",0
+874,沙眼,Sha Yan,沙眼是由沙眼衣原体引起的一种慢性传染性结膜角膜炎，因其在睑结膜表面形成粗糙不平的外观，形似沙粒，故名沙眼。本病病变过程早期结膜有浸润，如乳头、滤泡增生，同时发生角膜血管翳；晚期由于受累的睑结膜发生瘢痕，以致眼睑内翻畸形，加重角膜的损害，可严重影响视力甚至造成失明。潜伏期5～14天，双眼患病，多发生于儿童或少年期。,肝,肝阴虚,Synonymous terms,"v1,v2",0
+875,痧胀腹痛,Sha Zhang Fu Tong,痧胀腹痛，病证名。痧胀病以胸腹胀痛为主证者，多因受寒、湿滞或感受秽浊之邪、山岚不正之气等，侵袭或邪传于肠胃而触发。《症因脉治·腹痛论》：“痧胀腹痛之证，忽尔胸腹胀痛，手足厥冷，指甲带青，痛不可忍，不吐不泻，或吐或泻，按之痛甚，病名绞肠痧。”治宜祛秽泄毒为大法。十指青冷者，宜刺指出血；欲吐不吐者，以盐汤探吐，并以荆芥、防风、青陈皮、枳实、大黄等药煎服；胁肋刺痛者，刺期门穴，或在患者双侧臂臑部刮痧；腹痛，足转筋抽搦，及少腹痞痛者，宜刺三里、委中穴；恶寒发热，脉浮大者，选用败毒散等方。参见痧、痧气、绞肠痧条。,,,Ontological terms,"v1,v2",0
+876,筛状出血明显,Shai Zhuang Chu Xie Ming Xian,,,,Ontological terms,"v1,v2",0
+877,闪腰挫气,Shan Yao Cuo Qi,,,,Synonymous terms,"v1,v2",0
+878,疝气,Shan Qi,疝气，即人体内某个脏器或组织离开其正常解剖位置，通过先天或后天形成的薄弱点、缺损或孔隙进入另一部位。常见的疝有脐疝，腹股沟直疝、斜疝，切口疝、手术复发疝、白线疝、股疝等。腹壁疝多由于咳嗽、喷嚏、用力过度、腹部肥胖、用力排便、妊娠、小儿过度啼哭、老年腹壁强度退行性变等原因引起腹内压增高，迫使腹腔内的游离脏器如：小肠、盲肠、大网膜、膀胱、卵巢、输卵管等脏器通过人体正常的或不正常的薄弱点或缺损、孔隙进入另一部位。,,,Ontological terms,"v1,v2",0
+879,善饥,Shan Ji,善饥，证名。指易有饥饿感。见《素问·至真要大论》。病因以胃热较为常见。治宜清胃、育阴、生津。选用生地八味汤、玉女煎或泻黄散去防风加生地方。如属消渴病之善饥，宜用六味地黄丸加沙苑子。参见消渴条。蛔虫会引起不同程度的善饥。,胃,胃热,Synonymous terms,"v1,v2",0
+880,善太息,Shan Tai Xi,,,肝气郁滞,,v1,1
+881,伤处瘀肿疼痛,Shang Chu Yu Zhong Teng Tong,,,,Synonymous terms,"v1,v2",0
+882,伤风,Shang Feng,伤风是由风邪侵袭人体引起的常见外感热病。一年四季均可发生。尤以冬春两季为多见。临床以头痛、鼻塞、喷嚏、流涕、咽痒咳嗽、发热恶寒等为主要证候特点。病情有轻重不同，轻者俗称伤风，重者称为重伤风。若病情较重，且在一段时间内广泛流行，证候相类似者，称为时行感冒。,肺,风邪伤表,Ontological terms,"v1,v2",0
+883,伤口感染,Shang Kou Gan Ran,,,热毒,Synonymous terms,"v1,v2",0
+884,上下肢 偏身麻木,Shang Xia Zhi   Pian Shen Ma Mu,,四肢,气机郁滞,Synonymous terms,"v1,v2",0
+885,上消化道出血量多,Shang Xiao Hua Dao Chu Xie Liang Duo,,胃,,Synonymous terms,"v1,v2",0
+886,上肢麻木,Shang Zhi Ma Mu,,四肢,气机郁滞,Synonymous terms,"v1,v2",0
+887,上肢疼痛,Shang Zhi Teng Tong,,四肢,气机郁滞,Synonymous terms,"v1,v2",0
+888,少腹拒按,Shao Fu Ju An,,腹部,气滞,Synonymous terms,"v1,v2",0
+889,少腹冷痛,Shao Fu Leng Tong,,腹部,寒证,Ontological terms,"v1,v2",0
+890,少腹疼痛,Shao Fu Teng Tong,,腹部,寒证,Ontological terms,"v1,v2",0
+891,少腹痛,Shao Fu Tong,腹痛，证名。出《素问·五常政大论》。小腹两旁疼痛。少腹痛，可见于疝病等多种病证。痛而喜按为虚，宜温补汤。痛而拒按为实，宜温气汤。痛而小便不利为湿热，宜五苓散加大黄、滑石。痛而胀急，小便反利，为蓄血，宜和血汤。痛连阴茎，按之则止，为肝血虚，宜补血清热，用当归、生地、白芍、艾草、牛膝、麦冬、丹皮、童便、甘菊。痛如绞急，不可忍耐，小便如淋，诸药不效，为酒欲过度，宜黄芩、木通、甘草三味，煎服立止。痛而按之有块，时胀闷，其痛不移处，瘀血已久也，宜元胡索、肉桂、香附、归尾、桃仁、砂仁。又小腹痛亦作少腹痛，参见小腹痛条。,腹部,气滞,Ontological terms,"v1,v2",0
+892,少腹坠胀,Shao Fu Zhui Zhang,,腹部,气虚,Synonymous terms,"v1,v2",0
+893,少津,Shao Jin,,脾,脾虚,Synonymous terms,"v1,v2",0
+894,少寐,Shao Mei,,心,心火旺盛,Synonymous terms,"v1,v2",0
+895,少气,Shao Qi,少气，中医病证名。是指言语无力，呼吸微弱、短促等证候。《灵枢·经脉》：“少气不足以息。”又：“其小而短者少气。”可因脏气虚弱、尤以肺气虚损、中气不足，肾气亏耗为常见。《诸病源候论·少气候》：“所由藏气不足故也。肺主于气而通呼吸，藏气不足，则呼吸微弱而少气。胸痛少气者，水在藏府，水者阴气，阴气在内，故少气。”亦有因痰气、食积内阻所致者。《䱐溪陆氏医述·病症辨异》：“少气者，气少不足于言……由里气因痰或食或饮碍其升降之路使然。”,肺,气虚,Synonymous terms,"v1,v2",0
+896,少食,Shao Shi,,胃,脾虚,Ontological terms,"v1,v2",0
+897,少痰,Shao Tan,,肺,,Ontological terms,"v1,v2",0
+898,舌暗,She An,,肝,淤血  热,Synonymous terms,"v1,v2",0
+899,舌暗红,She An Hong,,肝,热  淤血,Synonymous terms,"v1,v2",0
+900,舌边尖有瘀斑,She Bian Jian You Yu Ban,,脾,淤血,Synonymous terms,"v1,v2",0
+901,舌部疲斑,She Bu Pi Ban,,脾,淤血,Synonymous terms,"v1,v2",0
+902,舌赤,She Chi,,脾,热证,Synonymous terms,"v1,v2",0
+903,舌淡,She Dan,舌质颜色浅淡，颜色比例红少白多，甚或纯白无红色的舌质称为舌淡。舌淡在内伤杂病中较为多见，一般多主虚证，日常表示病程较长，不易迅速治愈。,脾,脾虚,Synonymous terms,"v1,v2",0
+904,舌干,She Gan,舌干，症名。即舌体及舌苔干燥，多由热盛伤津或阴液亏虚所致，亦可见于阳虚津不上承者。,脾,脾虚,Synonymous terms,"v1,v2",0
+905,舌红,She Hong,舌红是指心在外为舌，红为热像，说明心有火。首先是清淡饮食，忌辛辣，腥，发物。,脾,,Synonymous terms,"v1,v2",0
+906,舌红苔黄腻,She Hong Tai Huang Ni,,脾,湿热,Synonymous terms,"v1,v2",0
+907,舌尖边有瘀点,She Jian Bian You Yu Dian,,脾,淤血,Synonymous terms,"v1,v2",0
+908,舌尖红,She Jian Hong,,脾,心火旺盛,Synonymous terms,"v1,v2",0
+909,舌绛,She Jiang,舌绛，舌像之一。指舌质呈深红色，一般属于热在营分，血分。,脾,血热,Ontological terms,"v1,v2",0
+910,舌糜烂,She Mi Lan,,脾,心火旺盛,Synonymous terms,"v1,v2",0
+911,舌胖,She Pang,,脾,脾虚,Synonymous terms,"v1,v2",0
+912,舌偏红,She Pian Hong,,脾,血热,Synonymous terms,"v1,v2",0
+913,舌强,She Qiang,舌强，证名。舌强是指舌体强硬，活动不灵，舌体伸缩不自然、谈吐不利的现象。,脾,肝阳上亢,Ontological terms,"v1,v2",0
+914,舌强不语,She Qiang Bu Yu,,脾,肝阳上亢,Ontological terms,"v1,v2",0
+915,舌生疮,She Sheng Chuang,,脾,心火旺盛,Ontological terms,"v1,v2",0
+916,舌体胖大,She Ti Pang Da,,脾,脾虚,Synonymous terms,"v1,v2",0
+917,舌体肿,She Ti Zhong,,脾,脾虚,Synonymous terms,"v1,v2",0
+918,舌有齿痕,She You Chi Hen,,脾,脾虚,,v1,1
+919,舌有瘀斑,She You Yu Ban,,脾,血瘀,Synonymous terms,"v1,v2",0
+920,舌有瘀点瘀斑,She You Yu Dian Yu Ban,,脾,血瘀,Synonymous terms,"v1,v2",0
+921,舌瘀斑,She Yu Ban,,脾,血瘀,Synonymous terms,"v1,v2",0
+922,舌质暗红,She Zhi An Hong,,脾,血瘀,Synonymous terms,"v1,v2",0
+923,舌质黯,She Zhi An,,脾,血瘀,Synonymous terms,"v1,v2",0
+924,舌质淡暗,She Zhi Dan An,,脾,血瘀,Synonymous terms,"v1,v2",0
+925,舌质红少津,She Zhi Hong Shao Jin,,脾,脾虚,Synonymous terms,"v1,v2",0
+926,舌质红少苔,She Zhi Hong Shao Tai,,脾,脾虚,Synonymous terms,"v1,v2",0
+927,舌质有瘀斑,She Zhi You Yu Ban,,脾,血瘀,Synonymous terms,"v1,v2",0
+928,舌质紫暗,She Zhi Zi An,,脾,血瘀,Synonymous terms,"v1,v2",0
+929,舌紫暗,She Zi An,,脾,血瘀,Synonymous terms,"v1,v2",0
+930,蛇虫咬伤,She Chong Yao Shang,,,,Ontological terms,"v1,v2",0
+931,身黄,Shen Huang,,肝,肝经湿热,Synonymous terms,"v1,v2",0
+932,身倦,Shen Juan,,心肝,气虚,Synonymous terms,"v1,v2",0
+933,身困重,Shen Kun Zhong,,心肝,脾虚湿盛,Synonymous terms,"v1,v2",0
+934,身目发黄,Shen Mu Fa Huang,,心肝,肝经湿热,Synonymous terms,"v1,v2",0
+935,身热,Shen Re,身热（The body is hot），是一种证名。指全身发热的症象。,心肝,热证,Synonymous terms,"v1,v2",0
+936,身瘦,Shen Shou,,心肝,脾虚,Synonymous terms,"v1,v2",0
+937,身疼痛,Shen Teng Tong,周身疼痛。,心肝,寒证,Synonymous terms,"v1,v2",0
+938,身体倦懒,Shen Ti Juan Lan,,心肝,气虚,Synonymous terms,"v1,v2",0
+939,身体麻木,Shen Ti Ma Mu,,心肝,气机郁滞,Synonymous terms,"v1,v2",0
+940,身体痩弱,Shen Ti Shou Ruo,,心肝,脾虚,Synonymous terms,"v1,v2",0
+941,身体瘦弱,Shen Ti Shou Ruo,,心肝,脾虚,Synonymous terms,"v1,v2",0
+942,身痛,Shen Tong,周身疼痛。,,气机郁滞,Ontological terms,"v1,v2",0
+943,身痛痉挛,Shen Tong Jing Luan,,,经脉失养,Synonymous terms,"v1,v2",0
+944,神昏,Shen Hun,又称昏愦，病证名。见于《伤寒明理论》。即指神识丧失，对环境刺激缺乏反应的症状。轻者称晕厥或昏厥。中医文献还有“昏迷”、“昏蒙”、“昏厥”和“谵昏”等名，均属神昏的范畴。常因痰浊、热毒、外伤、气血逆乱、阴阳衰竭及其他强烈刺激等，使神明失主所致。,心脑,邪热扰心,Ontological terms,"v1,v2",0
+945,神昏不语,Shen Hun Bu Yu,,心脑,邪热扰心,Ontological terms,"v1,v2",0
+946,神昏狂躁,Shen Hun Kuang Zao,,心脑,邪热扰心,Synonymous terms,"v1,v2",0
+947,神昏谵语,Shen Hun Zhan Yu,,心脑,邪热扰心,Ontological terms,"v1,v2",0
+948,神经衰弱,Shen Jing Shuai Ruo,神经衰弱（neurasthenia）在中国属于神经症的诊断之一。是由于长期处于紧张和压力下，出现精神易兴奋和脑力易疲乏现象，常伴有情绪烦恼、易激惹、睡眠障碍、肌肉紧张性疼痛等；这些症状不能归于脑、躯体疾病及其他精神疾病。症状时轻时重，波动与心理社会因素有关，病程多迁延。近世纪，神经衰弱的概念经历了一系列变迁，随着医生对神经衰弱认识的变化和各种特殊综合征和亚型的分出，在美国和西欧已不作此诊断，CCMD-3工作组的现场测试证明，在我国神经衰弱的诊断也明显减少。,心脑,心神失养,Synonymous terms,"v1,v2",0
+949,神经痛,Shen Jing Tong,神经痛是神经科常见症状之一，此种疼痛是指在没有外界刺激的条件下而感到的疼痛，又称为自发痛。自发痛的种类很多，按病变的部位可分为周围神经性痛和中枢神经性痛。病因不明者称为原发性神经痛，有明确病因者称继发性（或症状性）神经痛。病变部位可在神经根、神经丛或神经干。常以病变所涉及的周围神经来命名。其他局部病变刺激末梢感受器引起的局部疼痛和中枢神经系统感觉传导通路病变所致的躯体痛，一般不属于神经痛的范畴。,心脑,元神失养,Ontological terms,"v1,v2",0
+950,神经性疼痛,Shen Jing Xing Teng Tong,,心脑,元神失养,Synonymous terms,"v1,v2",0
+951,神经性头痛,Shen Jing Xing Tou Tong,神经性头痛主要是指紧张性头痛、功能性头痛及血管神经性头痛，多由精神紧张、生气引起。主要症状为持续性的头部闷痛、压迫感、沉重感，有的患者自诉为头部有“紧箍”感。大部分患者为两侧头痛，多为两颞侧、后枕部及头顶部或全头部。,心脑,元神失养,Synonymous terms,"v1,v2",0
+952,神倦,Shen Juan,自觉精神困倦的表现。,心脑,气虚,Synonymous terms,"v1,v2",0
+953,神倦懒言,Shen Juan Lan Yan,,心脑,气虚,Synonymous terms,"v1,v2",0
+954,神疲,Shen Pi,自觉精神困倦的表现。,心脑,气虚,Ontological terms,"v1,v2",0
+955,神情呆滞,Shen Qing Dai Zhi,,心脑,气虚,Synonymous terms,"v1,v2",0
+956,神志不清,Shen Zhi Bu Qing,神志不清（unconsciousness）指神志昏蒙，呼之能应，或时有谵语，失去对事情的判断和处理能力。,心脑,邪热扰心,Synonymous terms,"v1,v2",0
+957,神志淡漠,Shen Zhi Dan Mo,,心脑,元神失养,Synonymous terms,"v1,v2",0
+958,神志恍惚,Shen Zhi Huang Hu,由于剧烈或持续的精神紧张性刺激直接引起的。其临床表现的主要内容与精神创伤密切相关，并伴有相应的情感体验，容易被人所理解。,心脑,元神失养,Ontological terms,"v1,v2",0
+959,神志昏蒙,Shen Zhi Hun Meng,,心脑,邪热亢盛,Synonymous terms,"v1,v2",0
+960,神志昏迷,Shen Zhi Hun Mi,,心脑,邪热亢盛,Synonymous terms,"v1,v2",0
+961,神志混乱,Shen Zhi Hun Luan,,心脑,邪热亢盛,Ontological terms,"v1,v2",0
+962,肾精不足,Shen Jing Bu Zu,肾精不足为肾精亏虚，发育生殖等功能减退所致的病症。肾精不足多由先天发育不良，禀赋不足，或后天调摄失宜，房事过度，大病久病伤肾等引起。,肾,肾虚,Synonymous terms,"v1,v2",0
+963,肾区叩击痛,Shen Qu Kou Ji Tong,,肾,肾虚,Synonymous terms,"v1,v2",0
+964,肾区冷痛、,Shen Qu Leng Tong 、,,肾,肾虚,Synonymous terms,"v1,v2",0
+965,声带充血,Sheng Dai Chong Xie,,肾,风热犯肺,Synonymous terms,"v1,v2",0
+966,声带息肉,Sheng Dai Xi Rou,声带息肉是发生于声带固有层浅层的良性增生性病变，也是一种特殊类型的慢性喉炎。最主要的临床症状为声嘶。通过喉镜检查可以做出临床诊断。治疗方式主要为手术切除治疗。若经治疗好转后，患者仍暴露于用声过度、用声不当、吸烟等危险因素中，则声带息肉可再次出现。术后要继续避免和治疗可能的致病因素。,肾,淤血阻滞,Synonymous terms,"v1,v2",0
+967,声带小结,Sheng Dai Xiao Jie,声带小结又称歌唱者小结或教师小结，发生于儿童者称喊叫小结，是一种特殊类型的慢性喉炎，由炎性病变形成。最主要的临床症状为声嘶。通过喉镜检查可以进行临床诊断。治疗包括适当声带休息、纠正发声方法、手术治疗等。,肾,肝气郁滞,Synonymous terms,"v1,v2",0
+968,声音嘶哑,Sheng Yin Si Ya,声音嘶哑又称声嘶，是喉部（特别是声带）病变的主要症状，多由喉部病变所致，也可因全身性疾病所引起。声嘶的程度因病变的轻重而异，轻者仅见音调变低、变粗，重者发声嘶哑甚至只能发出耳语声或失音。,肾,肺阴亏虚,Synonymous terms,"v1,v2",0
+969,声重,Sheng Zhong,中医学名词，指语声重浊，称为声重，多属外感风寒，以致或湿浊阻滞，肺气不宣，鼻窍不通所致。临床表现有鼻塞、流涕或咳嗽、痰多等症状。,肾,肺气虚,Synonymous terms,"v1,v2",0
+970,失眠,Shi Mian,,心 肾,心火旺盛,Ontological terms,"v1,v2",0
+971,失音,Shi Yin,失音（aphonia ）是指神清而声音嘶哑，甚至不能发出声音的症状。祖国医学称“暴喑”。多由风寒或风热火毒等邪犯喉，肾阴虚、肺虚气弱，或神情失调、气机呆滞等所致。常见于喉喑、喉癣、气厥、喉息肉、白喉、子喑等病中。,肺,肺气不利,Ontological terms,"v1,v2",0
+972,失语,Shi Yu,失语症是指由于神经中枢病损导致抽象信号思维障碍，而丧失口语、文字的表达和理解能力的临床症候群。失语症不包括由于意识障碍和普通的智力减退造成的语言症状，也不包括听觉、视觉、书写、发音等感觉和运动器官损害引起的语言、阅读和书写障碍。因先天或幼年疾病引致学习困难，造成的语言机能缺陷不属失语症范畴。,肾,,Synonymous terms,"v1,v2",0
+973,湿痹拘挛,Shi Bi Ju Luan,,四肢,脾虚湿盛,Ontological terms,"v1,v2",0
+974,湿疮,Shi Chuang,湿疮，中医病名。湿疮是一种由多种内外因素引起的过敏性炎症性皮肤病。以多形性皮损，对称分布，易于渗出，自觉瘙痒，反复发作和慢性化为临床特征。本病男女老幼皆可罹患，而以先天禀赋不耐者为多。一般可分为急性、亚急性、慢性三类。本病相当于西医的湿疹。,皮肤,湿热,Ontological terms,"v1,v2",0
+975,湿疮脓水浸淫,Shi Chuang Nong Shui Jin Yin,,皮肤,湿热,Ontological terms,"v1,v2",0
+976,湿热毒邪聚结肌肤,Shi Re Du Xie Ju Jie Ji Fu,,皮肤,湿热,Synonymous terms,"v1,v2",0
+977,湿热下注,Shi Re Xia Zhu,湿热下注是一个中医的术语。中医认为，膀胱系津液之府，湿热蕴结于下焦，下注膀胱，湿热阻于肾与膀胱，导致肾与膀胱气化失常，则水道、小便不利，泄时涩痛，尿赤，尿浑浊，小便频数，淋沥不畅（即尿频、尿急、尿短少、尿痛等尿路刺激症状）。临床可以根据辨证用五淋散、萆解分清饮、黄连解毒汤等等加减治疗。,皮肤,湿热,Synonymous terms,"v1,v2",0
+978,湿疹,Shi Zhen,湿疹是由多种内外因素引起的瘙痒剧烈的一种皮肤炎症反应。分急性、亚急性、慢性三期。急性期具渗出倾向，慢性期则浸润、肥厚。有些病人直接表现为慢性湿疹。皮损具有多形性、对称性、瘙痒和易反复发作等特点。,皮肤,湿热,Ontological terms,"v1,v2",0
+979,湿疹瘙痒,Shi Zhen Sao Yang,,皮肤,湿热,Ontological terms,"v1,v2",0
+980,十二指肠溃疡出血,Shi Er Zhi Chang Kui Yang Chu Xie,,胃,胃热,Synonymous terms,"v1,v2",0
+981,石淋,Shi Lin,石淋 ，病名。小便涩痛，尿出砂石。又称砂淋、沙石淋。多因下焦积热，煎熬水液所致。,膀胱,膀胱湿热,Ontological terms,"v1,v2",0
+982,石淋涩痛,Shi Lin Se Tong,,膀胱,膀胱湿热,Ontological terms,"v1,v2",0
+983,时有隐痛,Shi You Yin Tong,,,肝经失养,Synonymous terms,"v1,v2",0
+984,食后腹胀拒按,Shi Hou Fu Zhang Ju An,,脾胃,脾气虚,Synonymous terms,"v1,v2",0
+985,食后胀痛,Shi Hou Zhang Tong,,脾胃,脾气虚,Synonymous terms,"v1,v2",0
+986,食积,Shi Ji,食积，九积之一。食滞不消，日久成积者。《儒门事亲》卷三：“食积，酸心腹满，大黄、牵牛之类，甚者礞石、巴豆。”《杂病源流犀烛·积聚症瘕痃癖痞源流》：“食积，食物不能消化，成积痞闷也，宜青礞石、鸡内金、枳实、巴豆、香附，方用保和丸，连萝丸、佐脾丸。”《医医偶录》治肚腹胀硬拒按，吞酸嗳腐，不思饮食，用大和中饮。脾虚者，参用六君汤。参见肉积、面积、果菜积等条。,脾胃,饮食停胃,,v1,1
+987,食积不消,Shi Ji Bu Xiao,,脾胃,脾虚,,v1,1
+988,食积胀满,Shi Ji Zhang Man,,脾胃,脾虚,Ontological terms,"v1,v2",0
+989,食乳不化,Shi Ru Bu Hua,,脾胃,脾虚,Synonymous terms,"v1,v2",0
+990,食少,Shi Shao,胃接受和容纳食物的功能称作“胃主受纳”，因邪气扰动，胃气不降；或脾胃功能虚弱，出现消化不良、食欲不振，进食后有饱滞之感的症状，称为“胃纳呆滞”，简称胃呆、纳呆、纳少或食少。作为症状可兼见于多种疾病，临床较为多见，如临床表现突出而其他症状不明显，可作为独立疾病诊断。,脾胃,脾虚,Ontological terms,"v1,v2",0
+991,食少不化,Shi Shao Bu Hua,,脾胃,脾虚,Synonymous terms,"v1,v2",0
+992,食少乏力,Shi Shao Fa Li,,脾胃,脾虚,Ontological terms,"v1,v2",0
+993,食少腹胀,Shi Shao Fu Zhang,,脾胃,脾虚,Ontological terms,"v1,v2",0
+994,食物积滞,Shi Wu Ji Zhi,,脾胃,脾虚,,v1,1
+995,食欲不振,Shi Yu Bu Zhen,食欲不振是指进食的欲望降低。完全的不思进食则称厌食。,脾胃,脾虚,Ontological terms,"v1,v2",0
+996,食欲减退,Shi Yu Jian Tui,正常人一般都有良好的食欲，这是判断人全健康的重要标志之一。因此，食欲异常往往表示人体处于病理状态。食欲异常包括食欲减退、食欲亢进及食欲反常三种，其中食欲减退是临床上最常见的症状。,脾胃,脾虚,Synonymous terms,"v1,v2",0
+997,食滞,Shi Zhi,,脾胃,脾虚,Ontological terms,"v1,v2",0
+998,食滞不化,Shi Zhi Bu Hua,,脾胃,脾虚,Synonymous terms,"v1,v2",0
+999,食滞化热,Shi Zhi Hua Re,,脾胃,脾虚,Synonymous terms,"v1,v2",0
+1000,视觉异常,Shi Jue Yi Chang,,肝目,肝经失养,Synonymous terms,"v1,v2",0
+1001,视力减退,Shi Li Jian Tui,,肝目,肝肾亏虚,Synonymous terms,"v1,v2",0
+1002,视力疲劳,Shi Li Pi Lao,视力疲劳是指从事近距离工作或学习，由于过度使用眼睛而产生的眼睛疲劳。此症常发于从事近距离精密工作、电脑工作，或者在照明条件不佳（光线过亮/过暗）的环境内学习或工作，以及患有近视、远视、老光等屈光不正及身体衰弱的人。,肝目,肝经失养,Synonymous terms,"v1,v2",0
+1003,视力下降,Shi Li Xia Jiang,,肝目,肝经失养,Synonymous terms,"v1,v2",0
+1004,视物不清,Shi Wu Bu Qing,,肝目,肝经失养,Synonymous terms,"v1,v2",0
+1005,视物昏暗,Shi Wu Hun An,,肝目,肝经失养,Synonymous terms,"v1,v2",0
+1006,视物昏花,Shi Wu Hun Hua,视物昏花是一种病症，从中医角度而言，视物昏花属于“肝肾亏损”。过度用眼，使眼部睫状肌痉挛，调节力下降，出现视物昏花，如果双眼睫状肌痉挛程度不一样，还会出现视物重影。另外，在疲劳状态下，眼睛视网膜感光介质缺乏能量，甚至感光介质消耗过度、生成不足，会产生视物昏花、异色感。,肝目,肝经失养,Ontological terms,"v1,v2",0
+1007,视物模糊,Shi Wu Mo Hu,视物模糊（blurred vision）可以是缘于多种眼科疾病，如白内障、屈光不正，近视、远视、散光等。也可能是其他全身疾病引起的并发症，或者并非疾病，而是外界干扰导致。治疗视物模糊应查找原发病，针对病因进行治疗。,肝目,肝经失养,Synonymous terms,"v1,v2",0
+1008,手臂麻木,Shou Bi Ma Mu,上肢神经卡压：一是拇、食、中指的麻木疼痛，常有夜间麻醒史，醒后活动可好转。严重者可伴有手部肌肉萎缩，影响手的精细动作，这是因为正中神经在腕部受到压迫，即所谓的“腕管综合症”；二是环、小指的麻木疼痛，也可有夜间麻醒史，严重者伴有肌萎缩，环、小指的屈指力下降，影响精细运用。这是因为神经在肘部受到卡压，即所谓的“肘管综合症”手麻木。,四肢,肝风内动,Synonymous terms,"v1,v2",0
+1009,手抽搐,Shou Chou Chu,,四肢,阴虚阳亢,Synonymous terms,"v1,v2",0
+1010,手拘挛,Shou Ju Luan,,四肢,筋脉失养,Synonymous terms,"v1,v2",0
+1011,手麻木,Shou Ma Mu,,四肢,筋脉失养,Ontological terms,"v1,v2",0
+1012,手术出血,Shou Zhu Chu Xie,,四肢,脾气虚,Synonymous terms,"v1,v2",0
+1013,手心热,Shou Xin Re,手心热，症名。两手掌心有发热感觉。一名掌中热。手三阴经是动、所生病证之一。又为劳倦内伤及五心烦热的症状之一，《内外伤辨惑论》有记载。,四肢,阴虚,Synonymous terms,"v1,v2",0
+1014,手肿胀,Shou Zhong Zhang,,四肢,脾气虚,Synonymous terms,"v1,v2",0
+1015,手足不遂,Shou Zu Bu Sui,,四肢,四肢失养,Ontological terms,"v1,v2",0
+1016,手足不温,Shou Zu Bu Wen,,四肢,阳虚,Synonymous terms,"v1,v2",0
+1017,手足发凉,Shou Zu Fa Liang,,四肢,阳虚,Synonymous terms,"v1,v2",0
+1018,手足麻木症,Shou Zu Ma Mu Zheng,,四肢,四肢失养,Synonymous terms,"v1,v2",0
+1019,手足瘈疲,Shou Zu Ji Pi,,四肢,热证,Synonymous terms,"v1,v2",0
+1020,暑湿,Shu Shi,暑湿，即暑热挟湿。以胸脘痞闷、心烦、身热、舌苔黄腻为主证。多发生于夏令季节，暑湿俱盛之时，尤以南方为多见。其以发病较急，初起见有身热、头身重病、微汗、口渴、脘痞等暑湿郁遏肌表证候为主要特点。如暑湿困阻中焦，则见壮热烦渴、汗多尿少、 胸脘痞闷，身重困倦；如暑湿弥漫三焦，则见咳嗽、身热面赤、胸脘痞闷、大便稀臭、小便短赤、甚或咯痰带血；如内蕴暑湿而外感风寒，则见头痛身热、恶寒无汗、身体拘急不舒，胸闷心烦，舌苔白腻等。,,,,v1,1
+1021,暑邪发热,Shu Xie Fa Re,,,暑热侵袭,Ontological terms,"v1,v2",0
+1022,术后疼痛,Zhu Hou Teng Tong,,,淤血阻滞,,v1,1
+1023,双目上吊,Shuang Mu Shang Diao,,肝,肝肾亏虚,Synonymous terms,"v1,v2",0
+1024,双乳痛,Shuang Ru Tong,,子宫,肝气郁滞,Synonymous terms,"v1,v2",0
+1025,水浆难下,Shui Jiang Nan Xia,,胃,胃气虚,Synonymous terms,"v1,v2",0
+1026,水泻,Shui Xie,水泻，病证名。泻下稀水，如水下注。又称水泄、注泄、泄注、注下。多因脾胃虚弱，感寒停湿及热迫肠胃所致。,肾,肾阳虚,Ontological terms,"v1,v2",0
+1027,水肿,Shui Zhong,组织间隙过量的体液潴留称为水肿（edema），通常指皮肤及皮下组织液体潴留，体腔内体液增多则称积液。根据分布范围，水肿可表现为局部性或全身性，全身性水肿时往往同时有浆膜腔积液，如腹水、胸腔积液和心包腔积液。全身性水肿主要有心源性水肿、肾源性水肿、肝源性水肿、营养不良性水肿、黏液性水肿、特发性水肿、药源性水肿、老年性水肿等。根据水肿的程度可分为轻、中、重度水肿，轻度水肿仅见于眼睑、眶下软组织，胫骨前、踝部的皮下组织，指压后可见组织轻度凹陷，体重可增加5%左右。中度：全身疏松组织均有可见性水肿，指压后可出现明显的或较深的组织凹陷，平复缓慢。重度：全身组织严重水肿，身体低垂部皮肤紧张发亮，甚至可有液体渗出，有时可伴有胸腔、腹腔、鞘膜腔积液。,肾,肾阳虚,Ontological terms,"v1,v2",0
+1028,睡卧不安,Shui Wo Bu An,,心,心火旺,Synonymous terms,"v1,v2",0
+1029,思维迟缓,Si Wei Chi Huan,思维迟缓与思维奔逸相反，表现为以抑制性思维占主导的思维形式障碍。患者联想困难、对问题反应迟钝，有时概念停留很长时间，不能顺利地表达出来，言语缓慢、回答问题吞吞吐吐、拖延很久、难以出口，有时再三提问，才能得到回答，见于抑郁症或抑郁状态。,心,元神失养,Synonymous terms,"v1,v2",0
+1030,死胎,Si Tai,妊娠20周以后，胎儿在子宫内死亡，称为死胎。由于大约半数的死胎案例妊娠时期根本没有任何征兆显示存在问题，所以多数父母是在完全没意识到的情况下丧失胎儿。,子宫,肝肾亏虚,Ontological terms,"v1,v2",0
+1031,四肢不温,Si Zhi Bu Wen,,四肢,阳虚,Synonymous terms,"v1,v2",0
+1032,四肢乏力,Si Zhi Fa Li,,四肢,气虚,Synonymous terms,"v1,v2",0
+1033,四肢浮肿,Si Zhi Fu Zhong,,四肢,脾虚湿盛,Ontological terms,"v1,v2",0
+1034,四肢关节冷痛,Si Zhi Guan Jie Leng Tong,,四肢,阳虚,Synonymous terms,"v1,v2",0
+1035,四肢拘挛,Si Zhi Ju Luan,指四肢拘急挛缩，伸展困难的症状。,四肢,肝肾亏虚,Ontological terms,"v1,v2",0
+1036,四肢倦怠,Si Zhi Juan Dai,,四肢,脾气虚,Synonymous terms,"v1,v2",0
+1037,四肢倦乏,Si Zhi Juan Fa,,四肢,脾气虚,Ontological terms,"v1,v2",0
+1038,四肢厥逆,Si Zhi Jue Ni,,四肢,脾气虚,Synonymous terms,"v1,v2",0
+1039,四肢挛急,Si Zhi Luan Ji,,四肢,筋脉失养,Ontological terms,"v1,v2",0
+1040,四肢挛痛,Si Zhi Luan Tong,,四肢,筋脉失养,Ontological terms,"v1,v2",0
+1041,四肢麻痹,Si Zhi Ma Bi,,四肢,筋脉失养,Ontological terms,"v1,v2",0
+1042,四肢麻木,Si Zhi Ma Mu,四肢麻木是人们日常生活中常常会出现的症状，如怀孕、不正确睡姿、如厕蹲久了均可引发，一般会在短时间内消除，不会有什么大问题。健康人手脚麻木，多在长时间处于一种姿势或四肢受压后发生。这类麻木很少超过十分钟，且可迅速消失，也不伴有其他症状。,四肢,筋脉失养,Synonymous terms,"v1,v2",0
+1043,四肢逆冷,Si Zhi Ni Leng,即手足发凉冷。又称四逆、手足厥冷。,四肢,阳虚,Synonymous terms,"v1,v2",0
+1044,四肢酸,Si Zhi Suan,,四肢,脾气虚,Synonymous terms,"v1,v2",0
+1045,四肢酸懒,Si Zhi Suan Lan,,四肢,脾气虚,Synonymous terms,"v1,v2",0
+1046,四肢酸痛,Si Zhi Suan Tong,,四肢,脾气虚,Synonymous terms,"v1,v2",0
+1047,四肢疼痛,Si Zhi Teng Tong,四肢疼痛的发生主要是由于机体内正气不足，感受风、寒、湿、热、之邪，闭阻经络，气血运行不畅所致，以四肢的关节、筋骨、肌肉发生酸痛、麻木、重着、屈伸不利，甚至关节肿大灼热为主要临床表现。属于中医学“痹证”的范畴，现代医学相当于风湿性、类风湿性关节炎。,四肢,脾气虚,Ontological terms,"v1,v2",0
+1048,四肢无力,Si Zhi Wu Li,,四肢,脾气虚,Ontological terms,"v1,v2",0
+1049,嗖痛,Sou Tong,,四肢,肝经湿热,Synonymous terms,"v1,v2",0
+1050,溲黄,Sou Huang,,肝,肝经湿热,Synonymous terms,"v1,v2",0
+1051,胎动不安,Tai Dong Bu An,妊娠期出现腰酸腹痛，胎动下坠，或阴道少量流血者，称为“胎动不安”，又称“胎气不安”。 本病类似于西医学的先兆流产、先兆早产。胎动不安是临床常见的妊娠病之一，经过安胎治疗，腰酸、腹痛消失，出血迅速停止，多能继续妊娠。若因胎元有缺陷而致胎动不安者，胚胎不能成形，故不宜进行保胎治疗。,子宫,肝肾亏虚,Ontological terms,"v1,v2",0
+1052,胎漏,Tai Lou,妊娠期间出现的阴道少量出血，时出时止，或淋漓不断，而无腰酸、腹痛、小腹下坠者，称为“胎漏”，亦称“胞漏”或“漏胎”。胎漏多发生在妊娠早期，西医称之为“先兆流产”。,子宫,气虚,Ontological terms,"v1,v2",0
+1053,胎漏下血,Tai Lou Xia Xie,,子宫,气虚,Ontological terms,"v1,v2",0
+1054,胎盘不下,Tai Pan Bu Xia,,子宫,气虚,Ontological terms,"v1,v2",0
+1055,瘫痪,Tan Huan,瘫痪（paralysis）是随意运动功能的减低或丧失，是神经系统常见的症状，是神经、神经肌肉接头或肌肉疾病所致。应针对导致随意运动障碍的原发病进行治疗，同时给予康复治疗。,心,血瘀,Ontological terms,"v1,v2",0
+1056,痰白,Tan Bai,,肺,寒证,Synonymous terms,"v1,v2",0
+1057,痰白质稀,Tan Bai Zhi Xi,,肺,寒湿,Synonymous terms,"v1,v2",0
+1058,痰不易出,Tan Bu Yi Chu,,肺,热证,Synonymous terms,"v1,v2",0
+1059,痰稠,Tan Chou,,肺,热证,Ontological terms,"v1,v2",0
+1060,痰稠黄,Tan Chou Huang,,肺,热证,Ontological terms,"v1,v2",0
+1061,痰稠难出,Tan Chou Nan Chu,,肺,热证,Synonymous terms,"v1,v2",0
+1062,痰喘,Tan Chuan,痰喘，中医病症名。指由气管积痰而引起的呼吸不畅、心跳、出汗等症状。,肺,肾气虚,Ontological terms,"v1,v2",0
+1063,痰多,Tan Duo,,肺,肺气虚,Ontological terms,"v1,v2",0
+1064,痰多黄稠,Tan Duo Huang Chou,,肺,肺热,Synonymous terms,"v1,v2",0
+1065,痰多咳嗽,Tan Duo Ke Sou,,肺,肺气虚,Ontological terms,"v1,v2",0
+1066,痰多淸稀,Tan Duo Qing Xi,,肺,肺气虚,Synonymous terms,"v1,v2",0
+1067,痰多上气,Tan Duo Shang Qi,,肺,肾气虚,Synonymous terms,"v1,v2",0
+1068,痰多作喘,Tan Duo Zuo Chuan,,肺,肾气虚,Synonymous terms,"v1,v2",0
+1069,痰核痞块,Tan He Pi Kuai,,肺,肝气郁滞,Ontological terms,"v1,v2",0
+1070,痰黄,Tan Huang,,肺,肺热,Ontological terms,"v1,v2",0
+1071,痰黄稠,Tan Huang Chou,,肺,肺热,Ontological terms,"v1,v2",0
+1072,痰黄稠黏,Tan Huang Chou Nian,,肺,肺热,Synonymous terms,"v1,v2",0
+1073,痰黄黏稠,Tan Huang Nian Chou,,肺,肺热,Synonymous terms,"v1,v2",0
+1074,痰厥,Tan Jue,中医病症名。指因痰盛气闭而引起四肢厥冷，甚至昏厥的病症。多见于患有慢性支气管炎、支气管哮喘、肺气肿等慢性病的老年患者，有时出现猛烈咳嗽一番后，导致意识短暂丧失，甚至发生晕厥跌倒的现象。中医理论认为这是痰气上逆所致，故称之为“痰厥”。,肺,痰热,Ontological terms,"v1,v2",0
+1075,痰厥头痛,Tan Jue Tou Tong,痰厥头痛，病证名。指痰气上逆而致头痛。《古今医鉴》将之归于“厥头痛”范畴。《外台秘要》卷八：“痰厥头痛方：《病源》（指《诸病源候论》）谓，痰水在于胸膈之上，又犯大寒，使阳气不行，令痰气结聚不散，而阴气逆上与风痰相结，上冲于头，即令头痛。或数载不已，久连脑痛。”《张氏医通·诸痛门》：“痰厥头痛，两寸脉滑而弦，眼重头旋，恶心烦乱，吐清水，气短促，心神不安，语言颠倒，目不敢开，如在风露中，头疼如裂，身重如山，胸满呕逆，四肢厥冷，半夏白术天麻汤；有肥白气虚多痰人，卒然头痛，脉沉细，四肢厥逆，痰响吐涎，星香汤加生附子。”参见厥头痛、头痛条。,肺,痰湿,Ontological terms,"v1,v2",0
+1076,痰鸣,Tan Ming,,肺,肺气虚,Synonymous terms,"v1,v2",0
+1077,痰鸣如吼,Tan Ming Ru Hou,,肺,肺热,Synonymous terms,"v1,v2",0
+1078,痰黏,Tan Nian,,肺,肺热,Ontological terms,"v1,v2",0
+1079,痰黏稠,Tan Nian Chou,,肺,肺热,Synonymous terms,"v1,v2",0
+1080,痰热,Tan Re,,肺,肺热,,v1,1
+1081,痰热喘咳,Tan Re Chuan Ke,,肺,肺热,Ontological terms,"v1,v2",0
+1082,痰热阻肺,Tan Re Zu Fei,痰热阻肺，病证名。指痰热壅阻于肺，发生喘咳。症见发热咳嗽、喘息痰鸣、胸膈满闷，咯黄稠痰或痰中带血，甚则呼吸迫促、胸胁作痛、大便秘结、小便短赤，舌红苔黄腻，脉滑数。治宜清热化痰，方如麻杏石甘汤。,肺,肺热,Synonymous terms,"v1,v2",0
+1083,痰少,Tan Shao,,肺,肺热,Ontological terms,"v1,v2",0
+1084,痰盛,Tan Sheng,,肺,肺热,,v1,1
+1085,痰稀,Tan Xi,,肺,寒湿犯肺,Synonymous terms,"v1,v2",0
+1086,痰涎壅盛,Tan Xian Yong Sheng,,肺,痰湿阻肺,Ontological terms,"v1,v2",0
+1087,痰血,Tan Xie,痰血，证名。指痰中经常带血。《不居集》卷十三：“痰血，咳咯唾皆有之，兼顾血屑、血丝、血点是也。”多见于肺结核、支气管扩张、多种肺部感染。,肺,肺热,Ontological terms,"v1,v2",0
+1088,痰饮,Tan Yin,痰饮指体内水液不得输化，停留或渗注于体内某一部位而发生的病证，这是广义的痰饮，其中痰和饮既有区别，又有联系：首先它们都是津液代谢障碍所形成的病理产物，所谓“积水成饮，饮凝成痰”，其次它们又可能成为新的致病因素。一般以较稠浊的称为痰，清稀的称为饮。痰不仅是指咳吐出来有形可见的痰液，还包括瘰疬、痰核和停滞在脏腑经络等组织中的痰液，临床上可通过其所表现的证候来确定，这种痰称为“无形之痰”。,肺,寒湿阻肺,Ontological terms,"v1,v2",0
+1089,痰饮咳喘,Tan Yin Ke Chuan,,肺,肺气上逆,Ontological terms,"v1,v2",0
+1090,痰壅,Tan Yong,,肺,肺气郁滞,,v1,1
+1091,痰粘稠,Tan Nian Chou,痰粘稠 ，病状名，指痰质胶粘浓稠难咯，色白带黄，多属肺热。,肺,肺热,Synonymous terms,"v1,v2",0
+1092,痰中带血,Tan Zhong Dai Xie,,肺,肺热,Ontological terms,"v1,v2",0
+1093,痰浊黄稠,Tan Zhuo Huang Chou,,肺,肺热,Ontological terms,"v1,v2",0
+1094,疼痛,Teng Tong,,,阳虚,,v1,1
+1095,疼痛夜甚,Teng Tong Ye Shen,,,阳虚,Synonymous terms,"v1,v2",0
+1096,体乏,Ti Fa,,脾,脾气虚,Ontological terms,"v1,v2",0
+1097,体乏无力,Ti Fa Wu Li,,脾,脾气虚,Synonymous terms,"v1,v2",0
+1098,体倦,Ti Juan,,脾,脾气虚,Ontological terms,"v1,v2",0
+1099,体疲,Ti Pi,,脾,脾气虚,Synonymous terms,"v1,v2",0
+1100,体弱,Ti Ruo,,脾,脾气虚,Ontological terms,"v1,v2",0
+1101,体虚,Ti Xu,中医将体质虚弱称体虚，把慢性疾病的虚弱称虚证，并将虚弱分为气虚、血虚、阴虚、阳虚四种类型，结合心、肝、脾、肺、肾五脏，则每一脏又有气、血、阴、阳虚弱的类型，如肺气虚、脾阳虚等等。,脾,脾气虚,Ontological terms,"v1,v2",0
+1102,体虚多汗,Ti Xu Duo Han,,脾,脾气虚,Ontological terms,"v1,v2",0
+1103,体虚乏力,Ti Xu Fa Li,,脾,脾气虚,Ontological terms,"v1,v2",0
+1104,体虚欲脱,Ti Xu Yu Tuo,,心肾,肝肾亏虚,Ontological terms,"v1,v2",0
+1105,体虛,Ti Xu,,肝肾,肝肾亏虚,Synonymous terms,"v1,v2",0
+1106,涕黄稠,Ti Huang Chou,,肺,肺热,Synonymous terms,"v1,v2",0
+1107,涕中带血,Ti Zhong Dai Xie,,肺,肺热,Synonymous terms,"v1,v2",0
+1108,天行赤眼,Tian Xing Chi Yan,天行赤眼，中医病名。本病白睛暴发红赤，眵多粘结，常累及双眼，能迅速传染并引起广泛流行。故称天行赤眼。又名天行赤热、天行暴赤。俗称红眼病。本病见于《银海精微》。该书对本病病因及其传染流行等均有描述。多于夏秋之季发病，患者常有传染病接触史。本病与西医学之急性传染性结膜炎相似。,肝目,肝经热证,Synonymous terms,"v1,v2",0
+1109,听衰,Ting Shuai,,肝,肝肾亏虚,Synonymous terms,"v1,v2",0
+1110,停经,Ting Jing,停经（cessation of menstruation）育龄有性生活史的健康妇女，平时月经周期规则，一旦月经过期，应考虑到妊娠。若停经2个月以上，则妊娠的可能性更大，停经是妊娠最早的症状，但不是妊娠的特有症状。,肾,肝肾亏虚,Synonymous terms,"v1,v2",0
+1111,停乳,Ting Ru,,乳房,肝气郁滞,Ontological terms,"v1,v2",0
+1112,停食,Ting Shi,停食，指食物停滞胃中不消化。,脾胃,脾胃亏虚,Ontological terms,"v1,v2",0
+1113,瞳孔散大,Tong Kong San Da,,脑肾,元气欲脱,Synonymous terms,"v1,v2",0
+1114,痛,Tong,,,寒证  虚证,,v1,1
+1115,痛处拒按,Tong Chu Ju An,,,淤血,Synonymous terms,"v1,v2",0
+1116,痛经,Tong Jing,痛经（dysmenorrhea）为最常见的妇科症状之一，指行经前后或月经期出现下腹部疼痛、坠胀，伴有腰酸或其他不适，症状严重影响生活质量者。痛经分为原发性痛经和继发性两类，原发性痛经指生殖器官无器质性病变的痛经；继发性痛经指由盆腔器质性疾病，如子宫内膜异位症、子宫腺肌病等引起的痛经。,子宫,肝气郁滞,Ontological terms,"v1,v2",0
+1117,痛如针刺,Tong Ru Zhen Ci,痛如针刺是一种证名。系指眼珠疼痛如针刺的证候。见《银海精微》。,,,Synonymous terms,"v1,v2",0
+1118,痛甚,Tong Shen,,,寒证,Synonymous terms,"v1,v2",0
+1119,痛有定处,Tong You Ding Chu,疼痛部位固定不移。,,淤血,Synonymous terms,"v1,v2",0
+1120,头部疖肿,Tou Bu Jie Zhong,,头,热证,Ontological terms,"v1,v2",0
+1121,头部剌痛,Tou Bu La Tong,,头,淤血,Synonymous terms,"v1,v2",0
+1122,头部胀痛,Tou Bu Zhang Tong,,头,气虚,Synonymous terms,"v1,v2",0
+1123,头发早白,Tou Fa Zao Bai,,心肾,肝肾亏虚,Synonymous terms,"v1,v2",0
+1124,头昏,Tou Hun,头昏是脑神经失调的一种表现。具体原因可能是血液循环不畅、缺氧、低血糖导致脑神经能量匮乏或者是心理疲劳、神经性失调。,心,气血亏虚,Synonymous terms,"v1,v2",0
+1125,头剌痛,Tou La Tong,,头,淤血,Synonymous terms,"v1,v2",0
+1126,头面部神经痛,Tou Mian Bu Shen Jing Tong,,头,经脉失养,Synonymous terms,"v1,v2",0
+1127,头面疼痛,Tou Mian Teng Tong,,头,经脉失养,Synonymous terms,"v1,v2",0
+1128,头目不清,Tou Mu Bu Qing,,头,冲气上逆,Ontological terms,"v1,v2",0
+1129,头皮光亮,Tou Pi Guang Liang,,头,湿热瘀滞,Synonymous terms,"v1,v2",0
+1130,头皮瘙痒,Tou Pi Sao Yang,头皮瘙痒是头皮菌群平衡遭到破坏，有害菌大量滋生，若不加以防治，更会引发油脂、代谢的失衡，使整个头皮状态紊乱，严重破坏头皮的健康状况；而头皮作为人体最重要的指令控制中心——头部的天然屏障，其脆弱性和敏感性更仅次于眼皮，可谓牵一发而动全身。,头,湿热瘀滞,Synonymous terms,"v1,v2",0
+1131,头身困重,Tou Shen Kun Zhong,,头,湿热瘀滞,Synonymous terms,"v1,v2",0
+1132,头疼痛,Tou Teng Tong,,头,湿热瘀滞,Synonymous terms,"v1,v2",0
+1133,头痛,Tou Tong,头痛（headache） 是临床常见的症状，通常将局限于头颅上半部，包括眉弓、耳轮上缘和枕外隆突连线以上部位的疼痛统称头痛。头痛病因繁多，神经痛、颅内感染、颅内占位病变、脑血管疾病、颅外头面部疾病、以及全身疾病如急性感染、中毒等均可导致头痛。发病年龄常见于青年、中年和老年。,头,气虚亏虚,Ontological terms,"v1,v2",0
+1134,头痛日久,Tou Tong Ri Jiu,,头,气血亏虚,Synonymous terms,"v1,v2",0
+1135,头痛如裹,Tou Tong Ru Guo,,头,寒湿证,Synonymous terms,"v1,v2",0
+1136,头项强,Tou Xiang Qiang,,头,经脉失养,Ontological terms,"v1,v2",0
+1137,头项痛,Tou Xiang Tong,,头,经脉失养,Ontological terms,"v1,v2",0
+1138,头眩,Tou Xuan,头眩，即眩晕，病证名，出自《金匮要略·中风历节病脉证并治》。,头,肝气上逆,Synonymous terms,"v1,v2",0
+1139,头痈,Tou Yong,,头,肝热,Synonymous terms,"v1,v2",0
+1140,头晕,Tou Yun,头晕（dizziness）是一种常见的脑部功能性障碍，也是临床常见的症状之一。为头昏、头胀、头重脚轻、脑内摇晃、眼花等的感觉。头晕可由多种原因引起，最常见于发热性疾病、高血压病、脑动脉硬化、颅脑外伤综合征、神经症等。,头,肝气上逆,Ontological terms,"v1,v2",0
+1141,头晕目眩,Tou Yun Mu Xuan,头晕目眩是一个成语，读音是tóu yūn mù xuàn，意思是头晕眼花，感到一切都在旋转；有时也形容被繁琐的事情弄得不知所措。出自曹雪芹的《红楼梦》第六回：“满屋里的东西都是耀眼夺光，使人头晕目眩。”通常作谓语或定语，指头部发昏、眼睛昏花。,头,肝气上逆,Ontological terms,"v1,v2",0
+1142,头晕眼花,Tou Yun Yan Hua,头脑昏晕，眼睛发花。,头,肝气上逆,Ontological terms,"v1,v2",0
+1143,头胀,Tou Zhang,头胀 ，证名。自觉头部胀重不适。外感内伤均可引起。外感多因湿热郁蒸所致。,头,肝气上逆,Synonymous terms,"v1,v2",0
+1144,头胀痛,Tou Zhang Tong,头胀痛（head pain）是一种钝性疼痛，多呈持续性全头痛，头痛的同时常伴有头胀感，或伴有头晕、头沉。如果是太阳穴部位出现胀痛或重压感，可能是由于大脑疲劳。各种颅内、颅外和全身性的疾病都可能引起头痛。,头,肝气上逆,Ontological terms,"v1,v2",0
+1145,头重,Tou Zhong,头重，症名。头部自觉重坠，或如布带束裹的感觉,头,肝肾亏虚,Synonymous terms,"v1,v2",0
+1146,吐脓,Tu Nong,,肺,肺热,Ontological terms,"v1,v2",0
+1147,吐衄,Tu Nv,,肺,热伤血络,Ontological terms,"v1,v2",0
+1148,吐痰,Tu Tan,,肺,痰湿证,Synonymous terms,"v1,v2",0
+1149,吐痰清稀,Tu Tan Qing Xi,,肺,寒湿侵肺,Synonymous terms,"v1,v2",0
+1150,吐泻,Tu Xie,又吐又泻,胃肠,气机升降失调,Ontological terms,"v1,v2",0
+1151,吐泻腹痛,Tu Xie Fu Tong,,胃肠,气机升降失调,Ontological terms,"v1,v2",0
+1152,吐血,Tu Xie,吐血，是汉语词汇，汉语拼音为tù xiě ，指的是血从口中吐出。吐血可以是上消化道出血，也可以是支气管扩张的咯血。吐血主要来自胃的病变，因外邪犯胃，胃络受伤或他脏有病影响及胃均可引起本证。,胃,血络损伤,Ontological terms,"v1,v2",0
+1153,腿疲软,Tui Pi Ruan,,四肢,肝肾亏虚,Synonymous terms,"v1,v2",0
+1154,腿疲痛,Tui Pi Tong,,四肢,肝肾亏虚,Synonymous terms,"v1,v2",0
+1155,腿软,Tui Ruan,,四肢,肝肾亏虚,Synonymous terms,"v1,v2",0
+1156,腿疼痛，重者痛剧不能转侧,Tui Teng Tong ， Zhong Zhe Tong Ju Bu Neng Zhuan Ce,,四肢,肝肾亏虚,Synonymous terms,"v1,v2",0
+1157,吞酸,Tun Suan,吞酸是指酸水自胃上激于咽喉之间，未及吐出又复吞咽，酸味有如刺心之感。,胃,肝肾亏虚,Ontological terms,"v1,v2",0
+1158,脱发,Tuo Fa,脱发是指头发脱落的现象。正常脱落的头发都是处于退行期及休止期的毛发，由于进入退行期与新进入生长期的毛发不断处于动态平衡，故能维持正常数量的头发。病理性脱发是指头发异常或过度的脱落，其原因很多。,,,Ontological terms,"v1,v2",0
+1159,脱肛,Tuo Gang,直肠壁部分或全层向下移位，称为直肠脱垂（rectal prolapse）。直肠壁部分下移，即直肠黏膜下移，称黏膜脱垂或不完全脱垂；直肠壁全层下移称完全脱垂。,大肠,中气下陷,Ontological terms,"v1,v2",0
+1160,脱臼,Tuo Jiu,关节脱位也称脱臼，是指构成关节的上下两个骨端失去了正常的位置，发生了错位。多暴力作用所致，以肩、肘、下颌及手指关节最易发生脱位。关节脱位的表现，一是关节处疼痛剧烈，二是关节的正常活动丧失，三是关节部位出现畸形。临床上可分损伤性脱位、先天性脱位及病理性脱位等几种情形。关节脱位后，关节囊、韧带、关节软骨及肌肉等软组织也有损伤，另外关节周围肿胀，可有血肿，若不及时复位，血肿机化，关节粘连，使关节不同程度丧失功能。,四肢,外伤,Synonymous terms,"v1,v2",0
+1161,脱屑,Tuo Xie,脱屑（desquamation)常见于正常皮肤表层不断角化和更新，但由于数量很少，一般不易察觉。病理状态下可见大量皮肤脱屑。,皮肤,血热,Synonymous terms,"v1,v2",0
+1162,椭圆形红斑,Tuo Yuan Xing Hong Ban,,,,Ontological terms,"v1,v2",0
+1163,外伤发炎,Wai Shang Fa Yan,,,,Synonymous terms,"v1,v2",0
+1164,外伤红肿,Wai Shang Hong Zhong,,,,Synonymous terms,"v1,v2",0
+1165,外伤破溃,Wai Shang Po Kui,,,外伤,Ontological terms,"v1,v2",0
+1166,外阴红肿,Wai Yin Hong Zhong,,,肝经湿热,Synonymous terms,"v1,v2",0
+1167,完谷不化,Wan Gu Bu Hua,完谷不化出自出《傅青主女科》完谷不化第二十二，因产后劳倦伤脾，而运转稽迟也，名飧泄；又饮食太过，脾胃受伤，亦然，俗呼水谷痢是也。,,,Synonymous terms,"v1,v2",0
+1168,顽痰,Wan Tan,坚结胶固之痰。亦称老痰、结痰、郁痰。《症因脉治》卷二：“顽痰，坚结胶固，吐咯难出，脉见沉牢，……痰在咽喉，咯不出，咽不下，即老痰、结痰也。”“郁痰即结痰、顽痰。”详见郁痰、老痰、结痰条。,,,,v1,1
+1169,脘腹刺痛,Guan Fu Ci Tong,,脾胃,血瘀,Synonymous terms,"v1,v2",0
+1170,脘腹冷,Guan Fu Leng,,脾胃,脾胃虚寒,Ontological terms,"v1,v2",0
+1171,脘腹冷痛,Guan Fu Leng Tong,,脾胃,脾胃虚寒,Ontological terms,"v1,v2",0
+1172,脘腹痞满,Guan Fu Pi Man,,脾胃,脾气虚,Ontological terms,"v1,v2",0
+1173,脘腹痞闷,Guan Fu Pi Men,,脾胃,脾气虚,Synonymous terms,"v1,v2",0
+1174,脘腹疼痛,Guan Fu Teng Tong,以胃脘及腹部疼痛为主要表现的疾病。,脾胃,淤血,Ontological terms,"v1,v2",0
+1175,脘腹痛,Guan Fu Tong,以胃脘及腹部疼痛为主要表现的疾病。,脾胃,气滞,Ontological terms,"v1,v2",0
+1176,脘腹胁痛,Guan Fu Xie Tong,,脾胃,肝气郁滞,Ontological terms,"v1,v2",0
+1177,脘腹隐痛,Guan Fu Yin Tong,,脾胃,胃阴虚,Synonymous terms,"v1,v2",0
+1178,脘腹胀满,Guan Fu Zhang Man,脘腹胀满是一种常见的消化系统症状，可以是一种主观上的感觉，感到腹部的一部分或全腹部胀满；也可以是一种客观上的检查所见，发现腹部一部分或全腹部膨拢引起腹胀的原因主要见于胃肠道胀气、各种原因所致的腹水、腹腔肿瘤等。正常人胃肠道内可有少量气体 ，约 150 毫升（ml）左右，当咽入胃内空气过多或因消化吸收功能不良时，胃肠道内产气过多，而肠道内的气体又不能从肛门排出体外，则可导致腹胀。,脾胃,胃气虚,Ontological terms,"v1,v2",0
+1179,脘腹胀闷,Guan Fu Zhang Men,,脾胃,肝气犯胃,Ontological terms,"v1,v2",0
+1180,脘腹胀痛,Guan Fu Zhang Tong,"多因饮食不节或情志所伤,致食积停滞、气机受阻,消化失调而引起。患者饮食不佳、消化失调、经常腹胀、、有食积停滞和腹痛感、时欲恶呕。",脾胃,肝气犯胃,Ontological terms,"v1,v2",0
+1181,脘闷,Guan Men,,脾胃,肝气犯胃,Ontological terms,"v1,v2",0
+1182,脘闷不舒,Guan Men Bu Shu,,脾胃,肝气犯胃,Synonymous terms,"v1,v2",0
+1183,脘痞,Guan Pi,脘痞是指胃脘部饱胀，满闷不舒的症状。可因肝胃气机阻滞，或脾胃气虚而化运失健所致。常见于胃及肝、胆、胰、脾的慢性病变之中。临床若对导致脘痞的病种尚不能确定时，可以脘痞待查作为初步诊断，并进行辨证论治。,脾胃,肝气犯胃,Ontological terms,"v1,v2",0
+1184,脘痞不饥,Guan Pi Bu Ji,,脾胃,胃阴虚,Ontological terms,"v1,v2",0
+1185,脘痞呕吐,Guan Pi Ou Tu,,脾胃,胃气上逆,Ontological terms,"v1,v2",0
+1186,脘胁疼痛,Guan Xie Teng Tong,,脾胃,肝气郁滞,Synonymous terms,"v1,v2",0
+1187,脘胁胀痛,Guan Xie Zhang Tong,,脾胃,肝气犯胃,Ontological terms,"v1,v2",0
+1188,微恶风寒,Wei E Feng Han,,脾胃,肺卫不固,Synonymous terms,"v1,v2",0
+1189,微渴,Wei Ke,,肾,热证,Synonymous terms,"v1,v2",0
+1190,畏光,Wei Guang,畏光（photophobia）是眼病的一种症状。眼睛不能耐受光线的刺激，常伴有眼睑痉挛流泪，结膜炎时大都有不同程度的畏光流泪。多见于角膜异物、角膜炎及角膜外伤，虹膜炎、结膜炎也可以引起畏光，扩瞳也可引起畏光。如婴幼儿出现畏光，警惕是否有先天性青光眼。治疗应查找造成畏光的原发疾病，针对病因治疗。,,,Synonymous terms,"v1,v2",0
+1191,畏寒,Wei Han,畏寒多是身体受到外在寒邪侵袭，或自身阳虚阴盛或机体机能失调所造成。,,,Ontological terms,"v1,v2",0
+1192,畏热,Wei Re,,,阳虚,Synonymous terms,"v1,v2",0
+1193,胃肠不适,Wei Chang Bu Shi,胃肠不适是一个汉语词语，指的是成肝气郁结，肝木克脾，脾胃受损。,肠胃,脾胃虚弱,Synonymous terms,"v1,v2",0
+1194,胃肠积热,Wei Chang Ji Re,,肠胃,脾胃虚弱,Synonymous terms,"v1,v2",0
+1195,胃肠术后腹胀,Wei Chang Zhu Hou Fu Zhang,,肠胃,脾胃虚弱,Synonymous terms,"v1,v2",0
+1196,胃肠衰弱,Wei Chang Shuai Ruo,,肠胃,脾胃虚弱,Synonymous terms,"v1,v2",0
+1197,胃出血,Wei Chu Xie,上消化道出血是指屈氏韧带以上的消化道，包括食管、胃、十二指肠或胰胆等病变引起的出血，胃空肠吻合术后的空肠病变出血亦属这一范围。大量出血是指在数小时内失血量超出1000ml或循环血容量的20%，其临床主要表现为呕血和（或）黑粪，往往伴有血容量减少引起的急性周围循环衰竭，是常见的急症，病死率高达8%～13.7%。,肠胃,脾气虚,Ontological terms,"v1,v2",0
+1198,胃寒呕吐,Wei Han Ou Tu,因过食寒凉、痰饮内停、或脾胃虚寒不能运化水谷，导致胃失和降、胃气上逆，饮食、痰涎等胃内之物从胃中上涌，自口而出的病证。临床表现虽有急缓、虚实之不同，总因“寒气客于肠胃，厥逆上出，故痛而呕也。”（《素问·举痛论篇》）。,肠胃,脾阳虚,Ontological terms,"v1,v2",0
+1199,胃绞痛,Wei Jiao Tong,,肠胃,脾阳虚,Synonymous terms,"v1,v2",0
+1200,胃溃疡出血,Wei Kui Yang Chu Xie,胃十二指肠溃疡出血也是溃疡病常见并发症。小量出血往往没有临床症状。仅在大便隐血试验时发现。出血量大于500ml时，即为大出血，主要表现为呕血、便血和不同程度的贫血。在溃疡病住院病人当中，有大约10%是因为大出血而住院。虽然出血在所有并发症中所占比例最大，但近来出血在消化性溃疡并发症中所占比例更有所上升,肠胃,脾气虚,Synonymous terms,"v1,v2",0
+1201,胃溃疡出血、十二指肠溃疡出血,Wei Kui Yang Chu Xie 、 Shi Er Zhi Chang Kui Yang Chu Xie,,肠胃,脾气虚,Synonymous terms,"v1,v2",0
+1202,胃热,Wei Re,胃热是一种中医病症，即胃火，多由邪热犯胃；或因嗜酒、嗜食辛辣、过食膏粱厚味，助火生热；肝胆之火，横逆犯胃，亦可引起胃热（胃火）。中医分为热郁胃中、火邪上炎和火热下迫等。,肠胃,热证,,v1,1
+1203,胃酸过多,Wei Suan Guo Duo,胃酸过多（hyperchlorhydria）又称作胃酸过高，是胃肠疾病的常见症状之一。适度的胃酸可以帮助消化，但如果胃酸过多就会伤及胃、十二指肠黏膜，造成胃溃疡或十二指肠溃疡等疾病。人胃是持续分泌胃酸的，其基础的排出率约为最大排出率的10%，且呈昼夜变化，入睡后几小时达高峰，清晨醒来之前最低。胃液中的胃酸（0.2%～0.4%的盐酸），可以杀死食物里的细菌，确保胃和肠道的安全，同时增加胃蛋白酶的活性，帮助消化。胃液对消化食物起着重要作用，正常胃液呈酸性，空腹时为20～100ml，超过100ml提示胃酸分泌增多。正常生理状态下胃液分泌维持一定的量，如分泌过多，患者就会感到胃部不适，出现胃部灼烧感、吞酸、反胃、吐酸水等现象。,肠胃,肝气犯胃,Ontological terms,"v1,v2",0
+1204,胃痛,Wei Tong,胃痛，中医病证名。多由外感寒邪、饮食所伤、情志不畅和脾胃素虚等病因而引发。胃是主要病变脏腑，常与肝脾等脏有密切关系。胃气郁滞、失于和降是胃痛的主要病机。治疗以理气和胃为大法，根据不同证候，采取相应治法。,肠胃,胃阴虚,Ontological terms,"v1,v2",0
+1205,胃痛拘急,Wei Tong Ju Ji,,肠胃,脾阳虚,Synonymous terms,"v1,v2",0
+1206,胃痛绵绵,Wei Tong Mian Mian,,肠胃,胃气虚,Synonymous terms,"v1,v2",0
+1207,胃痛隐隐,Wei Tong Yin Yin,,肠胃,胃阴虚,Synonymous terms,"v1,v2",0
+1208,胃脘饱胀,Wei Guan Bao Zhang,"胃脘饱胀，中医认为长期饮食失节,七情内伤,劳倦过度,寒温失调等多种因素导致肝气失舒,横逆犯胃,或脾损不运,或脾损气滞,或胆失通降等而发病,并有湿浊,食滞,血瘀等兼证,有寒、热、虚、实不同,初病多实,久病多虚中夹实或虚证。深圳胃肠专家陈春莲说治当分别情况,具体施治。",肠胃,饮食停胃,Synonymous terms,"v1,v2",0
+1209,胃脘不舒,Wei Guan Bu Shu,,肠胃,胃气虚,Synonymous terms,"v1,v2",0
+1210,胃脘嘈杂,Wei Guan Cao Za,,肠胃,胃气虚,Synonymous terms,"v1,v2",0
+1211,胃脘嘈杂不适,Wei Guan Cao Za Bu Shi,,肠胃,胃气虚,Synonymous terms,"v1,v2",0
+1212,胃脘刺痛,Wei Guan Ci Tong,,肠胃,淤血阻胃,Synonymous terms,"v1,v2",0
+1213,胃脘剌痛,Wei Guan La Tong,,肠胃,淤血阻胃,Synonymous terms,"v1,v2",0
+1214,胃脘冷痛,Wei Guan Leng Tong,,肠胃,脾胃阳虚,Ontological terms,"v1,v2",0
+1215,胃脘挛痛,Wei Guan Luan Tong,,肠胃,脾胃阳虚,Ontological terms,"v1,v2",0
+1216,胃脘痞满,Wei Guan Pi Man,,肠胃,脾气虚,Ontological terms,"v1,v2",0
+1217,胃脘痞闷,Wei Guan Pi Men,,肠胃,脾气虚,Synonymous terms,"v1,v2",0
+1218,胃脘痞塞,Wei Guan Pi Sai,,肠胃,脾气虚,Synonymous terms,"v1,v2",0
+1219,胃脘烧灼感,Wei Guan Shao Zhuo Gan,,肠胃,胃热,Synonymous terms,"v1,v2",0
+1220,胃脘疼痛,Wei Guan Teng Tong,,肠胃,胃热,Ontological terms,"v1,v2",0
+1221,胃脘隐痛,Wei Guan Yin Tong,,肠胃,胃虚,Synonymous terms,"v1,v2",0
+1222,胃脘胀满,Wei Guan Zhang Man,,肠胃,胃气郁滞,Ontological terms,"v1,v2",0
+1223,胃脘胀痛,Wei Guan Zhang Tong,,肠胃,胃气郁滞,Ontological terms,"v1,v2",0
+1224,胃阴不足,Wei Yin Bu Zu,胃阴不足是中医术语。它是由胃病久延不愈，或热病后期阴液尚未恢复，或平时嗜食辛辣，或情志不遂，气郁化火而寻致胃阴耗伤。其主要临床表现是：胃部隐痛，饥不欲食，口燥咽干，大便干结，或腹部不舒，或干呕呃逆，舌红少津，脉细数等。,肠胃,脾失运化,,v1,1
+1225,胃胀,Wei Zhang,胃胀，病名，胀病之一。主证胀满、胃脘痛。引起胃胀的原因有各种各样，如，生活作息不规律，饮食不卫生等。,肠胃,胃气郁滞,Ontological terms,"v1,v2",0
+1226,胃胀满,Wei Zhang Man,,肠胃,胃气郁滞,Ontological terms,"v1,v2",0
+1227,胃中灼热,Wei Zhong Zhuo Re,,肠胃,热证,Synonymous terms,"v1,v2",0
+1228,温毒发斑,Wen Du Fa Ban,温毒症状之一。由於温热之毒内蕴肺胃，充斥三焦，波及营血，透发於肌肤而为斑。如斑色红活的，热毒较轻，紫暗的为热毒重，黑色的为热毒极重。类於暴发型流行性脑脊髓膜炎、斑疹伤寒等急性传染病 。,,,,v1,1
+1229,瘟疫发热,Wen Yi Fa Re,,,热毒,Ontological terms,"v1,v2",0
+1230,无汗,Wu Han,无汗是一个时而不出汗的症候，常因邪闭、表实、津血不足等因所致。,,,Ontological terms,"v1,v2",0
+1231,无名肿痛,Wu Ming Zhong Tong,,,热毒,Synonymous terms,"v1,v2",0
+1232,无乳,Wu Ru,,脾胃,气虚亏虚,Synonymous terms,"v1,v2",0
+1233,五更溏泻,Wu Geng Tang Xie,,大肠,肾阳虚,Synonymous terms,"v1,v2",0
+1234,五更泄泻,Wu Geng Xie Xie,"五更泄泻又称晨泻、肾泻、鸡鸣泻，最早出现于《丹溪心法》“有每日五更处洞泻……,随节饮食忌口，但得日间上半时无事，近五更其泻复作”。是一种慢性、反复发作性的黎明之时的腹泻。主要表现为每至黎明前五更时分开始出现脘腹作痛或不痛，肠鸣即泻，泻后则安，大便不成形，无黏液及脓血。",大肠,肾阳虚,Ontological terms,"v1,v2",0
+1235,五心烦热,Wu Xin Fan Re,五心烦热（sphoria with feverish sensation in chest，palms and soles）指两手两足心发热，并自觉心胸烦热。多由阴虚火旺、心血不足，或病后虚热不清及火热内郁所致。是虚损劳瘵等病的常见症之一。治宜滋阴降火，清热养阴，清肝理脾等法，可选用清骨散、升麻散、《千金》竹叶汤、逍遥散、茯苓补心汤等方。火郁而宜升发者，用火郁汤加减。亦可选用知柏地黄丸，清骨散、升麻散、《千金》竹叶汤、逍遥散、茯苓补心汤等加减治疗。,肝,阴虚,Synonymous terms,"v1,v2",0
+1236,午后潮热,Wu Hou Chao Re,潮热，是指按时发热，如潮汐之有定时。午后潮热，是指每日午后发热。本病属里证，有虚实之分。,肝,阴虚,Synonymous terms,"v1,v2",0
+1237,膝部痿软,Xi Bu Wei Ruan,,四肢,肾虚,Synonymous terms,"v1,v2",0
+1238,膝软乏力,Xi Ruan Fa Li,,四肢,肾虚,Synonymous terms,"v1,v2",0
+1239,膝酸痛,Xi Suan Tong,,四肢,肾虚,Ontological terms,"v1,v2",0
+1240,喜暖,Xi Nuan,,,肾阳虚,Synonymous terms,"v1,v2",0
+1241,下腹胀痛,Xia Fu Zhang Tong,,肝,气滞,Synonymous terms,"v1,v2",0
+1242,下利清谷,Xia Li Qing Gu,病症名。指泄泻时所泻之物清稀，并杂有不消化食物。,脾,脾阳虚,Synonymous terms,"v1,v2",0
+1243,下痢臭秽,Xia Li Chou Hui,,大肠,大肠湿热,Synonymous terms,"v1,v2",0
+1244,下痢脓血,Xia Li Nong Xie,,大肠,大肠热毒,Synonymous terms,"v1,v2",0
+1245,下气甚痛,Xia Qi Shen Tong,,大肠,气滞,,v1,1
+1246,下血,Xia Xie,下血，证名。即便血。出自《金匮要略·惊悸吐衄下血胸满瘀血病脉证治》,脾,脾气虚,Ontological terms,"v1,v2",0
+1247,下元虚冷,Xia Yuan Xu Leng,,肾,肾阳虚,,v1,1
+1248,下肢沉重,Xia Zhi Chen Zhong,,四肢,肾虚,Synonymous terms,"v1,v2",0
+1249,下肢浮肿,Xia Zhi Fu Zhong,,四肢,肾阳虚,Ontological terms,"v1,v2",0
+1250,下肢痿软,Xia Zhi Wei Ruan,,四肢,肝肾亏虚,Synonymous terms,"v1,v2",0
+1251,下肢痿弱,Xia Zhi Wei Ruo,,四肢,肝肾亏虚,Synonymous terms,"v1,v2",0
+1252,下肢无力,Xia Zhi Wu Li,,四肢,肝肾亏虚,Ontological terms,"v1,v2",0
+1253,夏令中恶昏厥,Xia Ling Zhong E Hun Jue,,中暑,暑热伤神,Synonymous terms,"v1,v2",0
+1254,项背强急不舒,Xiang Bei Qiang Ji Bu Shu,,项背,经脉失养,Synonymous terms,"v1,v2",0
+1255,项背强痛,Xiang Bei Qiang Tong,,项背,经脉失养,Ontological terms,"v1,v2",0
+1256,项背强直,Xiang Bei Qiang Zhi,,项背,经脉失养,Synonymous terms,"v1,v2",0
+1257,项强,Xiang Qiang,项强指头部后项的肌肉筋脉牵引不舒的症状。一般是由于外感风寒，寒邪侵入太阳经络，经气不舒所致。项强常与头痛并见，是太阳病的主症之一。,,,Ontological terms,"v1,v2",0
+1258,消化不良,Xiao Hua Bu Liang,消化不良(dyspepsia)是一种临床症候群，是由胃动力障碍所引起的疾病，也包括胃蠕动不好的胃轻瘫和食道反流病。消化不良主要分为功能性消化不良和器质性消化不良。功能性消化不良属中医的“脘痞”、“胃痛”、“嘈杂”等范畴，其病在胃，涉及肝脾等脏器，宜辨证施治，予以健脾和胃，疏肝理气，消食导滞等法治疗。,肠胃,脾胃虚,Ontological terms,"v1,v2",0
+1259,消化道出血,Xiao Hua Dao Chu Xie,"消化道出血是临床常见症候群，可由多种疾病所致。消化道是指从食管到肛门的管道，包括食管、胃、十二指肠、空肠、回肠、盲肠、结肠及直肠。上消化道出血是指十二指肠悬韧带（Treitz韧带，译为屈氏韧带）以上的食管、胃、十二指肠、上段空肠以及胰管和胆管的出血。十二指肠悬韧带以下的肠道出血统称为下消化道出血。随着内镜技术的发展,新名词“中消化道”改变了对消化道的传统分段概念的认识。新定义以十二指肠乳头、回盲瓣为标志，将消化道分为“上消化道”（十二指肠乳头以上）、“中消化道”（十二指肠乳头至回盲瓣）和“下消化道”（盲肠、结、直肠）。",肠胃,脾气虚,Synonymous terms,"v1,v2",0
+1260,消渴,Xiao Ke,消渴泛指以多饮、多食、多尿、形体消瘦，或尿有甜味为特征的疾病。本病在《内经》中称为“消瘅”。口渴引饮为上消；善食易饥为中消；饮一漫一为下消，统称消渴（三消）。,肺脾肾,阴虚内热,Ontological terms,"v1,v2",0
+1261,消痩,Xiao Shou,,脾胃,脾气虚,Synonymous terms,"v1,v2",0
+1262,消瘦,Xiao Shou,消瘦（emaciation）是指人体因疾病或某些因素而致体重下降，低于标准体重的10%以上时，即称为消瘦。体内脂肪与蛋白质减少，这里所指的消瘦一般都是短期内呈进行性的，有体重下降前后测的体重数值对照，且有明显的衣服变宽松，腰带变松，鞋子变大以及皮下脂肪减少，肌肉瘦弱，皮肤松弛，骨骼突出等旁证。至于脱水与水肿消退后的体重下降，不能称为消瘦。,,,Synonymous terms,"v1,v2",0
+1263,魈血,Xiao Xie,,,,,v1,1
+1264,小便白浊,Xiao Bian Bai Zhuo,,膀胱,肾虚,Ontological terms,"v1,v2",0
+1265,小便不利,Xiao Bian Bu Li,小便不利，证名。小便量减少、排尿困难及小便完全闭寒不通。出《伤寒论·辨太阳病脉证并治》。,膀胱,肾虚,Ontological terms,"v1,v2",0
+1266,小便不爽,Xiao Bian Bu Shuang,,膀胱,肾虚,Synonymous terms,"v1,v2",0
+1267,小便不通,Xiao Bian Bu Tong,小便不通是一种人体疾病，指小便不通畅。,膀胱,肾虚,Ontological terms,"v1,v2",0
+1268,小便赤涩,Xiao Bian Chi Se,小便赤涩，病症名。多为胞内有实热，入于膀胱，致水液不利，故见小便赤涩。,膀胱,膀胱湿热,Ontological terms,"v1,v2",0
+1269,小便滴沥不净,Xiao Bian Di Li Bu Jing,,膀胱,肾阳虚,Synonymous terms,"v1,v2",0
+1270,小便短赤,Xiao Bian Duan Chi,便短赤是一个中医名词，小便（每次）量少，颜色深黄（甚至带有红色）。,膀胱,膀胱湿热,Ontological terms,"v1,v2",0
+1271,小便短少,Xiao Bian Duan Shao,,膀胱,肾阳虚,Ontological terms,"v1,v2",0
+1272,小便黄,Xiao Bian Huang,,膀胱,膀胱湿热,Synonymous terms,"v1,v2",0
+1273,小便黄赤,Xiao Bian Huang Chi,证名。小便颜色较正常黄，甚至带红色,膀胱,膀胱湿热,Synonymous terms,"v1,v2",0
+1274,小便黄少,Xiao Bian Huang Shao,,膀胱,膀胱湿热,Synonymous terms,"v1,v2",0
+1275,小便浑浊,Xiao Bian Hun Zhuo,尿液浑浊不清的表现。,膀胱,膀胱湿热,Ontological terms,"v1,v2",0
+1276,小便淋漓不尽,Xiao Bian Lin Li Bu Jin,,膀胱,膀胱湿热,Synonymous terms,"v1,v2",0
+1277,小便淋浊,Xiao Bian Lin Zhuo,,膀胱,膀胱湿热,Ontological terms,"v1,v2",0
+1278,小便频急,Xiao Bian Pin Ji,,膀胱,肾虚,Synonymous terms,"v1,v2",0
+1279,小便频数,Xiao Bian Pin Shu,小便频数又称尿频，是指小便次数增多，有急迫感而无疼痛的一种病证。,膀胱,肾虚,Ontological terms,"v1,v2",0
+1280,小便频数短涩,Xiao Bian Pin Shu Duan Se,,膀胱,膀胱湿热,Ontological terms,"v1,v2",0
+1281,小便清长,Xiao Bian Qing Chang,小便清长是指小便的次数和每次的量增多，而且质地清稀，无明显臊臭气味，多见于阳虚虚寒的病人，尤其是以脾肾阳虚多见。,膀胱,肾阳虚,Synonymous terms,"v1,v2",0
+1282,小便热,Xiao Bian Re,,膀胱,膀胱湿热,Synonymous terms,"v1,v2",0
+1283,小便涩痛,Xiao Bian Se Tong,证名。小便排出不畅，尿道疼痛，为淋症的主要症状。《素问玄机原病式》卷一：“淋，小便涩痛也，热客膀胱，郁结不能渗泄故也。”,膀胱,膀胱湿热,Ontological terms,"v1,v2",0
+1284,小便痛,Xiao Bian Tong,,膀胱,膀胱湿热,Ontological terms,"v1,v2",0
+1285,小儿顿咳,Xiao Er Dun Ke,,肺,肺气虚,Ontological terms,"v1,v2",0
+1286,小儿多汗,Xiao Er Duo Han,,肾,气虚,Synonymous terms,"v1,v2",0
+1287,小儿疳积发热,Xiao Er Gan Ji Fa Re,,脾,脾气虚,Ontological terms,"v1,v2",0
+1288,小儿感冒,Xiao Er Gan Mao,小儿急性上呼吸道感染系由各种病原引起的上呼吸道炎症，简称上感，俗称“感冒”，是小儿最常见的疾病。该病主要侵犯鼻、鼻咽和咽部，如上呼吸道某一局部炎症特别突出，即按该炎症处命名，如急性鼻炎、急性咽炎、急性扁桃体炎等。急性上感主要用于上呼吸道局部感染定位并不确切者。鼻咽部感染常出现并发症，累及邻近器官如喉、气管、支气管、肺、口腔、鼻窦、中耳、眼及颈部淋巴结等，有时鼻咽部症状已经好转或消失，而其并发症可以迁延或加重。,肺,肺气虚,Synonymous terms,"v1,v2",0
+1289,小儿高热,Xiao Er Gao Re,发热是多种疾病的常见症状。小儿正常体温常以肛温36.5～37.5℃，腋温36～37℃衡量。通常情况下，腋温比口温（舌下）低0.2～0.5℃，肛温比腋温约高0.5℃左右。若腋温超过37.4℃，且一日间体温波动超过1℃以上，可认为发热。所谓低热，指腋温为37.5℃～38℃、中度热38.1～39℃、高热39.1～40℃、超高热则为41℃以上。发热时间超过两周为长期发热。,肺,肺热,Synonymous terms,"v1,v2",0
+1290,小儿行迟,Xiao Er Xing Chi,,肾,肝肾亏虚,Ontological terms,"v1,v2",0
+1291,小儿积滞化热,Xiao Er Ji Zhi Hua Re,,脾,脾胃 虚,Synonymous terms,"v1,v2",0
+1292,小儿急惊,Xiao Er Ji Liang,,心,肝热,Ontological terms,"v1,v2",0
+1293,小儿急热惊风,Xiao Er Ji Re Liang Feng,,脾胃,肝热,Synonymous terms,"v1,v2",0
+1294,小儿秋季腹泻,Xiao Er Qiu Ji Fu Xie,,脾胃,脾胃湿热,Synonymous terms,"v1,v2",0
+1295,小儿饮食积滞,Xiao Er Yin Shi Ji Zhi,,脾胃,脾胃虚弱,Synonymous terms,"v1,v2",0
+1296,小腹拘急,Xiao Fu Ju Ji,,脾胃,脾胃虚弱,Synonymous terms,"v1,v2",0
+1297,小腹冷痛,Xiao Fu Leng Tong,,子宫,阳虚,Ontological terms,"v1,v2",0
+1298,小腹两侧胀痛,Xiao Fu Liang Ce Zhang Tong,,子宫,肝气郁滞,Synonymous terms,"v1,v2",0
+1299,小腹满,Xiao Fu Man,证名。脐下部胀满。多见于以下几种情况。如伤寒发热，小腹硬满，小便反利，为蓄血证。当根据病证之轻重，选用桃仁承气汤。兼见发狂者，为蓄血重证，用抵当汤。腹满手足厥冷，真武汤。若手足厥冷，不结胸，小腹满，按之痛，为冷结在膀胱关元，可用当归四逆汤加吴萸、生姜，灸关元穴（见《医宗必读》卷五）。,子宫,肝气郁滞,Synonymous terms,"v1,v2",0
+1300,小腹疼痛,Xiao Fu Teng Tong,小腹痛，证名。下腹部疼痛。出《素问·脏气法时论》。小腹为至阴之位，厥阴所属。小腹痛应辨别气、血、寒、热、虚、实施治。,子宫,肝气郁滞,Synonymous terms,"v1,v2",0
+1301,小腹痛,Xiao Fu Tong,下腹痛为妇女常见的症状，多为妇科疾病所引起。应根据下腹痛的性质和特点，考虑各种不同妇科情况。但下腹痛崽子内生殖器以为的疾病并不少见，应特别注意鉴别,子宫,肝气郁滞,Ontological terms,"v1,v2",0
+1302,小腹喜热,Xiao Fu Xi Re,,子宫,阳虚,Synonymous terms,"v1,v2",0
+1303,小腹下坠,Xiao Fu Xia Zhui,,子宫,气虚,Synonymous terms,"v1,v2",0
+1304,小腹隐痛,Xiao Fu Yin Tong,,子宫,阳虚,Synonymous terms,"v1,v2",0
+1305,小腹胀,Xiao Fu Zhang,,子宫,气滞,Synonymous terms,"v1,v2",0
+1306,小腹胀痛,Xiao Fu Zhang Tong,下腹坠痛是妇科疾病就诊的常见主诉。疼痛往往可以表现出相应的病情，所以，有了下腹疼痛，不可等闲。,子宫,气滞,Synonymous terms,"v1,v2",0
+1307,小腹坠痛,Xiao Fu Zhui Tong,,子宫,中气虚,Synonymous terms,"v1,v2",0
+1308,小腹坠胀,Xiao Fu Zhui Zhang,,子宫,中气虚,Synonymous terms,"v1,v2",0
+1309,哮喘,Xiao Chuan,哮喘又名支气管哮喘。支气管哮喘是由多种细胞及细胞组分参与的慢性气道炎症，此种炎症常伴随引起气道反应性增高，导致反复发作的喘息、气促、胸闷和（或）咳嗽等症状，多在夜间和（或）凌晨发生，此类症状常伴有广泛而多变的气流阻塞，可以自行或通过治疗而逆转。,肺,肾气虚,Ontological terms,"v1,v2",0
+1310,胁肋不舒,Xie Lei Bu Shu,,心肺,肝气郁滞,Ontological terms,"v1,v2",0
+1311,胁肋部疼痛,Xie Lei Bu Teng Tong,,心肺,肝气郁滞,Synonymous terms,"v1,v2",0
+1312,胁肋刺痛,Xie Lei Ci Tong,,心肺,淤血阻滞,Synonymous terms,"v1,v2",0
+1313,胁肋疼痛,Xie Lei Teng Tong,,心肺,淤血阻滞,Ontological terms,"v1,v2",0
+1314,胁肋隐痛,Xie Lei Yin Tong,,心肺,肝阴虚,Synonymous terms,"v1,v2",0
+1315,胁肋胀痛,Xie Lei Zhang Tong,证名。胁肋部发胀作痛之证。见薛己注《明医杂著·痰饮》。由气郁痰凝、肝经虚寒、肝火犯肺、瘀血停滞等因所致。,心肺,肝气郁滞,Synonymous terms,"v1,v2",0
+1316,胁痛,Xie Tong,胁痛（hypochondriac pain）是以一侧或两侧胁肋部疼痛为主要表现的病证，也是临床上常见的一种自觉症状。胁，指侧胸部，为腋以下至第十二肋骨部的总称。可由肋骨软骨炎或肋间神经痛导致。,心肺,肝气郁滞,Ontological terms,"v1,v2",0
+1317,胁下痞块,Xie Xia Pi Kuai,,心肺,淤血阻滞,Synonymous terms,"v1,v2",0
+1318,泄泻,Xie Xie,泄泻是指因感受外邪，或被饮食所伤，或情志失调，或脾胃虚弱，或脾肾阳虚等原因引起的以排便次数增多，粪便稀溏，甚至泄如水样为主证的病证。一般根据病因病机运用淡渗，升提，清凉，疏利，甘缓，酸收，燥脾，温肾，固涩的方法治疗。,大肠,脾虚,Ontological terms,"v1,v2",0
+1319,泄泻急迫,Xie Xie Ji Po,,大肠,脾虚湿盛,Synonymous terms,"v1,v2",0
+1320,泻而不爽,Xie Er Bu Shuang,,大肠,肝气犯脾,Synonymous terms,"v1,v2",0
+1321,泻痢,Xie Li,病名。痢，古通利。即泄泻。《局方发挥》：“夫泻痢证，其类尤多，故贤曰湿多成泻，此确论也。”泻痢与痢疾不同，无里急后重、大便脓血之证。《痢证汇参》卷二：“泻痢之证，并无虚坐努责，惟觉倦怠，若滞下则不然，或脓或血，或赤白兼下，虽有痛不痛之异，然皆里急后重。”,大肠,大肠湿热,Ontological terms,"v1,v2",0
+1322,泻痢不爽,Xie Li Bu Shuang,,大肠,大肠湿热,Synonymous terms,"v1,v2",0
+1323,心暴痛,Xin Bao Tong,,心,心阳虚,Ontological terms,"v1,v2",0
+1324,心烦,Xin Fan,心烦的意思是心情不好，烦躁的意思。,心,心阴虚,Ontological terms,"v1,v2",0
+1325,心烦不寐,Xin Fan Bu Mei,,心,火热扰心,Ontological terms,"v1,v2",0
+1326,心烦不宁,Xin Fan Bu Ning,,心,火热扰心,Synonymous terms,"v1,v2",0
+1327,心烦难寐,Xin Fan Nan Mei,,心,火热扰心,Synonymous terms,"v1,v2",0
+1328,心烦喜呕,Xin Fan Xi Ou,,心,肝气郁滞,Synonymous terms,"v1,v2",0
+1329,心腹刺痛,Xin Fu Ci Tong,,心,淤血阻滞,Ontological terms,"v1,v2",0
+1330,心腹冷痛,Xin Fu Leng Tong,,心,心阳虚,Ontological terms,"v1,v2",0
+1331,心慌,Xin Huang,所谓心慌，也就是通常所说的心悸，是由于人们主观感觉上对心脏跳动的一种不适感觉。心跳一旦失去固有的规律，人就会不舒服，也就是常说的“心慌”。它可以是疾病的征兆，也可能是正常生理反应。,心,心气虚,Synonymous terms,"v1,v2",0
+1332,心肌缺血,Xin Ji Que Xie,心肌缺血（myocardial ischemia）是指心脏的血液灌注减少，导致心脏的供氧减少，心肌能量代谢不正常，不能支持心脏正常工作的一种病理状态。心脏活动所需要的能量几乎完全靠有氧代谢提供，所以即便在安静的时候，心肌的血氧摄取率也很高（约为70%），正常情况下，机体可通过自身调节，促使血液供需相对恒定，保证心脏正常工作。当某种原因导致心肌血液供需失衡，就构成了真正意义上的心肌缺血。而冠心病是引起心肌缺血最主要、最常见的病因。随着人民生活水平的提高，目前心肌缺血在我国的患病率呈逐年上升的趋势，已成为中老年人的常见病和多发病，一些20～30岁的年轻人也出现心肌缺血的表现。,心,心血虚,Synonymous terms,"v1,v2",0
+1333,心悸,Xin Ji,心悸是中医病证名，是因外感或内伤，致气血阴阳亏虚，心失所养；或痰饮瘀血阻滞，心脉不畅，引起以心中急剧跳动，惊慌不安，甚则不能自主为主要临床表现的一种心脏常见病证。,心,心血虚,Ontological terms,"v1,v2",0
+1334,心悸不安,Xin Ji Bu An,,心,心血虚,Synonymous terms,"v1,v2",0
+1335,心悸不宁,Xin Ji Bu Ning,,心,心血虚,Synonymous terms,"v1,v2",0
+1336,心绞痛,Xin Jiao Tong,心绞痛（angina pectoris）是冠状动脉供血不足，心肌急剧的暂时缺血与缺氧所引起的以发作性胸痛或胸部不适为主要表现的临床综合征。心绞痛是心脏缺血反射到身体表面所感觉的疼痛，特点为前胸阵发性、压榨性疼痛，可伴有其他症状，疼痛主要位于胸骨后部，可放射至心前区与左上肢，劳动或情绪激动时常发生，每次发作持续3～5分钟，可数日一次，也可一日数次，休息或用硝酸酯类制剂后消失。本病多见于男性，多数40岁以上，劳累、情绪激动、饱食、受寒、阴雨天气、急性循环衰竭等为常见诱因。,心,心血虚,Synonymous terms,"v1,v2",0
+1337,心律不齐,Xin Lv Bu Qi,“心律不齐”指的是心跳或快或慢，超过了一般范围。心脏自律性异常或传导障碍引起的心动过速、心动过缓或心律不齐。,心,心阳虚,Synonymous terms,"v1,v2",0
+1338,心律失常,Xin Lv Shi Chang,心律失常（arrhythmia）是由于窦房结激动异常或激动产生于窦房结以外，激动的传导缓慢、阻滞或经异常通道传导，即心脏活动的起源和（或）传导障碍导致心脏搏动的频率和（或）节律异常。心律失常是心血管疾病中重要的一组疾病。它可单独发病，亦可与其他心血管病伴发。其预后与心律失常的病因、诱因、演变趋势、是否导致严重血流动力障碍有关，可突然发作而致猝死，亦可持续累及心脏而致其衰竭。,心,心阳虚,Synonymous terms,"v1,v2",0
+1339,心气痛,Xin Qi Tong,,心,肝气郁滞,Ontological terms,"v1,v2",0
+1340,心气虚损,Xin Qi Xu Sun,,心,心气虚,Synonymous terms,"v1,v2",0
+1341,心前区刺痛,Xin Qian Qu Ci Tong,,心,淤血阻滞,Synonymous terms,"v1,v2",0
+1342,心前区剌痛,Xin Qian Qu La Tong,,心,淤血阻滞,Synonymous terms,"v1,v2",0
+1343,心前区疼痛,Xin Qian Qu Teng Tong,心前区疼痛就是指心前区这个部位的疼痛。心前区位于前胸和左侧乳房的部位，没有明确的界限。,心,淤血阻滞,Synonymous terms,"v1,v2",0
+1344,心神不安,Xin Shen Bu An,心里烦躁，精神不安。,心,心阳虚,Ontological terms,"v1,v2",0
+1345,心神不宁,Xin Shen Bu Ning,心里烦躁，精神不安。,心,心阳虚,Ontological terms,"v1,v2",0
+1346,心痛,Xin Tong,心脏所在部位感觉疼痛,心,心阳虚,Ontological terms,"v1,v2",0
+1347,心下痞硬,Xin Xia Pi Ying,心下痞硬的症状是胃脘部堵塞满闷不适，按之硬满的症候。多因胃气虚弱，邪气逆结所致，治当扶胃攻邪。,心,心阳虚,Ontological terms,"v1,v2",0
+1348,心胸烦热,Xin Xiong Fan Re,,心,心阴虚,Synonymous terms,"v1,v2",0
+1349,心血不足,Xin Xie Bu Zu,心血不足就是心脏有疾，供血不足。本证为临床常见的虚弱证侯。多为久病体弱、血液生化不足；或长期慢性失血；或因劳倦过度，导致心血耗损。,心,心血虚,Synonymous terms,"v1,v2",0
+1350,新旧瘀痛,Xin Jiu Yu Tong,,,淤血阻滞,Synonymous terms,"v1,v2",0
+1351,形寒,Xing Han,体感受寒邪。《灵枢·邪气脏腑病形》：“形寒寒饮则伤肺，以其两寒相感，中外皆伤。” ,肾,阳虚,Synonymous terms,"v1,v2",0
+1352,形瘦,Xing Shou,,肾,脾虚,Synonymous terms,"v1,v2",0
+1353,形体肥胖,Xing Ti Fei Pang,,肝,脾虚,Synonymous terms,"v1,v2",0
+1354,形体消瘦,Xing Ti Xiao Shou,,肾,脾虚,Synonymous terms,"v1,v2",0
+1355,兴奋,Xing Fen,,,心阳亢,Synonymous terms,"v1,v2",0
+1356,性功能衰退,Xing Gong Neng Shuai Tui,男性性功能减退是指男子遗精、阳痿、早泄。遗精是指不因性生活而精液遗泄的病症，其中有梦遗泄为梦遗，无梦而遗精，甚至清醒时精液流出者，称为滑精。阳痿即阳事不举，是指同房时，男性生殖器举而不坚或痿软失用。早泄是指性交时，男方不能持久，一触即泄。 此三种病症另有不同，但病机多有相似。遗精，早泄多因清脂失调或房事过度，手淫频繁，饮食失节，湿热下注等伤肾气不能固摄而病；阳痿多因命门火衰或心脾受损或恐惧伤肾所致。,肾,肾虚,Synonymous terms,"v1,v2",0
+1357,性功能障碍,Xing Gong Neng Zhang Ai,,肾,肾虚,Synonymous terms,"v1,v2",0
+1358,性冷淡,Xing Leng Dan,性冷淡是指性欲缺乏，通俗地讲即对性生活无兴趣，也有说是性欲减退。性冷淡与性快感缺乏是两个不同的概念，两者可以同时出现，亦可不同时出现，因此，性冷淡又分两种类型：有性感缺乏、性冷淡综合征和无性感缺乏、性冷淡综合征。,肾,肾虚,Ontological terms,"v1,v2",0
+1359,性欲减退,Xing Yu Jian Tui,性欲减退（sexual hypoactivity）是以性生活接应能力和初始性行为水平皆降低为特征的一种状态。表现为性欲望、性爱好及有关的性思考或性幻想缺乏。,肾,肾虚,Synonymous terms,"v1,v2",0
+1360,胸痹,Xiong Bi,胸痹是指以胸部闷痛、甚则胸痛彻背，喘息不得卧为主要表现的一种疾病，轻者感觉胸闷，呼吸欠畅，重者则有胸痛，严重者心痛彻背，背痛彻心。,心肺,肺气虚,Ontological terms,"v1,v2",0
+1361,胸痹作痛,Xiong Bi Zuo Tong,,心肺,心阳虚,Ontological terms,"v1,v2",0
+1362,胸部憋闷,Xiong Bu Bie Men,,心肺,气滞,Synonymous terms,"v1,v2",0
+1363,胸部刺痛,Xiong Bu Ci Tong,胸部刺痛多见于急性肋软骨炎，可骤然发病，感胸部刺痛、跳痛或酸痛；隐痛者则发病缓慢，肿胀、钝痛，有时放射至肩背部、腋部、颈胸部，有时胸闷憋气，休息或侧卧时疼痛缓解，深呼吸、咳嗽、平卧、挺胸与疲劳后则疼痛加重，疼痛比较局限，而且有固定压痛点，病变肋软骨可有隆起。,心肺,淤血阻滞,Synonymous terms,"v1,v2",0
+1364,胸部闷痛,Xiong Bu Men Tong,,心肺,气滞,Synonymous terms,"v1,v2",0
+1365,胸部疼痛,Xiong Bu Teng Tong,,心肺,气滞,Synonymous terms,"v1,v2",0
+1366,胸腹刺痛,Xiong Fu Ci Tong,,心肺,淤血阻滞,Ontological terms,"v1,v2",0
+1367,胸腹积水,Xiong Fu Ji Shui,,心肺,心阳虚,Ontological terms,"v1,v2",0
+1368,胸腹冷痛,Xiong Fu Leng Tong,,心肺,心阳虚,Ontological terms,"v1,v2",0
+1369,胸腹满闷,Xiong Fu Man Men,,心肺,肝气郁滞,Synonymous terms,"v1,v2",0
+1370,胸腹闷胀,Xiong Fu Men Zhang,,心肺,肝气郁滞,Ontological terms,"v1,v2",0
+1371,胸腹水肿,Xiong Fu Shui Zhong,,心肺,心阳虚,Ontological terms,"v1,v2",0
+1372,胸腹疼痛,Xiong Fu Teng Tong,,心肺,阳虚,Ontological terms,"v1,v2",0
+1373,胸腹胀满,Xiong Fu Zhang Man,,心肺,肝气郁滞,Synonymous terms,"v1,v2",0
+1374,胸腹胀闷,Xiong Fu Zhang Men,,心肺,肝气郁滞,Ontological terms,"v1,v2",0
+1375,胸腹胀痛,Xiong Fu Zhang Tong,,心肺,肝气郁滞,Ontological terms,"v1,v2",0
+1376,胸膈不利,Xiong Ge Bu Li,胸膈不利，病证名。指胸与横隔部滞塞堵闷。,心肺,肝气郁滞,Synonymous terms,"v1,v2",0
+1377,胸膈满闷,Xiong Ge Man Men,,心肺,肝气郁滞,Synonymous terms,"v1,v2",0
+1378,胸膈痞满,Xiong Ge Pi Man,,心肺,肝气郁滞,Ontological terms,"v1,v2",0
+1379,胸膈痞闷,Xiong Ge Pi Men,,心肺,肝气郁滞,Ontological terms,"v1,v2",0
+1380,胸膈痞塞,Xiong Ge Pi Sai,,心肺,肝气郁滞,Ontological terms,"v1,v2",0
+1381,胸膈胀满,Xiong Ge Zhang Man,,心肺,肝气郁滞,Ontological terms,"v1,v2",0
+1382,胸满,Xiong Man,病证名。胸部胀满不适。因风寒、热壅、停饮、气滞、血瘀等所致。,心肺,肝气郁滞,Ontological terms,"v1,v2",0
+1383,胸满郁闷,Xiong Man Yu Men,,心肺,肝气郁滞,Synonymous terms,"v1,v2",0
+1384,胸闷,Xiong Men,胸闷（chest distress）是一种主观感觉，即呼吸费力或气不够用。轻者无不适，重者觉得难受，似乎被石头压住胸膛，甚至发生呼吸困难，可伴随其他症状如胸痛、压迫感、心悸、喘、灼热感、吐酸水、冒冷汗、恶心、呕吐等。,心肺,肝气郁滞,Ontological terms,"v1,v2",0
+1385,胸闷不畅,Xiong Men Bu Chang,,心肺,肝气郁滞,Ontological terms,"v1,v2",0
+1386,胸闷不适,Xiong Men Bu Shi,,心肺,肝气郁滞,Synonymous terms,"v1,v2",0
+1387,胸闷不舒,Xiong Men Bu Shu,,心肺,肝气郁滞,Ontological terms,"v1,v2",0
+1388,胸闷作痛,Xiong Men Zuo Tong,,心肺,肝气郁滞,Synonymous terms,"v1,v2",0
+1389,胸痞,Xiong Pi,胸痞指胸中满塞不痛或指胸中闷痛。,心肺,肝气郁滞,Ontological terms,"v1,v2",0
+1390,胸热,Xiong Re,胸中热，证名，指上焦心肺之热，出自《素问·刺热篇》。,心肺,心胸郁热,Synonymous terms,"v1,v2",0
+1391,胸痛,Xiong Tong,胸痛是一种常见而又能危及生命的病症，造成胸痛的原因复杂多样，包括急性冠脉综合征（ACS）、主动脉夹层、肺栓塞（PE）、气胸、心包炎、心包填塞和食管破裂等,心肺,心胸郁热,Ontological terms,"v1,v2",0
+1392,胸痛彻背,Xiong Tong Che Bei,,心肺,心胸郁热,Synonymous terms,"v1,v2",0
+1393,胸脘满闷,Xiong Guan Man Men,,心肺,心胸郁热,Ontological terms,"v1,v2",0
+1394,胸脘痞闷,Xiong Guan Pi Men,,心肺,心胸郁热,Ontological terms,"v1,v2",0
+1395,胸脘胀满,Xiong Guan Zhang Man,,心肺,心胸郁热,Ontological terms,"v1,v2",0
+1396,胸脘胀闷,Xiong Guan Zhang Men,,心肺,心胸郁热,Ontological terms,"v1,v2",0
+1397,胸胁刺痛,Xiong Xie Ci Tong,,心肺,淤血阻滞,Ontological terms,"v1,v2",0
+1398,胸胁挫伤,Xiong Xie Cuo Shang,,心肺,肝气郁滞,Ontological terms,"v1,v2",0
+1399,胸胁苦满,Xiong Xie Ku Man,胸胁部满闷不舒。因邪犯少阳，少阳经气不畅，或肝胆郁结、疏泄失司所致。与胸胁支满、胸胁满同义。,心肺,肝气郁滞,Synonymous terms,"v1,v2",0
+1400,胸胁剌痛,Xiong Xie La Tong,,心肺,肝气郁滞,Synonymous terms,"v1,v2",0
+1401,胸胁闷痛,Xiong Xie Men Tong,,心肺,肝气郁滞,Ontological terms,"v1,v2",0
+1402,胸胁痞闷,Xiong Xie Pi Men,,心肺,肝气郁滞,Synonymous terms,"v1,v2",0
+1403,胸胁气滞,Xiong Xie Qi Zhi,,心肺,肝气郁滞,Ontological terms,"v1,v2",0
+1404,胸胁疼痛,Xiong Xie Teng Tong,,心肺,肝气郁滞,Ontological terms,"v1,v2",0
+1405,胸胁痛,Xiong Xie Tong,胸胁痛是指因感受外邪或情志失调或饮食不节或跌打损伤等原因导致的脉络失养或闭阻而引起的以胸胁部疼痛为主的一种病症。病位在肝胆，病性有虚有实。俗称：“岔气”。临床上可见于肋间神经痛、急性胆囊炎、胆结石、肝炎等。,心肺,肝气郁滞,Ontological terms,"v1,v2",0
+1406,胸胁隐痛,Xiong Xie Yin Tong,,心肺,肝气郁滞,Synonymous terms,"v1,v2",0
+1407,胸胁胀,Xiong Xie Zhang,,心肺,肝气郁滞,Ontological terms,"v1,v2",0
+1408,胸胁胀满,Xiong Xie Zhang Man,,心肺,肝气郁滞,Ontological terms,"v1,v2",0
+1409,胸胁胀闷,Xiong Xie Zhang Men,,心肺,肝气郁滞,Ontological terms,"v1,v2",0
+1410,胸胁胀痛,Xiong Xie Zhang Tong,,心肺,肝气郁滞,Ontological terms,"v1,v2",0
+1411,胸胁作痛,Xiong Xie Zuo Tong,,心肺,肝气郁滞,Synonymous terms,"v1,v2",0
+1412,胸胀满,Xiong Zhang Man,,心肺,肝气郁滞,Ontological terms,"v1,v2",0
+1413,胸胀痛,Xiong Zhang Tong,,心肺,肝气郁滞,Ontological terms,"v1,v2",0
+1414,胸中憋闷,Xiong Zhong Bie Men,,心肺,肝气郁滞,Synonymous terms,"v1,v2",0
+1415,胸中满闷,Xiong Zhong Man Men,,心肺,肝气郁滞,Synonymous terms,"v1,v2",0
+1416,胸中闷热,Xiong Zhong Men Re,,心肺,肝气郁滞,Synonymous terms,"v1,v2",0
+1417,胸中闷痛,Xiong Zhong Men Tong,,心肺,肝气郁滞,Synonymous terms,"v1,v2",0
+1418,羞明,Xiu Ming,羞明就是怕见亮光：眼睛因患角膜炎、虹膜炎等而怕见光的症状，亦指由视神经衰弱所引起的畏光症状。,目,肝阳虚,Ontological terms,"v1,v2",0
+1419,羞明多眵,Xiu Ming Duo Chi,,目,肝经湿热,Synonymous terms,"v1,v2",0
+1420,羞明流泪,Xiu Ming Liu Lei,,目,肝热,Synonymous terms,"v1,v2",0
+1421,羞明畏光,Xiu Ming Wei Guang,,目,肝阴虚,Synonymous terms,"v1,v2",0
+1422,嗅觉不灵,Xiu Jue Bu Ling,,,肺气虚,Synonymous terms,"v1,v2",0
+1423,嗅觉迟钝,Xiu Jue Chi Dun,,,肺气虚,Synonymous terms,"v1,v2",0
+1424,嗅觉失灵,Xiu Jue Shi Ling,嗅神经为嗅觉上皮穿过筛板到嗅球的神经纤维，嗅觉能力是鼻黏膜中嗅细胞的特性，鼻黏膜、嗅球、嗅丝或中枢神经系统连接部损伤，可能影响嗅觉。临床表现为嗅觉减退、嗅觉丧失、嗅觉缺失、嗅觉倒错、幻嗅和嗅觉刺激敏感性增加。,,,Synonymous terms,"v1,v2",0
+1425,须发早白,Xu Fa Zao Bai,须发早白是一种疾病。在中医学则认为发须早白主要有以下列三种主要原因：肾阴亏损致白发、营血虚热致白发、肝郁气滞致白发。,,,Ontological terms,"v1,v2",0
+1426,虚喘,Xu Chuan,喘即气喘、喘息。喘证是以呼吸困难、甚至张口抬肩，鼻翼扇动，不能平卧为临床特征的病症。明代张景岳把喘证分为实喘和虚喘。《景岳全书·喘促》：“实喘者有邪，邪气实也；虚喘者无邪，元气虚也。”《临证指南医案·喘》提出：“在肺为实，在肾为虚。”,肺,肾虚,,v1,1
+1427,虚烦,Xu Fan,虚烦是因虚而致心胸烦热者。由伤寒汗、吐、下后，邪热乘虚客于胸中，或病后余热留恋，或津涸、血虚、肾亏、虚人停痰饮、虚劳等所致。多兼见郁闷不寐、口干咽燥等症。,心,邪热扰心,,v1,1
+1428,虚烦不眠,Xu Fan Bu Mian,,心,邪热扰心,Ontological terms,"v1,v2",0
+1429,虚寒,Xu Han,指正气虚而兼有内寒的症候。表面为食欲不振、口淡、吐涎沫、气短、大便稀薄、或泻下未消化的食物、舌淡白等。,肝,寒证,,v1,1
+1430,虚寒性出血,Xu Han Xing Chu Xie,,脾,脾肾阳虚,Ontological terms,"v1,v2",0
+1431,虚劳,Xu Lao,虚劳，中医病症名，又称虚损，是由于禀赋薄弱、后天失养及外感内伤等多种原因引起的，以脏腑功能衰退，气血阴阳亏损，日久不复为主要病机，以五脏虚证为主要临床表现的多种慢性虚弱症候的总称。,肺,肾虚,Ontological terms,"v1,v2",0
+1432,虚劳久咳,Xu Lao Jiu Ke,,肺,肾虚,Synonymous terms,"v1,v2",0
+1433,虚劳咳喘,Xu Lao Ke Chuan,,肺,肾虚,Ontological terms,"v1,v2",0
+1434,虚劳咳嗽,Xu Lao Ke Sou,,肺,肾虚,Ontological terms,"v1,v2",0
+1435,虚热,Xu Re,虚热，是一病证名。在《诸病源候论·病热候》中有记载。多因内伤劳损所致，如久病精气耗损、劳伤过度，可导致脏腑失调、虚弱而生内热、内热进而化虚火。根据病机不同，一般将虚热进一步分为阴虚火旺和气虚火旺两种病状。,,,,v1,1
+1436,虚热不退,Xu Re Bu Tui,,,,Ontological terms,"v1,v2",0
+1437,虚脱,Xu Tuo,虚脱是以面色苍白、虚汗淋漓、头昏眼花、肢冷汗出、二便失禁、神情淡漠或烦躁甚则不省人事、脉微欲绝等为特征的内科急症。,,,,v1,1
+1438,虚泻,Xu Xie,病证名。因脏腑虚弱所致的泄泻。见《医学入门》卷五。又称虚泄。多属脾肾虚弱。症见困倦无力，自汗，消瘦，大便溏泄清稀，甚至完谷不化，四肢清冷，脉多细弱。轻者属脾，重者属肾。治宜健脾补肾，选用参苓白术散、理中汤、升阳除湿汤、四神丸、椒附丸等方。参见脾泄、肾泄、气陷泄泻等条。,,,Ontological terms,"v1,v2",0
+1439,眩晕,Xuan Yun,眩晕是因机体对空间定位障碍而产生的一种动性或位置性错觉，它涉及多个学科。绝大多数人一生中均经历此症。据统计，眩晕症占内科门诊病人的5%，占耳鼻咽喉科门诊的15%。眩晕可分为真性眩晕和假性眩晕。真性眩晕是由眼、本体觉或前庭系统疾病引起的，有明显的外物或自身旋转感。假性眩晕多由全身系统性疾病引起，如心血管疾病、脑血管疾病、贫血、尿毒症、药物中毒、内分泌疾病及神经官能症等几乎都有轻重不等的头晕症状，患者感觉“飘飘荡荡”，没有明确转动感。,头部,风眩内动、清窍不宁或清阳不升，脑窍失养,Ontological terms,"v1,v2",0
+1440,血便,Xie Bian,便血或血便的定义是解出带血的大便，或只解出血而没有粪便,大肠,热伤血络,Ontological terms,"v1,v2",0
+1441,血管神经性头痛,Xie Guan Shen Jing Xing Tou Tong,,头,,Synonymous terms,"v1,v2",0
+1442,血痂,Xie Jia,血痂（scab），指伤口或疮口表面上由血小板和纤维蛋白凝结而成的块状物，呈黑红色，对伤口有保护作用，伤口或疮口痊愈后血痂自行脱落，强行掰落可能会导致流血，痊愈后可能留下瘢痕。尿囊素可保护伤口结痂，不致于抓痒，又可帮助脱痂。,,,,v1,1
+1443,血淋,Xie Lin,血淋，病名。淋证以尿血或尿中夹血为主要症候者。《诸病源候论·淋病诸候》：“血淋者，是热淋之甚者，则尿血，谓之血淋。”,膀胱,膀胱湿热,Ontological terms,"v1,v2",0
+1444,血尿,Xie Niao,,膀胱,膀胱湿热,Ontological terms,"v1,v2",0
+1445,血热,Xie Re,血热（heat in blood），是指外感热邪入血中，血行加速而异常，表现为出血、发瘀等的病理状态。血热多由邪热入血所致，也可由于情志郁结，五志过极化火而导致血热。亦称血分热。即血分有热。证见吐衄、咳咯、溺血，午后发热，女子月事先期而来，脉弦而数，法当凉血。血热亦是小儿发热证型之一,,,,v1,1
+1446,血热吐紐,Xie Re Tu Niu,,胃,胃热,Synonymous terms,"v1,v2",0
+1447,血热吐衄,Xie Re Tu Nv,,胃,胃热,Ontological terms,"v1,v2",0
+1448,血脱,Xie Tuo,血脱是病证名。阴血亏损脱失之证。出《灵枢·决气》：“血脱者，色白，夭然不泽。”又名脱血。阴血亏损脱失之证。出《灵枢·决气》：“血脱者，色白，夭然不泽。”又名脱血。,,,Synonymous terms,"v1,v2",0
+1449,血小板减少,Xie Xiao Ban Jian Shao,血小板减少见于多种血液性疾病、风湿免疫病、放化疗损伤及药物相关性血小板减少,,,Synonymous terms,"v1,v2",0
+1450,血压偏高,Xie Ya Pian Gao,,,肝阳上亢,Synonymous terms,"v1,v2",0
+1451,血瘀,Xie Yu,血淤是指中医辨证中的一种证型。血淤即血液运行不畅，有瘀血。血淤证可见于很多种疾病。一般而论， 凡离开经脉之血不能及时消散和瘀滞于某一处，或血流不畅，运行受阻，郁积于经脉或器官之内呈凝滞状态，都叫血瘀,,,,v1,1
+1452,血晕,Xie Yun,受伤后皮肤未破，呈红紫色,,脾虚,Ontological terms,"v1,v2",0
+1453,血肿疼痛,Xie Zhong Teng Tong,,,血热,Synonymous terms,"v1,v2",0
+1454,牙齿松动,Ya Chi Song Dong,,肾,肾虚,Ontological terms,"v1,v2",0
+1455,牙关紧闭,Ya Guan Jin Bi,牙关紧闭为一种临床症状，表现是上下牙列紧密闭锁，不能启动，以致患者不能开口，摄取食物以及说话极其困难，属中医“口噤”范畴。,肾,肾虚,Ontological terms,"v1,v2",0
+1456,牙疼,Ya Teng,牙痛是指牙齿因各种原因引起的疼痛，为口腔疾患中常见的症状之一，可见于龋齿、牙髓炎、根尖周炎、牙外伤、牙本质过敏、楔状缺损等。,肾,胃热,Ontological terms,"v1,v2",0
+1457,牙痛,Ya Tong,,肾,胃火旺盛,Ontological terms,"v1,v2",0
+1458,牙龈出血,Ya Ken Chu Xie,牙龈出血是口腔科常见症状之一，是指牙龈自发性的或由于轻微刺激引起的少量流血。轻者表现为仅在吮吸、刷牙、咀嚼较硬食物时唾液中带有血丝，重者在牙龈受到轻微刺激时即出血较多甚至自发性出血。,脾,胃火旺盛,Ontological terms,"v1,v2",0
+1459,牙龈红肿,Ya Ken Hong Zhong,牙龈红肿是指牙齿周围牙龈软组织充血发红、肿胀隆起。,脾,胃火旺盛,Ontological terms,"v1,v2",0
+1460,牙龈痛,Ya Ken Tong,,脾,胃火旺盛,Ontological terms,"v1,v2",0
+1461,牙龈肿,Ya Ken Zhong,,脾,胃火旺盛,Ontological terms,"v1,v2",0
+1462,牙龈肿痛,Ya Ken Zhong Tong,牙龈（gingiva）是指覆盖于牙槽突表面和牙颈部周围的口腔黏膜上皮及其下方的结缔组织。牙龈肿痛主要是牙龈有炎症而表现出的一种症状，牙龈下的炎症通过牙缝，牙结石，口腔死角进行多方位的传播，使牙龈附着牙菌斑而导致牙龈肿痛。,脾,胃火旺盛,Ontological terms,"v1,v2",0
+1463,牙龈肿胀,Ya Ken Zhong Zhang,,脾,胃火旺盛,Synonymous terms,"v1,v2",0
+1464,咽部不适,Yan Bu Bu Shi,,肺,肺热,Synonymous terms,"v1,v2",0
+1465,咽部充血,Yan Bu Chong Xie,,肺,肺热,Ontological terms,"v1,v2",0
+1466,咽部红,Yan Bu Hong,,肺,肺热,Ontological terms,"v1,v2",0
+1467,咽部红肿,Yan Bu Hong Zhong,,肺,肺热,Ontological terms,"v1,v2",0
+1468,咽部肿,Yan Bu Zhong,,肺,肺热,Synonymous terms,"v1,v2",0
+1469,咽部肿痛,Yan Bu Zhong Tong,,肺,肺热,Synonymous terms,"v1,v2",0
+1470,咽干,Yan Gan,咽干，中医认为是以脏腑阴虚为主因，阴虚火旺，虚火上扰，以致咽喉失养，治宜滋阴降火。是慢性咽炎的症状之一，常在用嗓过度、气候突变、环境温度及湿度变化时加重，其他症状如咽异物感、咽痒、干燥、疼痛、刺激性干咳等,肺,肺热,Ontological terms,"v1,v2",0
+1471,咽干喉痛,Yan Gan Hou Tong,,肺,肺热,Ontological terms,"v1,v2",0
+1472,咽干燥,Yan Gan Zao,,肺,肺热,Ontological terms,"v1,v2",0
+1473,咽干灼热,Yan Gan Zhuo Re,,肺,肺热,Synonymous terms,"v1,v2",0
+1474,咽膈不利,Yan Ge Bu Li,,肺,肺热,Synonymous terms,"v1,v2",0
+1475,咽红,Yan Hong,,肺,肺热,Synonymous terms,"v1,v2",0
+1476,咽红肿痛,Yan Hong Zhong Tong,,肺,肺热,Synonymous terms,"v1,v2",0
+1477,咽喉不利,Yan Hou Bu Li,,肺,肺热,Synonymous terms,"v1,v2",0
+1478,咽喉干,Yan Hou Gan,,肺,肺热,Ontological terms,"v1,v2",0
+1479,咽喉干燥,Yan Hou Gan Zao,,肺,肺热,Synonymous terms,"v1,v2",0
+1480,咽喉红肿,Yan Hou Hong Zhong,,肺,肺热,Ontological terms,"v1,v2",0
+1481,咽喉疼痛,Yan Hou Teng Tong,咽喉痛是一种最常见的病症，它多发于一年中的寒冷季节，感冒、扁桃体炎、鼻窦炎、百日咳、咽喉炎以及病毒感染甚至心肌梗死均可引起咽喉痛。,肺,肺热,Synonymous terms,"v1,v2",0
+1482,咽喉痛,Yan Hou Tong,,肺,肺热,Ontological terms,"v1,v2",0
+1483,咽喉痒,Yan Hou Yang,咽喉痒是慢性咽炎的一种症状，为慢性、反复感染所引起的弥漫性咽部病变，其主要的病变特征是——咽部的黏膜发炎，咽喉痒的时候应该注意保护咽喉及时就医。,肺,肺热,Synonymous terms,"v1,v2",0
+1484,咽喉肿,Yan Hou Zhong,,肺,肺热,Ontological terms,"v1,v2",0
+1485,咽喉肿痛,Yan Hou Zhong Tong,,肺,肺热,Ontological terms,"v1,v2",0
+1486,咽喉肿痈,Yan Hou Zhong Yong,,肺,肺热,Ontological terms,"v1,v2",0
+1487,咽喉灼热,Yan Hou Zhuo Re,,肺,肺热,Synonymous terms,"v1,v2",0
+1488,咽黏膜充血,Yan Nian Mo Chong Xie,,肺,肺热,Synonymous terms,"v1,v2",0
+1489,咽痛,Yan Tong,咽喉痛是一种最常见的病症，它多发于一年中的寒冷季节，感冒、扁桃体炎、鼻窦炎、百日咳、咽喉炎以及病毒感染甚至心肌梗死均可引起咽喉痛。,肺,肺热,Ontological terms,"v1,v2",0
+1490,咽下不利,Yan Xia Bu Li,,肺,肺热,Synonymous terms,"v1,v2",0
+1491,咽痒,Yan Yang,,肺,风热,Synonymous terms,"v1,v2",0
+1492,咽痈,Yan Yong,,肺,热毒,Synonymous terms,"v1,v2",0
+1493,咽燥,Yan Zao,,肺,温热,Synonymous terms,"v1,v2",0
+1494,咽中有痰,Yan Zhong You Tan,,肺,痰湿,Synonymous terms,"v1,v2",0
+1495,咽灼热感,Yan Zhuo Re Gan,,肺,肺热,Synonymous terms,"v1,v2",0
+1496,言语不利,Yan Yu Bu Li,中风后出现的言语謇涩，以舌强，口眼斜，口角流涎为主要表现的中风后遗症。,心,脉络淤阻,Synonymous terms,"v1,v2",0
+1497,言语不清,Yan Yu Bu Qing,,心,脉络淤阻,Synonymous terms,"v1,v2",0
+1498,言语不淸,Yan Yu Bu Qing,,心,脉络淤阻,Synonymous terms,"v1,v2",0
+1499,言语謇涩,Yan Yu Jian Se,,心,脉络淤阻,Ontological terms,"v1,v2",0
+1500,颜面部红斑,Yan Mian Bu Hong Ban,,,肝阳上亢,Synonymous terms,"v1,v2",0
+1501,颜面皮肤光亮油腻,Yan Mian Pi Fu Guang Liang You Ni,,,肝阳上亢,Synonymous terms,"v1,v2",0
+1502,眼边刺痒,Yan Bian Ci Yang,,肝目,肝风内动,Synonymous terms,"v1,v2",0
+1503,眼底瘀血,Yan Di Yu Xie,,肝目,淤血阻络,Synonymous terms,"v1,v2",0
+1504,眼花,Yan Hua,眼花（dazzle）指看东西模糊不清，或因为内容繁杂而看得目眩头晕。许多疾病过程中会有眼花表现。治疗宜针对原发病进行，对症治疗。,肝目,肝经失养,Ontological terms,"v1,v2",0
+1505,眼睑赤烂,Yan Jian Chi Lan,,肝目,肝经湿热,Synonymous terms,"v1,v2",0
+1506,眼睑红烂,Yan Jian Hong Lan,,肝目,肝经湿热,Synonymous terms,"v1,v2",0
+1507,眼睛红肿,Yan Jing Hong Zhong,眼睛红肿与睡眠、饮水和睡觉的姿势都有关，建议睡前不要喝太多的水一般来讲，引起眼睛红肿的原因有很多，比如不当的使用化妆品、皮肤病、心、肾功能不全、血管神经性水肿,肝目,肝经湿热,Synonymous terms,"v1,v2",0
+1508,眼睛痛痒,Yan Jing Tong Yang,,肝目,肝经湿热,Synonymous terms,"v1,v2",0
+1509,眼睛肿痛,Yan Jing Zhong Tong,,肝目,肝经湿热,Synonymous terms,"v1,v2",0
+1510,眼目昏花,Yan Mu Hun Hua,,肝目,肝血亏虚,Ontological terms,"v1,v2",0
+1511,眼目昏涩,Yan Mu Hun Se,,肝目,肝血亏虚,Ontological terms,"v1,v2",0
+1512,眼生翳膜,Yan Sheng Yi Mo,,肝目,肝血亏虚,Ontological terms,"v1,v2",0
+1513,眼痛,Yan Tong,,肝目,肝血亏虚,Synonymous terms,"v1,v2",0
+1514,厌食,Yan Shi,厌食是指小儿较长时期见食不贪，食欲不振，甚则拒食的一种常见的病证。辨证应辨病在脾或在胃。在胃者，以胃阴不足为主，证见厌食而口干多饮，大便干结，舌红少津。在脾者，以脾运失健为主，证见厌食，面色少华，腹胀便溏，舌淡苔白。总的治疗原则为健运脾气、养阴益胃。,脾胃,脾胃虚弱,Synonymous terms,"v1,v2",0
+1515,阳痿,Yang Wei,,肾,肾虚,Ontological terms,"v1,v2",0
+1516,阳虚,Yang Xu,阳虚（yang deficiency），中医名词。指机体阳气虚衰，机能减退或衰弱，代谢活动减退，机体反应性低下，阳热不足的病理现象。阳气有温暖肢体、脏腑的作用，如果阳虚则机体功能减退，容易出现虚寒的征象。常见的有胃阳虚、脾阳虚、肾阳虚等。阳虚主证为畏寒肢冷、面色苍白、大便溏薄、小便清长、脉沉微无力等。,,,,v1,1
+1517,阳虚血瘀,Yang Xu Xie Yu,,,,Synonymous terms,"v1,v2",0
+1518,阳虚欲脱,Yang Xu Yu Tuo,,,,Synonymous terms,"v1,v2",0
+1519,痒,Yang,,,血虚风燥,,v1,1
+1520,腰背痛,Yao Bei Tong,,肾膀胱,肾虚,Synonymous terms,"v1,v2",0
+1521,腰部疼痛,Yao Bu Teng Tong,,肾膀胱,肾虚,Synonymous terms,"v1,v2",0
+1522,腰部痿软,Yao Bu Wei Ruan,,肾膀胱,肾虚,Synonymous terms,"v1,v2",0
+1523,腰骶酸痛,Yao Di Suan Tong,,肾膀胱,肾虚,Synonymous terms,"v1,v2",0
+1524,腰骶痛,Yao Di Tong,,肾膀胱,肾虚,Synonymous terms,"v1,v2",0
+1525,腰骶胀痛,Yao Di Zhang Tong,,肾膀胱,肾虚,Synonymous terms,"v1,v2",0
+1526,腰腹疼痛,Yao Fu Teng Tong,,肾膀胱,肾虚,Synonymous terms,"v1,v2",0
+1527,腰肌劳损,Yao Ji Lao Sun,,肾膀胱,肾虚,Ontological terms,"v1,v2",0
+1528,腰脊冷痛,Yao Ji Leng Tong,,肾膀胱,肾虚,Ontological terms,"v1,v2",0
+1529,腰脊酸痛,Yao Ji Suan Tong,,肾膀胱,肾虚,Synonymous terms,"v1,v2",0
+1530,腰脊疼痛,Yao Ji Teng Tong,,肾膀胱,肾虚,Synonymous terms,"v1,v2",0
+1531,腰酸,Yao Suan,腰酸（soreness of loins）指腰部酸楚不适。临床以肾虚较为常见。腰酸与腰痛有相似之处，且常可酸痛并见，也有虚实寒热之别，须辨析兼证以定其治法,肾膀胱,肾虚,Ontological terms,"v1,v2",0
+1532,腰痛,Yao Tong,腰痛（lumbodynia；lumbago；low back pain）是临床常见的症状，以腰部一侧或两侧疼痛为主，常可放射到腿部，常伴有外感或内伤症状。引起腰痛的原因很多，除运动系统疾病与外伤以外，其他器官的疾病也可引起腰痛。如泌尿系炎症或结石、肾小球肾炎、某些妇女疾病（盆腔炎、子宫后倾等）、妊娠、腰部神经根炎和某些腹部疾病皆可出现腰痛,肾膀胱,肾虚,Ontological terms,"v1,v2",0
+1533,腰腿酸软,Yao Tui Suan Ruan,,肾膀胱,肾虚,Synonymous terms,"v1,v2",0
+1534,腰腿酸痛,Yao Tui Suan Tong,,肾膀胱,肾虚,Synonymous terms,"v1,v2",0
+1535,腰腿疼痛重着,Yao Tui Teng Tong Zhong Zhao,,肾膀胱,肾虚,Synonymous terms,"v1,v2",0
+1536,腰腿痛,Yao Tui Tong,腰腿痛是以腰部和腿部疼痛为主要症状的病症，腰腿痛不是一种病，而是一组症候群，可由多种原因引起。腰痛为多发病，常与腿痛同时存在，在体力劳动者中发生率较高，如搬运工、井下矿工、木工和汽车司机等。值得注意的是，从事机关工作、长期伏案工作的人员中，腰腿痛也是常见病。,肾膀胱,肾虚,Ontological terms,"v1,v2",0
+1537,腰膝关节酸重,Yao Xi Guan Jie Suan Zhong,,肾膀胱,肾虚,Ontological terms,"v1,v2",0
+1538,腰膝关节疼痛,Yao Xi Guan Jie Teng Tong,,肾膀胱,肾虚,Ontological terms,"v1,v2",0
+1539,腰膝冷痛,Yao Xi Leng Tong,,肾膀胱,肾虚,Ontological terms,"v1,v2",0
+1540,腰膝痠软,Yao Xi Suan Ruan,,肾膀胱,肾虚,Synonymous terms,"v1,v2",0
+1541,腰膝酸冷,Yao Xi Suan Leng,,肾膀胱,肾虚,Ontological terms,"v1,v2",0
+1542,腰膝酸软,Yao Xi Suan Ruan,腰膝酸软（soreness and weakness of waist and knees）为中医肝肾亏损的一种症状。表现为腰部和膝部的酸软无力，同时可伴腰痛发凉、手脚凉、四肢无力，头晕目眩、视物昏花等其他肾虚症状。治疗宜排除泌尿系统、骨骼及其他器质性疾病，采用中医辨证调理方法，给予通畅气血、补益肝肾，滋阴壮阳。,肾膀胱,肾虚,Ontological terms,"v1,v2",0
+1543,腰膝酸痛,Yao Xi Suan Tong,,肾膀胱,肾虚,Ontological terms,"v1,v2",0
+1544,腰膝酸重,Yao Xi Suan Zhong,,肾膀胱,肾虚,Ontological terms,"v1,v2",0
+1545,腰膝疼痛,Yao Xi Teng Tong,,肾膀胱,肾虚,Ontological terms,"v1,v2",0
+1546,腰膝无力,Yao Xi Wu Li,腰膝无力，症名。即腰膝软弱无力。轻者称腰软、膝软，重者称腰膝痿弱。多因肝肾亏损，失于滋养，或寒湿、湿热等邪气痹阻腰膝所致。,肾膀胱,肾虚,Ontological terms,"v1,v2",0
+1547,药食中毒,Yao Shi Zhong Du,,,,Ontological terms,"v1,v2",0
+1548,夜间遗尿,Ye Jian Yi Niao,,膀胱,肾阳虚,Synonymous terms,"v1,v2",0
+1549,夜惊,Ye Liang,小儿夜惊是指1岁以内的哺乳婴儿，因寒、热、受惊等而致的夜间定时啼哭，甚则通宵达旦为主要特征的一种病症。儿童夜惊是儿童的睡眠行为异常，表现为入睡后突然惊醒坐起，呈恐怖状且喊叫，同时可有极端恐惧的自主神经和行为改变的睡眠障碍。,心,肝火亢盛,Synonymous terms,"v1,v2",0
+1550,夜盲昏花,Ye Mang Hun Hua,,心,肝血虚,Synonymous terms,"v1,v2",0
+1551,夜寐不安,Ye Mei Bu An,,心,肝火旺盛,Synonymous terms,"v1,v2",0
+1552,夜梦,Ye Meng,,心,肝血虚,Synonymous terms,"v1,v2",0
+1553,夜眠不安,Ye Mian Bu An,,心,肝血虚,Synonymous terms,"v1,v2",0
+1554,夜眠不宁,Ye Mian Bu Ning,,心,肝血虚,Synonymous terms,"v1,v2",0
+1555,夜尿频,Ye Niao Pin,,膀胱,肾虚,Synonymous terms,"v1,v2",0
+1556,夜尿频多,Ye Niao Pin Duo,,膀胱,肾虚,Synonymous terms,"v1,v2",0
+1557,夜尿清长,Ye Niao Qing Chang,,膀胱,肾虚,Synonymous terms,"v1,v2",0
+1558,夜热早凉,Ye Re Zao Liang,夜热早凉是指夜间低热，至翌日清晨则热退身凉的表现。温病后期气阴耗伤，阳气不足则早凉，阴津亏虚则夜热。,血,阴虚,Ontological terms,"v1,v2",0
+1559,夜啼,Ye Ti,夜啼，中医病名。婴儿白天能安静入睡，入夜则啼哭不安，时哭时止，或每夜定时啼哭，甚则通宵达旦，称为夜啼,肝,肝火旺盛,Ontological terms,"v1,v2",0
+1560,噫气,Yi Qi,噫气乃口反食气之病。又名嗳气，为胃中之浊气上逆，经食道而由口排出之气体。是脾胃疾病之一。《灵枢。口问篇》曰；“寒气客于胃，逆从下上散，复出于胃，故谓噫”。,脾胃,脾胃虚弱,Ontological terms,"v1,v2",0
+1561,遗精,Yi Jing,,肾,肾关不固,Ontological terms,"v1,v2",0
+1562,遗尿,Yi Niao,遗尿症（Enuresis）俗称尿床，通常指小儿在熟睡时不自主地排尿。,膀胱,膀胱失约,Ontological terms,"v1,v2",0
+1563,抑郁,Yi Yu,,心肝,肝气郁滞,Synonymous terms,"v1,v2",0
+1564,易感,Yi Gan,,肺 膀胱 ,肺卫不固,Synonymous terms,"v1,v2",0
+1565,易感风邪,Yi Gan Feng Xie,,肺 膀胱 ,肺卫不固,Synonymous terms,"v1,v2",0
+1566,易饥,Yi Ji,,胃,胃火亢盛,Synonymous terms,"v1,v2",0
+1567,易惊,Yi Liang,,肝,肝血虚,Ontological terms,"v1,v2",0
+1568,易怒,Yi Nu,,肝,肝火亢盛,Synonymous terms,"v1,v2",0
+1569,翳膜遮睛,Yi Mo Zhe Jing,,眼 肝,肝血亏虚,Ontological terms,"v1,v2",0
+1570,阴道出血,Yin Dao Chu Xie,,阴道,脾虚,Synonymous terms,"v1,v2",0
+1571,阴道干燥,Yin Dao Gan Zao,,阴道,脾虚,Synonymous terms,"v1,v2",0
+1572,阴疽,Yin Ju,,四肢,阴寒内盛,Ontological terms,"v1,v2",0
+1573,阴疽不敛,Yin Ju Bu Lian,,四肢,阴寒内盛,Ontological terms,"v1,v2",0
+1574,阴疽初起,Yin Ju Chu Qi,,四肢,阴寒内盛,Synonymous terms,"v1,v2",0
+1575,阴疽肿痛,Yin Ju Zhong Tong,,四肢,阴寒内盛,Ontological terms,"v1,v2",0
+1576,阴囊湿痒,Yin Nang Shi Yang,,肝肾,肝经湿热,Ontological terms,"v1,v2",0
+1577,阴痒,Yin Yang,阴痒，中医病名。是指妇女外阴瘙痒，甚则痒痛难忍，坐卧不宁，或伴带下增多等，称为“阴痒”，有称“阴门瘙痒”、“阴蠚”等。 西医学“外阴瘙痒症”、外阴炎、阴道炎、外阴白色病变等出现以阴痒为主证时，亦可参照本病辨证论治。,肝肾,肝经湿热,Ontological terms,"v1,v2",0
+1578,阴肿,Yin Zhong,阴肿，概指以男女阴器肿大为主症的一种疾患。风邪搏击阴器，或湿热、寒湿下注，或蚊虫叮咬，或肝经郁结，血瘀阴部所致。,肾,,Ontological terms,"v1,v2",0
+1579,音哑,Yin Ya,,肺,肺气失宣,Ontological terms,"v1,v2",0
+1580,饮酒过多,Yin Jiu Guo Duo,,,,,v1,1
+1581,饮食不化,Yin Shi Bu Hua,,脾胃,脾胃虚弱,Synonymous terms,"v1,v2",0
+1582,饮食不节,Yin Shi Bu Jie,饮食不节，中医内伤病因之一，包括饮食不节、饮食不洁、饮食偏嗜等。饮食不节。过饥过饱，或饥饱无常，营养不得补充或损害脾胃，致使气血亏少，正气不足而致病。,脾胃,脾胃虚弱,Synonymous terms,"v1,v2",0
+1583,饮食积滞,Yin Shi Ji Zhi,饮食积滞证，中医病证名。是指由于饮食不节，损伤脾胃而出现的证候。常见于腹痛。,脾胃,脾胃虚弱,,v1,1
+1584,饮食少进,Yin Shi Shao Jin,,脾胃,脾胃虚弱,Synonymous terms,"v1,v2",0
+1585,饮食停滞,Yin Shi Ting Zhi,饮食停滞一般指消化不良，脘腹胀满，疼痛拒按，暖腐吞酸，或呕吐，消化不良，大便不爽，臭如败卵，苔厚腻，脉弦滑。,脾胃,脾胃虚弱,,v1,1
+1586,隐痛,Yin Tong,,,,Synonymous terms,"v1,v2",0
+1587,阴部肿块,Yin Bu Zhong Kuai,,肾,淤血阻滞,Synonymous terms,"v1,v2",0
+1588,迎风流泪,Ying Feng Liu Lei,,肝,风邪犯卫,Ontological terms,"v1,v2",0
+1589,营养不良,Ying Yang Bu Liang,,脾胃,脾胃虚弱,Synonymous terms,"v1,v2",0
+1590,嬴瘦,Ying Shou,,脾肾,先天不足，后天失养,Synonymous terms,"v1,v2",0
+1591,癭瘤初起,Ying Liu Chu Qi,,肝,肝气郁滞,Synonymous terms,"v1,v2",0
+1592,硬皮,Ying Pi,增厚变硬的一块皮肤,,血虚,Synonymous terms,"v1,v2",0
+1593,痈疽,Yong Ju,痈疽，发生于体表、四肢、内脏的急性化脓性疾患，是一种毒疮。痈发于肌肉，红肿高大，多属于阳症，疽发于骨之上，平塌色暗，多属于阴症,皮肤,热毒,Ontological terms,"v1,v2",0
+1594,痈疽不溃,Yong Ju Bu Kui,,皮肤,热毒,Ontological terms,"v1,v2",0
+1595,痈疽疔毒,Yong Ju Ding Du,,皮肤,热毒,Ontological terms,"v1,v2",0
+1596,痈疽难溃,Yong Ju Nan Kui,,皮肤,热毒,Ontological terms,"v1,v2",0
+1597,痈疽肿毒,Yong Ju Zhong Du,,皮肤,热毒,Ontological terms,"v1,v2",0
+1598,痈疽肿痛,Yong Ju Zhong Tong,,皮肤,热毒,Ontological terms,"v1,v2",0
+1599,痈肿,Yong Zhong,痈肿是多个相邻的毛囊及其所属皮脂腺或汗腺的急性化脓性感染，或由多个疖融合而成,皮肤,热毒,Ontological terms,"v1,v2",0
+1600,痈肿疮疡,Yong Zhong Chuang Yang,,皮肤,热毒,Ontological terms,"v1,v2",0
+1601,痈肿溃烂,Yong Zhong Kui Lan,,皮肤,热毒,Ontological terms,"v1,v2",0
+1602,涌吐痰涎,Yong Tu Tan Xian,,皮肤,热毒,Ontological terms,"v1,v2",0
+1603,有汗,You Han,有汗出，包括多种出汗表现。,,,Synonymous terms,"v1,v2",0
+1604,有血块,You Xie Kuai,,,,Synonymous terms,"v1,v2",0
+1605,右上腹隐隐作痛,You Shang Fu Yin Yin Zuo Tong,,肠, 肝经湿热,Synonymous terms,"v1,v2",0
+1606,右胁胀满,You Xie Zhang Man,,肝,肝气郁滞,Synonymous terms,"v1,v2",0
+1607,瘀斑,Yu Ban,为皮肤、粘膜出血性斑片状病变,,血瘀,Synonymous terms,"v1,v2",0
+1608,瘀血不尽,Yu Xie Bu Jin,,,血瘀,Synonymous terms,"v1,v2",0
+1609,瘀血肿胀,Yu Xie Zhong Zhang,,,淤血阻滞,Synonymous terms,"v1,v2",0
+1610,瘀血阻络,Yu Xie Zu Luo,瘀血阻络，主要症状自觉腹部胀满不适，治法活血通络，逐瘀泻热。,,,Synonymous terms,"v1,v2",0
+1611,瘀阻经闭,Yu Zu Jing Bi,,,淤血,,v1,1
+1612,鱼蟹中毒,Yu Xie Zhong Du,,,,Ontological terms,"v1,v2",0
+1613,语言不利,Yu Yan Bu Li,,,,Synonymous terms,"v1,v2",0
+1614,语言謇涩,Yu Yan Jian Se,指因舌体强硬，运动不灵而致发音困难，言语不清的表现。,,,Ontological terms,"v1,v2",0
+1615,郁闷心烦,Yu Men Xin Fan,,,邪热扰心,Ontological terms,"v1,v2",0
+1616,月经不调,Yue Jing Bu Diao,月经失调也称月经不调，是妇科常见疾病，表现为月经周期或出血量的异常，可伴月经前、经期时的腹痛及全身症状。病因可能是器质性病变或是功能失常。,子宫,气虚血瘀,Ontological terms,"v1,v2",0
+1617,月经过多,Yue Jing Guo Duo,月经过多的定义是连续数个月经周期中月经期出血量多，但月经间隔时间及出血时间皆规则，无经间出血、性交后出血、或经血的突然增加。临床上以出血时间与基础体温（BBT）曲线对照，将有排卵型功能失调性子宫出血分为月经量多与经间出血两类。,子宫,气虚,Ontological terms,"v1,v2",0
+1618,月经后错,Yue Jing Hou Cuo,,子宫,血虚,Ontological terms,"v1,v2",0
+1619,月经量多,Yue Jing Liang Duo,,子宫,气虚,Synonymous terms,"v1,v2",0
+1620,月经量多，味臭,Yue Jing Liang Duo ， Wei Chou,,子宫,肝经湿热,Synonymous terms,"v1,v2",0
+1621,月经量少,Yue Jing Liang Shao,月经量少（月经过少）月经周期基本正常，经量明显减少，甚至点滴即净；或经期缩短不足两天，经量亦少者，均称为“月经过少”。,子宫,气血亏虚,Ontological terms,"v1,v2",0
+1622,月经提前,Yue Jing Ti Qian,月经提前是月经不调的一个症状，就是指月经来潮的时间早于预期时间。可以通过饮食、起居和药物进行治疗。导致月经提前的原因，主要以内分泌失调与血热、气虚等因素关系最为密切,子宫,气虚,Synonymous terms,"v1,v2",0
+1623,月经先后不定期,Yue Jing Xian Hou Bu Ding Qi,,子宫,气虚,Ontological terms,"v1,v2",0
+1624,晕车,Yun Che,,,,Synonymous terms,"v1,v2",0
+1625,晕船,Yun Chuan,,,,Synonymous terms,"v1,v2",0
+1626,晕眩,Yun Xuan,,,,Ontological terms,"v1,v2",0
+1627,运动劳损,Yun Dong Lao Sun,,,,Synonymous terms,"v1,v2",0
+1628,脏器下垂,Zang Qi Xia Chui,,脾,中气下陷,Ontological terms,"v1,v2",0
+1629,脏血,Zang Xie,,,,,v1,1
+1630,早产,Zao Chan,早产是指妊娠满28周至不足37周间分娩者,子宫,肝肾亏虚,Synonymous terms,"v1,v2",0
+1631,早泄,Zao Xie,,肾,肾虚肝郁,Ontological terms,"v1,v2",0
+1632,燥咳,Zao Ke,燥咳是病名。是因肺虚液少或燥邪伤肺所致的咳嗽。其证咳嗽痰少，喉中声哑，烦渴引饮，大便秘涩，肌肤枯燥。,肺,肺阴虚,,v1,1
+1633,燥咳少痰,Zao Ke Shao Tan,,肺,温燥伤肺,Ontological terms,"v1,v2",0
+1634,燥渴,Zao Ke,,肺,温燥伤肺,Ontological terms,"v1,v2",0
+1635,燥热,Zao Re,,肝肺,温燥伤肺,Ontological terms,"v1,v2",0
+1636,燥痰,Zao Tan,痰証的一种。见《医学入门》卷五。又名气痰。多由肺燥所致。症见痰少色白，或咯出如米粒状痰，涩而难出，或兼见面白色枯，皮毛干焦，口干咽燥，咳嗽喘促等。治以清肺、润肺为主,肝肺,温燥伤肺,Synonymous terms,"v1,v2",0
+1637,憎寒,Zeng Han,是一种外有寒战，内有烦热的症状。这是由于热邪内伏，阳气被阻，不能透达所致。,肺,寒证,Synonymous terms,"v1,v2",0
+1638,痄腮,Zha Sai,"痄腮,中医病名。痄腮是因感受风温邪毒，壅阻少阳经脉引起的时行疾病。以发热、耳下腮部漫肿疼痛为临床主要特征。",,,Ontological terms,"v1,v2",0
+1639,谵狂,Zhan Kuang,,心,邪热扰心,Ontological terms,"v1,v2",0
+1640,谵语,Zhan Yu,神志不清、胡言乱语。,心,邪热扰心,Ontological terms,"v1,v2",0
+1641,胀满,Zhang Man,,脾胃,脾虚,Ontological terms,"v1,v2",0
+1642,胀痛,Zhang Tong,指疼痛且有胀的感觉,,脾虚,Ontological terms,"v1,v2",0
+1643,真元不足,Zhen Yuan Bu Zu,,肝肾,肾虚,Synonymous terms,"v1,v2",0
+1644,怔忡,Zheng Chong,"怔忡，为病名，首见于《济生方·惊悸怔忡健忘门》中“惊者，心卒动而不宁也；悸者,心跳动而怕惊也；怔忡者，心中躁动不安，惕惕然后人将捕之也”,是心悸的一种，是指多因久病体虚、心脏受损导致气血、阴阳亏虚，或邪毒、痰饮、瘀血阻滞心脉，日久导致心失濡养，心脉不畅，从而引起的心中剔剔不安，不能自控的一种病证，常和惊悸合并称为心悸。",,,Ontological terms,"v1,v2",0
+1645,癥积,Zheng Ji,,肝,瘀血阻滞,Synonymous terms,"v1,v2",0
+1646,癥瘕,Zheng Jia,,肝,瘀血阻滞,Ontological terms,"v1,v2",0
+1647,癥瘕腹痛,Zheng Jia Fu Tong,,肝,瘀血阻滞,Ontological terms,"v1,v2",0
+1648,癥瘕痞块,Zheng Jia Pi Kuai,,肝,瘀血阻滞,Ontological terms,"v1,v2",0
+1649,癥块,Zheng Kuai,,肝,瘀血阻滞,Synonymous terms,"v1,v2",0
+1650,支气管扩张,Zhi Qi Guan Kuo Zhang,支气管扩张是由于支气管及其周围肺组织慢性化脓性炎症和纤维化，使支气管壁的肌肉和弹性组织破坏，导致支气管变形及持久扩张。典型的症状有慢性咳嗽、咳大量脓痰和反复咯血。,肺,肺气虚,Synonymous terms,"v1,v2",0
+1651,支气管扩张出血,Zhi Qi Guan Kuo Zhang Chu Xie,,肺,肺气虚,Synonymous terms,"v1,v2",0
+1652,肢浮肿,Zhi Fu Zhong,,脾,脾气虚,Ontological terms,"v1,v2",0
+1653,肢节疼痛,Zhi Jie Teng Tong,,脾肝,肝气郁滞,Ontological terms,"v1,v2",0
+1654,肢倦乏力,Zhi Juan Fa Li,,脾,脾气虚,Synonymous terms,"v1,v2",0
+1655,肢冷,Zhi Leng,,肾,肾阳虚,Ontological terms,"v1,v2",0
+1656,肢麻,Zhi Ma,,肝 脾,血虚,Ontological terms,"v1,v2",0
+1657,肢酸,Zhi Suan,,四肢,,Ontological terms,"v1,v2",0
+1658,肢体不利,Zhi Ti Bu Li,,四肢,肝肾亏虚,Synonymous terms,"v1,v2",0
+1659,肢体不用,Zhi Ti Bu Yong,,四肢,肝肾亏虚,Synonymous terms,"v1,v2",0
+1660,肢体沉重,Zhi Ti Chen Zhong,,四肢,湿邪犯脾,Synonymous terms,"v1,v2",0
+1661,肢体乏力,Zhi Ti Fa Li,,脾,脾气虚,Synonymous terms,"v1,v2",0
+1662,肢体浮肿,Zhi Ti Fu Zhong,,脾,湿盛伤脾,Synonymous terms,"v1,v2",0
+1663,肢体关节疼痛,Zhi Ti Guan Jie Teng Tong,,四肢,脾气虚,Synonymous terms,"v1,v2",0
+1664,肢体活动受限,Zhi Ti Huo Dong Shou Xian,,四肢,脾气虚,Synonymous terms,"v1,v2",0
+1665,肢体肌肉萎缩,Zhi Ti Ji Rou Wei Suo,,四肢,脾气虚,Synonymous terms,"v1,v2",0
+1666,肢体拘挛,Zhi Ti Ju Luan,,四肢,脾气虚,Ontological terms,"v1,v2",0
+1667,肢体困重,Zhi Ti Kun Zhong,,四肢,脾气虚,Synonymous terms,"v1,v2",0
+1668,肢体剌痛,Zhi Ti La Tong,,四肢,淤血阻滞,Synonymous terms,"v1,v2",0
+1669,肢体麻木,Zhi Ti Ma Mu,肢体麻木是指肢体感觉丧失，发病原因有营养缺乏和代谢障碍性肢体麻木、中毒性神经性麻木、感染引起的神经炎性麻木、急性多发性神经根炎性麻木、脊椎骨质增生性麻木、骨髓病性麻木、动脉硬化性麻木、植物神经功能紊乱性麻木,四肢,血虚,Ontological terms,"v1,v2",0
+1670,肢体麻木拘挛,Zhi Ti Ma Mu Ju Luan,,四肢,血虚,Synonymous terms,"v1,v2",0
+1671,肢体酸痛,Zhi Ti Suan Tong,,四肢,,Synonymous terms,"v1,v2",0
+1672,肢体酸重,Zhi Ti Suan Zhong,,四肢,,Ontological terms,"v1,v2",0
+1673,肢体疼痛,Zhi Ti Teng Tong,,四肢,脾气虚,Ontological terms,"v1,v2",0
+1674,肢体胸痛,Zhi Ti Xiong Tong,,四肢,脾气虚,Synonymous terms,"v1,v2",0
+1675,脂溢性脱发,Zhi Yi Xing Tuo Fa,,,肝经湿热,Synonymous terms,"v1,v2",0
+1676,痔疮出血,Zhi Chuang Chu Xie,,大肠,大肠湿热,Ontological terms,"v1,v2",0
+1677,痔疮痛,Zhi Chuang Tong,,大肠,热毒,Ontological terms,"v1,v2",0
+1678,痔疮肿,Zhi Chuang Zhong,,大肠,热毒,Ontological terms,"v1,v2",0
+1679,痔疮肿痛,Zhi Chuang Zhong Tong,,大肠,热毒,Ontological terms,"v1,v2",0
+1680,痔血,Zhi Xie,,大肠,热伤血络,Ontological terms,"v1,v2",0
+1681,痔肿,Zhi Zhong,,大肠,血热,Ontological terms,"v1,v2",0
+1682,智能减退,Zhi Neng Jian Tui,智能减退是一种常见的症状，如果是在18岁以后出现称为痴呆，18岁之前出现的则称为精神发育迟滞，儿童及成人皆可发病，其发病率随年龄的增长而增高,脑 肾,,Synonymous terms,"v1,v2",0
+1683,中风,Zhong Feng,中风，中医病名，有外风和内风之分，外风因感受外邪（风邪）所致，在《伤寒论》名曰中风（亦称桂枝汤证）；内风属内伤病证，又称脑卒中，卒中等。现代一般称中风，多指内伤病证的类中风，多因气血逆乱、脑脉痹阻或血溢于脑所致。以突然昏仆、半身不遂、肢体麻木、舌蹇不语，口舌歪斜，偏身麻木等为主要表现的脑神疾病。并具有起病急、变化快，如风邪善行数变之特点的疾病。这里介绍的为类中风（脑卒中）。,心脑,五脏亏虚,Ontological terms,"v1,v2",0
+1684,中风后遗症,Zhong Feng Hou Yi Zheng,中风是中医学的疾病名称，也是人们对急性脑血管疾病的统称和俗称，本病是一组以脑部缺血及出血性损伤症状为主要临床表现的疾病，又称脑卒中或脑血管意外，具有极高的病死率和致残率，主要分为出血性脑中风（脑出血或蛛网膜下腔出血）和缺血性脑中风（脑梗死、脑血栓形成）两大类。出血性脑中风早期死亡率很高，约有半数病人于发病数日内死亡，幸存者中多数留有不同程度的运动障碍、认知障碍、言语吞咽障碍等后遗症。缺血性脑中风患者临床上以偏瘫为主要后遗症。多发生于50岁以后，男性略多于女性。,心脑,肝肾亏虚,Synonymous terms,"v1,v2",0
+1685,中暑,Zhong Shu,中暑是指长时间暴露在高温环境中、或在炎热环境中进行体力活动引起机体体温调节功能紊乱所致的一组临床症候群，以高热、皮肤干燥以及中枢神经系统症状为特征。,肺,暑热,Ontological terms,"v1,v2",0
+1686,肿毒,Zhong Du,,,热毒,Ontological terms,"v1,v2",0
+1687,肿痛,Zhong Tong,指炎症的一般症状。即损伤或炎症导致的身体某部位组织的肿胀及疼痛,,,Ontological terms,"v1,v2",0
+1688,肿痛羞明,Zhong Tong Xiu Ming,,,热证,Ontological terms,"v1,v2",0
+1689,肿硬作痛,Zhong Ying Zuo Tong,,,气滞,Synonymous terms,"v1,v2",0
+1690,肿胀,Zhong Zhang,肿胀本是两个概念，肿是肿，胀是胀。肿多与肾脏关系密切，肾脏本是水火之脏，左为肾，重在精液，津液之容之。右之命门，是人之生命之本源，主真火所藏，人之身阴阳的盛衰，水道畅达，人体躯干就不会肿。水液潴留，泛滥肌肤，多表现以头面、眼睑、四肢、腹背、甚至全身性肿为特征的一类病症,,,Ontological terms,"v1,v2",0
+1691,肿胀麻木,Zhong Zhang Ma Mu,,,气滞,Synonymous terms,"v1,v2",0
+1692,周身不适,Zhou Shen Bu Shi,,,气虚,Synonymous terms,"v1,v2",0
+1693,周身乏力,Zhou Shen Fa Li,,肝肾,气虚,Synonymous terms,"v1,v2",0
+1694,转筋挛急,Zhuan Jin Luan Ji,,四肢,筋脉失养,Ontological terms,"v1,v2",0
+1695,转筋挛痛,Zhuan Jin Luan Tong,,四肢,筋脉失养,Ontological terms,"v1,v2",0
+1696,壮热,Zhuang Re,壮热是指病人自觉热甚，或恶热，喜弃衣被，扪之肌肤烙手，测其体温39℃以上者，多因外邪入里，邪正相搏，阳热内盛，蒸达于外所致。常见于外感温热病气分阶段，属里实热证，多兼面赤、汗多、烦渴饮冷、舌红苔黄等热盛之症。,,,Ontological terms,"v1,v2",0
+1697,灼热,Zhuo Re,,,热证,Synonymous terms,"v1,v2",0
+1698,灼痛,Zhuo Tong,中医学名词，指疼痛有灼热之感，而且喜冷恶热。常因火邪窜络，或阴虚火旺，组织被灼所致。,,,Synonymous terms,"v1,v2",0
+1699,浊涕,Zhuo Ti,浊涕指鼻涕浓稠秽浊。常见于鼻渊等病，出《素问·气厥论》。多因肺、胆蕴热上薰鼻窍等所致,肺,肺热,Synonymous terms,"v1,v2",0
+1700,浊涕臭气,Zhuo Ti Chou Qi,,肺,肺热,Synonymous terms,"v1,v2",0
+1701,子烦,Zi Fan,指妇女妊娠期中出现的烦躁心悸的病症。西医妊娠期间出现抑郁症可参考本病。,子宫,热证,Ontological terms,"v1,v2",0
+1702,子宫出血,Zi Gong Chu Xie,,子宫,脾气虚,Ontological terms,"v1,v2",0
+1703,子宫功能性出血,Zi Gong Gong Neng Xing Chu Xie,,子宫,脾气虚,Synonymous terms,"v1,v2",0
+1704,子宫脱垂,Zi Gong Tuo Chui,子宫脱垂（uterine prolapse）是指子宫从正常位置沿阴道下降，宫颈外口达坐骨棘水平以下，甚至子宫全部脱出于阴道口以外，常合并有阴道前壁和（或）后壁膨出。阴道前后壁又与膀胱、直肠相邻，因此子宫脱垂还可同时伴有膀胱尿道和直肠膨出,子宫,中气下陷,Ontological terms,"v1,v2",0
+1705,子痫抽搐,Zi Xian Chou Chu,,子宫,肝肾亏虚,Synonymous terms,"v1,v2",0
+1706,紫斑,Zi Ban,也称之肌衄，多数指血液溢出肌肤之间，皮肤表现青紫斑点或斑块的病证。西医的血液病、维生素缺乏症等所致皮下紫癜，均可参照本证辨证论治。另外在微电子封装领域中，紫斑主要是指引线键合中的Au-Al焊接界面上所产生的Au-Al化合物，其成分为AuAl2，它的存在会严重影响到引线键合的质量和可靠性。,,,Ontological terms,"v1,v2",0
+1707,自汗,Zi Han,中医病症名。自汗属于中医汗证范畴， 指由于阴阳失调、腠理不固，而致汗液外泄失常的病证,肾,气虚,Ontological terms,"v1,v2",0
+1708,足抽搐,Zu Chou Chu,,四肢,筋脉失养,Synonymous terms,"v1,v2",0
+1709,足跟疼痛,Zu Gen Teng Tong,,四肢,肾虚,Synonymous terms,"v1,v2",0
+1710,足胫红肿热痛,Zu Jing Hong Zhong Re Tong,,四肢,热证,Synonymous terms,"v1,v2",0
+1711,足拘挛,Zu Ju Luan,,四肢,阴虚,Synonymous terms,"v1,v2",0
+1712,足冷,Zu Leng,,四肢,阳虚,Ontological terms,"v1,v2",0
+1713,足麻木,Zu Ma Mu,,四肢,肝血虚,Ontological terms,"v1,v2",0
+1714,足痿筋挛,Zu Wei Jin Luan,,四肢,肝血虚,Ontological terms,"v1,v2",0
+1715,足膝红肿,Zu Xi Hong Zhong,,四肢,热证,Synonymous terms,"v1,v2",0
+1716,足膝红肿热痛,Zu Xi Hong Zhong Re Tong,,四肢,热证,Synonymous terms,"v1,v2",0
+1717,足肿胀,Zu Zhong Zhang,,四肢,脾气虚,Synonymous terms,"v1,v2",0
+1718,下疳,Xia Gan,,,,Ontological terms,v2,0
+1719,下痢,Xia Li,,,,Ontological terms,v2,0
+1720,不得平卧,Bu De Ping Wo,,,,Ontological terms,v2,0
+1721,不眠,Bu Mian,,,,Ontological terms,v2,0
+1722,不语,Bu Yu,,,,Ontological terms,v2,0
+1723,不饥食少,Bu Ji Shi Shao,,,,Ontological terms,v2,0
+1724,丝虫病,Si Chong Bing,,,,Ontological terms,v2,0
+1725,中恶昏迷,Zhong E Hun Mi,,,,Ontological terms,v2,0
+1726,中暑发痧,Zhong Shu Fa Sha,,,,Ontological terms,v2,0
+1727,中风痰迷,Zhong Feng Tan Mi,,,,Ontological terms,v2,0
+1728,久不收口,Jiu Bu Shou Kou,,,,Ontological terms,v2,0
+1729,久咳胸痛,Jiu Ke Xiong Tong,,,,Ontological terms,v2,0
+1730,久溃不敛,Jiu Kui Bu Lian,,,,Ontological terms,v2,0
+1731,久疟,Jiu Nve,,,,Ontological terms,v2,0
+1732,乳房结块,Ru Fang Jie Kuai,,,,Ontological terms,v2,0
+1733,乳痈肿痛,Ru Yong Zhong Tong,,,,Ontological terms,v2,0
+1734,乳糜尿,Ru Mi Niao,,,,Ontological terms,v2,0
+1735,乳腺炎,Ru Xian Yan,,,,Ontological terms,v2,0
+1736,乳腺癌,Ru Xian Ai,乳房胀痛，但无周期性发作特点。晚期常伴有乳头凹陷、溢血，表皮呈橘皮样改变。乳房可扪及肿块，有压痛。,乳房,,Ontological terms,v2,0
+1737,乳蛾,Ru E,咽部扁桃体肿大，形状如蚕蛾或乳头。,咽部,肺胃热盛,Ontological terms,v2,0
+1738,乳闭,Ru Bi,,,,Ontological terms,v2,0
+1739,二便不利,Er Bian Bu Li,,,,Ontological terms,v2,0
+1740,二便不通,Er Bian Bu Tong,,,,Ontological terms,v2,0
+1741,亦气疼痛,Yi Qi Teng Tong,,,,Ontological terms,v2,0
+1742,产后发热,Chan Hou Fa Re,产后发热是指产褥期内，出现发热持续不退，或低热持续，或突然高热寒战，并伴有其他症状者。,机体,,Ontological terms,v2,0
+1743,产后手足浮肿,Chan Hou Shou Zu Fu Zhong,,,,Ontological terms,v2,0
+1744,产后无乳,Chan Hou Wu Ru,生产后，产妇乳汁少，或无乳汁分泌。,乳房,脾虚;肝郁气滞、瘀血阻络,Ontological terms,v2,0
+1745,产后淤阻,Chan Hou Yu Zu,,,,Ontological terms,v2,0
+1746,产后瘀滞,Chan Hou Yu Zhi,,,,Ontological terms,v2,0
+1747,产后瘀滞腹痛,Chan Hou Yu Zhi Fu Tong,,,,Ontological terms,v2,0
+1748,产后瘀血,Chan Hou Yu Xie,,,,Ontological terms,v2,0
+1749,产后瘀血腹痛,Chan Hou Yu Xie Fu Tong,,,,Ontological terms,v2,0
+1750,产后瘀阻,Chan Hou Yu Zu,,,,Ontological terms,v2,0
+1751,产后瘀阻腹痛,Chan Hou Yu Zu Fu Tong,,,,Ontological terms,v2,0
+1752,产后缺乳,Chan Hou Que Ru,生产后，产妇乳汁少，或无乳汁分泌。,乳房,脾虚;肝郁气滞、瘀血阻络,Ontological terms,v2,0
+1753,产后血虚发热,Chan Hou Xie Xu Fa Re,,,,Ontological terms,v2,0
+1754,伤酒,Shang Jiu,,,,Ontological terms,v2,0
+1755,伤酒口渴,Shang Jiu Kou Ke,,,,Ontological terms,v2,0
+1756,伤酒吐血,Shang Jiu Tu Xie,,,,Ontological terms,v2,0
+1757,伤食,Shang Shi,,,,Ontological terms,v2,0
+1758,伤食腹痛腹泻,Shang Shi Fu Tong Fu Xie,,,,Ontological terms,v2,0
+1759,体倦乏力,Ti Juan Fa Li,,,,Ontological terms,v2,0
+1760,体虱,Ti Shi,,,,Ontological terms,v2,0
+1761,作喘,Zuo Chuan,,,,Ontological terms,v2,0
+1762,便塘,Bian Tang,,,,Ontological terms,v2,0
+1763,偏正头痛,Pian Zheng Tou Tong,,,,Ontological terms,v2,0
+1764,健忘多梦,Jian Wang Duo Meng,,,,Ontological terms,v2,0
+1765,关窍不通,Guan Qiao Bu Tong,,,,Ontological terms,v2,0
+1766,关节痿软,Guan Jie Wei Ruan,,,,Ontological terms,v2,0
+1767,关节肿胀,Guan Jie Zhong Zhang,,,,Ontological terms,v2,0
+1768,关节酸,Guan Jie Suan,,,,Ontological terms,v2,0
+1769,内伤出血,Nei Shang Chu Xie,,,,Ontological terms,v2,0
+1770,冻疮,Dong Chuang,,,,Ontological terms,v2,0
+1771,冻疮.,Dong Chuang .,,,,Ontological terms,v2,0
+1772,创伤,Chuang Shang,,,,Ontological terms,v2,0
+1773,劳伤腰痛,Lao Shang Yao Tong,,,,Ontological terms,v2,0
+1774,劳热,Lao Re,,,,Ontological terms,v2,0
+1775,历节痹痛,Li Jie Bi Tong,,,,Ontological terms,v2,0
+1776,历节风痛,Li Jie Feng Tong,,,,Ontological terms,v2,0
+1777,原发性血小板减少性紫癜,Yuan Fa Xing Xie Xiao Ban Jian Shao Xing Zi Dian,,,,Ontological terms,v2,0
+1778,发痧,Fa Sha,,,,Ontological terms,v2,0
+1779,发背,Fa Bei,,,,Ontological terms,v2,0
+1780,口㖞,Kou Wai,,,,Ontological terms,v2,0
+1781,口眼㖞斜,Kou Yan Wai Xie,,,,Ontological terms,v2,0
+1782,口眼喝斜,Kou Yan He Xie,,,,Ontological terms,v2,0
+1783,口眼干燥综合征,Kou Yan Gan Zao Zong He Zheng,,,,Ontological terms,v2,0
+1784,口蜗,Kou Gua,,,,Ontological terms,v2,0
+1785,口,Kou ,,,,Ontological terms,v2,0
+1786,后重,Hou Zhong,,,,Ontological terms,v2,0
+1787,吐泻转筋,Tu Xie Zhuan Jin,,,,Ontological terms,v2,0
+1788,吐酸,Tu Suan,呕吐，吐岀物为酸水，或吐出物中兼有酸水。,胃肠,胃热、脾胃虚寒、肝郁化火,Ontological terms,v2,0
+1789,呕吐呃逆,Ou Tu E Ni,,,,Ontological terms,v2,0
+1790,呕吐腹痛,Ou Tu Fu Tong,,,,Ontological terms,v2,0
+1791,呕哕,Ou Yue,,,,Ontological terms,v2,0
+1792,呕逆吐酸,Ou Ni Tu Suan,,,,Ontological terms,v2,0
+1793,咯吐不出,Ge Tu Bu Chu,,,,Ontological terms,v2,0
+1794,咳喘痰多,Ke Chuan Tan Duo,,,,Ontological terms,v2,0
+1795,咳嗽气喘,Ke Sou Qi Chuan,,,,Ontological terms,v2,0
+1796,咳痰,Ke Tan,,,,Ontological terms,v2,0
+1797,咳逆,Ke Ni,,,,Ontological terms,v2,0
+1798,咽喉干痛,Yan Hou Gan Tong,,,,Ontological terms,v2,0
+1799,咽喉炎,Yan Hou Yan,,,,Ontological terms,v2,0
+1800,咽肿,Yan Zhong,,,,Ontological terms,v2,0
+1801,喉痹乳蛾,Hou Bi Ru E,,,,Ontological terms,v2,0
+1802,喉痹肿痛,Hou Bi Zhong Tong,,,,Ontological terms,v2,0
+1803,喉肿痛,Hou Zhong Tong,,,,Ontological terms,v2,0
+1804,喉风,Hou Feng,,,,Ontological terms,v2,0
+1805,噎膈,Ye Ge,因气、痰、瘀交结，阻隔于食管所致。以进食哽噎不顺或食不得入，或食入即吐，甚则因噎废食为特征,食管、胃,痰气交阻、津亏热结、 瘀血内结、气虚阳微,Ontological terms,v2,0
+1806,噤口,Jin Kou,,,,Ontological terms,v2,0
+1807,四肢抽搐,Si Zhi Chou Chu,,,,Ontological terms,v2,0
+1808,四肢挛急疼痛,Si Zhi Luan Ji Teng Tong,,,,Ontological terms,v2,0
+1809,四肢痿软,Si Zhi Wei Ruan,,,,Ontological terms,v2,0
+1810,壮热烦渴,Zhuang Re Fan Ke,,,,Ontological terms,v2,0
+1811,声哑,Sheng Ya,,,,Ontological terms,v2,0
+1812,夏伤暑湿,Xia Shang Shu Shi,,,,Ontological terms,v2,0
+1813,外伤出血,Wai Shang Chu Xie,,,,Ontological terms,v2,0
+1814,外伤肿痛,Wai Shang Zhong Tong,,,,Ontological terms,v2,0
+1815,外感发热,Wai Gan Fa Re,,,,Ontological terms,v2,0
+1816,外感热病,Wai Gan Re Bing,,,,Ontological terms,v2,0
+1817,夜盲,Ye Mang,,,,Ontological terms,v2,0
+1818,大头瘟疫,Da Tou Wen Yi,,,,Ontological terms,v2,0
+1819,大汗,Da Han,,,,Ontological terms,v2,0
+1820,天疱疮,Tian Pao Chuang,,,,Ontological terms,v2,0
+1821,失精,Shi Jing,,,,Ontological terms,v2,0
+1822,失血,Shi Xie,,,,Ontological terms,v2,0
+1823,头痛头晕,Tou Tong Tou Yun,,,,Ontological terms,v2,0
+1824,头痛目赤,Tou Tong Mu Chi,,,,Ontological terms,v2,0
+1825,头癣,Tou Xian,,,,Ontological terms,v2,0
+1826,头虱,Tou Shi,,,,Ontological terms,v2,0
+1827,头身疼痛,Tou Shen Teng Tong,,,,Ontological terms,v2,0
+1828,奔豚,Ben Tun,"自觉有气从少腹、小腹向上窜，悸动奔走, 如小猪在窜动。",少腹部,水饮停聚,Ontological terms,v2,0
+1829,妇人脏躁,Fu Ren Zang Zao,脏躁是指无故自悲，不能控制，或苦笑无常，哈欠频作， 发作与月经周期无关。,子宫,肾阴虚、肾阳虚、肾阴阳两虚、心肾不交,Ontological terms,v2,0
+1830,妇女断乳,Fu Nv Duan Ru,,,,Ontological terms,v2,0
+1831,妇女湿热带下,Fu Nv Shi Re Dai Xia,,,,Ontological terms,v2,0
+1832,妇女阴痒,Fu Nv Yin Yang,女性外阴及阴道瘙痒，甚则痒痛难忍，坐卧不宁，或伴带下增多者，称为“阴痒”，又称“阴门瘙痒”。,阴道,肝肾阴虚、湿热下注,Ontological terms,v2,0
+1833,妊娠子痫,Ren Shen Zi Xian,妊娠晚期、临产时，或新产后，突然发生眩晕倒仆，昏不知人，两目上视，牙关紧闭，四肢抽搐，全身强直，须臾 醒，醒后复发，甚或昏迷不醒者，称为“子痫”。,,,Ontological terms,v2,0
+1834,姜片虫病,Jiang Pian Chong Bing,,,,Ontological terms,v2,0
+1835,子官脱垂,Zi Guan Tuo Chui,女性子宫下垂，脱出至阴户口或阴户外。,子宫,中气下陷,Ontological terms,v2,0
+1836,子宫颈癌,Zi Gong Jing Ai,,,,Ontological terms,v2,0
+1837,实热积滞便秘,Shi Re Ji Zhi Bian Mi,,,,Ontological terms,v2,0
+1838,宫冷不孕,Gong Leng Bu Yun,,,,Ontological terms,v2,0
+1839,寒湿呕逆,Han Shi Ou Ni,,,,Ontological terms,v2,0
+1840,寒湿脚气,Han Shi Jiao Qi,,,,Ontological terms,v2,0
+1841,寒热,Han Re,,,,Ontological terms,v2,0
+1842,寒疝腹痛,Han Shan Fu Tong,,,,Ontological terms,v2,0
+1843,寒痹,Han Bi,,,,Ontological terms,v2,0
+1844,寒积便秘,Han Ji Bian Mi,,,,Ontological terms,v2,0
+1845,小便淋沥,Xiao Bian Lin Li,小便后仍有余沥点滴不净。,膀胱,肾虚胞寒、中气下陷、膀胱湿热、阴虚火旺,Ontological terms,v2,0
+1846,小便淋漓,Xiao Bian Lin Li,,,,Ontological terms,v2,0
+1847,小便疼痛,Xiao Bian Teng Tong,排尿时尿道发生刺痛、灼痛、涩痛、绞 痛等，同时伴有小便淋漓不畅。,膀胱,焦湿热、心火亢盛、下焦血瘀、肝郁气滞、肾阴亏虚,Ontological terms,v2,0
+1848,小便短赤涩痛,Xiao Bian Duan Chi Se Tong,,,,Ontological terms,v2,0
+1849,小便艰涩,Xiao Bian Jian Se,排尿艰难涩痛。,,,Ontological terms,v2,0
+1850,小便赤,Xiao Bian Chi,,,,Ontological terms,v2,0
+1851,小便遗沥,Xiao Bian Yi Li,,,,Ontological terms,v2,0
+1852,小儿夜啼,Xiao Er Ye Ti,指婴儿入夜啼哭不安，时哭时止，或每夜定时啼哭，甚则通宵达旦，但白天如常的一种病证。,眼部,脾寒气滞、心经积热,Ontological terms,v2,0
+1853,小儿急惊风,Xiao Er Ji Liang Feng,是小儿常见的一种急重病证，临床以抽搐、昏迷为主要症状，急惊风来势急骤，以高热、抽风、昏迷为主要表现，痰、热、惊、风四证俱备。,机体,外感风热、温热疫毒,Ontological terms,v2,0
+1854,小儿惊啼,Xiao Er Liang Ti,,,,Ontological terms,v2,0
+1855,小儿惊痫,Xiao Er Liang Xian,是以突然仆倒，昏不识人，口吐涎沫，两目上视，肢体抽搐， 惊掣啼叫，喉中异声，片刻即醒，醒后如常人为特征的疾病。,机体,痰气逆乱，蒙蔽心窍，引动肝风,Ontological terms,v2,0
+1856,小儿惊风,Xiao Er Liang Feng,,,,Ontological terms,v2,0
+1857,小儿慢惊,Xiao Er Man Liang,,,,Ontological terms,v2,0
+1858,小儿疳热,Xiao Er Gan Re,,,,Ontological terms,v2,0
+1859,小儿疳积,Xiao Er Gan Ji,由喂养不当或多种疾病影响，导致脾胃受损，气液耗伤，不能濡养脏腑、经脉、筋骨、肌肤而形成的一种慢性消耗性疾病。,机体,脾胃亏损、津液耗伤,Ontological terms,v2,0
+1860,小儿痰热惊痫,Xiao Er Tan Re Liang Xian,,,,Ontological terms,v2,0
+1861,小儿高热抽搐,Xiao Er Gao Re Chou Chu,,,,Ontological terms,v2,0
+1862,少阴伏风头痛,Shao Yin Fu Feng Tou Tong,,,,Ontological terms,v2,0
+1863,尿少涩痛,Niao Shao Se Tong,,,,Ontological terms,v2,0
+1864,尿热涩痛,Niao Re Se Tong,,,,Ontological terms,v2,0
+1865,尿路感染,Niao Lu Gan Ran,,,,Ontological terms,v2,0
+1866,尿闭,Niao Bi,,,,Ontological terms,v2,0
+1867,崩中,Beng Zhong,子宫出血量多而势急如崩,子宫,血热 证、瘀血阻滞证、脾不统血证、冲任不固证,Ontological terms,v2,0
+1868,崩中漏下,Beng Zhong Lou Xia,子宫岀血量少而势缓，淋漓不尽,子宫,肾虚证、血瘀证、冲任不固证,Ontological terms,v2,0
+1869,崩漏下血,Beng Lou Xia Xie,,,,Ontological terms,v2,0
+1870,带下色白,Dai Xia Se Bai,妇女阴道分泌物色白，淋漓不断或带有臭味,阴道,脾阳虚证、脾虚湿困证、胞宫虚寒证,Ontological terms,v2,0
+1871,带下色赤,Dai Xia Se Chi,妇女阴道分泌物带红色黏液,阴道,阴虚内热证,Ontological terms,v2,0
+1872,带下阴痒,Dai Xia Yin Yang,,,,Ontological terms,v2,0
+1873,带状疱疹,Dai Zhuang Pao Zhen,是一种皮肤上出现成簇水疱，多呈带状分布，痛如火燎的急性疱疹性皮肤病,皮肤,肝经郁热证,Ontological terms,v2,0
+1874,干咳感冒,Gan Ke Gan Mao,咳嗽声音清脆，无痰或少痰。,肺,外感燥邪 证、肺阴虚证、燥邪犯肺证、肝火犯肺证,Ontological terms,v2,0
+1875,干癣,Gan Xian,为皮肤增厚、粗糙、皮嵴隆起、皮沟加深、干燥、局限性边界清楚的大片或小片损害,皮肤,血虚风燥、肌肤失养,Ontological terms,v2,0
+1876,幽门部痉挛,You Men Bu Jing Luan,由于食管干涩或食管狭窄导致吞咽食物哽噎不顺，饮食难 下，或食而复出的疾患,上消化道,痰气交阻,Ontological terms,v2,0
+1877,庁肿,Ting Zhong,,,,Ontological terms,v2,0
+1878,弛缓胃肌,Chi Huan Wei Ji,,,,Ontological terms,v2,0
+1879,强中,Qiang Zhong,,,,Ontological terms,v2,0
+1880,心动悸,Xin Dong Ji,,,,Ontological terms,v2,0
+1881,心悸失眠,Xin Ji Shi Mian,心跳快或节律不齐，或自觉心中悸动不宁,心,心气虚证、心阳虚证、心阴虚证、心血虚证、痰热扰心 证、水气凌心证、心脾气血两虚证、阴虚火旺证、心虚神怯 证、瘀阻心脉证,Ontological terms,v2,0
+1882,心肾不交多梦,Xin Shen Bu Jiao Duo Meng,睡眠不实，睡眠中梦扰纷纭，或次日头昏神 疲。,心,心脾两虚证、心肾不交证、胆郁痰扰证,Ontological terms,v2,0
+1883,心肾不交失眠,Xin Shen Bu Jiao Shi Mian,不能获得正常睡眠，或入睡难，或易醒，醒 后不能再睡，甚则彻夜不眠,心,营血亏虚证、阴虚火旺 证、心肾不交证、心脾两虚证、胆郁痰扰证、肝经郁热证、 痰热扰心证、心火亢盛证、余热扰膈证,Ontological terms,v2,0
+1884,心胃气痛,Xin Wei Qi Tong,以上腹胃脘部近心窝处疼痛为主症的病证,胃, 寒邪客胃,Ontological terms,v2,0
+1885,心胸郁闷,Xin Xiong Yu Men,,,,Ontological terms,v2,0
+1886,心腹暴痛,Xin Fu Bao Tong,,,,Ontological terms,v2,0
+1887,心腹疼痛,Xin Fu Teng Tong,,,,Ontological terms,v2,0
+1888,心腹瘀痛,Xin Fu Yu Tong,,,,Ontological terms,v2,0
+1889,忧郁,You Yu,,,,Ontological terms,v2,0
+1890,急性传染性肝炎,Ji Xing Chuan Ran Xing Gan Yan,以一侧或两侧胁肋部疼痛为主要表现的病证,胁肋,肝郁气滞,Ontological terms,v2,0
+1891,急性淋巴管炎,Ji Xing Lin Ba Guan Yan,,,,Ontological terms,v2,0
+1892,急性肝炎,Ji Xing Gan Yan,以一侧或两侧胁肋部疼痛为主要表现的病证,胁肋,肝郁气滞,Ontological terms,v2,0
+1893,急性鼓膜炎,Ji Xing Gu Mo Yan,,,,Ontological terms,v2,0
+1894,恶心呕吐,E Xin Ou Tu,食物或水饮自口腔吐出，常与恶心并见,胃肠,寒邪犯胃证、食滞胃肠证、胃热炽盛证、寒饮停胃证、肝 胃不和证、脾胃气虚证、脾胃阳虚证、胃阴虚证、湿热蕴脾 证、暑湿内蕴证、虫扰胆膈证,Ontological terms,v2,0
+1895,恶露不下,E Lu Bu Xia,胎儿娩岀后，胞宫内的瘀血和浊液留滞 或伴有小腹疼痛,子宫,肝郁气滞证、血气血两虚证,Ontological terms,v2,0
+1896,恶露不尽,E Lu Bu Jin,,,,Ontological terms,v2,0
+1897,恶露不行,E Lu Bu Xing,,,,Ontological terms,v2,0
+1898,惊痛,Liang Tong,,,,Ontological terms,v2,0
+1899,感冒发热,Gan Mao Fa Re,体温超过正常，或自觉有热感,机体,热证、外感疾病、阴虚、瘀阻、蕴毒,Ontological terms,v2,0
+1900,感冒头痛,Gan Mao Tou Tong,整个头部或头的前、后部位，或两侧或头顶 部位的疼痛,头,外感病或痰浊、瘀血阻滞证或气血两虚 证、肾虚髓亏证,Ontological terms,v2,0
+1901,感冒头身疼痛,Gan Mao Tou Shen Teng Tong,全身（颈肩、背部、腰部、四肢等）均感疼 痛,全身,外感风寒证、风湿证、水湿停聚证、瘀阻脉络证、 气血亏虚证,Ontological terms,v2,0
+1902,感冒无汗,Gan Mao Wu Han,汗出较平常少，加衣被、取暖或运动，都少出汗,肺,表实证,Ontological terms,v2,0
+1903,感冒风寒,Gan Mao Feng Han,,,,Ontological terms,v2,0
+1904,慢性便秘,Man Xing Bian Mi,患者经常出现大便干燥，排出困难，或 排便时间延长，或间隔时间延长,大肠,肠热腑实证、肠道气 滞证、脾气虚证、脾肾阳虚证、阴虚肠燥证,Ontological terms,v2,0
+1905,慢性气管炎,Man Xing Qi Guan Yan,以发出咳声或伴有咳痰为主症的一种肺系病证,肺,风寒袭肺,Ontological terms,v2,0
+1906,慢性肝炎,Man Xing Gan Yan,以一侧或两侧胁肋部疼痛为主要表现的病证,胁肋,肝郁气滞,Ontological terms,v2,0
+1907,慢性胃肠炎,Man Xing Wei Chang Yan,由于胃失和降、气逆于上，迫使胃内容物从口而出的病证,胃,外邪犯胃,Ontological terms,v2,0
+1908,扁桃体炎,Bian Tao Ti Yan,咽喉，或咽，或喉部位疼痛,咽喉,外感风 热证、风温证、阴虚证、气阴两虚证,Ontological terms,v2,0
+1909,手足瘈疭,Shou Zu Ji Zong,,,,Ontological terms,v2,0
+1910,手足麻木,Shou Zu Ma Mu,,,,Ontological terms,v2,0
+1911,扭挫伤痛,Niu Cuo Shang Tong,,,,Ontological terms,v2,0
+1912,拘挛,Ju Luan,,,,Ontological terms,v2,0
+1913,挛急,Luan Ji,,,,Ontological terms,v2,0
+1914,挛痛,Luan Tong,,,,Ontological terms,v2,0
+1915,损伤出血,Sun Shang Chu Xie,,,,Ontological terms,v2,0
+1916,支气管分泌过多,Zhi Qi Guan Fen Mi Guo Duo,咳痰量多，痰白滑而易于咳出,肺,外 感风湿证、水湿内停证、脾失健运证,Ontological terms,v2,0
+1917,支气管炎,Zhi Qi Guan Yan,以发出咳声或伴有咳痰为主症的一种肺系病证,肺,风寒袭肺,Ontological terms,v2,0
+1918,斑紫黑,Ban Zi Hei,面部皮肤出现点状、网状、片状、地图 状的黑斑，齐平于皮肤，抚之不碍手,面部,肝肾阴虚证,Ontological terms,v2,0
+1919,新久咳嗽,Xin Jiu Ke Sou,咳嗽阵发或咳声连续不断,肺,外感疫疔,Ontological terms,v2,0
+1920,新咳,Xin Ke,咳嗽声音响亮而有力,肺,外感实证,Ontological terms,v2,0
+1921,无名肿毒,Wu Ming Zhong Du,,,,Ontological terms,v2,0
+1922,无痰,Wu Tan,,,,Ontological terms,v2,0
+1923,早期肝硬化,Zao Qi Gan Ying Hua,,,,Ontological terms,v2,0
+1924,早衰,Zao Shuai,,,,Ontological terms,v2,0
+1925,时疫,Shi Yi,,,,Ontological terms,v2,0
+1926,时疫感冒,Shi Yi Gan Mao,,,,Ontological terms,v2,0
+1927,昏花,Hun Hua,,,,Ontological terms,v2,0
+1928,昏迷不醒,Hun Mi Bu Xing,,,,Ontological terms,v2,0
+1929,晐嗽,Gai Sou,,,,Ontological terms,v2,0
+1930,暑湿吐泻,Shu Shi Tu Xie,便次增多，便质稀薄，甚至便稀如水样,消化道,内伤饮食、感受外邪、脾气虚、脾阳虚、肝郁乘脾,Ontological terms,v2,0
+1931,暑热烦渴,Shu Re Fan Ke,口干渴而喜饮，饮水量多、次频而不解 渴,,外感热病阳明经证、风热疫毒证、胃热津伤证、津 气亏虚证,Ontological terms,v2,0
+1932,术后出血,Zhu Hou Chu Xie,创口有血液流出,有创伤口,创伤开放,Ontological terms,v2,0
+1933,杨梅疮,Yang Mei Chuang,,,,Ontological terms,v2,0
+1934,梅核气,Mei He Qi,自觉咽喉部似有物梗阻不适，咯之不 出，咽之不下，但并不妨碍进食,咽喉,心脾两虚证、肝气郁 结证、肝郁脾虚证、肝胃不和证、阴虚肝郁证,Ontological terms,v2,0
+1935,梅毒,Mei Du,,,,Ontological terms,v2,0
+1936,死肌,Si Ji,,,,Ontological terms,v2,0
+1937,毒虫螫伤,Du Chong Shi Shang,身体某部位出现咬伤牙痕,皮肤,,Ontological terms,v2,0
+1938,气喘痰多,Qi Chuan Tan Duo,,,,Ontological terms,v2,0
+1939,气管炎,Qi Guan Yan,呼吸困难，气息迫促，声高息粗,肺,表寒肺热证、痰热壅肺证、痰气互结证，或肺炎咳嗽,Ontological terms,v2,0
+1940,水气肿满,Shui Qi Zhong Man,通身或局部肿胀,通身或局部,风寒袭肺证、风热犯肺证、水湿困脾证、脾阳虚 证、肾阳虚证、气血两虚证,Ontological terms,v2,0
+1941,水火烫伤,Shui Huo Tang Shang,烧、烫伤创面起水泡，见于II度 烧伤,皮肤,,Ontological terms,v2,0
+1942,水肿尿少,Shui Zhong Niao Shao,尿次、尿量明显少于正常,泌尿道,热盛伤津、 汗下伤津,Ontological terms,v2,0
+1943,水肿胀满,Shui Zhong Zhang Man,,,,Ontological terms,v2,0
+1944,水肿胀满尿少,Shui Zhong Zhang Man Niao Shao,,,,Ontological terms,v2,0
+1945,水肿臌胀,Shui Zhong Gu Zhang,腹部胀大,腹部,肝气郁结证、气滞湿阻证,Ontological terms,v2,0
+1946,泄泻痢疾,Xie Xie Li Ji,便白如胶冻，或红如瓜瓢，或红白相 杂如鱼脑,下消化道,胃肠湿热证、肠道寒湿证、暑入厥阴、下焦 虚寒证、阴虚内热证、肠道瘀滞证、脾虚湿热证、肝郁脾虚 证、痰瘀互结证,Ontological terms,v2,0
+1947,泛酸,Fan Suan,,,,Ontological terms,v2,0
+1948,泻痢后重,Xie Li Hou Zhong,,,,Ontological terms,v2,0
+1949,泻血,Xie Xie,先血后便，或先便后血，或便血杂下，或单 纯便血,肠道,肠风络伤证、肠道湿热证、肝肾阴虚证、脾肾 阳虚证、脾虚气陷证、血热动血证、肝胃热盛证、瘀滞胃肠 证、热毒蕴肠证、肠道瘀滞证,Ontological terms,v2,0
+1950,津伤口渴,Jin Shang Kou Ke,口干渴而喜饮，饮水量多、次频而不解 渴,,外感热病阳明经证、风热疫毒证、胃热津伤证、津 气亏虚证,Ontological terms,v2,0
+1951,流涎,Liu Xian,清稀黏液自口角流岀，不能自控,口腔,风痰入络证、脾虚不摄证、肾虚不摄证、脾胃积热证、风邪 袭络证、湿热蒸口证,Ontological terms,v2,0
+1952,淋巴结核,Lin Ba Jie He,,,,Ontological terms,v2,0
+1953,淋巴结炎,Lin Ba Jie Yan,,,,Ontological terms,v2,0
+1954,淋巴结结核,Lin Ba Jie Jie He,,,,Ontological terms,v2,0
+1955,淋巴结肿痛,Lin Ba Jie Zhong Tong,,,,Ontological terms,v2,0
+1956,淋沥涩痛,Lin Li Se Tong,,,,Ontological terms,v2,0
+1957,淋病,Lin Bing,小便排出带血，呈鲜红色,泌尿道,心火亢 盛证、肝肾阴虚证、膀胱湿热证、下焦湿热证,Ontological terms,v2,0
+1958,淋病水肿,Lin Bing Shui Zhong,尿次、尿量明显少于正常,泌尿道,热盛伤津、 汗下伤津,Ontological terms,v2,0
+1959,温疫时毒,Wen Yi Shi Du,,,,Ontological terms,v2,0
+1960,温病,Wen Bing,,,,Ontological terms,v2,0
+1961,湿热带下,Shi Re Dai Xia,妇女阴道分泌物明显增多，色、质、气味异常,阴道,肾阳虚证、脾虚湿困证、胞宫虚寒证、胞宫湿 热证,Ontological terms,v2,0
+1962,湿热泻痢,Shi Re Xie Li,腹痛窘迫，时时欲便，肛门重坠，便出 不爽,肠道,肠道寒湿证、肝郁脾虚证、痰瘀互结证、脾虚湿 热证、肝郁气滞证、肠道瘀滞证、肠道湿热证,Ontological terms,v2,0
+1963,湿热淋证,Shi Re Lin Zheng,,,,Ontological terms,v2,0
+1964,湿热疮满,Shi Re Chuang Man,,,,Ontological terms,v2,0
+1965,湿热痢疾,Shi Re Li Ji,,,,Ontological terms,v2,0
+1966,湿热黄疸,Shi Re Huang Dan,全身皮肤发黄,皮肤,肝胆湿热证、脾虚证,Ontological terms,v2,0
+1967,湿疹疥癣,Shi Zhen Jie Xian,皮肤产生痒感而欲搔抓，但无原发皮肤 损害,皮肤,湿热证、风湿化热证、血虚风燥证、风寒化热 证、风邪犯表证,Ontological terms,v2,0
+1968,湿痹,Shi Bi,四肢、躯干肌肉及关节疼痛,肢体,外感风 寒证、风温证、风湿证、水湿停聚证,Ontological terms,v2,0
+1969,湿痹病,Shi Bi Bing,,,,Ontological terms,v2,0
+1970,溃疡,Kui Yang,,,,Ontological terms,v2,0
+1971,滴虫性阴道炎,Di Chong Xing Yin Dao Yan,"妇女阴道中排出分泌物，浑浊如米潜, 闻之秽臭",阴道,湿毒证、胞宫湿热证,Ontological terms,v2,0
+1972,漏下,Lou Xia,子宫岀血量少而势缓，淋漓不尽,子宫,肾虚证、血瘀证、冲任不固证,Ontological terms,v2,0
+1973,澹语,Dan Yu,,,,Ontological terms,v2,0
+1974,火毒疮疡,Huo Du Chuang Yang,,,,Ontological terms,v2,0
+1975,炎症,Yan Zheng,,,,Ontological terms,v2,0
+1976,炭疽,Tan Ju,,,,Ontological terms,v2,0
+1977,烂喉丹痧,Lan Hou Dan Sha,咽喉，或咽，或喉部位疼痛,咽喉,外感风 热证、风温证、阴虚证、气阴两虚证,Ontological terms,v2,0
+1978,烦热口渴,Fan Re Kou Ke,口干渴而喜饮，饮水量多、次频而不解 渴,,外感热病阳明经证、风热疫毒证、胃热津伤证、津 气亏虚证,Ontological terms,v2,0
+1979,烧伤,Shao Shang,"烧、烫伤部皮肤呈深红色, 或红肿，感觉过敏",皮肤,,Ontological terms,v2,0
+1980,烧烫伤,Shao Tang Shang,烧、烫伤创面起水泡,皮肤,,Ontological terms,v2,0
+1981,烫伤,Tang Shang,,,,Ontological terms,v2,0
+1982,烫火伤,Tang Huo Shang,烧、烫伤部有皮肤脱落,皮肤,,Ontological terms,v2,0
+1983,热毒疮疡,Re Du Chuang Yang,,,,Ontological terms,v2,0
+1984,热毒痈肿,Re Du Yong Zhong,疮痈肿势高突,皮肤,热毒蕴结证、风热 痰毒证,Ontological terms,v2,0
+1985,热淋,Re Lin,小便排出带血，呈鲜红色,泌尿道,心火亢 盛证、肝肾阴虚证、膀胱湿热证、下焦湿热证,Ontological terms,v2,0
+1986,热病烦躁,Re Bing Fan Zao,自觉发热，伴心胸烦闷，烦躁不安,心胸,热结胸胁,Ontological terms,v2,0
+1987,热病痰多,Re Bing Tan Duo,痰量多，质地粘稠,肺,痰热壅肺证、 痰浊阻肺证,Ontological terms,v2,0
+1988,热痹,Re Bi,,,,Ontological terms,v2,0
+1989,热证,Re Zheng,体温超过正常，或自觉有热感,机体,热证、外感疾病,Ontological terms,v2,0
+1990,焮肿,Xin Zhong,,,,Ontological terms,v2,0
+1991,牙疳,Ya Gan,牙床周围组织破溃糜烂疼痛,牙龈,热毒 壅盛证、气郁痰凝证、虚火上炎证,Ontological terms,v2,0
+1992,牙龈疼痛,Ya Ken Teng Tong,牙龈疼痛，常伴有牙龈红肿等,牙龈,实火 上炎证、虚热证、热毒壅盛证、风热犯表证、胃火燔齿证、 风火犯齿证,Ontological terms,v2,0
+1993,牙龈肿痛出血,Ya Ken Zhong Tong Chu Xie,,,,Ontological terms,v2,0
+1994,牛皮癣,Niu Pi Xian,,,,Ontological terms,v2,0
+1995,狂证,Kuang Zheng,神志混乱，亢奋妄动，躁扰不宁，或打 骂呼叫,脑,火热伤阴证、痰火扰神证,Ontological terms,v2,0
+1996,疔疮,Ding Chuang,发生在颜面部的急性化脓性疾患，初起 似粟，坚硬根深，状如钉丁,颜面,热毒蕴结肌肤证、火毒炽 盛证、余毒未清证、毒入营血证,Ontological terms,v2,0
+1997,疔疮痈肿,Ding Chuang Yong Zhong,痈肿相互连结成块,皮肤,热毒蕴结证、 暑湿热郁证、正虚邪恋证,Ontological terms,v2,0
+1998,疔疮肿毒,Ding Chuang Zhong Du,痈肿触之坚实,皮肤,寒湿凝结证、热毒 袭表证、气郁化火证,Ontological terms,v2,0
+1999,疔肿,Ding Zhong,痈肿质地较硬，触之无明显痛痒,皮肤,气滞血瘀证,Ontological terms,v2,0
+2000,疖肿疮疡,Jie Zhong Chuang Yang,疮疡上有脓头，可溃破流脓,皮肤,外 感风热、外感湿热、外感火毒、气滞血瘀证,Ontological terms,v2,0
+2001,疗毒,Liao Du,,,,Ontological terms,v2,0
+2002,疗疮,Liao Chuang,,,,Ontological terms,v2,0
+2003,疝气疼痛,Shan Qi Teng Tong,,,,Ontological terms,v2,0
+2004,疝气痛,Shan Qi Tong,,,,Ontological terms,v2,0
+2005,疝痛,Shan Tong,男性阴囊疼痛，或伴肿胀、灼热,阴囊,寒滞肝脉证、肝郁气滞证、下焦湿热证,Ontological terms,v2,0
+2006,疟母,Nve Mu,,,,Ontological terms,v2,0
+2007,疟疾,Nve Ji,恶寒与发热交替发作，先有 恶寒，甚或寒战，随即发热，但在傍晚后加重或明显,消化道,伤寒邪入少阳、疟疾寒证,Ontological terms,v2,0
+2008,疟疾寒热,Nve Ji Han Re,,,,Ontological terms,v2,0
+2009,疣痣,You Zhi,女性外阴部皮肤或黏膜有大小不等的疣 赘,外阴,湿热内蕴证、湿热毒蕴证,Ontological terms,v2,0
+2010,疥,Jie,患者自觉瘙痒十分剧烈，用手抓至 皮破血流仍有痒感,皮肤,,Ontological terms,v2,0
+2011,疥疮,Jie Chuang,皮肤瘙痒，如虫行于皮中,皮肤,营卫 不和证,Ontological terms,v2,0
+2012,疥癞,Jie Lai,皮肤出现苔癣样结节或斑块,皮肤,,Ontological terms,v2,0
+2013,疥癣秃疮,Jie Xian Tu Chuang,头发干枯而黄，毫无光泽,头发,脾 胃不和证、精血亏虚证、先天不足、气血两虚证、脾气虚 证,Ontological terms,v2,0
+2014,疫毒感冒,Yi Du Gan Mao,,,,Ontological terms,v2,0
+2015,疮满,Chuang Man,,,,Ontological terms,v2,0
+2016,疮疖,Chuang Jie,,,,Ontological terms,v2,0
+2017,疮疡初起,Chuang Yang Chu Qi,疮痈肿势高突,皮肤,热毒蕴结证、风热 痰毒证,Ontological terms,v2,0
+2018,疮疡疥癣,Chuang Yang Jie Xian,为皮肤增厚、粗糙、皮嵴隆起、皮沟加深、干燥、局限性边界清楚的大片或小片损害,皮肤,血虚风燥、肌肤失养,Ontological terms,v2,0
+2019,疮疡痈肿,Chuang Yang Yong Zhong,,,,Ontological terms,v2,0
+2020,疮疡肿毒,Chuang Yang Zhong Du,,,,Ontological terms,v2,0
+2021,疮疳,Chuang Gan,,,,Ontological terms,v2,0
+2022,疮痈,Chuang Yong,,,,Ontological terms,v2,0
+2023,疮痈肿毒,Chuang Yong Zhong Du,,,,Ontological terms,v2,0
+2024,疮癞,Chuang Lai,,,,Ontological terms,v2,0
+2025,疳肿,Gan Zhong,,,,Ontological terms,v2,0
+2026,疹紫黑,Zhen Zi Hei,皮疹呈紫红色,皮肤,热盛、热而有瘀,Ontological terms,v2,0
+2027,疼痛麻木,Teng Tong Ma Mu,,,,Ontological terms,v2,0
+2028,病后虚热不退,Bing Hou Xu Re Bu Tui,,,,Ontological terms,v2,0
+2029,病毒性肝炎,Bing Du Xing Gan Yan,全身皮肤发黄,皮肤,肝胆湿热证、脾虚证,Ontological terms,v2,0
+2030,痈疖,Yong Jie,,,,Ontological terms,v2,0
+2031,痈疖肿毒,Yong Jie Zhong Du,,,,Ontological terms,v2,0
+2032,痈疮,Yong Chuang,,,,Ontological terms,v2,0
+2033,痈疮肿毒,Yong Chuang Zhong Du,,,,Ontological terms,v2,0
+2034,痈疽初起,Yong Ju Chu Qi,疮痈肿势高突,皮肤,热毒蕴结证、风热 痰毒证,Ontological terms,v2,0
+2035,痈疽疮毒,Yong Ju Chuang Du,,,,Ontological terms,v2,0
+2036,痈疽疮疡,Yong Ju Chuang Yang,,,,Ontological terms,v2,0
+2037,痈疽脓成不溃,Yong Ju Nong Cheng Bu Kui,疮痈肿势高突,皮肤,热毒蕴结证、风热 痰毒证,Ontological terms,v2,0
+2038,痈肿疔疮,Yong Zhong Ding Chuang,疮疡根脚范围小,皮肤,,Ontological terms,v2,0
+2039,痈肿疮毒,Yong Zhong Chuang Du,,,,Ontological terms,v2,0
+2040,痈肿痰核,Yong Zhong Tan He,痈肿质地较硬，触之无明显痛痒,皮肤,气滞血瘀证,Ontological terms,v2,0
+2041,痈肿瘰疬,Yong Zhong Luo Li,痈肿相互连结成块,皮肤,热毒蕴结证、 暑湿热郁证、正虚邪恋证,Ontological terms,v2,0
+2042,痈肿脓成不溃,Yong Zhong Nong Cheng Bu Kui,疮痈肿势高突,皮肤,热毒蕴结证、风热 痰毒证,Ontological terms,v2,0
+2043,痔疮,Zhi Chuang,,,,Ontological terms,v2,0
+2044,痔瘘,Zhi Lv,,,,Ontological terms,v2,0
+2045,痔肿出血,Zhi Zhong Chu Xie,便血血色鲜红,肛门,肠风络伤证、血热 动血证,Ontological terms,v2,0
+2046,痞块,Pi Kuai,,,,Ontological terms,v2,0
+2047,痢疾肠炎,Li Ji Chang Yan,腹痛时兼有欲便感觉,肠道,肠道湿热 证、食滞胃肠证、寒湿犯表证、寒湿困脾证、脾肾阳虚证,Ontological terms,v2,0
+2048,痢疾里急后重,Li Ji Li Ji Hou Zhong,腹痛窘迫，时时欲便，肛门重坠，便出 不爽,肠道,肠道寒湿证、肝郁脾虚证、痰瘀互结证、脾虚湿 热证、肝郁气滞证、肠道瘀滞证、肠道湿热证,Ontological terms,v2,0
+2049,痤疮,Cuo Chuang,,,,Ontological terms,v2,0
+2050,痧,Sha,,,,Ontological terms,v2,0
+2051,痧胀腹痛吐泻,Sha Zhang Fu Tong Tu Xie,,,,Ontological terms,v2,0
+2052,痰喘肿满,Tan Chuan Zhong Man,胸部胀满，塞滞不畅,胸部,风寒束肺证、 风痰蕴肺证、气滞胸膈证、肝气郁滞证、痰热结胸证、痰湿 蕴肺证、痰阻心脉证,Ontological terms,v2,0
+2053,痰嗽,Tan Sou,咳痰量多，痰白滑而易于咳出,肺,外 感风湿证、水湿内停证、脾失健运证,Ontological terms,v2,0
+2054,痰核,Tan He,乳房部的结核性疾病，初起乳房内出现 一结块如桃李，不痛，边界不清，软硬不一，皮肉相连，进 展缓慢，溃后脓液稀如痰,乳房,气滞痰凝，肺肾阴虚证,Ontological terms,v2,0
+2055,痰湿流注,Tan Shi Liu Zhu,肿块边界不清，呈弥漫性分布,皮肤,痰湿流注证,Ontological terms,v2,0
+2056,痰热咳嗽,Tan Re Ke Sou,咳痰量多，痰白滑而易于咳出,肺,外 感风湿证、水湿内停证、脾失健运证,Ontological terms,v2,0
+2057,痰热哮喘,Tan Re Xiao Chuan,张口呼吸，双肩随呼吸起落,肺,肺热喘咳,Ontological terms,v2,0
+2058,痰热喘嗽,Tan Re Chuan Sou,,,,Ontological terms,v2,0
+2059,痰饮喘咳,Tan Yin Chuan Ke,呼吸急促难续，喉间哨鸣有声,肺,寒痰阻 肺证、热痰阻肺证、寒热错杂证,Ontological terms,v2,0
+2060,痱子,Fei Zi,,,,Ontological terms,v2,0
+2061,痹疽,Bi Ju,,,,Ontological terms,v2,0
+2062,痿管,Wei Guan,一侧或两侧乳房痈疡溃后形成痿管，或 伴有脓液或乳汁流出,乳房,气滞痰凝证、热毒蕴结证、正虚 毒恋证,Ontological terms,v2,0
+2063,痿躄,Wei Bi,,,,Ontological terms,v2,0
+2064,瘟疫,Wen Yi,,,,Ontological terms,v2,0
+2065,瘰疠,Luo Li,痈肿相互连结成块,皮肤,热毒蕴结证、 暑湿热郁证、正虚邪恋证,Ontological terms,v2,0
+2066,瘰疬痰核,Luo Li Tan He,痈肿质地较硬，触之无明显痛痒,皮肤,气滞血瘀证,Ontological terms,v2,0
+2067,瘰痂,Luo Jia,结核（肿大的淋巴结）累累如串珠,皮下,肾阴虚证、外感风火时毒,Ontological terms,v2,0
+2068,瘿瘤,Ying Liu,颈部譽核肿大,颈部,肝郁气结证、 毒邪流窜证、气滞痰凝证、痰瘀互结证、阴虚火旺证、肝郁 痰热证、胃热脾虚证,Ontological terms,v2,0
+2069,療疬,Liao Li,,,,Ontological terms,v2,0
+2070,療痂,Liao Jia,,,,Ontological terms,v2,0
+2071,癌痕,Ai Hen,,,,Ontological terms,v2,0
+2072,癌肿,Ai Zhong,,,,Ontological terms,v2,0
+2073,癌肿出血,Ai Zhong Chu Xie,瘤体疮口出血如喷射状,任何部位,,Ontological terms,v2,0
+2074,癣,Xian,皮肤出现苔癣样结节或斑块,皮肤,,Ontological terms,v2,0
+2075,癣疮,Xian Chuang,,,,Ontological terms,v2,0
+2076,癣疾,Xian Ji,,,,Ontological terms,v2,0
+2077,癥瘕结块,Zheng Jia Jie Kuai,,,,Ontological terms,v2,0
+2078,癫痫发狂,Dian Xian Fa Kuang,神志失常，疯狂怒骂，或打人毁物，喧扰不 宁，或少卧不饥,神志,火热伤阴证、痰火扰神证,Ontological terms,v2,0
+2079,癫痫痰盛,Dian Xian Tan Sheng,神志模糊，不省人事，甚至昏睡不醒，呼之 不应,神志,热闭心神证、痰热扰神证、痰蒙心神证、瘀阻脑 络证、暑闭心包证、燥热内结证、浊毒闭神证、肝阳化风 证、内闭外脱证,Ontological terms,v2,0
+2080,癫证,Dian Zheng,突然表情淡漠，沉默呆滞，痴语无伦，多静 而少动,神志,痰气郁结证、脾虚痰湿证、心脾两虚证、阴虚 火旺证、脾肾阳虚证,Ontological terms,v2,0
+2081,癲狂,Dian Kuang,,,,Ontological terms,v2,0
+2082,白喉,Bai Hou,咽喉部出现白色腐膜，严重可蔓及至 鼻咽部,咽喉,虚火上炎证、肾阴亏虚证,Ontological terms,v2,0
+2083,白塞病,Bai Sai Bing,口腔内肌膜破损，出现溃疡,口腔,风热 夹湿证、毒火攻心证、脾胃积热证、肝郁化火证、瘀血留滞 证、虚火灼口证、气血亏虚证,Ontological terms,v2,0
+2084,白带,Bai Dai,妇女阴道分泌物色白，淋漓不断或带有 臭味,阴道,脾阳虚证、脾虚湿困证、胞宫虚寒证,Ontological terms,v2,0
+2085,白带过多,Bai Dai Guo Duo,,,,Ontological terms,v2,0
+2086,白浊带下,Bai Zhuo Dai Xia,,,,Ontological terms,v2,0
+2087,白痢,Bai Li,大便色灰白如陶土,肠道,大肠虚寒证,Ontological terms,v2,0
+2088,白瘢风,Bai Ban Feng,皮肤出现白色点,皮肤,气滞证、气血失 和证,Ontological terms,v2,0
+2089,白癜风,Bai Dian Feng,,,,Ontological terms,v2,0
+2090,白细胞减少症,Bai Xi Bao Jian Shao Zheng,,,,Ontological terms,v2,0
+2091,百日咳,Bai Ri Ke,阵发性痉挛性咳嗽，咳声末尾 有高声调回音,肺,,Ontological terms,v2,0
+2092,皮炎,Pi Yan,,,,Ontological terms,v2,0
+2093,皮癣,Pi Xian,皮肤出现苔癣样结节或斑块,皮肤,,Ontological terms,v2,0
+2094,皮肤溃疡,Pi Fu Kui Yang,,,,Ontological terms,v2,0
+2095,皮肤疥癣,Pi Fu Jie Xian,局部皮肤瘙痒顽固,皮肤,肌肤风 热证、肌肤湿热证、寒凝血涩肌肤证、肌肤失养证，或鹅掌 风、脚湿气,Ontological terms,v2,0
+2096,皮肤顽癣,Pi Fu Wan Xian,,,,Ontological terms,v2,0
+2097,目暗,Mu An,,,,Ontological terms,v2,0
+2098,目涩痛,Mu Se Tong,,,,Ontological terms,v2,0
+2099,目疼痛,Mu Teng Tong,眼内、目珠疼痛，或眼眶疼痛不适,眼,风热犯目证（风热壅盛）或虚火上炎证、里实热证,Ontological terms,v2,0
+2100,目痛,Mu Tong,眼内、目珠疼痛，或眼眶疼痛不适,眼,风热犯目证（风热壅盛）或虚火上炎证、里实热证,Ontological terms,v2,0
+2101,目羞明,Mu Xiu Ming,目珠每遇明亮温暖场所，即感眼睛涩痛，眼 睑难睁,眼,风寒犯目证、风热犯目证、气虚风热证、肝肾 亏虚证,Ontological terms,v2,0
+2102,目肿,Mu Zhong,指一侧或两侧目珠胀痛不适,眼,阴虚血瘀 证、阴虚阳亢证、火毒炽盛证、水轮气滞血瘀证,Ontological terms,v2,0
+2103,目赤疼痛,Mu Chi Teng Tong,眼内、目珠疼痛，或眼眶疼痛不适,眼,风热犯目证（风热壅盛）或虚火上炎证、里实热证,Ontological terms,v2,0
+2104,眩悸,Xuan Ji,,,,Ontological terms,v2,0
+2105,眼底出血,Yan Di Chu Xie,,,,Ontological terms,v2,0
+2106,眼结膜炎,Yan Jie Mo Yan,,,,Ontological terms,v2,0
+2107,睾丸肿痛,Gao Wan Zhong Tong,,,,Ontological terms,v2,0
+2108,破伤风,Po Shang Feng,,,,Ontological terms,v2,0
+2109,秃疮,Tu Chuang,,,,Ontological terms,v2,0
+2110,积聚,Ji Ju,腹部胀大，但腹中有气体积聚，空虚如 鼓,腹部,,Ontological terms,v2,0
+2111,窦道,Dou Dao,溃疡形成管道，疮孔处流脓经久淋 漓不断，体表与深部组织相通，只有外口,体表,湿热下注 证、阴虚邪恋证、气血两虚证、肝肾阴虚证,Ontological terms,v2,0
+2112,筋伤骨折,Jin Shang Gu Zhe,,,,Ontological terms,v2,0
+2113,筋挛,Jin Luan,,,,Ontological terms,v2,0
+2114,筋骨折伤,Jin Gu Zhe Shang,,,,Ontological terms,v2,0
+2115,筋骨拘挛,Jin Gu Ju Luan,疼痛伴有肌肉挛急,肢体,寒邪凝滞证、虚寒 证、湿热证、瘀热证,Ontological terms,v2,0
+2116,筋骨痛,Jin Gu Tong,,,,Ontological terms,v2,0
+2117,筋骨痪软,Jin Gu Huan Ruan,,,,Ontological terms,v2,0
+2118,筋骨痰软,Jin Gu Tan Ruan,,,,Ontological terms,v2,0
+2119,类血友病,Lei Xie You Bing,,,,Ontological terms,v2,0
+2120,类风湿性关节炎,Lei Feng Shi Xing Guan Jie Yan,,,,Ontological terms,v2,0
+2121,红斑狼疮,Hong Ban Lang Chuang,,,,Ontological terms,v2,0
+2122,红疹,Hong Zhen,,,,Ontological terms,v2,0
+2123,细菌性感染,Xi Jun Xing Gan Ran,,,,Ontological terms,v2,0
+2124,细菌性感染引起炎症肿毒,Xi Jun Xing Gan Ran Yin Qi Yan Zheng Zhong Du,,,,Ontological terms,v2,0
+2125,经多,Jing Duo,,,,Ontological terms,v2,0
+2126,经络气滞,Jing Luo Qi Zhi,,,,Ontological terms,v2,0
+2127,经闭痛经,Jing Bi Tong Jing,,,,Ontological terms,v2,0
+2128,结块,Jie Kuai,,,,Ontological terms,v2,0
+2129,结核,Jie He,,,,Ontological terms,v2,0
+2130,结核性瘘管,Jie He Xing Lv Guan,,,,Ontological terms,v2,0
+2131,结胸,Jie Xiong,,,,Ontological terms,v2,0
+2132,结胸痞满,Jie Xiong Pi Man,,,,Ontological terms,v2,0
+2133,绝经期眩晕,Jue Jing Qi Xuan Yun,,,,Ontological terms,v2,0
+2134,绦虫病,Tao Chong Bing,,,,Ontological terms,v2,0
+2135,继发性血小板减少性紫癜,Ji Fa Xing Xie Xiao Ban Jian Shao Xing Zi Dian,,,,Ontological terms,v2,0
+2136,缠身蛇丹,Chan Shen She Dan,,,,Ontological terms,v2,0
+2137,翳障,Yi Zhang,,,,Ontological terms,v2,0
+2138,聘耳流脓,Pin Er Liu Nong,,,,Ontological terms,v2,0
+2139,聤耳,Ting Er,,,,Ontological terms,v2,0
+2140,聤耳流脓,Ting Er Liu Nong,,,,Ontological terms,v2,0
+2141,肉暗紫黑,Rou An Zi Hei,,,,Ontological terms,v2,0
+2142,肝火眩晕,Gan Huo Xuan Yun,,,,Ontological terms,v2,0
+2143,肝炎,Gan Yan,,,,Ontological terms,v2,0
+2144,肝热头晕,Gan Re Tou Yun,,,,Ontological terms,v2,0
+2145,肝病出血,Gan Bing Chu Xie,,,,Ontological terms,v2,0
+2146,肝硬化,Gan Ying Hua,,,,Ontological terms,v2,0
+2147,肝肾不足腰膝酸冷,Gan Shen Bu Zu Yao Xi Suan Leng,,,,Ontological terms,v2,0
+2148,肝肾阴虚眩晕,Gan Shen Yin Xu Xuan Yun,,,,Ontological terms,v2,0
+2149,肝肾阴虚眩晕耳鸣,Gan Shen Yin Xu Xuan Yun Er Ming,,,,Ontological terms,v2,0
+2150,肝胃气痛,Gan Wei Qi Tong,,,,Ontological terms,v2,0
+2151,肝胆病,Gan Dan Bing,,,,Ontological terms,v2,0
+2152,肝脾肿大,Gan Pi Zhong Da,,,,Ontological terms,v2,0
+2153,肠出血,Chang Chu Xie,,,,Ontological terms,v2,0
+2154,肠炎,Chang Yan,,,,Ontological terms,v2,0
+2155,肠燥便秘,Chang Zao Bian Mi,,,,Ontological terms,v2,0
+2156,肠痈,Chang Yong,是指发生于肠道的痈肿，属内痈范畴,大肠,气机不畅，气滞血瘀,Ontological terms,v2,0
+2157,肠痈肿痛,Chang Yong Zhong Tong,,,,Ontological terms,v2,0
+2158,肠绞痛,Chang Jiao Tong,,,,Ontological terms,v2,0
+2159,肠风,Chang Feng,,,,Ontological terms,v2,0
+2160,肠风泻血,Chang Feng Xie Xie,,,,Ontological terms,v2,0
+2161,肢体不遂,Zhi Ti Bu Sui,,,,Ontological terms,v2,0
+2162,肢体痿软,Zhi Ti Wei Ruan,,,,Ontological terms,v2,0
+2163,肢体酸,Zhi Ti Suan,,,,Ontological terms,v2,0
+2164,肢体重,Zhi Ti Zhong,,,,Ontological terms,v2,0
+2165,肢节拘挛,Zhi Jie Ju Luan,,,,Ontological terms,v2,0
+2166,肩臂痛,Jian Bi Tong,,,,Ontological terms,v2,0
+2167,肩臂酸,Jian Bi Suan,,,,Ontological terms,v2,0
+2168,肩臂酸痛麻木,Jian Bi Suan Tong Ma Mu,,,,Ontological terms,v2,0
+2169,肩臂麻木,Jian Bi Ma Mu,两侧或左、右肩臂部肌肤知觉消失，不知痛痒。,肩臂,气滞血瘀、气血两虚、风痰阻络,Ontological terms,v2,0
+2170,肺出血,Fei Chu Xie,,,,Ontological terms,v2,0
+2171,肺捞,Fei Lao,,,,Ontological terms,v2,0
+2172,肺炎,Fei Yan,,,,Ontological terms,v2,0
+2173,肺热咳喘,Fei Re Ke Chuan,,,,Ontological terms,v2,0
+2174,肺热喘嗽,Fei Re Chuan Sou,,,,Ontological terms,v2,0
+2175,肺热痰壅,Fei Re Tan Yong,,,,Ontological terms,v2,0
+2176,肺燥咳嗽,Fei Zao Ke Sou,,,,Ontological terms,v2,0
+2177,肺痈吐脓,Fei Yong Tu Nong,,,,Ontological terms,v2,0
+2178,肺痨咳血,Fei Lao Ke Xie,,,,Ontological terms,v2,0
+2179,肺结核,Fei Jie He,即为肺痨,,,Ontological terms,v2,0
+2180,肺结核咳嗽,Fei Jie He Ke Sou,,,,Ontological terms,v2,0
+2181,肺虚咳嗽,Fei Xu Ke Sou,,,,Ontological terms,v2,0
+2182,肺虚咳血,Fei Xu Ke Xie,,,,Ontological terms,v2,0
+2183,肾与小腹冷痛,Shen Yu Xiao Fu Leng Tong,,,,Ontological terms,v2,0
+2184,肾冷痛,Shen Leng Tong,,,,Ontological terms,v2,0
+2185,肾小球肾炎,Shen Xiao Qiu Shen Yan,,,,Ontological terms,v2,0
+2186,肾炎,Shen Yan,,,,Ontological terms,v2,0
+2187,肾炎水肿,Shen Yan Shui Zhong,,,,Ontological terms,v2,0
+2188,肾病综合征,Shen Bing Zong He Zheng,,,,Ontological terms,v2,0
+2189,肾绞痛,Shen Jiao Tong,,,,Ontological terms,v2,0
+2190,肾虚腰膝酸痛,Shen Xu Yao Xi Suan Tong,,,,Ontological terms,v2,0
+2191,肾虚阳痿,Shen Xu Yang Wei,,,,Ontological terms,v2,0
+2192,肿瘤,Zhong Liu,,,,Ontological terms,v2,0
+2193,胀满疼痛,Zhang Man Teng Tong,,,,Ontological terms,v2,0
+2194,胃火牙痛,Wei Huo Ya Tong,,,,Ontological terms,v2,0
+2195,胃癌,Wei Ai,,,,Ontological terms,v2,0
+2196,胃肠道肿瘤,Wei Chang Dao Zhong Liu,,,,Ontological terms,v2,0
+2197,胆囊炎,Dan Nang Yan,,,,Ontological terms,v2,0
+2198,胆石症,Dan Shi Zheng,,,,Ontological terms,v2,0
+2199,胆绞痛,Dan Jiao Tong,,,,Ontological terms,v2,0
+2200,胸中痞闷,Xiong Zhong Pi Men,,,,Ontological terms,v2,0
+2201,胸痹刺痛,Xiong Bi Ci Tong,,,,Ontological terms,v2,0
+2202,胸脘痞闷胀满,Xiong Guan Pi Men Zhang Man,,,,Ontological terms,v2,0
+2203,胸腔积水,Xiong Qiang Ji Shui,,,,Ontological terms,v2,0
+2204,胸腹胀闷疼痛,Xiong Fu Zhang Men Teng Tong,,,,Ontological terms,v2,0
+2205,胸膈不舒,Xiong Ge Bu Shu,,,,Ontological terms,v2,0
+2206,脉微,Mai Wei,脉来极细极软，按之欲绝，似有若无，体象模糊，浮候沉候无明显区别。,脉搏,气血两虚、气虚、血虚、阳虚、阴阳两虚,Ontological terms,v2,0
+2207,脉结代,Mai Jie Dai,,,,Ontological terms,v2,0
+2208,脓水淋漓,Nong Shui Lin Li,,,,Ontological terms,v2,0
+2209,脘痛,Guan Tong,,,,Ontological terms,v2,0
+2210,脘痞吐泻,Guan Pi Tu Xie,,,,Ontological terms,v2,0
+2211,脘痞呕恶,Guan Pi Ou E,,,,Ontological terms,v2,0
+2212,脘腹挛急疼痛,Guan Fu Luan Ji Teng Tong,,,,Ontological terms,v2,0
+2213,脘腹痞满胀痛,Guan Fu Pi Man Zhang Tong,,,,Ontological terms,v2,0
+2214,脘腹胀满冷痛,Guan Fu Zhang Man Leng Tong,,,,Ontological terms,v2,0
+2215,脘腹胁肋疼痛,Guan Fu Xie Lei Teng Tong,,,,Ontological terms,v2,0
+2216,脘腹虛痛,Guan Fu Xu Tong,,,,Ontological terms,v2,0
+2217,脚气肿毒,Jiao Qi Zhong Du,,,,Ontological terms,v2,0
+2218,脚气肿胀,Jiao Qi Zhong Zhang,,,,Ontological terms,v2,0
+2219,脚癣,Jiao Xian,,,,Ontological terms,v2,0
+2220,脱力劳伤,Tuo Li Lao Shang,,,,Ontological terms,v2,0
+2221,脾肾虚泻,Pi Shen Xu Xie,,,,Ontological terms,v2,0
+2222,脾虚泄泻,Pi Xu Xie Xie,,,,Ontological terms,v2,0
+2223,脾虚食少,Pi Xu Shi Shao,,,,Ontological terms,v2,0
+2224,腮腺炎,Sai Xian Yan,,,,Ontological terms,v2,0
+2225,腰冷痛,Yao Leng Tong,,,,Ontological terms,v2,0
+2226,腰腿疼痛,Yao Tui Teng Tong,,,,Ontological terms,v2,0
+2227,腰腿麻木,Yao Tui Ma Mu,腰腿皮肤感觉减退或丧失，不知痛痒。,腰腿部,气滞血瘀、痰湿阻滞,Ontological terms,v2,0
+2228,腰膝关节酸重疼痛,Yao Xi Guan Jie Suan Zhong Teng Tong,,,,Ontological terms,v2,0
+2229,腰膝痿软,Yao Xi Wei Ruan,,,,Ontological terms,v2,0
+2230,腰部沉重,Yao Bu Chen Zhong,自觉腰部下沉，重着难伸。,腰部,寒湿阻滞、肾阳虚、风湿表证,Ontological terms,v2,0
+2231,腰酸软,Yao Suan Ruan,腰部酸楚不适，绵绵不已，伴有轻度疼痛。,腰部,肾气虚、肾阴虚、肝肾亏虚、湿热下注,Ontological terms,v2,0
+2232,腹中痞块,Fu Zhong Pi Kuai,,,,Ontological terms,v2,0
+2233,腹满,Fu Man,,,,Ontological terms,v2,0
+2234,腹绞痛,Fu Jiao Tong,,,,Ontological terms,v2,0
+2235,腹腔积水,Fu Qiang Ji Shui,,,,Ontological terms,v2,0
+2236,腿痛,Tui Tong,,,,Ontological terms,v2,0
+2237,膏淋,Gao Lin,,,,Ontological terms,v2,0
+2238,膝关节沉重,Xi Guan Jie Chen Zhong,,,,Ontological terms,v2,0
+2239,膝关节疼痛,Xi Guan Jie Teng Tong,,,,Ontological terms,v2,0
+2240,膝关节酸,Xi Guan Jie Suan,双膝关节或单侧膝关节酸楚不适。,膝盖,肝肾亏虚、寒湿浸淫、湿热下注,Ontological terms,v2,0
+2241,膝冷痛,Xi Leng Tong,自觉膝关节局部寒冷疼痛，可伴恶风寒。,膝盖,风寒湿邪痹阻关节,Ontological terms,v2,0
+2242,膝痛,Xi Tong,,,,Ontological terms,v2,0
+2243,膝酸,Xi Suan,,,,Ontological terms,v2,0
+2244,膝酸软,Xi Suan Ruan,,,,Ontological terms,v2,0
+2245,臁疮,Lian Chuang,是指发生于小腿臁骨部位的慢性皮肤溃疡。,下肢,瘀停脉络、湿热下注,Ontological terms,v2,0
+2246,荨麻疹,Xun Ma Zhen,是一种皮肤出现风团，时隐时现的瘙痒性、过敏性皮肤病。其临床特点是皮肤上出现风团，色红或白，形态各一，发无定处，骤起骤退，退后不留痕迹，自觉瘙痒。,皮肤,风寒束表、风热犯表、胃肠湿热、血虚风燥,Ontological terms,v2,0
+2247,药物中毒,Yao Wu Zhong Du,,,,Ontological terms,v2,0
+2248,菌痢,Jun Li,,,,Ontological terms,v2,0
+2249,萎黄,Wei Huang,,,,Ontological terms,v2,0
+2250,虚劳失精,Xu Lao Shi Jing,,,,Ontological terms,v2,0
+2251,虚热烦渴,Xu Re Fan Ke,,,,Ontological terms,v2,0
+2252,虫积腹痛,Chong Ji Fu Tong,,,,Ontological terms,v2,0
+2253,虫积食滞,Chong Ji Shi Zhi,,,,Ontological terms,v2,0
+2254,虫蛇咬伤,Chong She Yao Shang,是指人体被毒蛇咬伤，其毒液由伤口进入人体内而引起的一种急性全身性中毒性疾病。,机体,风毒、火毒、风火毒,Ontological terms,v2,0
+2255,蚀疮,Shi Chuang,,,,Ontological terms,v2,0
+2256,蚕豆病,Can Dou Bing,,,,Ontological terms,v2,0
+2257,蛇伤,She Shang,是指人体被毒蛇咬伤，其毒液由伤口进入人体内而引起的一种急性全身性中毒性疾病。,机体,风毒、火毒、风火毒,Ontological terms,v2,0
+2258,蛇咬蝎螫,She Yao He Shi,,,,Ontological terms,v2,0
+2259,蛔厥,Hui Jue,,,,Ontological terms,v2,0
+2260,蛔虫,Hui Chong,,,,Ontological terms,v2,0
+2261,蛔虫病,Hui Chong Bing,,,,Ontological terms,v2,0
+2262,蛔虫腹痛,Hui Chong Fu Tong,,,,Ontological terms,v2,0
+2263,蛲虫病,Rao Chong Bing,,,,Ontological terms,v2,0
+2264,蟹中毒,Xie Zhong Du,,,,Ontological terms,v2,0
+2265,血友病,Xie You Bing,,,,Ontological terms,v2,0
+2266,血吸虫病,Xie Xi Chong Bing,,,,Ontological terms,v2,0
+2267,血淋涩痛,Xie Lin Se Tong,,,,Ontological terms,v2,0
+2268,血热便血,Xie Re Bian Xie,,,,Ontological terms,v2,0
+2269,血热发斑,Xie Re Fa Ban,,,,Ontological terms,v2,0
+2270,血热发疹,Xie Re Fa Zhen,,,,Ontological terms,v2,0
+2271,血热吐血,Xie Re Tu Xie,,,,Ontological terms,v2,0
+2272,血热咯血,Xie Re Ge Xie,,,,Ontological terms,v2,0
+2273,血热崩漏,Xie Re Beng Lou,,,,Ontological terms,v2,0
+2274,血热紫癜,Xie Re Zi Dian,,,,Ontological terms,v2,0
+2275,血热血淋,Xie Re Xie Lin,,,,Ontological terms,v2,0
+2276,血热衄血,Xie Re Nv Xie,,,,Ontological terms,v2,0
+2277,血痢,Xie Li,,,,Ontological terms,v2,0
+2278,贲门部痉挛,Bi Men Bu Jing Luan,,,,Ontological terms,v2,0
+2279,赘疣,Zhui You,,,,Ontological terms,v2,0
+2280,赤白带下,Chi Bai Dai Xia,,,,Ontological terms,v2,0
+2281,赤白痢疾,Chi Bai Li Ji,,,,Ontological terms,v2,0
+2282,足痿,Zu Wei,,,,Ontological terms,v2,0
+2283,趺扑肿痛,Fu Pu Zhong Tong,,,,Ontological terms,v2,0
+2284,跌扑损伤,Die Pu Sun Shang,,,,Ontological terms,v2,0
+2285,跌扑闪挫,Die Pu Shan Cuo,,,,Ontological terms,v2,0
+2286,跌打伤肿,Die Da Shang Zhong,,,,Ontological terms,v2,0
+2287,跌打扭伤,Die Da Niu Shang,,,,Ontological terms,v2,0
+2288,跌打骨折,Die Da Gu Zhe,,,,Ontological terms,v2,0
+2289,转筋,Zhuan Jin,以小腿肌肉的抽搐拘挛为主要表现。,小腿,气血两虚、肝肾亏虚、风寒外袭、寒滞经脉、寒湿阻络、肝郁血虚、气血两虚,Ontological terms,v2,0
+2290,郁闷,Yu Men,,,,Ontological terms,v2,0
+2291,酒齄鼻,Jiu Zha Bi,,,,Ontological terms,v2,0
+2292,醉酒,Zui Jiu,,,,Ontological terms,v2,0
+2293,金疮,Jin Chuang,,,,Ontological terms,v2,0
+2294,金疮出血,Jin Chuang Chu Xie,,,,Ontological terms,v2,0
+2295,钩虫病,Gou Chong Bing,,,,Ontological terms,v2,0
+2296,银屑病,Yin Xie Bing,是一种以红斑、丘疹、鳞屑损害为主要表现的慢性复发性炎症性皮肤病。,皮肤,营血亏损，血热内蕴，化燥生风,Ontological terms,v2,0
+2297,闪腰,Shan Yao,,,,Ontological terms,v2,0
+2298,阑尾炎,Lan Wei Yan,,,,Ontological terms,v2,0
+2299,阳毒发斑,Yang Du Fa Ban,,,,Ontological terms,v2,0
+2300,阳痪,Yang Huan,,,,Ontological terms,v2,0
+2301,阳痿不孕,Yang Wei Bu Yun,,,,Ontological terms,v2,0
+2302,阳瘘,Yang Lv,,,,Ontological terms,v2,0
+2303,阳萎,Yang Wei,,,,Ontological terms,v2,0
+2304,阴囊湿疹,Yin Nang Shi Zhen,,,,Ontological terms,v2,0
+2305,阴寒腹痛,Yin Han Fu Tong,,,,Ontological terms,v2,0
+2306,阴虚劳嗽,Yin Xu Lao Sou,,,,Ontological terms,v2,0
+2307,阴虚发热,Yin Xu Fa Re,,,,Ontological terms,v2,0
+2308,阴道滴虫,Yin Dao Di Chong,,,,Ontological terms,v2,0
+2309,院腹冷痛,Yuan Fu Leng Tong,,,,Ontological terms,v2,0
+2310,院腹括闷,Yuan Fu Kuo Men,,,,Ontological terms,v2,0
+2311,雀目,Que Mu,,,,Ontological terms,v2,0
+2312,霍乱,Huo Luan,,,,Ontological terms,v2,0
+2313,霍乱吐泻,Huo Luan Tu Xie,,,,Ontological terms,v2,0
+2314,青盲,Qing Mang,,,,Ontological terms,v2,0
+2315,面目肌肤浮肿,Mian Mu Ji Fu Fu Zhong,,,,Ontological terms,v2,0
+2316,顽癣,Wan Xian,,,,Ontological terms,v2,0
+2317,风寒挟湿头痛,Feng Han Xie Shi Tou Tong,,,,Ontological terms,v2,0
+2318,风寒湿痹,Feng Han Shi Bi,,,,Ontological terms,v2,0
+2319,风寒湿痹痛,Feng Han Shi Bi Tong,,,,Ontological terms,v2,0
+2320,风水浮肿,Feng Shui Fu Zhong,,,,Ontological terms,v2,0
+2321,风湿关节疼痛,Feng Shi Guan Jie Teng Tong,,,,Ontological terms,v2,0
+2322,风湿关节痿软疼痛,Feng Shi Guan Jie Wei Ruan Teng Tong,,,,Ontological terms,v2,0
+2323,风湿性关节炎,Feng Shi Xing Guan Jie Yan,,,,Ontological terms,v2,0
+2324,风湿热痹,Feng Shi Re Bi,,,,Ontological terms,v2,0
+2325,风湿痛,Feng Shi Tong,,,,Ontological terms,v2,0
+2326,风湿痹病,Feng Shi Bi Bing,,,,Ontological terms,v2,0
+2327,风湿肢体痿软疼痛,Feng Shi Zhi Ti Wei Ruan Teng Tong,,,,Ontological terms,v2,0
+2328,风湿肩臂疼痛,Feng Shi Jian Bi Teng Tong,,,,Ontological terms,v2,0
+2329,风湿肿痛,Feng Shi Zhong Tong,,,,Ontological terms,v2,0
+2330,风湿顽痹,Feng Shi Wan Bi,,,,Ontological terms,v2,0
+2331,风湿骨痛,Feng Shi Gu Tong,,,,Ontological terms,v2,0
+2332,风热咳嗽,Feng Re Ke Sou,,,,Ontological terms,v2,0
+2333,风热头痛,Feng Re Tou Tong,,,,Ontological terms,v2,0
+2334,风热郁肺咽痛,Feng Re Yu Fei Yan Tong,,,,Ontological terms,v2,0
+2335,风疹,Feng Zhen,,,,Ontological terms,v2,0
+2336,风疹丹毒,Feng Zhen Dan Du,,,,Ontological terms,v2,0
+2337,风痹,Feng Bi,,,,Ontological terms,v2,0
+2338,风痹病,Feng Bi Bing,,,,Ontological terms,v2,0
+2339,食物中毒,Shi Wu Zhong Du,,,,Ontological terms,v2,0
+2340,饮食不消,Yin Shi Bu Xiao,,,,Ontological terms,v2,0
+2341,骨痛,Gu Tong,,,,Ontological terms,v2,0
+2342,骨蒸,Gu Zheng,,,,Ontological terms,v2,0
+2343,骨蒸潮热,Gu Zheng Chao Re,,,,Ontological terms,v2,0
+2344,骨髓炎,Gu Sui Yan,,,,Ontological terms,v2,0
+2345,高热抽搐,Gao Re Chou Chu,,,,Ontological terms,v2,0
+2346,高脂血症,Gao Zhi Xie Zheng,,,,Ontological terms,v2,0
+2347,高血压,Gao Xie Ya,,,,Ontological terms,v2,0
+2348,高血压病,Gao Xie Ya Bing,,,,Ontological terms,v2,0
+2349,鱼中毒,Yu Zhong Du,,,,Ontological terms,v2,0
+2350,鸡眼,Ji Yan,,,,Ontological terms,v2,0
+2351,鹅掌风,E Zhang Feng,,,,Ontological terms,v2,0
+2352,麻疹,Ma Zhen,,,,Ontological terms,v2,0
+2353,麻痹,Ma Bi,,,,Ontological terms,v2,0
+2354,麻醉止痛,Ma Zui Zhi Tong,,,,Ontological terms,v2,0
+2355,麻风,Ma Feng,,,,Ontological terms,v2,0
+2356,麻风病,Ma Feng Bing,,,,Ontological terms,v2,0
+2357,黄水淋漓,Huang Shui Lin Li,,,,Ontological terms,v2,0
+2358,黄水疮,Huang Shui Chuang,是一种发于皮肤有传染性的化脓性皮肤病。其临床特点是皮损主要表现为浅在性脓疱和脓痂，有接触传染和自体接种的特性，在托儿所、幼儿园或家庭中传播流行。,皮肤,暑湿热邪袭于肌表,Ontological terms,v2,0
+2359,黄水病,Huang Shui Bing,,,,Ontological terms,v2,0
+2360,黄疽,Huang Ju,,,,Ontological terms,v2,0
+2361,黄肿胀满,Huang Zhong Zhang Man,,,,Ontological terms,v2,0
+2362,黏稠难咯,Nian Chou Nan Ge,,,,Ontological terms,v2,0
+2363,鼻塞不通,Bi Sai Bu Tong,,,,Ontological terms,v2,0
+2364,鼻鼽,Bi Qiu,,,,Ontological terms,v2,0

@@ -1,0 +1,234 @@
+﻿Syndrome_id,Syndrome_name,Syndrome_English,Syndrome_PinYin,Syndrome_definition,Version,Type,Suppress
+1,下元虚冷,deficiency-cold of kidney,Xia Yuan Xu Leng,肾阳虚证是指肾阳亏虚，机体失其温煦，以腰膝酸冷、性欲减退、夜尿多及阳虚症状为主要表现的证。,"v1,v2",Summarized terms,0
+2,下脘虚冷,deficiency-cold of abdomen,Xia Wan Xu Leng,肾阳虚证是指肾阳亏虚，机体失其温煦，以腰膝酸冷、性欲减退、夜尿多及阳虚症状为主要表现的证。,v2,Summarized terms,0
+3,中气下陷,sinking of the middle qi,Zhong Qi Xia Xian,脾虚气陷证是指脾气虚弱，升举无力而反下陷，以眩晕、泄泻、脘腹重坠、内脏下垂及气虚症状为主要表现的证。脾虚气陷证又名中气下陷证。,v2,Summarized terms,0
+4,久病虚羸,the debility from chronic illness,Jiu Bing Xu Lei,,v2,Summarized terms,0
+5,乳食停滞,milk stagnation,Ru Shi Ting Zhi,是脾胃虚弱，乳食停滞不化而出现的证候。,v2,Summarized terms,0
+6,亡阳,yang exhaustion,Wang Yang,机体的阳气短时间内大量亡失，使属于阳的功能突然严重衰竭，因而导致生命垂危的一种病理变化。,v2,Summarized terms,0
+7,产后瘀血,postpartum  blood stasis,Chan Hou Yu Xie,血瘀证是指瘀血内阻，以疼痛、肿块、出血、瘀血色脉征为主要表现的证。,v2,Summarized terms,0
+8,产后血虚,postpartum blood deficiency,Chan Hou Xie Xu,血虚证是指血液亏虚，不能濡养脏腑、经络、组织，以面、睑、唇、舌色淡白，脉细为主要表现的证。,"v1,v2",Summarized terms,0
+9,内热,intrinsic heat,Nei Re,指体内脏腑阴阳偏胜之热。,v2,Summarized terms,0
+10,冷哮,asthma of cold type,Leng Xiao,,"v1,v2",Summarized terms,0
+11,冷喘,Cold-type Dyspnea,Leng Chuan,,"v1,v2",Summarized terms,0
+12,冷泻,cold diarrhea,Leng Xie,,"v1,v2",Summarized terms,0
+13,劳伤,injury caused by strain and sprain,Lao Shang,中医指因过度劳累而引起的内伤,"v1,v2",Summarized terms,0
+14,外感,externally infected disease,Wai Gan,,v2,Summarized terms,0
+15,外感风寒,affection by exopathic wind-cold,Wai Gan Feng Han,风寒犯肺证是指由于风寒侵袭，肺卫失宣，以咳嗽及风寒表证症状为主要表现的证。,v2,Summarized terms,0
+16,实热,strong fever,Shi Re,热证是指感受热邪，或脏腑阳气亢盛，或阴虚阳亢，导致机体功能活动亢进而表现出具有“温、热”等症状特点的证。,v2,Summarized terms,0
+17,实热积滞,stagnation due to excessive heat,Shi Re Ji Zhi,,v2,Summarized terms,0
+18,宫冷,cold sensation in uterus,Gong Leng,指妇女肾阳不足，胞子宫失于温煦所出现的下腹坠胀，疼痛，得热则缓和，白带多，痛经，月经失调，脉沉紧，舌苔薄白多津为主要症状者,v2,Summarized terms,0
+19,寒凝气滞,accumulation of cold and stasis of qi,Han Ning Qi Zhi,是阴寒之邪侵入人体，损伤阳气，寒邪留滞不去，外现寒证的证候。,v2,Summarized terms,0
+20,寒湿,cold and damp,Han Shi,是指寒湿之邪阻滞经络，以肢体或患处沉重冷痛、麻木，或肿胀，畏冷肢凉，苔白滑等为常见症的证候。,v2,Summarized terms,0
+21,寒湿内阻,retention of cold and wind within the body,Han Shi Nei Zu,是指寒湿之邪阻滞经络，以肢体或患处沉重冷痛、麻木，或肿胀，畏冷肢凉，苔白滑等为常见症的证候。,v2,Summarized terms,0
+22,寒湿郁滞,stagnation of cold-dampness,Han Shi Yu Zhi,是指寒湿之邪阻滞经络，以肢体或患处沉重冷痛、麻木，或肿胀，畏冷肢凉，苔白滑等为常见症的证候。,v2,Summarized terms,0
+23,寒湿闭暑,Cold-dampness and incubated summer heat,Han Shi Bi Shu,是指寒湿之邪阻滞经络，以肢体或患处沉重冷痛、麻木，或肿胀，畏冷肢凉，苔白滑等为常见症的证候。,v2,Summarized terms,0
+24,寒滞,retention of cold and fluid,Han Zhi,是阴寒之邪侵入人体，损伤阳气，寒邪留滞不去，外现寒证的证候。,v2,Summarized terms,0
+25,寒热互结,combination of cold and heat ,Han Re Hu Jie,寒热错杂是指在同一患者身上，既有寒证，又有热证的情况。,v2,Summarized terms,0
+26,寒疝,periumbilical colic due to invasion of cold,Han Shan,由脾胃虚寒，或产后血虚，复感风寒外邪，结聚於腹中而致。,"v1,v2",Summarized terms,0
+27,寒痰,cold phlegm,Han Tan,寒痰阻肺证是指寒痰交阻于肺，肺失宣降，以咳嗽气喘、痰多色白及寒证症状为主要表现的证。寒痰阻肺证又名寒饮停肺证、痰浊阻肺证。,"v1,v2",Summarized terms,0
+28,寒积,accumulation of cold evil,Han Ji,感受阴寒之邪所致的证候。,v2,Summarized terms,0
+29,寒饮,fluid retention,Han Yin,寒痰阻肺证是指寒痰交阻于肺，肺失宣降，以咳嗽气喘、痰多色白及寒证症状为主要表现的证。寒痰阻肺证又名寒饮停肺证、痰浊阻肺证。,v2,Summarized terms,0
+30,小儿痰热,Phlegm fever in children,Xiao Er Tan Re,由痰热互结，阻于气道，肺道失利，肺胃气逆，痰火伤及血络所致。,v2,Summarized terms,0
+31,少阴伏风,wind in shaoyin,Shao Yin Fu Feng,,v2,Summarized terms,0
+32,心火亢盛,exuberance of the heart fire,Xin Huo Kang Sheng,心火亢盛证是指心火内炽，扰神迫血，火热上炎下移，以心烦失眠、舌赤生疮、吐衄、尿赤及火热症状为主要表现的证。,v2,Summarized terms,0
+33,心肾不交,breakdowm of the normal physilolgical coordination between the heart and the kidney,Xin Shen Bu Jiao,心肾不交证是指心肾水火既济失调，以心烦、失眠、梦遗、耳鸣、腰膝酸软等为主要表现的证。,v2,Summarized terms,0
+34,心脾不足,insufficiency of both the heart and the spleen,Xin Pi Bu Zu,心脾两虚证是指脾气亏虚，心血不足，以心悸怔忡、失眠多梦、食少、腹胀、便溏及气血两虚症状为主要表现的证。,v2,Summarized terms,0
+35,心腹瘀血,Heart stasis,Xin Fu Yu Xie,血瘀证是指瘀血内阻，以疼痛、肿块、出血、瘀血色脉征为主要表现的证。,v2,Summarized terms,0
+36,心虚,cardiac asthenia,Xin Xu,心气虚证是指心气不足，鼓动无力，以心悸怔忡及气虚症状为主要表现的证。,v2,Summarized terms,0
+37,心阳不足,insufficiency of cardiac yang,Xin Yang Bu Zu,心阳虚证是指心阳虚衰，温运失司，虚寒内生，以心悸怔忡，或心胸疼痛及阳虚症状为主要表现的证。,v2,Summarized terms,0
+38,暑湿,be affected by summer-head-dampness,Shu Shi,即暑热挟湿。以胸脘痞闷、心烦、身热、舌苔黄腻为主证。,"v1,v2",Summarized terms,0
+39,暑湿表证,cold in meridian,Shu Shi Biao Zheng,暑湿伤表，卫气失调，以发热，微恶风寒，头重身困，口渴，烦躁，小便短赤，舌红苔黄腻，脉濡数等为常见症的证候。,v2,Summarized terms,0
+40,暑热,summer heat,Shu Re,外感暑邪的热证。,v2,Summarized terms,0
+41,暑邪,summer-heat evil,Shu Xie,凡夏至之后，立秋以前，致病具有炎热、升散、兼湿特性的外邪，称为暑邪。,v2,Summarized terms,0
+42,气不摄,Qi fails to keep,Qi Bu She,脾不统血证是指脾气虚弱，统血失常，血溢脉外，以各种出血及脾气虚症状为主要表现的证。,v2,Summarized terms,0
+43,气不摄血,failure of qi to govern blood;qi failing to failure of qi to contain blood,Qi Bu She Xie,脾不统血证是指脾气虚弱，统血失常，血溢脉外，以各种出血及脾气虚症状为主要表现的证。,v2,Summarized terms,0
+44,气滞,sluggish flow of qi,Qi Zhi,气滞证是指人体某一部位，或某一脏腑、经络的气机阻滞，运行不畅，以胀闷、疼痛、脉弦为主要表现的证。气滞证又称气郁证、气结证。,v2,Summarized terms,0
+45,气潜,Qi becomes dormant or concealed,Qi Qian,气陷证是指气虚升举无力而反下陷，以自觉气坠，或内脏下垂为主要表现的证。,v2,Summarized terms,0
+46,气虚,air weakness,Qi Xu,气虚证是指机体元气不足，脏腑组织机能减退，以神疲乏力、少气懒言、脉虚等为主要表现的证。,v2,Summarized terms,0
+47,气血不足,insufficiency of the vital energy and blood,Qi Xie Bu Zu,气血两虚证是指气血不能互相化生，以气虚和血虚症状相兼为主要表现的证。,v2,Summarized terms,0
+48,气血亏虚,deficiency of qi and the blood,Qi Xie Yu Xu,气血两虚证是指气血不能互相化生，以气虚和血虚症状相兼为主要表现的证。,v2,Summarized terms,0
+49,气血虚弱,the debility of qi and the blood,Qi Xie Xu Ruo,气血两虚证是指气血不能互相化生，以气虚和血虚症状相兼为主要表现的证。,v2,Summarized terms,0
+50,气逆,abnormal rising of qi ,Qi Ni,气逆证是指气机升降失常，逆而向上，以咳喘、呕恶、头痛眩晕等为主要表现的证。,"v1,v2",Summarized terms,0
+51,气郁,stagnation of qi,Qi Yu,气滞证是指人体某一部位，或某一脏腑、经络的气机阻滞，运行不畅，以胀闷、疼痛、脉弦为主要表现的证。气滞证又称气郁证、气结证。,"v1,v2",Summarized terms,0
+52,气阴不足,insufficiency of  qi and yin; deficiency of qi and yin,Qi Yin Bu Zu,本证指由于阴虚日久，阴不化气而气失化源，或因邪热疫毒伤损，伤阴耗气，导致机体气阴不足，功能减退所表现的证候。,v2,Summarized terms,0
+53,气阴两虚,insufficiency of qi and yin,Qi Yin Liang Xu,本证指由于阴虚日久，阴不化气而气失化源，或因邪热疫毒伤损，伤阴耗气，导致机体气阴不足，功能减退所表现的证候。,"v1,v2",Summarized terms,0
+54,气阴亏虚,deficiency of qi and yin,Qi Yin Yu Xu,本证指由于阴虚日久，阴不化气而气失化源，或因邪热疫毒伤损，伤阴耗气，导致机体气阴不足，功能减退所表现的证候。,v2,Summarized terms,0
+55,水血不,,Shui Xie Bu,,v2,Summarized terms,0
+56,水血不足,anhydremia,Shui Xie Bu Zu,,v2,Summarized terms,0
+57,津亏,deficiency of fluid ,Jin Yu,津液亏虚证是指机体津液亏少，形体、脏腑、官窍失却滋润濡养和充盈，以口渴欲饮、尿少便干、官窍及皮肤干燥等为主要表现的证。,v2,Summarized terms,0
+58,津伤,deficiency of the body fluid,Jin Shang,津液亏虚证是指机体津液亏少，形体、脏腑、官窍失却滋润濡养和充盈，以口渴欲饮、尿少便干、官窍及皮肤干燥等为主要表现的证。,"v1,v2",Summarized terms,0
+59,津枯肠燥,deficiency of body fluid with dryness in the intestines,Jin Ku Chang Zao,肠燥津亏证是指津液亏损，肠失濡润，传导失职，以大便燥结难下及津亏症状为主要表现的证。,v2,Summarized terms,0
+60,淤滞,stasis,Yu Zhi,血瘀证是指瘀血内阻，以疼痛、肿块、出血、瘀血色脉征为主要表现的证。,v2,Summarized terms,0
+61,淤血肿痛,swelling and pain due to blood stasis,Yu Xie Zhong Tong,血瘀证是指瘀血内阻，以疼痛、肿块、出血、瘀血色脉征为主要表现的证。,v2,Summarized terms,0
+62,淤血阻络,blood stasis in collaterals,Yu Xie Zu Luo,血瘀证是指瘀血内阻，以疼痛、肿块、出血、瘀血色脉征为主要表现的证。,v2,Summarized terms,0
+63,温毒,heat toxins,Wen Du,温毒是指感受温毒病邪所引起的具有肿毒特征的一类温病。,v2,Summarized terms,0
+64,温毒发斑,maculae caused by violent heat pathogen,Wen Du Fa Ban,由於温热之毒内蕴肺胃，充斥三焦，波及营血，透发於肌肤而为斑。,"v1,v2",Summarized terms,0
+65,温热入营,Warm into the camp,Wen Re Ru Ying,热毒深传，侵入营血，以发热不退，抽搐频繁，牙关紧闭，两目上视，面色灰暗，甚或突然呼吸停止，肢厥脉绝，舌紫暗而干，或舌卷僵硬，脉细数为常见症的小儿暑温证候,v2,Summarized terms,0
+66,温病初起,Febrile disease early,Wen Bing Chu Qi,感受温邪所引起的一类外感急性热病的总称。,v2,Summarized terms,0
+67,温邪伤营,Heat Evil camp injury,Wen Xie Shang Ying,热毒深传，侵入营血，以发热不退，抽搐频繁，牙关紧闭，两目上视，面色灰暗，甚或突然呼吸停止，肢厥脉绝，舌紫暗而干，或舌卷僵硬，脉细数为常见症的小儿暑温证候,v2,Summarized terms,0
+68,温邪伤阴,Warm evil and hurt yin,Wen Xie Shang Yin,风温余邪未净，肺胃阴伤，以低热或不发热，干咳或痰少而黏，口舌干燥而渴，舌干红，少苔，脉细等为常见症的风温证候。,v2,Summarized terms,0
+69,湿浊中阻,Retention of Dampness and turbidity in Mtddle-energizer,Shi Zhuo Zhong Zu,寒湿困脾证是指寒湿内盛，困阻脾阳，运化失职，以脘腹痞闷、纳呆、便溏、身重与寒湿症状为主要表现的证。,v2,Summarized terms,0
+70,湿温,damp fever,Shi Wen,,v2,Summarized terms,0
+71,湿温初起,Humidity at the beginning,Shi Wen Chu Qi,,v2,Summarized terms,0
+72,湿滞伤中,retention of dampness impair mtddle-energizer,Shi Zhi Shang Zhong,寒湿困脾证是指寒湿内盛，困阻脾阳，运化失职，以脘腹痞闷、纳呆、便溏、身重与寒湿症状为主要表现的证。,v2,Summarized terms,0
+73,湿热,wet fever,Shi Re,指湿热蕴结体内，脏腑经络运行受阻，可见全身湿热症状的病理变化。,v2,Summarized terms,0
+74,湿热中阻,Retention of Dampness and heat in Mtddle-energizer,Shi Re Zhong Zu,指湿热蕴结体内，脏腑经络运行受阻，可见全身湿热症状的病理变化。,v2,Summarized terms,0
+75,湿热壅遏,Humidity and heat suppression,Shi Re Yong E,指湿热蕴结体内，脏腑经络运行受阻，可见全身湿热症状的病理变化。,v2,Summarized terms,0
+76,湿热痞满,sensation of fullness due to dampness and heat,Shi Re Pi Man,指湿热蕴结体内，脏腑经络运行受阻，可见全身湿热症状的病理变化。,v2,Summarized terms,0
+77,湿痰,Damp Phlegm,Shi Tan,痰湿内阻，以咳吐多量黏稠痰，痰滑易咯，肢体困重，胸脘痞闷，食少口腻，苔白腻，脉濡缓或滑等为常见症的证候。,v2,Summarized terms,0
+78,湿阻中焦,Retention of Dampness in Mtddle-energizer,Shi Zu Zhong Jiao,即湿邪阻滞脾胃，影响其运化功能。症见头重、怠倦、脘闷、腹胀、纳呆、口粘渴、喜热饮、小便短赤，舌苔厚白或腻，脉缓等。,v2,Summarized terms,0
+79,湿阻气滞,damp obstruction leading to qi stagnation,Shi Zu Qi Zhi,气机郁滞，湿浊内阻，以胸胁脘腹胀闷窜痛，恶心欲吐，肢体困重，头晕嗜睡，或有浮肿，苔白腻，脉弦滑或濡缓等为常见症的证候。,v2,Summarized terms,0
+80,火毒,fire toxic,Huo Du,是指以局部肿痛严重，伴有恶寒发热，烦躁为主要临床特征的一类病证。,v2,Summarized terms,0
+81,火毒蕴结,accumulation of fire toxins,Huo Du Yun Jie,是指以局部肿痛严重，伴有恶寒发热，烦躁为主要临床特征的一类病证。,v2,Summarized terms,0
+82,热入心包,the heat attacts the pericardium,Re Ru Xin Bao,温热病内陷营血阶段的证型之一。主要证候有高热、神昏、谵语、甚则昏迷不醒、四肢厥逆、或见抽搐等。,v2,Summarized terms,0
+83,热入营血,heat attacking xuefen;heat invading blood ,Re Ru Ying Xie,是指由于感受火热毒邪，或恣食膏粱厚味，脏腑蕴热，亦或是皮肤破损染毒致火毒炽盛，内燔营血所表现出来的局部肿胀，身热夜甚，烦渴，舌红降，脉数一类病证。,v2,Summarized terms,0
+84,热毒,heat toxic,Re Du,热毒证是以发热为主症，具有流行性和传染性的一类疾病，属温病中瘟疫范畴,v2,Summarized terms,0
+85,热毒内盛,domination of toxin-heat in the body,Re Du Nei Sheng,热毒证是以发热为主症，具有流行性和传染性的一类疾病，属温病中瘟疫范畴,v2,Summarized terms,0
+86,热毒痰火郁结,accumulation of heat toxic and phlegm ,Re Du Tan Huo Yu Jie,指无形之火与有形之痰煎熬胶结贮积于体内的病证。,v2,Summarized terms,0
+87,热泻,diarrhea due to evil heat,Re Xie,因热迫大肠所引起,"v1,v2",Summarized terms,0
+88,热病,heat disease,Re Bing,,v2,Summarized terms,0
+89,热病伤阴,consumption of yin caused by febrile diseases,Re Bing Shang Yin,津液亏虚证是指机体津液亏少，形体、脏腑、官窍失却滋润濡养和充盈，以口渴欲饮、尿少便干、官窍及皮肤干燥等为主要表现的证。,v2,Summarized terms,0
+90,热病气虚,Fever and Qi Deficiency,Re Bing Qi Xu,气虚证是指机体元气不足，脏腑组织机能减退，以神疲乏力、少气懒言、脉虚等为主要表现的证。,v2,Summarized terms,0
+91,热病津伤,impairment of the body fluid ,Re Bing Jin Shang,津液亏虚证是指机体津液亏少，形体、脏腑、官窍失却滋润濡养和充盈，以口渴欲饮、尿少便干、官窍及皮肤干燥等为主要表现的证。,v2,Summarized terms,0
+92,热病神昏,an unconscious patient with febrile diseases,Re Bing Shen Hun,痰火扰神证是指火热痰浊交结，扰乱心神，以狂躁、神昏及痰热症状为主要表现的证。痰火扰神证又称痰火扰心 （闭窍）证。,v2,Summarized terms,0
+93,热痰,heat-phlegm,Re Tan,,"v1,v2",Summarized terms,0
+94,热盛伤津,consumption of the body fluid due to excessive heat,Re Sheng Shang Jin,津液亏虚证是指机体津液亏少，形体、脏腑、官窍失却滋润濡养和充盈，以口渴欲饮、尿少便干、官窍及皮肤干燥等为主要表现的证。,v2,Summarized terms,0
+95,热结,accumulation of heat,Re Jie,指热邪聚结而出现的病变。,v2,Summarized terms,0
+96,热证,febrile symptoms,Re Zheng,是指感受热邪、或阳盛阴虚，人体的机能活动亢进所表现的证候。,v2,Summarized terms,0
+97,燥咳,cough caused by dryness,Zao Ke,因肺虚液少或燥邪伤肺所致的咳嗽。,"v1,v2",Summarized terms,0
+98,痰厥,adverse rising of phlegm,Tan Jue,指因痰盛气闭而引起四肢厥冷，甚至昏厥的病症。,"v1,v2",Summarized terms,0
+99,痰壅,accumulation of phlegm,Tan Yong,痰证是指痰浊停聚或流窜于脏腑、组织之间，临床以痰多、胸闷、呕恶、眩晕、体胖、包块等为主要表现的证。,"v1,v2",Summarized terms,0
+100,痰多,abundant sputum,Tan Duo,,"v1,v2",Summarized terms,0
+101,痰涎凝聚,phlegmatic saliva accumulated in the interior,Tan Xian Ning Ju,痰证是指痰浊停聚或流窜于脏腑、组织之间，临床以痰多、胸闷、呕恶、眩晕、体胖、包块等为主要表现的证。,v2,Summarized terms,0
+102,痰涎壅肺,phlegm-damoness obstructing lung,Tan Xian Yong Fei,痰证是指痰浊停聚或流窜于脏腑、组织之间，临床以痰多、胸闷、呕恶、眩晕、体胖、包块等为主要表现的证。,v2,Summarized terms,0
+103,痰涎积滞,stagnation of phlegm and drool,Tan Xian Ji Zhi,痰证是指痰浊停聚或流窜于脏腑、组织之间，临床以痰多、胸闷、呕恶、眩晕、体胖、包块等为主要表现的证。,v2,Summarized terms,0
+104,痰滞气阻,phlegm and qi obstructing each other,Tan Zhi Qi Zu,是指气郁痰凝，阻滞胸咽所表现出来的咽中如有物梗赛，胸胁胀痛，苔白腻，脉弦滑的一类病证。,v2,Summarized terms,0
+105,痰滞经络,retention of phlegm in Meridians and Collaterals,Tan Zhi Jing Luo,痰证是指痰浊停聚或流窜于脏腑、组织之间，临床以痰多、胸闷、呕恶、眩晕、体胖、包块等为主要表现的证。,v2,Summarized terms,0
+106,痰火,phlegm fire,Tan Huo,痰火是指无形之火与有形之痰煎熬胶结贮积于肺的病证。,v2,Summarized terms,0
+107,痰热,phlegm heat,Tan Re,痰热壅肺证是指痰热交结，壅滞于肺，肺失清肃，以咳喘、痰黄稠及痰热症状为主要表现的证。,"v1,v2",Summarized terms,0
+108,痰盛,abundant phlegm,Tan Sheng,痰证是指痰浊停聚或流窜于脏腑、组织之间，临床以痰多、胸闷、呕恶、眩晕、体胖、包块等为主要表现的证。,"v1,v2",Summarized terms,0
+109,痰迷,phlegm covering,Tan Mi,痰蒙心神证是指痰浊内盛，蒙蔽心神，以神志抑郁、错乱、痴呆、昏迷及痰浊症状为主要表现的证。痰蒙心神证又称痰迷心窍证。,v2,Summarized terms,0
+110,痰阻,retention of phlegm,Tan Zu,是指因嗜酒无度，过食肥甘厚味，损伤脾胃，以致健运失司，水湿内停，积聚生痰，痰阻中焦，清阳不升，头窍失养所表现出来的眩晕，头重昏蒙，舌苔白腻，脉濡滑的一类病证。,v2,Summarized terms,0
+111,痰饮,sputum drink,Tan Yin,痰证是指痰浊停聚或流窜于脏腑、组织之间，临床以痰多、胸闷、呕恶、眩晕、体胖、包块等为主要表现的证。,"v1,v2",Summarized terms,0
+112,痰饮停滞,stagnation of phlegm retention,Tan Yin Ting Zhi,痰证是指痰浊停聚或流窜于脏腑、组织之间，临床以痰多、胸闷、呕恶、眩晕、体胖、包块等为主要表现的证。,v2,Summarized terms,0
+113,痰饮停聚,retention of phlegm in the interior,Tan Yin Ting Ju,痰证是指痰浊停聚或流窜于脏腑、组织之间，临床以痰多、胸闷、呕恶、眩晕、体胖、包块等为主要表现的证。,v2,Summarized terms,0
+114,痰饮内停,retention of phlegm in the interior,Tan Yin Nei Ting,痰证是指痰浊停聚或流窜于脏腑、组织之间，临床以痰多、胸闷、呕恶、眩晕、体胖、包块等为主要表现的证。,v2,Summarized terms,0
+115,痰饮积聚,abdominal mass and gethering of phlegm retention,Tan Yin Ji Ju,痰证是指痰浊停聚或流窜于脏腑、组织之间，临床以痰多、胸闷、呕恶、眩晕、体胖、包块等为主要表现的证。,v2,Summarized terms,0
+116,痰饮蓄结,Phlegm build knot,Tan Yin Xu Jie,痰证是指痰浊停聚或流窜于脏腑、组织之间，临床以痰多、胸闷、呕恶、眩晕、体胖、包块等为主要表现的证。,v2,Summarized terms,0
+117,瘀滞,stasis stagnancy ,Yu Zhi,血瘀证是指瘀血内阻，以疼痛、肿块、出血、瘀血色脉征为主要表现的证。,v2,Summarized terms,0
+118,瘀滞肿痛,"Stasis, swelling and pain",Yu Zhi Zhong Tong,血瘀证是指瘀血内阻，以疼痛、肿块、出血、瘀血色脉征为主要表现的证。,v2,Summarized terms,0
+119,瘀肿疼痛,pain caused by ecchymoma,Yu Zhong Teng Tong,血瘀证是指瘀血内阻，以疼痛、肿块、出血、瘀血色脉征为主要表现的证。,v2,Summarized terms,0
+120,瘀血,stagnant blood,Yu Xie,血瘀证是指瘀血内阻，以疼痛、肿块、出血、瘀血色脉征为主要表现的证。,v2,Summarized terms,0
+121,瘀血阻络,blood stasis in collaterals,Yu Xie Zu Luo,血瘀证是指瘀血内阻，以疼痛、肿块、出血、瘀血色脉征为主要表现的证。,"v1,v2",Summarized terms,0
+122,瘀阻,Stagnation,Yu Zu,血瘀证是指瘀血内阻，以疼痛、肿块、出血、瘀血色脉征为主要表现的证。,v2,Summarized terms,0
+123,瘀阻经闭,amenorrhea due to congestion,Yu Zu Jing Bi,多因气滞、寒凝，瘀血阻滞冲任胞脉，积之而成经闭。,"v1,v2",Summarized terms,0
+124,积滞不消,indigestion due to accumulation,Ji Zhi Bu Xiao,是指由于饮食不节，损伤脾胃而出现的证候。,"v1,v2",Summarized terms,0
+125,积滞内停,accumulation within the body,Ji Zhi Nei Ting,是指由于饮食不节，损伤脾胃而出现的证候。,"v1,v2",Summarized terms,0
+126,积滞泻痢,indigestion accompanied with diarrhea and dysentery,Ji Zhi Xie Li,是指由于饮食不节，损伤脾胃而出现的证候。,v2,Summarized terms,0
+127,积滞胀满,dyspeptic abdonimal distention,Ji Zhi Zhang Man,是指由于饮食不节，损伤脾胃而出现的证候。,"v1,v2",Summarized terms,0
+128,精亏,deficiency of spermatozoa,Jing Yu,是指肾精亏损、髓海空虚所致的发育迟缓、未老先衰、肢体痿弱不用的一类证候。,"v1,v2",Summarized terms,0
+129,精冷,cold sperm,Jing Leng,是指男子因真阳不足而引起精气清冷，无生育能力者。,"v1,v2",Summarized terms,0
+130,精血不足,deficiency of the essence and blood ,Jing Xie Bu Zu,是指肾精亏损、髓海空虚所致的发育迟缓、未老先衰、肢体痿弱不用的一类证候。,v2,Summarized terms,0
+131,精血亏虚,deficiency of the essence and blood ,Jing Xie Yu Xu,是指肾精亏损、髓海空虚所致的发育迟缓、未老先衰、肢体痿弱不用的一类证候。,v2,Summarized terms,0
+132,经寒,,Jing Han,寒湿之邪侵袭经脉。,v2,Summarized terms,0
+133,肉食积滞,retention of meat and food in the stomach,Rou Shi Ji Zhi,是指由于饮食不节，损伤脾胃而出现的证候。,v2,Summarized terms,0
+134,肝气郁结,stagnation of liver-qi,Gan Qi Yu Jie,指肝失疏泄，气机郁滞，情志抑郁，气血不畅的病理变化。,v2,Summarized terms,0
+135,肝火,the hepatic fire,Gan Huo,指肝经火胜，内扰于肝的一种病理现象。,v2,Summarized terms,0
+136,肝热,heat in liver,Gan Re,,v2,Summarized terms,0
+137,肝肾不足,deficiency of the liver and kidney,Gan Shen Bu Zu,是指肝肾精亏血少所表现出来的一类病证。,v2,Summarized terms,0
+138,肝肾亏虚,deficiency of the liver and kidney,Gan Shen Yu Xu,是指肝肾精亏血少所表现出来的一类病证。,v2,Summarized terms,0
+139,肝肾虚,asthenia of both liver and kidney; deficiency of both liver and kidney,Gan Shen Xu,是指肝肾精亏血少所表现出来的一类病证。,v2,Summarized terms,0
+140,肝肾阴虚,deficiency of the liver-yin and kidney-yin,Gan Shen Yin Xu,指肝肾阴液亏虚，虚热内扰，以腰酸胁痛、眩晕、耳鸣、遗精等为主要表现的虚热证候。,v2,Summarized terms,0
+141,肝胃不和,disharmony between the liver and stomach,Gan Wei Bu He,肝气瘀滞，横逆犯胃，胃失和降，以胃脘、胁肋胀满疼痛，嗳气、呃逆、吞酸，情绪抑郁，不欲食，苔薄黄，脉弦等为常见症的证候。,v2,Summarized terms,0
+142,肝胃气滞,stagnation of qi of the liver and stomach,Gan Wei Qi Zhi,是指情志不畅，郁怒伤肝，横逆犯胃，导致胃失和降而出现的证候。,v2,Summarized terms,0
+143,肝胆湿热,Dampness and Heat in Liver and Gallbladder,Gan Dan Shi Re,指湿热之邪蕴结肝胆的病证。多由外感湿热之邪，或嗜酒，过食肥甘辛辣，湿邪内生，郁久化热所致，或脾胃运化失常，湿浊内生，蕴而化热，阻遏肝胆而成。,v2,Summarized terms,0
+144,肝虚,liver weakness,Gan Xu,,v2,Summarized terms,0
+145,肝郁,liver depression,Gan Yu,是指肝失疏泄，气机郁滞，以情志抑郁、胸胁或少腹胀痛等为主要表现的证候。,v2,Summarized terms,0
+146,肝郁化火,the Depression of the liver generates pathogenic fire,Gan Yu Hua Huo,是指因情志不遂，或突然遭受精神刺激，或病邪侵扰，导致肝失疏泄，气机郁滞，日久化火，出现胸胁或少腹胀闷窜疼，急躁易怒，头晕胀疼，面红目赤，口苦，咽干，不寐，妇女乳房胀痛，月经不调，痛经，甚则闭经等症状的一种中医证型。,v2,Summarized terms,0
+147,肝郁气滞,liver depression and qi stagnation,Gan Yu Qi Zhi,是指肝失疏泄，气机郁滞，以情志抑郁、胸胁或少腹胀痛等为主要表现的证候。,v2,Summarized terms,0
+148,肝阳,liver yang,Gan Yang,,v2,Summarized terms,0
+149,肝风内动,internal movement of the liver-wind ,Gan Feng Nei Dong,肝风内动证是指临床出现眩晕欲仆，震颤，抽搐等症状的病证。,v2,Summarized terms,0
+150,肝风夹痰,Liver wind and phlegm,Gan Feng Jia Tan,指肝风夹痰，横窜经络所表现出来的以肢体麻木不仁，甚或瘫痪不遂，或肌肤麻木瘙痒，眩晕，口角流涎等为常见症的一类病症。,v2,Summarized terms,0
+151,肠热,constipation due to heat in the large intestine,Chang Re,小肠实热证是指心火下移小肠，热迫膀胱，气化失司，以小便赤涩疼痛、心烦、舌疮及实热症状为主要表现的证。,v2,Summarized terms,0
+152,肠燥,dryness in the intestines,Chang Zao,肠燥津亏证是指津液亏损，肠失濡润，传导失职，以大便燥结难下及津亏症状为主要表现的证。,v2,Summarized terms,0
+153,肺寒,cold on the lungs,Fei Han,寒邪客肺，肺失宣降，故见咳嗽，气喘，咯稀白痰等症,v2,Summarized terms,0
+154,肺气壅实,stasis of lung-energy,Fei Qi Yong Shi,是指邪实气壅，肺气不能宣降导致的证候,v2,Summarized terms,0
+155,肺热,heat in lung,Fei Re,指火热炽盛，壅积于肺，肺失清肃，以咳喘气粗、鼻翼煽动等为主要表现的实热证候。,"v1,v2",Summarized terms,0
+156,肺燥,dry lungs ,Fei Zao,是指外感燥邪，肺失宣降，以干咳痰少、鼻咽口舌干燥等为主要表现的证候。,"v1,v2",Summarized terms,0
+157,肺肾不足,deficiency of the lung and kidney,Fei Shen Bu Zu,肺肾阴虚证是指肺肾阴液亏虚，虚热内扰，以干咳、少痰、腰酸、遗精及阴虚症状为主要表现的证。,v2,Summarized terms,0
+158,肺肾两虚,asthenia of both the lung and kidney,Fei Shen Liang Xu,肺肾阴虚证是指肺肾阴液亏虚，虚热内扰，以干咳、少痰、腰酸、遗精及阴虚症状为主要表现的证。,v2,Summarized terms,0
+159,肺胃阴伤,imperiment of yin in lung and stomach,Fei Wei Yin Shang,见于温病气分后期，为邪热已退(或渐退)，而肺胃津伤未复之候，病情属虚，病位在肺胃。以干咳，口干舌燥而渴，舌光红少苔，脉细数为辨证要点。多见于风温、春温、暑温、秋燥、温毒等病末期阶段。,v2,Summarized terms,0
+160,肺虚,asthenia of lung,Fei Xu,肺气虚证是指肺气虚弱，宣肃、卫外功能减退，以咳嗽、气喘、自汗、易于感冒及气虚症状为主要表现的证。,v2,Summarized terms,0
+161,肾虚,deficiency in kidney ,Shen Xu,肾气虚弱，以腰酸，耳鸣，性欲减退，头晕健忘，脉弱等为常见症的证候。,v2,Summarized terms,0
+162,肾阳不足,deficiency of kidney-yang,Shen Yang Bu Zu,肾阳虚证是指肾阳亏虚，机体失其温煦，以腰膝酸冷、性欲减退、夜尿多及阳虚症状为主要表现的证。,v2,Summarized terms,0
+163,肾阳亏虚,deficiency of the kidney-yang,Shen Yang Yu Xu,肾阳虚证是指肾阳亏虚，机体失其温煦，以腰膝酸冷、性欲减退、夜尿多及阳虚症状为主要表现的证。,v2,Summarized terms,0
+164,肾阳虚,deficiency of the kidney-yang,Shen Yang Xu,肾阳虚证是指肾阳亏虚，机体失其温煦，以腰膝酸冷、性欲减退、夜尿多及阳虚症状为主要表现的证。,v2,Summarized terms,0
+165,肾阳虚衰,kidney yang deficiency,Shen Yang Xu Shuai,肾阳虚证是指肾阳亏虚，机体失其温煦，以腰膝酸冷、性欲减退、夜尿多及阳虚症状为主要表现的证。,v2,Summarized terms,0
+166,胃寒,the stomach affected by cold,Wei Han,是指脾胃阳气虚衰，过食生冷，或寒邪直中所致阴寒凝滞胃腑的证候。,v2,Summarized terms,0
+167,胃火,the stomach fire,Wei Huo,指胃热炽盛化火的病变。,v2,Summarized terms,0
+168,胃火亢盛,excessiveness of the stomach-fire,Wei Huo Kang Sheng,指胃热炽盛化火的病变。,v2,Summarized terms,0
+169,胃热, stomach heat,Wei Re,指胃热炽盛化火的病变。,"v1,v2",Summarized terms,0
+170,胃阴不足,deficiency of the stomach-yin,Wei Yin Bu Zu,是指因饮食不节，过食辛辣厚味，积热于内，或热病后期伤津，或情志不畅，气郁化火伤阴，致胃失和降所表现出来的恶心、呕吐或呃逆，口燥咽干，舌红少苔，脉细数一类病证。,"v1,v2",Summarized terms,0
+171,胆火挟痰,Bile fire and phlegm,Dan Huo Xie Tan,胆郁痰扰证是指痰热内扰，胆气不宁，以胆怯易惊、心烦失眠及痰热症状为主要表现的证。,v2,Summarized terms,0
+172,胆胀,distending pain of the hypochondrium due to gallblsdder disorder,Dan Zhang,胆胀是指胆腑气郁，胆失通降所引起的以右胁胀痛为主要临床表现的一种疾病。,"v1,v2",Summarized terms,0
+173,脾寒,a presence of cold in the spleen,Pi Han,脾胃虚寒证是由于素体脾气虚，或脾虚日久，波及脾阳，使脾阳也虚。或贪食生冷，损伤脾阳，导致脾阳虚不能温暖胃肠，寒气自内而生的病证。,v2,Summarized terms,0
+174,脾肺气虚,asthenia of spleen and lung qi; deficiency of spleen and lung,Pi Fei Qi Xu,由于脾肺两脏气虚，出现脾失健运，肺失宣降的虚弱证候。,v2,Summarized terms,0
+175,脾肾虚,splenonephric deficiency ,Pi Shen Xu,脾肾阳虚证是指脾肾阳气亏虚，温化失职，虚寒内生，以久泄久痢、浮肿、腰腹冷痛及阳虚症状为主要表现的证。,v2,Summarized terms,0
+176,脾肾阳虚,deficiency of the spleen-yang and kidney-yang,Pi Shen Yang Xu,脾肾阳虚证是指脾肾阳气亏虚，温化失职，虚寒内生，以久泄久痢、浮肿、腰腹冷痛及阳虚症状为主要表现的证。,v2,Summarized terms,0
+177,脾胃亏虚,weak spleen and stomach,Pi Wei Yu Xu,脾胃气虚，中焦失运，以食欲不振，脘腹痞胀，食后尤甚，大便溏泻，神疲肢倦，舌淡，脉弱等为常见症的证候。,v2,Summarized terms,0
+178,脾胃气滞,stagnation of gastrosplenic qi; stagnation of spleen and stomach qi,Pi Wei Qi Zhi,指脾胃之气阻滞不畅。,"v1,v2",Summarized terms,0
+179,脾胃气虚,eficiency of qi in the spleen and stomach,Pi Wei Qi Xu,脾胃气虚，中焦失运，以食欲不振，脘腹痞胀，食后尤甚，大便溏泻，神疲肢倦，舌淡，脉弱等为常见症的证候。,v2,Summarized terms,0
+180,脾胃湿阻气滞,Spleen and stomach dampness block,Pi Wei Shi Zu Qi Zhi,指湿邪阻滞中焦，运化功能减弱，以脘腹满闷，肢体困重，纳食呆滞等为主要临床特征的外感病。,v2,Summarized terms,0
+181,脾胃虚,weak spleen and stomach,Pi Wei Xu,脾胃气虚，中焦失运，以食欲不振，脘腹痞胀，食后尤甚，大便溏泻，神疲肢倦，舌淡，脉弱等为常见症的证候。,v2,Summarized terms,0
+182,脾胃虚寒,cold syndrome of the spleen and the stomach of deficiency type,Pi Wei Xu Han,脾胃虚寒证是由于素体脾气虚，或脾虚日久，波及脾阳，使脾阳也虚。或贪食生冷，损伤脾阳，导致脾阳虚不能温暖胃肠，寒气自内而生的病证。,v2,Summarized terms,0
+183,脾胃虚弱,weak spleen and stomach,Pi Wei Xu Ruo,脾胃气虚，中焦失运，以食欲不振，脘腹痞胀，食后尤甚，大便溏泻，神疲肢倦，舌淡，脉弱等为常见症的证候。,v2,Summarized terms,0
+184,脾虚,deficiency of spleen,Pi Xu,脾气虚证是指脾气不足，运化失职，以纳少、腹胀、便溏及气虚症状为主要表现的证。,"v1,v2",Summarized terms,0
+185,膀胱虚冷,asthenia cold of bladder,Bang Guang Xu Leng,肾阳亏虚，膀胱气化失司，以畏冷肢凉，小腹冷痛，小便失禁或不利，或夜尿多、尿清长，苔白滑等为常见症的证候。,v2,Summarized terms,0
+186,虚劳,consumptive disease ,Xu Lao,是由于禀赋薄弱、后天失养及外感内伤等多种原因引起的，以脏腑功能衰退，气血阴阳亏损，日久不复为主要病机，以五脏虚证为主要临床表现的多种慢性虚弱症候的总称。,"v1,v2",Summarized terms,0
+187,虚喘,dyspnea due to deficiency,Xu Chuan,虚喘常由慢性咳嗽、肺痨等肺系病症迁延未愈，病久肺虚，气失所主，肾元亏虚，肾不纳气而短气喘促。,"v1,v2",Summarized terms,0
+188,虚寒,deficiency-cold,Xu Han,阳虚证是指人体阳气亏损，其温养、推动、气化等功能减退，以畏寒肢冷为主要表现的虚寒证。,"v1,v2",Summarized terms,0
+189,虚烦,fidgetiness due to deficiency,Xu Fan,是因虚而致心胸烦热者。,"v1,v2",Summarized terms,0
+190,虚热,asthenia-heat,Xu Re,阴虚证是指人体阴液亏少，其滋润、濡养等功能减退，或阴不制阳，阳气偏亢，以口咽干燥、五心烦热、潮热盗汗等为主要表现的虚热证。,"v1,v2",Summarized terms,0
+191,虚痨,consumptive disease,Xu Lao,是由于禀赋薄弱、后天失养及外感内伤等多种原因引起的，以脏腑功能衰退，气血阴阳亏损，日久不复为主要病机，以五脏虚证为主要临床表现的多种慢性虚弱症候的总称。,v2,Summarized terms,0
+192,虚脱,prostration syndrome,Xu Tuo,以面色苍白、虚汗淋漓、头昏眼花、肢冷汗出、二便失禁、神情淡漠或烦躁甚则不省人事、脉微欲绝等为特征的内科急症。,"v1,v2",Summarized terms,0
+193,虚阳上浮,floating of weak yang,Xu Yang Shang Fu,指体内阳气极虚，导致阴寒之气偏盛，格阳于外，阴阳寒热格拒，表现为内真寒外假热的证候。,v2,Summarized terms,0
+194,虚风内动,internal stirring of deficiency-wind,Xu Feng Nei Dong,是肾精肝血耗损，虚风内动之候。以手足蠕动，甚或瘛疭，舌干降为辨证要点。,v2,Summarized terms,0
+195,虫积,abdominal pain due to parasitic infestation,Chong Ji,虫积肠道证是指蛔虫等寄居肠道，阻滞气机，噬耗营养，以腹痛、面黄体瘦、大便排虫及气滞症状为主要表现的证。,v2,Summarized terms,0
+196,血寒,blood cold,Xie Han,血寒证是指寒邪客于血脉，凝滞气机，血行不畅，以拘急冷痛、形寒、肤色紫暗为主要表现的实寒证。,v2,Summarized terms,0
+197,血热,heat in blood,Xie Re,血热证是指火热炽盛，热迫血分，以出血与实热症状为主要表现的证。,"v1,v2",Summarized terms,0
+198,血热有瘀,heat in blood with ecchymosis,Xie Re You Yu,外感火热邪气，或体内阳盛化火，入舍于血，血热互结，煎灼血中津液，使血液黏稠而运行不畅；或热灼脉络，迫血妄行导致内出血，以致血液壅滞于体内某些部位而不散而成瘀血。,v2,Summarized terms,0
+199,血热毒盛,heat invading the blood phase,Xie Re Du Sheng,血热证是指火热炽盛，热迫血分，以出血与实热症状为主要表现的证。,v2,Summarized terms,0
+200,血瘀,stasis of blood,Xie Yu,血瘀证是指瘀血内阻，以疼痛、肿块、出血、瘀血色脉征为主要表现的证。,"v1,v2",Summarized terms,0
+201,血虚,deficiency of blood,Xie Xu,血虚证是指血液亏虚，不能濡养脏腑、经络、组织，以面、睑、唇、舌色淡白，脉细为主要表现的证。,v2,Summarized terms,0
+202,表虚,Exteriat Syndrome of Deficiency,Biao Xu,外邪袭表，腠理不固，营卫之气不和所致的表证。,v2,Summarized terms,0
+203,酒毒伤中,impairment in the body due to alcohol toxin ,Jiu Du Shang Zhong,,v2,Summarized terms,0
+204,阳亢,excess of yang,Yang Kang,肝阳上亢证是指肝肾阴亏，阴不制阳，阳亢于上，以眩晕耳鸣、头目胀痛、头重脚轻、腰膝酸软等上盛下虚症状为主要表现的证。,v2,Summarized terms,0
+205,阳毒,yang virulence,Yang Du,邪气深重。,v2,Summarized terms,0
+206,阳虚,yang deficiency,Yang Xu,阳虚证是指人体阳气亏损，其温养、推动、气化等功能减退，以畏寒肢冷为主要表现的虚寒证。,"v1,v2",Summarized terms,0
+207,阳虚外感,externally infection due to yang deficiency,Yang Xu Wai Gan,阳虚证是指人体阳气亏损，其温养、推动、气化等功能减退，以畏寒肢冷为主要表现的虚寒证。,v2,Summarized terms,0
+208,阴亏,deficiency of yin,Yin Yu,阴虚证是指人体阴液亏少，其滋润、濡养等功能减退，或阴不制阳，阳气偏亢，以口咽干燥、五心烦热、潮热盗汗等为主要表现的虚热证。,v2,Summarized terms,0
+209,阴寒,coldness of yin,Yin Han,外感之寒邪或阳虚所生之内寒。,v2,Summarized terms,0
+210,阴疽肿毒,toxic swelling due to carbuncle of yin nature,Yin Ju Zhong Du,,v2,Summarized terms,0
+211,阴虚,deficiency of yin,Yin Xu,阴虚证是指人体阴液亏少，其滋润、濡养等功能减退，或阴不制阳，阳气偏亢，以口咽干燥、五心烦热、潮热盗汗等为主要表现的虚热证。,v2,Summarized terms,0
+212,阴虚火旺,flaming-up of fire due to dificiency of yin,Yin Xu Huo Wang,阴虚证是指人体阴液亏少，其滋润、濡养等功能减退，或阴不制阳，阳气偏亢，以口咽干燥、五心烦热、潮热盗汗等为主要表现的虚热证。,v2,Summarized terms,0
+213,阴血不足,insufficiency of the yin-blood,Yin Xie Bu Zu,血虚证是指血液亏虚，不能濡养脏腑、经络、组织，以面、睑、唇、舌色淡白，脉细为主要表现的证。,v2,Summarized terms,0
+214,顽痰,stubborn phlegm,Wan Tan,指坚结胶固之痰，亦称老痰、结痰、郁痰。,"v1,v2",Summarized terms,0
+215,顽痰胶结,retention of stubborn phlegm,Wan Tan Xiao Jie,指坚结胶固之痰，亦称老痰、结痰、郁痰。,v2,Summarized terms,0
+216,风寒,wind-cold syndrome,Feng Han,伤寒证是指寒邪外袭于肤表，阻遏卫阳所表现的表实寒证，又称风寒表证,v2,Summarized terms,0
+217,风寒挟湿,wind syndromes of cold type with damp symptoms,Feng Han Xie Shi,指风、寒、湿三种邪气的结合。,v2,Summarized terms,0
+218,风寒湿,wind-cold-damp syndrome,Feng Han Shi,指风、寒、湿三种邪气的结合。,v2,Summarized terms,0
+219,风水,wind water,Feng Shui,指风邪外袭，肺卫失宣，水湿泛溢肌肤，以突起头面浮肿及卫表症状为主要表现的证候。,v2,Summarized terms,0
+220,风温初起,onset of affection due to wind-warm syndrome ,Feng Wen Chu Qi,风温初起，邪犯肺卫，以发热，微恶风寒，无汗或少汗，头痛，咳嗽，口微渴，舌边尖红，苔薄白，脉浮数等为常见症的风温证候。,v2,Summarized terms,0
+221,风湿,wind-dampness,Feng Shi,指风邪与湿邪的结合。,v2,Summarized terms,0
+222,风热,wind and heat,Feng Re,感受风热之邪。,"v1,v2",Summarized terms,0
+223,风热郁肺,retention of wind-heat in the lung,Feng Re Yu Fei,风热犯肺证是指由于风热侵犯，肺卫失宣，以咳嗽及风热表证症状为主要表现的证。,v2,Summarized terms,0
+224,风痰,wind-phlegm,Feng Tan,外风挟痰为患，或肝风痰浊内扰，以咳吐泡沫痰涎，胸闷，眩晕，头目胀痛；或喉中痰鸣，肢体麻木，口眼喎斜，苔白腻，脉弦滑等为常见症的证候。,"v1,v2",Summarized terms,0
+225,食物积滞,food accumulation,Shi Wu Ji Zhi,是指由于饮食不节，损伤脾胃而出现的证候。,"v1,v2",Summarized terms,0
+226,食积,food stagnation,Shi Ji,是指由于饮食不节，损伤脾胃而出现的证候。,"v1,v2",Summarized terms,0
+227,食积不化,food accumulation,Shi Ji Bu Hua,是指由于饮食不节，损伤脾胃而出现的证候。,v2,Summarized terms,0
+228,食积不消,indigestion with food retention,Shi Ji Bu Xiao,是指由于饮食不节，损伤脾胃而出现的证候。,"v1,v2",Summarized terms,0
+229,食积伤酒,Dyspepsia injury wine,Shi Ji Shang Jiu,是指由于饮酒，损伤脾胃而出现的证候。,v2,Summarized terms,0
+230,饮酒过多,Drinking too much,Yin Jiu Guo Duo,,"v1,v2",Summarized terms,0
+231,饮食不消,indigestion,Yin Shi Bu Xiao,是指由于饮食不节，损伤脾胃而出现的证候。,v2,Summarized terms,0
+232,饮食停滞,indigestion ,Yin Shi Ting Zhi,是指由于饮食不节，损伤脾胃而出现的证候。,"v1,v2",Summarized terms,0
+233,饮食积滞,food stagnation,Yin Shi Ji Zhi,是指由于饮食不节，损伤脾胃而出现的证候。,"v1,v2",Summarized terms,0
