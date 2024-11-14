@@ -13,7 +13,6 @@ class TaskDispatcher:
         self, 
         llm, 
         tools, 
-        prompt: str='', 
         final_prompt: str='', 
         max_thought_steps: Optional[int]=10, 
         template: str=None
@@ -41,9 +40,9 @@ class TaskDispatcher:
 
                 按照以下格式输出：
 
-                任务：你收到的需要执行的任务，并转发给相应的解决者
+                任务：你收到的需要执行的任务
                 思考: 观察你的任务和执行记录，并思考你下一步应该采取的行动
-                然后，根据以下格式说明，输出你选择执行的一个解决者/tool，你需要在args中直接使用字符串给解决者prompt:
+                然后，根据以下格式说明，输出你选择执行的一个解决者/tool，根据上下文若你知道答案，选择结束:
                 {format_instructions}
                 """
         
@@ -141,7 +140,7 @@ class TaskDispatcher:
 
     def __exec_action(self, action: Action) -> str:
         observation = "没有找到工具"
-        args = {"input": action.prompt.dict()}
+        args = {"input": action.prompt.model_dump()}
         for tool in self.tools:
             if tool.name == action.name:
                 try:

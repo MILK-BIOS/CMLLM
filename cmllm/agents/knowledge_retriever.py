@@ -4,6 +4,7 @@ import typing
 from pydantic import Field
 from langchain_core.prompts import PromptTemplate
 from langchain_community.graphs.graph_store import GraphStore
+from langchain_community.graphs import Neo4jGraph
 
 from langchain_community.chains.graph_qa.cypher_utils import (
     CypherQueryCorrector,
