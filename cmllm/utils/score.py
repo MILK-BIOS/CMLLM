@@ -2,6 +2,8 @@ class Score:
     def __init__(self):
         self.score = 0
         self.nums = 0
+        self.result = {}
+        self.final = {}
 
     def update(self, score):
         print(score)
@@ -15,3 +17,7 @@ class Score:
         self.nums = 0
         return final_score
     
+    def record(self, catagory):
+        self.result[catagory] = self.score
+        self.final[catagory] = self.calculate_final()
+        return self.result, self.final

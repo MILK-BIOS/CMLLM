@@ -2,7 +2,7 @@ import langchain
 from langchain_core.messages import HumanMessage, SystemMessage
 from langchain_core.output_parsers import PydanticOutputParser, StrOutputParser
 from langchain.tools.render import render_text_description
-from langchain import PromptTemplate
+from langchain_core.prompts import PromptTemplate
 from ..utils import Choice, MyPrintHandler, Score
 from pydantic import ValidationError
 
