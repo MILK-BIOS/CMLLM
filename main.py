@@ -86,6 +86,10 @@ def cleanup_states():
                  if current_time - state["last_accessed"] > STATE_EXPIRATION_TIME]
     for client_id in to_delete:
         del states[client_id]
+        img_path = f'./result/img/{client_id}.png'
+        if os.path.exists(img_path):
+            os.remove(img_path)
+            print(f"File {img_path} deleted successfully.")
         print(f"State for client {client_id} deleted due to inactivity.")
 
 # 生成或获取客户端 ID

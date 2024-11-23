@@ -22,7 +22,7 @@ class SoulutionProposer:
                 And propensity result is as follows:
                 {pretend_result}
                 
-                Please give a comprehensive advice in Chinese and avoid using word like patient.
+                Please give a comprehensive advice in Chinese of all types of constitutions and avoid using word like patient.
             """
         self.prompt = PromptTemplate.from_template(self.template)
         self.chain = self.prompt | self.llm
