@@ -246,7 +246,7 @@ def result(client_id: str = Depends(get_client_id)):
     with open(file_path, "rb") as image_file:
         encoded_string = base64.b64encode(image_file.read()).decode("utf-8")
     type_result = type_judge(final)
-    final_type = max(type_result, key=type_result.get)
+    final_type = [key for key, value in type_result.items() if value == 2]
     tend_type = [key for key, value in type_result.items() if value == 1]
     text_result = ad.invoke({"result": final_type, "pretend_result": tend_type})
     return JSONResponse(content={
